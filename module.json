@@ -1,0 +1,57 @@
+{
+  "id": "pf1e-compendium-zhtw",
+  "title": "Translation: 繁體中文 [PF1e 合集包]",
+  "description": "PF1e 系統的合集包（法術、專長、物品、怪物等）繁體中文翻譯，需要 Babele。譯文以 fvtt-cn/pf1e_compendium_chn 的簡體譯稿為基礎，經 OpenCC 字形轉換與臺灣用語校正而成，並修正了上游 pf-content.pf-tables.json 的 JSON 語法錯誤。",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "果園瑪莉卡",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/quasiidem-lab/pf1e-compendium-zhtw",
+  "manifest": "https://github.com/quasiidem-lab/pf1e-compendium-zhtw/releases/latest/download/module.json",
+  "download": "https://github.com/quasiidem-lab/pf1e-compendium-zhtw/releases/latest/download/module.zip",
+  "readme": "https://github.com/quasiidem-lab/pf1e-compendium-zhtw/blob/main/README.md",
+  "bugs": "https://github.com/quasiidem-lab/pf1e-compendium-zhtw/issues",
+  "license": "GPL-3.0",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {
+          "minimum": "11.0",
+          "verified": "11.11"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "zh-tw",
+      "name": "繁體中文",
+      "path": "zh-tw.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/babele.js"
+  ],
+  "scripts": [],
+  "styles": [
+    "styles/compendium-browser-filter.css"
+  ],
+  "flags": {}
+}

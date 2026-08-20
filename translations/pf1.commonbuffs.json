@@ -1,0 +1,105 @@
+{
+ "label": "通用BUFF",
+ "entries": {
+  "Aid": {
+   "name": "援助術（Aid）",
+   "description": "<p>&emsp;&emsp;你的攻擊檢定與對抗恐懼效果的豁免檢定提供+1士氣加值</p>"
+  },
+  "Bane": {
+   "name": "絕望術（Bane）",
+   "description": "<p>&emsp;&emsp;你的攻擊檢定受到-1減值，對抗恐懼效果的豁免檢定受到-1減值。</p>"
+  },
+  "Barkskin": {
+   "name": "樹膚術（Barkskin）",
+   "description": "<p>&emsp;&emsp;你的皮膚變得堅韌。該效果會使生物現有的天生護甲加值獲得+2增強加值</p>"
+  },
+  "Bear's Endurance": {
+   "name": "熊之堅韌（Bear's Endurance）",
+   "description": "<p>&emsp;&emsp;受術者的體質獲得+4的增強加值</p>"
+  },
+  "Bless": {
+   "name": "祝福術（Bless）",
+   "description": "<p>&emsp;&emsp;你的攻擊檢定和對抗恐懼的豁免檢定中獲得+1士氣加值</p>"
+  },
+  "Bull's Strength": {
+   "name": "牛之力量（Bull's Strength）",
+   "description": "<p>&emsp;&emsp;受術者的力量獲得+4的增強加值</p>"
+  },
+  "Cat's Grace": {
+   "name": "貓之優雅（Cat's Grace）",
+   "description": "<p>&emsp;&emsp;受術者的敏捷獲得+4的增強加值</p>"
+  },
+  "Divine Favor": {
+   "name": "神恩（Divine Favor）",
+   "description": "<p>&emsp;&emsp;你的攻擊和武器傷害檢定上獲得每三個CL +1點幸運加值</p>"
+  },
+  "Eagle's Splendor": {
+   "name": "鷹之威儀（Eagle's Splendor）",
+   "description": "<p>&emsp;&emsp;受術者的魅力獲得+4的增強加值</p>"
+  },
+  "Fighting Defensively": {
+   "name": "防禦式戰鬥（Fighting Defensively）",
+   "description": ""
+  },
+  "Fox's Cunning": {
+   "name": "狐之狡黠（Fox's Cunning）",
+   "description": "<p>&emsp;&emsp;受術者的智力獲得+4的增強加值</p>"
+  },
+  "Haste": {
+   "name": "加速術（Haste）",
+   "description": "<p>&emsp;&emsp;在進行全力攻擊時，加速後的生物可以進行一次額外的攻擊，該次攻擊可以使用天生武器或人造武器進行。這次攻擊使用該生物完整的BAB，附加任何符合該情況的修正。該效果無法與類似能力疊加，例如〈追擊〉武器\n<p>&emsp;&emsp;加速生物的攻擊檢定獲得+1加值，並且AC和反射豁免獲得+1閃避加值。</p>\n<p>&emsp;&emsp;加速生物的所有移動方式 (包括陸上移動、掘地、攀爬、飛行、游泳) 的速度均會增加30尺，最高達到受術者該移動方式正常速度的兩倍。增加的速度是增強加值，同時也會按正常方式影響該生物的跳躍距離。</p>"
+  },
+  "Heroism": {
+   "name": "英雄氣概（Heroism）",
+   "description": "<p>&emsp;&emsp;你的攻擊檢定、豁免和技能檢定獲得+2士氣加值。</p>"
+  },
+  "Inspire Courage": {
+   "name": "激發勇氣（Inspire Courage）",
+   "description": "<p>&emsp;&emsp;有人激發了你的勇氣. 你獲得以下好處:</p>\n<ul>\n<li>對抗魅惑和恐懼時豁免檢定有+1士氣加值</li>\n<li>在攻擊和武器傷害檢定上有+1表現加值</li>\n</ul>"
+  },
+  "Mage Armor": {
+   "name": "法師護甲（Mage Armor）",
+   "description": "<p>&emsp;&emsp;一層隱形但確實存在的力場在你的周圍出現，給AC提供+4護甲加值。</p>\n<p>&emsp;&emsp;法師護甲由力場構成，因此虛體生物無法像忽視普通護甲那樣忽視它。</p>"
+  },
+  "Mutagen, Con": {
+   "name": "體質突變藥劑（Mutagen, Con）",
+   "description": ""
+  },
+  "Mutagen, Dex": {
+   "name": "敏捷突變藥劑（Mutagen, Dex）",
+   "description": ""
+  },
+  "Mutagen, Str": {
+   "name": "力量突變藥劑（Mutagen, Str）",
+   "description": ""
+  },
+  "Owl's Wisdom": {
+   "name": "梟之睿智（Owl's Wisdom）",
+   "description": "<p>&emsp;&emsp;受術者的感知獲得+4的增強加值</p>"
+  },
+  "Prayer (Negative)": {
+   "name": "祈禱術 (負)（Prayer (Negative)）",
+   "description": "<p>&emsp;&emsp;你在攻擊檢定、武器傷害檢定、豁免檢定和技能檢定上都獲得+1幸運加值</p>"
+  },
+  "Prayer (Positive)": {
+   "name": "祈禱術 (正)（Prayer (Positive)）",
+   "description": "<p>&emsp;&emsp;你在攻擊檢定、武器傷害檢定、豁免檢定和技能檢定上都獲得+1幸運加值</p>"
+  },
+  "Shield": {
+   "name": "護盾術（Shield）",
+   "description": "<p>&emsp;&emsp;護盾術創造出一面隱形的力場盾牌徘徊在你身前, 獲得以下效果:</p>\n<ul>\n<li>AC獲得+4的盾牌加值</li>\n<li>抵擋指向你的魔法飛彈</li>\n</ul>\n<p>&emsp;&emsp;此加值可用於對抗虛體的接觸攻擊</p>"
+  },
+  "Shield of Faith": {
+   "name": "虔誠護盾（Shield of Faith）",
+   "description": "<p>&emsp;&emsp;的AC獲得等同於該增益等級的偏斜加值</p>"
+  },
+  "Slow": {
+   "name": "緩慢術（Slow）",
+   "description": "<p>&emsp;&emsp;你陷入恍惚, 你的攻擊檢定、AC和反射豁免受到-1減值</p>\n<p>&emsp;&emsp;緩慢的生物只能以正常速度的一半移動 (以5尺為單位，向下取整)</p>"
+  },
+  "Total Defense": {
+   "name": "全防禦（Total Defense）",
+   "description": ""
+  }
+ }
+}
