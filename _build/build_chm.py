@@ -174,6 +174,7 @@ def clean(raw):
             out.append(tables[int(mt.group(1))])
             continue
         line = re.sub(r'^\?\s*', '• ', line)   # Symbol 字型的項目符號轉出來是「?」
+        line = re.sub(r'[_＿—-]{8,}', '', line)  # Word 用一長串底線或破折號當分隔線
         line = _balance(line)
         while True:   # Word 留下的空粗體／斜體（<b><i></i></b>）
             new = re.sub(r'<(b|i|em|strong|sup|sub|u)>\s*</\1>', '', line)
@@ -308,6 +309,36 @@ def credit(meta, aon, body=''):
     return '<p class="zhtw-credit"><em>' + '｜'.join(parts) + '</em></p>'
 
 
+IDMAP = Path(r'C:\Users\User\Tools\pf1\pf1-index\idmap.tsv')
+PF1_DATA = Path(r'C:\Users\User\Tools\pf1\pf1-data\packs')
+_packs = None
+
+
+def pack_names(fname):
+    """pf1 系統合集包裡實際有哪些條目：小寫英文 → FVTT 原始名稱。
+
+    名單取自 Tools\\pf1 的對照表（idmap.tsv 的 FVTT pack 欄），原始大小寫從 pf1-data 的 YAML 讀
+    （idmap 存的是小寫）。只認得 pf1.<pack>.json；pf-content 這類別的模組不在 pf1-data 裡，回空。
+    pf1-data 落後於安裝的系統版本時，新條目會補不到（不會補錯）。
+    """
+    global _packs
+    if _packs is None:
+        _packs = {}
+        with open(IDMAP, encoding='utf-8-sig') as f:
+            for r in csv.DictReader(f, delimiter='\t'):
+                if not r['FVTT pack'] or not r['FVTT路徑']:
+                    continue
+                for pk, path in zip(r['FVTT pack'].split('|'), r['FVTT路徑'].split('|')):
+                    y = PF1_DATA / path
+                    if not y.exists():
+                        continue
+                    m = re.search(r'^name:\s*(.+?)\s*$', y.read_text(encoding='utf-8'), re.M)
+                    if m:
+                        nm = m.group(1).strip('\'"')
+                        _packs.setdefault(f'pf1.{pk}.json', {})[nm.lower()] = nm
+    return _packs.get(fname, {})
+
+
 def load_report(pattern):
     files = sorted(glob.glob(str(CHM / '_資料' / pattern)))
     if not files:
@@ -383,10 +414,15 @@ def main():
                         continue
                     key = lower.get(enl)
                     if key is None:
-                        # 對照表沒收的：要先知道合集包裡真的有這條才補（pack 名單另外接），這裡先只計數
-                        stats[f'{fname} {lang} CHM 有但對照表沒收'] += 1
-                        continue
-                    stats[f'{fname} {lang} 取代'] += 1
+                        # 對照表沒收的：合集包裡確定有這條（pack_names）才補，鍵用 FVTT 原始寫法（Babele 照原名比對）
+                        key = pack_names(fname).get(enl)
+                        if key is None:
+                            stats[f'{fname} {lang} CHM 有但合集包沒有'] += 1
+                            continue
+                        ent[key] = {}
+                        stats[f'{fname} {lang} 新增'] += 1
+                    else:
+                        stats[f'{fname} {lang} 取代'] += 1
                     ent[key]['name'] = fmt.format(zh=it['zh'], en=key)
                     ent[key]['description'] = it['desc']
                     if lang == 'zh-tw':

@@ -83,7 +83,7 @@
     },
     "Adder Strike": {
       "name": "蝰蛇打擊 Adder Strike",
-      "description": "<p><em>你可以快速的將毒藥塗抹在手套、腿甲或其他護具上，讓你的徒手打擊可以傳遞這些毒藥。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：【用毒】職業特性，精通徒手打擊，工藝（鍊金）1級。</p><p><strong>專長效果</strong>：以一個迅捷動作，你可以將身體的兩個用於進行徒手打擊的部位塗上毒藥。在通過這種方式塗毒時你也必須保護自己免於直接暴露在毒藥下。</p><p><strong>通常情況</strong>：給武器或彈藥塗毒是一個標準動作。</p><p><strong>戰策</strong>：如果花費2個耐力點，你可以以迅捷動作將毒藥塗抹在人造武器上。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Adder%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><em>你可以快速的將毒藥塗抹在手套、腿甲或其他護具上，讓你的徒手打擊可以傳遞這些毒藥。</em></p><p><strong>先決條件</strong>：【用毒】職業特性，精通徒手打擊，工藝（鍊金）1級。</p><p><strong>專長效果</strong>：以一個迅捷動作，你可以將身體的兩個用於進行徒手打擊的部位塗上毒藥。在通過這種方式塗毒時你也必須保護自己免於直接暴露在毒藥下。</p><p><strong>通常情況</strong>：給武器或彈藥塗毒是一個標準動作。</p><p><strong>戰策</strong>：如果花費2個耐力點，你可以以迅捷動作將毒藥塗抹在人造武器上。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Adder%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Additional Affiliations": {
       "name": "額外聯繫 Additional Affiliations",
@@ -223,7 +223,7 @@
     },
     "Amateur Gunslinger": {
       "name": "業餘槍手 Amateur Gunslinger",
-      "description": "<p><em>雖然你並不是一個槍手，但你仍擁有並可以使用勇毅能力。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：在擁有【勇毅】能力的職業上沒有等級。</p><p><strong>專長效果</strong>： 你獲得少量的勇毅點，並且可以使用一項1級槍手銃技。在一天的開始，你獲得1點勇毅點，不過在這一天裡你仍然可以通過額外獎勵獲得最大為感知修正的勇毅點 數（最低為1）。你像其他槍手一樣適用勇毅點恢復的規則。你可以花費這些勇毅點來使用你在獲得該專長時選擇的1級槍手銃技，或通過專長或魔法物品獲得的其 他銃技。</p><p><strong>特殊說明</strong>：如果你在擁有【勇毅】能力的職業上獲得了等級，你可以立刻將本專長替換為“額外勇毅（Extra Grit, UC）”專長。</p><p><strong>戰策</strong>：選擇第二個1級槍手銃技。你可以花費勇毅點數來使用此銃技，或以5點耐力為代價使用這兩個銃技。如果你在提供勇毅點的職業上升了級，你可以選擇花費5點耐力而非勇毅點來使用任何一種你的1級銃技。該戰策也適用於</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Amateur%20Gunslinger\">Archives of Nethys</a></em></p>"
+      "description": "<p><em>雖然你並不是一個槍手，但你仍擁有並可以使用勇毅能力。</em></p><p><strong>先決條件</strong>：在擁有【勇毅】能力的職業上沒有等級。</p><p><strong>專長效果</strong>： 你獲得少量的勇毅點，並且可以使用一項1級槍手銃技。在一天的開始，你獲得1點勇毅點，不過在這一天裡你仍然可以通過額外獎勵獲得最大為感知修正的勇毅點 數（最低為1）。你像其他槍手一樣適用勇毅點恢復的規則。你可以花費這些勇毅點來使用你在獲得該專長時選擇的1級槍手銃技，或通過專長或魔法物品獲得的其 他銃技。</p><p><strong>特殊說明</strong>：如果你在擁有【勇毅】能力的職業上獲得了等級，你可以立刻將本專長替換為“額外勇毅（Extra Grit, UC）”專長。</p><p><strong>戰策</strong>：選擇第二個1級槍手銃技。你可以花費勇毅點數來使用此銃技，或以5點耐力為代價使用這兩個銃技。如果你在提供勇毅點的職業上升了級，你可以選擇花費5點耐力而非勇毅點來使用任何一種你的1級銃技。該戰策也適用於</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Amateur%20Gunslinger\">Archives of Nethys</a></em></p>"
     },
     "Amateur Investigator": {
       "name": "業餘調查員 Amateur Investigator",
@@ -391,7 +391,7 @@
     },
     "Arc Slinger": {
       "name": "弧線投石 Arc Slinger",
-      "description": "<p><em> 你用最能發揮其性能的方式旋轉你的投石索。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：近距射擊，擅長投石索或半身人投石杖（halfling sling staff）。</p><p><strong>專長效果</strong>：當你使用投石索或投石杖，你能減少2點由距離造成的遠程攻擊投骰減值。在投石武器的第一個射程增量裡（投石索50尺，投石杖80尺），可以適用你的“近距射擊”傷害加值。</p><p><strong>戰策</strong>：在使用投石索或半身人投石杖時，你可以花費一點耐力，在頭兩個射程增量中獲得近距射擊的效果</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Arc%20Slinger\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你用最能發揮其性能的方式旋轉你的投石索。</em></p><p><strong>先決條件</strong>：近距射擊，擅長投石索或半身人投石杖（halfling sling staff）。</p><p><strong>專長效果</strong>：當你使用投石索或投石杖，你能減少2點由距離造成的遠程攻擊投骰減值。在投石武器的第一個射程增量裡（投石索50尺，投石杖80尺），可以適用你的“近距射擊”傷害加值。</p><p><strong>戰策</strong>：在使用投石索或半身人投石杖時，你可以花費一點耐力，在頭兩個射程增量中獲得近距射擊的效果</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Arc%20Slinger\">Archives of Nethys</a></em></p>"
     },
     "Arcane Armor Training (Mythic)": {
       "name": "披甲奧術訓練(神話) Arcane Armor Training (Mythic)",
@@ -875,7 +875,7 @@
     },
     "Binding Throw": {
       "name": "阻絆投擲 Binding Throw",
-      "description": "<p><em> 你攻擊你的敵人，並順勢捕獲和擒住他。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通擒抱，精通摔絆，太極推手。</p><p><strong>專長效果</strong>：當你成功的對一個敵人使用了“太極推手”，你可以用一次迅捷動作對其進行一次戰技檢定以嘗試擒抱他。</p><p><strong>戰策</strong>：你可以花費1點耐力，在迅捷擒抱時獲得2點加值。</p><p><strong>熾焰靈氳（Blazing aura）（ARG）</strong></p><p><em> 尚無翻譯</em></p><p>________________________________________</p><p><strong>戰策</strong>：通過花費5點耐力，你可以將火焰傷害提升為2d6</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Binding%20Throw\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你攻擊你的敵人，並順勢捕獲和擒住他。</em></p><p><strong>先決條件</strong>：精通擒抱，精通摔絆，太極推手。</p><p><strong>專長效果</strong>：當你成功的對一個敵人使用了“太極推手”，你可以用一次迅捷動作對其進行一次戰技檢定以嘗試擒抱他。</p><p><strong>戰策</strong>：你可以花費1點耐力，在迅捷擒抱時獲得2點加值。</p><p><strong>熾焰靈氳（Blazing aura）（ARG）</strong></p><p><em> 尚無翻譯</em></p><p><strong>戰策</strong>：通過花費5點耐力，你可以將火焰傷害提升為2d6</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Binding%20Throw\">Archives of Nethys</a></em></p>"
     },
     "Biological Lattice": {
       "name": "Biological Lattice",
@@ -1155,7 +1155,7 @@
     },
     "Body Shield": {
       "name": "化敵為盾 Body Shield",
-      "description": "<p><em> 通過巧妙的施力，你將被擒抱的敵人轉向攻擊襲來的方位。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通擒抱，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你擒抱一個相鄰生物時，以直覺動作，你可以對其進行一次擒抱戰技檢定使其為你抵擋一次攻擊。如果你成功，這次攻擊不會命中你，而是會以正被你擒抱的生物為目標，使用相同的攻擊檢定。你不能對正擒抱你的生物使用該專長，並且掩蔽效果將在你抵消該次攻擊後消失。</p><p><strong>戰策</strong>：花費5點耐力，你可以對正擒抱你的生物使用該專長。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Body%20Shield\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 通過巧妙的施力，你將被擒抱的敵人轉向攻擊襲來的方位。</em></p><p><strong>先決條件</strong>：精通擒抱，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你擒抱一個相鄰生物時，以直覺動作，你可以對其進行一次擒抱戰技檢定使其為你抵擋一次攻擊。如果你成功，這次攻擊不會命中你，而是會以正被你擒抱的生物為目標，使用相同的攻擊檢定。你不能對正擒抱你的生物使用該專長，並且掩蔽效果將在你抵消該次攻擊後消失。</p><p><strong>戰策</strong>：花費5點耐力，你可以對正擒抱你的生物使用該專長。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Body%20Shield\">Archives of Nethys</a></em></p>"
     },
     "Bodyguard": {
       "name": "保鏢 Bodyguard",
@@ -1179,7 +1179,7 @@
     },
     "Bonebreaker": {
       "name": "碎骨者 Bonebreaker",
-      "description": "<p><em> 當你的對手無法進行防禦時，你的徒手打擊將會摧筋斷骨。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：敏捷13，精通擒抱，精通徒手打擊，碎顎者，震懾拳，醫療9級。</p><p><strong>專長效果</strong>：當你對一個被擒抱、無助或震懾中的敵人成功施展了一次“震懾拳”，你可以放棄震懾拳的正常效果，轉而對敵人造成1d6點敏捷傷害。</p><p><strong>戰策</strong>：如果你對眩暈或蹣跚（dazed or staggered）的敵人使用震懾拳，你可以花費5點耐力，選擇放棄震懾拳的效果，轉而造成1d6力量或敏捷傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bonebreaker\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 當你的對手無法進行防禦時，你的徒手打擊將會摧筋斷骨。</em></p><p><strong>先決條件</strong>：敏捷13，精通擒抱，精通徒手打擊，碎顎者，震懾拳，醫療9級。</p><p><strong>專長效果</strong>：當你對一個被擒抱、無助或震懾中的敵人成功施展了一次“震懾拳”，你可以放棄震懾拳的正常效果，轉而對敵人造成1d6點敏捷傷害。</p><p><strong>戰策</strong>：如果你對眩暈或蹣跚（dazed or staggered）的敵人使用震懾拳，你可以花費5點耐力，選擇放棄震懾拳的效果，轉而造成1d6力量或敏捷傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bonebreaker\">Archives of Nethys</a></em></p>"
     },
     "Bookish Rogue": {
       "name": "秘術盜賊 Bookish Rogue",
@@ -1255,7 +1255,7 @@
     },
     "Break Guard": {
       "name": "破除防禦 Break Guard",
-      "description": "<p><em> 你用你兩把武器的其中之一打亂了對方的防禦，隨之用另一把武器進行攻擊。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通繳械，雙武器格鬥。</p><p><strong>專長效果</strong>：當你裝備兩把武器，只要你成功的用其中一把卸除了敵人的武器，你可以消耗一次迅捷動作來用另一把武器立刻對其進行一次攻擊</p><p><strong>戰策</strong>：如果花費5點耐力，你可以用自由動作而非迅捷動作來發動攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Break%20Guard\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你用你兩把武器的其中之一打亂了對方的防禦，隨之用另一把武器進行攻擊。</em></p><p><strong>先決條件</strong>：精通繳械，雙武器格鬥。</p><p><strong>專長效果</strong>：當你裝備兩把武器，只要你成功的用其中一把卸除了敵人的武器，你可以消耗一次迅捷動作來用另一把武器立刻對其進行一次攻擊</p><p><strong>戰策</strong>：如果花費5點耐力，你可以用自由動作而非迅捷動作來發動攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Break%20Guard\">Archives of Nethys</a></em></p>"
     },
     "Breaker of Barriers": {
       "name": "摧毀藩籬 Breaker of Barriers",
@@ -1291,7 +1291,7 @@
     },
     "Broken Wing Gambit": {
       "name": "棄兵斷翼 Broken Wing Gambit",
-      "description": "<p><em> 你假裝虛弱，讓自己成為誘人且讓人分心的目標。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：唬騙5級。</p><p><strong>專長效果</strong>：當你以近戰攻擊命中敵人時，你可以通過一個自由動作使該敵人對你的命中和傷害得到+2的加值，此加值持續到你的下一輪開始、或是敵人以此加值進行攻擊。一旦敵人以此加值發起攻擊，擁有此專長的盟友就可以對該敵人發起藉機攻擊。</p><p><strong>戰策</strong>：如果花費5點耐力，在敵人對你以此加值發起攻擊時，你自己也可以發起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Broken%20Wing%20Gambit\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你假裝虛弱，讓自己成為誘人且讓人分心的目標。</em></p><p><strong>先決條件</strong>：唬騙5級。</p><p><strong>專長效果</strong>：當你以近戰攻擊命中敵人時，你可以通過一個自由動作使該敵人對你的命中和傷害得到+2的加值，此加值持續到你的下一輪開始、或是敵人以此加值進行攻擊。一旦敵人以此加值發起攻擊，擁有此專長的盟友就可以對該敵人發起藉機攻擊。</p><p><strong>戰策</strong>：如果花費5點耐力，在敵人對你以此加值發起攻擊時，你自己也可以發起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Broken%20Wing%20Gambit\">Archives of Nethys</a></em></p>"
     },
     "Brood Defender": {
       "name": "Brood Defender",
@@ -1503,7 +1503,7 @@
     },
     "Cavalry Formation": {
       "name": "騎兵陣列 Cavalry Formation",
-      "description": "<p><em> 你擅長在戰場上與騎乘的盟友並肩而行，且不會妨礙雙方的作戰效率</em></p><p>________________________________________</p><p><strong>先決條件</strong>：騎乘戰鬥。</p><p><strong>專長效果</strong>：你和你坐騎的方格可以與擁有此專長騎手的坐騎重疊，但同一個方格不能被兩個以上的生物共享。此外，你在衝鋒時可以越過擁有此專長騎手和其坐騎的方格。</p><p><strong>戰策</strong>：回合開始時，如果你花費2點耐力，你可以與不擁有此專長的騎乘盟友共處一個方格，持續到你下輪開始。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Cavalry%20Formation\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你擅長在戰場上與騎乘的盟友並肩而行，且不會妨礙雙方的作戰效率</em></p><p><strong>先決條件</strong>：騎乘戰鬥。</p><p><strong>專長效果</strong>：你和你坐騎的方格可以與擁有此專長騎手的坐騎重疊，但同一個方格不能被兩個以上的生物共享。此外，你在衝鋒時可以越過擁有此專長騎手和其坐騎的方格。</p><p><strong>戰策</strong>：回合開始時，如果你花費2點耐力，你可以與不擁有此專長的騎乘盟友共處一個方格，持續到你下輪開始。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Cavalry%20Formation\">Archives of Nethys</a></em></p>"
     },
     "Cecaelia Focus Tattoo": {
       "name": "塞卡利亞專注紋 Cecaelia Focus Tattoo",
@@ -1711,7 +1711,7 @@
     },
     "Charging Hurler": {
       "name": "衝鋒投擲 Charging Hurler",
-      "description": "<p><em> 你知道如何利用慣性來提高投擲武器的殺傷力</em></p><p>________________________________________</p><p><strong>先決條件</strong>：近距射擊。</p><p><strong>專長效果</strong>：你可以在使用投擲武器時適用衝鋒規則。這次攻擊的所有規則都與衝鋒相同，不過你移動的方向必須朝向你的敵人，而移動的終點必須位於該敵人半徑30尺範圍以 內。如果你這樣做了，你可以對這個敵人進行一次單獨的投擲武器攻擊，攻擊骰獲得+2加值，並且在你下一次行動前AC獲得-2罰值。</p><p><strong>戰策</strong>：如果花費2點耐力，移動的終點可以位於目標50尺內而非30尺內。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Charging%20Hurler\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你知道如何利用慣性來提高投擲武器的殺傷力</em></p><p><strong>先決條件</strong>：近距射擊。</p><p><strong>專長效果</strong>：你可以在使用投擲武器時適用衝鋒規則。這次攻擊的所有規則都與衝鋒相同，不過你移動的方向必須朝向你的敵人，而移動的終點必須位於該敵人半徑30尺範圍以 內。如果你這樣做了，你可以對這個敵人進行一次單獨的投擲武器攻擊，攻擊骰獲得+2加值，並且在你下一次行動前AC獲得-2罰值。</p><p><strong>戰策</strong>：如果花費2點耐力，移動的終點可以位於目標50尺內而非30尺內。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Charging%20Hurler\">Archives of Nethys</a></em></p>"
     },
     "Charging Stag Style": {
       "name": "Charging Stag Style",
@@ -1763,7 +1763,7 @@
     },
     "Chokehold": {
       "name": "鎖喉 Chokehold",
-      "description": "<p><em> 當你擒抱時，你可以切斷目標的呼吸和血液循環。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通擒抱，精通徒手打擊，基本攻擊加值+6或武僧5級。</p><p><strong>專長效果</strong>：當你擒抱一個比你體型最多大一級的生物，你可以用-5罰值來進行一次戰技檢定來嘗試發動鎖喉能力。如果你成功，你將你擒抱的敵人壓制住，並使其陷入被鎖喉 狀態。只要你保持擒抱狀態，你同時也能保持鎖喉狀態。一個被鎖喉的生物無法呼吸或說話，因此不能施放帶有語言成分的法術。被鎖喉的生物必須屏住呼吸，否則 陷入窒息狀態。任何不需呼吸、免疫出血傷害或免疫重擊的生物，也免疫於你的“鎖喉”效果。一旦擒抱結束，鎖喉也隨之結束。</p><p><strong>戰策</strong>：如果花費2點耐力，鎖喉所需承受的減值僅為-1。</p><p><strong>利爪猛撲（Claw pounce）（ARG）</strong></p><p><em> 尚無翻譯</em></p><p>________________________________________</p><p><strong>戰策</strong>：使用該專長時，你可以選擇花費5點耐力用你的一隻爪子發動第二次攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Chokehold\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 當你擒抱時，你可以切斷目標的呼吸和血液循環。</em></p><p><strong>先決條件</strong>：精通擒抱，精通徒手打擊，基本攻擊加值+6或武僧5級。</p><p><strong>專長效果</strong>：當你擒抱一個比你體型最多大一級的生物，你可以用-5罰值來進行一次戰技檢定來嘗試發動鎖喉能力。如果你成功，你將你擒抱的敵人壓制住，並使其陷入被鎖喉 狀態。只要你保持擒抱狀態，你同時也能保持鎖喉狀態。一個被鎖喉的生物無法呼吸或說話，因此不能施放帶有語言成分的法術。被鎖喉的生物必須屏住呼吸，否則 陷入窒息狀態。任何不需呼吸、免疫出血傷害或免疫重擊的生物，也免疫於你的“鎖喉”效果。一旦擒抱結束，鎖喉也隨之結束。</p><p><strong>戰策</strong>：如果花費2點耐力，鎖喉所需承受的減值僅為-1。</p><p><strong>利爪猛撲（Claw pounce）（ARG）</strong></p><p><em> 尚無翻譯</em></p><p><strong>戰策</strong>：使用該專長時，你可以選擇花費5點耐力用你的一隻爪子發動第二次攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Chokehold\">Archives of Nethys</a></em></p>"
     },
     "Choral Support": {
       "name": "Choral Support",
@@ -1831,7 +1831,7 @@
     },
     "Cleaving Finish": {
       "name": "終勢斬 Cleaving Finish",
-      "description": "<p><em> 當你擊倒一名敵人，你繼續揮舞你的武器並攻擊下一名敵人。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：力量13，順勢斬，猛力攻擊。</p><p><strong>專長效果</strong>：當你進行一次近戰攻擊，並且將目標的HP降低至0或更低，你可以使用你的最高攻擊加值對另一名觸及範圍內的敵人進行一次近戰攻擊。你每輪只能利用該專長進行一次額外攻擊。</p><p><strong>戰策</strong>：如果終勢斬將目標的HP降低至0或更低，花費5點耐力可繼續終勢斬。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Cleaving%20Finish\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 當你擊倒一名敵人，你繼續揮舞你的武器並攻擊下一名敵人。</em></p><p><strong>先決條件</strong>：力量13，順勢斬，猛力攻擊。</p><p><strong>專長效果</strong>：當你進行一次近戰攻擊，並且將目標的HP降低至0或更低，你可以使用你的最高攻擊加值對另一名觸及範圍內的敵人進行一次近戰攻擊。你每輪只能利用該專長進行一次額外攻擊。</p><p><strong>戰策</strong>：如果終勢斬將目標的HP降低至0或更低，花費5點耐力可繼續終勢斬。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Cleaving%20Finish\">Archives of Nethys</a></em></p>"
     },
     "Cleaving Sweep": {
       "name": "順勢掃蕩 Cleaving Sweep",
@@ -1875,7 +1875,7 @@
     },
     "Close-Quarters Thrower": {
       "name": "近身投擲 Close-Quarters Thrower",
-      "description": "<p><em> 你身形靈巧，足以讓你在投擲武器和炸彈時避免遭到近戰攻擊。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：敏捷13，閃避，武器專攻（所選投擲武器）。</p><p><strong>專長效果</strong>：選擇一種投擲武器類型。你使用這種類型的投擲武器進行遠程攻擊時不會觸發藉機攻擊。如果你是一個鍊金術士，當你學習該專長並選擇鍊金炸彈時，你在取出材料、創造和投擲炸彈時都不會觸發藉機攻擊。</p><p><strong>戰策</strong>：如果花費2點耐力點，投擲任何投擲武器都不會觸發藉機攻擊。</p><p><strong>裂盔（Cloven helm）（ARG）</strong></p><p><em> 未翻譯</em></p><p>________________________________________</p><p><strong>戰策</strong>：當你被重擊威脅時，可最多花費5點耐力，並在對抗重擊確認的投骰時獲得等同所耗費耐力值的AC加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Close-Quarters%20Thrower\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你身形靈巧，足以讓你在投擲武器和炸彈時避免遭到近戰攻擊。</em></p><p><strong>先決條件</strong>：敏捷13，閃避，武器專攻（所選投擲武器）。</p><p><strong>專長效果</strong>：選擇一種投擲武器類型。你使用這種類型的投擲武器進行遠程攻擊時不會觸發藉機攻擊。如果你是一個鍊金術士，當你學習該專長並選擇鍊金炸彈時，你在取出材料、創造和投擲炸彈時都不會觸發藉機攻擊。</p><p><strong>戰策</strong>：如果花費2點耐力點，投擲任何投擲武器都不會觸發藉機攻擊。</p><p><strong>裂盔（Cloven helm）（ARG）</strong></p><p><em> 未翻譯</em></p><p><strong>戰策</strong>：當你被重擊威脅時，可最多花費5點耐力，並在對抗重擊確認的投骰時獲得等同所耗費耐力值的AC加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Close-Quarters%20Thrower\">Archives of Nethys</a></em></p>"
     },
     "Cloud Gazer": {
       "name": "窺雲者 Cloud Gazer",
@@ -1895,7 +1895,7 @@
     },
     "Clustered Shots": {
       "name": "集束射擊 Clustered Shots",
-      "description": "<p><em> 你花費少許時間進行瞄準，然後你的攻擊幾乎全部命中了同一個點</em></p><p>________________________________________</p><p><strong>先決條件</strong>：近距射擊，精準射擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你使用多次遠程武器對同一個目標進行全力攻擊，在計算目標的傷害時只用總傷害減去一次傷害減免。</p><p><strong>戰策</strong>：使用該專長時每次成功的命中最多可花費2點耐力，在結算傷害時獲得等同所花費耐力的傷害加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Clustered%20Shots\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你花費少許時間進行瞄準，然後你的攻擊幾乎全部命中了同一個點</em></p><p><strong>先決條件</strong>：近距射擊，精準射擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你使用多次遠程武器對同一個目標進行全力攻擊，在計算目標的傷害時只用總傷害減去一次傷害減免。</p><p><strong>戰策</strong>：使用該專長時每次成功的命中最多可花費2點耐力，在結算傷害時獲得等同所花費耐力的傷害加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Clustered%20Shots\">Archives of Nethys</a></em></p>"
     },
     "Coaxing Spell": {
       "name": "Coaxing Spell",
@@ -1959,7 +1959,7 @@
     },
     "Combat Style Master": {
       "name": "流派大師 Combat Style Master",
-      "description": "<p><em> 你能自如切換使用的流派，將它們銜接起來增加其效果。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通徒手打擊，至少兩項流派專長，基本攻擊加值+6或武僧5級。</p><p><strong>專長效果</strong>：你可以以一個自由動作切換你使用的流派。在戰鬥開始時，選擇一種你擁有的流派。即使是在突襲輪，你也從戰鬥開始便啟用該流派效果。</p><p><strong>戰策</strong>：即使並非在你的回合，花費2點耐力你可以以自由動作切換流派。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Style%20Master\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你能自如切換使用的流派，將它們銜接起來增加其效果。</em></p><p><strong>先決條件</strong>：精通徒手打擊，至少兩項流派專長，基本攻擊加值+6或武僧5級。</p><p><strong>專長效果</strong>：你可以以一個自由動作切換你使用的流派。在戰鬥開始時，選擇一種你擁有的流派。即使是在突襲輪，你也從戰鬥開始便啟用該流派效果。</p><p><strong>戰策</strong>：即使並非在你的回合，花費2點耐力你可以以自由動作切換流派。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Style%20Master\">Archives of Nethys</a></em></p>"
     },
     "Command Animals": {
       "name": "命令動物 Command Animals",
@@ -2131,7 +2131,7 @@
     },
     "Coordinated Charge": {
       "name": "協同衝鋒 Coordinated Charge",
-      "description": "<p><em> 你是指引盟友突入戰局的專家。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：至少兩個團隊專長，基本攻擊加值+10。</p><p><strong>專長效果</strong>：擁有此專長的盟友對著你單次移動範圍內的敵人發起衝鋒時，你也可以通過直覺動作衝鋒該敵人，但仍須遵守衝鋒規則。</p><p><strong>戰策</strong>：如果擁有此專長的盟友衝鋒了目標，該目標不在你的移動範圍內，但在兩倍移動範圍內的，花費5點耐力可對其直覺衝鋒，但仍須遵守衝鋒規則。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Coordinated%20Charge\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你是指引盟友突入戰局的專家。</em></p><p><strong>先決條件</strong>：至少兩個團隊專長，基本攻擊加值+10。</p><p><strong>專長效果</strong>：擁有此專長的盟友對著你單次移動範圍內的敵人發起衝鋒時，你也可以通過直覺動作衝鋒該敵人，但仍須遵守衝鋒規則。</p><p><strong>戰策</strong>：如果擁有此專長的盟友衝鋒了目標，該目標不在你的移動範圍內，但在兩倍移動範圍內的，花費5點耐力可對其直覺衝鋒，但仍須遵守衝鋒規則。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Coordinated%20Charge\">Archives of Nethys</a></em></p>"
     },
     "Coordinated Defense": {
       "name": "協調防禦 Coordinated Defense",
@@ -2271,7 +2271,7 @@
     },
     "Crane Riposte": {
       "name": "白鶴彈腿 Crane Riposte",
-      "description": "<p><em> 你以防守的力量來發動強有力的反擊。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：白鶴拳，白鶴亮翅，閃避，精通徒手打擊，基本攻擊加值+8或武僧7級。</p><p><strong>專長效果</strong>：你因防禦式戰鬥而受到的攻擊罰值只有-1。當你防禦式戰鬥時，你可以白鶴振翅而對一個目標有額外閃避AC加值，那個目標第一次攻擊你丟失時，你可以對目標 進行一次藉機攻擊。若你在全防禦時用白鶴振翅偏斜了一次攻擊，你可以對該次攻擊發起者進行一次藉機攻擊。（即便一般全防禦時無法攻擊也可以）。<sup><sub>1</sub></sup></p><p><strong>戰策</strong>：在你的回合開始時如果你使用防禦式戰鬥，花費2點耐力可抵消命中懲罰，直至你下一輪開始。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crane%20Riposte\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你以防守的力量來發動強有力的反擊。</em></p><p><strong>先決條件</strong>：白鶴拳，白鶴亮翅，閃避，精通徒手打擊，基本攻擊加值+8或武僧7級。</p><p><strong>專長效果</strong>：你因防禦式戰鬥而受到的攻擊罰值只有-1。當你防禦式戰鬥時，你可以白鶴振翅而對一個目標有額外閃避AC加值，那個目標第一次攻擊你丟失時，你可以對目標 進行一次藉機攻擊。若你在全防禦時用白鶴振翅偏斜了一次攻擊，你可以對該次攻擊發起者進行一次藉機攻擊。（即便一般全防禦時無法攻擊也可以）。<sup><sub>1</sub></sup></p><p><strong>戰策</strong>：在你的回合開始時如果你使用防禦式戰鬥，花費2點耐力可抵消命中懲罰，直至你下一輪開始。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crane%20Riposte\">Archives of Nethys</a></em></p>"
     },
     "Crane Style": {
       "name": "白鶴拳 Crane Style",
@@ -2375,7 +2375,7 @@
     },
     "Crusader's Fist": {
       "name": "聖戰之拳 Crusader's Fist",
-      "description": "<p><em> 你給被擊中的敵人注入神聖的能量</em></p><p>________________________________________</p><p><strong>先決條件</strong>：【聖療】或【墮落之觸】職業特性，精通徒手打擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你用徒手打擊命中一個生物，並且該生物可以被你的【聖療】或【墮落之觸】所傷害，你可以選擇以迅捷動作消耗1次每日次數來對其造成正常傷害，如同你以標準動作使用了能力。該額外傷害不會被你的重擊所加成。</p><p><strong>戰策</strong>：如果使用聖戰之拳時確認了重擊，花費5點耐力可令額外傷害享受暴擊翻倍加成。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crusader&#x27;s%20Fist\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你給被擊中的敵人注入神聖的能量</em></p><p><strong>先決條件</strong>：【聖療】或【墮落之觸】職業特性，精通徒手打擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你用徒手打擊命中一個生物，並且該生物可以被你的【聖療】或【墮落之觸】所傷害，你可以選擇以迅捷動作消耗1次每日次數來對其造成正常傷害，如同你以標準動作使用了能力。該額外傷害不會被你的重擊所加成。</p><p><strong>戰策</strong>：如果使用聖戰之拳時確認了重擊，花費5點耐力可令額外傷害享受暴擊翻倍加成。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crusader&#x27;s%20Fist\">Archives of Nethys</a></em></p>"
     },
     "Crusader's Flurry": {
       "name": "聖戰連擊 Crusader's Flurry",
@@ -2383,7 +2383,7 @@
     },
     "Crushing Blow": {
       "name": "怒濤碎擊 Crushing Blow",
-      "description": "<p><em> 你專注於如何粉碎敵人的防禦</em></p><p>________________________________________</p><p><strong>先決條件</strong>：精通徒手打擊，震懾拳</p><p><strong>專長效果</strong>：你可以用一個整輪動作來施放一次震懾拳。如果成功，你將不會震懾目標，而是降低其AC，數值為你的感知修正，持續1分鐘。該罰值不會與另一次本專長造成的罰值疊加。</p><p><strong>戰策</strong>：使用怒濤碎擊時可選擇花費2或4點耐力，令導致的AC懲罰提升1或2點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crushing%20Blow\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你專注於如何粉碎敵人的防禦</em></p><p><strong>先決條件</strong>：精通徒手打擊，震懾拳</p><p><strong>專長效果</strong>：你可以用一個整輪動作來施放一次震懾拳。如果成功，你將不會震懾目標，而是降低其AC，數值為你的感知修正，持續1分鐘。該罰值不會與另一次本專長造成的罰值疊加。</p><p><strong>戰策</strong>：使用怒濤碎擊時可選擇花費2或4點耐力，令導致的AC懲罰提升1或2點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crushing%20Blow\">Archives of Nethys</a></em></p>"
     },
     "Cry Challenge": {
       "name": "高呼挑釁 Cry Challenge",
@@ -2599,7 +2599,7 @@
     },
     "Deadly Finish": {
       "name": "致命終結 Deadly Finish",
-      "description": "<p><em> 你的攻擊從不擊倒對手——因為他們都直接死了</em></p><p>________________________________________</p><p><strong>先決條件</strong>：基本攻擊加值+11。</p><p><strong>專長效果</strong>：當你用近戰攻擊將你的敵人的生命值減少至-1或更低時，他必須進行一次DC為“15+最後一擊傷害”的強韌檢定，否則立刻死亡。</p><p><strong>戰策</strong>：花費2點耐力，你可以令目標的強韌檢定必然成功。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Finish\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你的攻擊從不擊倒對手——因為他們都直接死了</em></p><p><strong>先決條件</strong>：基本攻擊加值+11。</p><p><strong>專長效果</strong>：當你用近戰攻擊將你的敵人的生命值減少至-1或更低時，他必須進行一次DC為“15+最後一擊傷害”的強韌檢定，否則立刻死亡。</p><p><strong>戰策</strong>：花費2點耐力，你可以令目標的強韌檢定必然成功。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Finish\">Archives of Nethys</a></em></p>"
     },
     "Deadly Grappler": {
       "name": "危險擒抱人 Deadly Grappler",
@@ -2635,7 +2635,7 @@
     },
     "Death from Above": {
       "name": "殃雲天降 Death from Above",
-      "description": "<p><em> 你利用重力來額外增加你衝鋒的力道。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：無</p><p><strong>專長效果</strong>：每當你從更高的地形或飛行狀態從更高處衝鋒你的敵人時，你的攻擊檢定的居高臨下加值變為+5。</p><p><strong>戰策</strong>：花費4點耐力，你從高處衝鋒還能享受5點傷害加成。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你利用重力來額外增加你衝鋒的力道。</em></p><p><strong>先決條件</strong>：無</p><p><strong>專長效果</strong>：每當你從更高的地形或飛行狀態從更高處衝鋒你的敵人時，你的攻擊檢定的居高臨下加值變為+5。</p><p><strong>戰策</strong>：花費4點耐力，你從高處衝鋒還能享受5點傷害加成。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above\">Archives of Nethys</a></em></p>"
     },
     "Death from Above (Mythic)": {
       "name": "殃雲天降(神話) Death from Above (Mythic)",
@@ -2647,7 +2647,7 @@
     },
     "Death or Glory": {
       "name": "死地後生 Death or Glory",
-      "description": "<p><em> 即使面對巨大的敵人，你也會為了贏得最後勝利而無懼任何危險。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：力量13，猛力攻擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：在面對一個大型或更大的生物時，你可以用整輪動作進行一次單次近戰攻擊，這次攻擊的攻擊檢定、傷害和重擊確認骰獲得+4加值。這個加值在你的基本攻擊加值 達到+11、+16和+20時分別會增加1（最高在基本攻擊加值+20時達到+7）。當你決定進行這次攻擊，你攻擊的目標可以用直覺動作用與你同樣的加值 對你進行一次單次攻擊。</p><p><strong>戰策</strong>：花費5點耐力，你可在對方發動直覺反擊時將其無效化。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Death%20or%20Glory\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 即使面對巨大的敵人，你也會為了贏得最後勝利而無懼任何危險。</em></p><p><strong>先決條件</strong>：力量13，猛力攻擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：在面對一個大型或更大的生物時，你可以用整輪動作進行一次單次近戰攻擊，這次攻擊的攻擊檢定、傷害和重擊確認骰獲得+4加值。這個加值在你的基本攻擊加值 達到+11、+16和+20時分別會增加1（最高在基本攻擊加值+20時達到+7）。當你決定進行這次攻擊，你攻擊的目標可以用直覺動作用與你同樣的加值 對你進行一次單次攻擊。</p><p><strong>戰策</strong>：花費5點耐力，你可在對方發動直覺反擊時將其無效化。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Death%20or%20Glory\">Archives of Nethys</a></em></p>"
     },
     "Death Roll": {
       "name": "死亡翻滾 Death Roll",
@@ -2667,11 +2667,11 @@
     },
     "Deathless Master": {
       "name": "亡命勇士 Deathless Master",
-      "description": "<p><em> 即使受到嚴重的創傷，你也可以視若無睹的繼續進行無情的突擊</em></p><p>________________________________________</p><p><strong>先決條件</strong>：力量13，體質15，亡命尖兵，堅忍，頑強，</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Master\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 即使受到嚴重的創傷，你也可以視若無睹的繼續進行無情的突擊</em></p><p><strong>先決條件</strong>：力量13，體質15，亡命尖兵，堅忍，頑強，</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Master\">Archives of Nethys</a></em></p>"
     },
     "Deathless Zealot": {
       "name": "亡命狂徒 Deathless Zealot",
-      "description": "<p><em> 只有最恐怖的傷勢才能停下你的殺戮</em></p><p>________________________________________</p><p><strong>先決條件</strong>：力量13，體質17，亡命尖兵，亡命勇士，堅忍，頑強，鐵皮（Ironhide, APG），獸人或半獸人，基本攻擊加值+12。</p><p><strong>專長效果</strong>：每當一個生物對你進行重擊確認，它必須投兩次骰並取低。</p><p><strong>戰策</strong>：如果兩次重擊確認都不成功，花費5點耐力你可以發動一次藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Zealot\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 只有最恐怖的傷勢才能停下你的殺戮</em></p><p><strong>先決條件</strong>：力量13，體質17，亡命尖兵，亡命勇士，堅忍，頑強，鐵皮（Ironhide, APG），獸人或半獸人，基本攻擊加值+12。</p><p><strong>專長效果</strong>：每當一個生物對你進行重擊確認，它必須投兩次骰並取低。</p><p><strong>戰策</strong>：如果兩次重擊確認都不成功，花費5點耐力你可以發動一次藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Zealot\">Archives of Nethys</a></em></p>"
     },
     "Deceitful (Mythic)": {
       "name": "詐欺師(神話) Deceitful (Mythic)",
@@ -2735,7 +2735,7 @@
     },
     "Defensive Weapon Training": {
       "name": "防禦式武器訓練 Defensive Weapon Training",
-      "description": "<p><em> 你知道在面對一種武器時如何保護自己</em></p><p>________________________________________</p><p><strong>先決條件</strong>：智力13，基本攻擊加值+5。</p><p><strong>專長效果</strong>：從戰士【武器訓練】列表的武器組（除了天生武器）中選擇一種。在面對使用你選擇的列表中的武器攻擊你的敵人時，你的AC獲得+2閃避加值。如果你同時擁有相同種類的【武器訓練】能力，你的閃避加值增加至+3。</p><p><strong>戰策</strong>：花費5點耐力，你可以將所選擇的武器組臨時切換為另一種（天生武器除外），持續3輪。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Defensive%20Weapon%20Training\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你知道在面對一種武器時如何保護自己</em></p><p><strong>先決條件</strong>：智力13，基本攻擊加值+5。</p><p><strong>專長效果</strong>：從戰士【武器訓練】列表的武器組（除了天生武器）中選擇一種。在面對使用你選擇的列表中的武器攻擊你的敵人時，你的AC獲得+2閃避加值。如果你同時擁有相同種類的【武器訓練】能力，你的閃避加值增加至+3。</p><p><strong>戰策</strong>：花費5點耐力，你可以將所選擇的武器組臨時切換為另一種（天生武器除外），持續3輪。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Defensive%20Weapon%20Training\">Archives of Nethys</a></em></p>"
     },
     "Defiant Luck": {
       "name": "挑戰機運 Defiant Luck",
@@ -2891,7 +2891,7 @@
     },
     "Devastating Strike": {
       "name": "毀滅打擊 Devastating Strike",
-      "description": "<p><em> 你對敵人發出催谷全部力量的一擊</em></p><p>________________________________________</p><p><strong>先決條件</strong>：要害打擊，基本攻擊加值+9。</p><p><strong>專長效果</strong>：每當你使用“要害打擊”、“精通要害打擊”或“高等要害打擊”，你在要害打擊附加的每次額外武器傷害上獲得+2加值（最高總共+6）。這些附加傷害可以被重擊倍數乘算。</p><p><strong>戰策</strong>：花費5點耐力，你可獲得+4傷害加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Devastating%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你對敵人發出催谷全部力量的一擊</em></p><p><strong>先決條件</strong>：要害打擊，基本攻擊加值+9。</p><p><strong>專長效果</strong>：每當你使用“要害打擊”、“精通要害打擊”或“高等要害打擊”，你在要害打擊附加的每次額外武器傷害上獲得+2加值（最高總共+6）。這些附加傷害可以被重擊倍數乘算。</p><p><strong>戰策</strong>：花費5點耐力，你可獲得+4傷害加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Devastating%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Devil Sense": {
       "name": "魔鬼感知 Devil Sense",
@@ -3043,19 +3043,19 @@
     },
     "Disengaging Feint": {
       "name": "虛招脫離 Disengaging Feint",
-      "description": "<p><em> 你虛晃一招，掉頭就走。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：智力13，寓守於攻，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試虛招脫離。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Feint\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你虛晃一招，掉頭就走。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試虛招脫離。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Feint\">Archives of Nethys</a></em></p>"
     },
     "Disengaging Flourish": {
       "name": "逃之夭夭 Disengaging Flourish",
-      "description": "<p><em> 你擾亂周圍的敵人，然後迅速轉進。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試逃之夭夭。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Flourish\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你擾亂周圍的敵人，然後迅速轉進。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試逃之夭夭。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Flourish\">Archives of Nethys</a></em></p>"
     },
     "Disengaging Shot": {
       "name": "回馬槍 Disengaging Shot",
-      "description": "<p><em> 你在戰略轉進之前進行最後一次攻擊。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，閃避，精通虛招，靈活移動。</p><p><strong>專長效果</strong>：每當你使用“虛招脫離”或“逃之夭夭”，你可以對一個虛招成功的敵人進行一次單次的近戰攻擊。敵人在這次攻擊中失去AC中的敏捷加值。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。使用回馬槍時最多可消耗5點耐力，每點消耗耐力提升回馬槍傷害2點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Shot\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你在戰略轉進之前進行最後一次攻擊。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，閃避，精通虛招，靈活移動。</p><p><strong>專長效果</strong>：每當你使用“虛招脫離”或“逃之夭夭”，你可以對一個虛招成功的敵人進行一次單次的近戰攻擊。敵人在這次攻擊中失去AC中的敏捷加值。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。使用回馬槍時最多可消耗5點耐力，每點消耗耐力提升回馬槍傷害2點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Shot\">Archives of Nethys</a></em></p>"
     },
     "Disheartening Display": {
       "name": "狂傲技巧 Disheartening Display",
-      "description": "<p><em> 你驕狂地展示自己的武技，使本來就心虛的對手更加畏縮不前</em></p><p>________________________________________</p><p><strong>先決條件</strong>：炫目技巧，武器專攻，基礎攻擊加值+6，擅長所選武器</p><p><strong>專長效果</strong>：當你成功的使用炫目技巧專長挫敗一個已經戰慄，驚懼（Frightened）或恐慌（Panicked）敵人的士氣時，對方的恐懼效果會上升一檔，而已經恐慌的對手將變得畏縮（Cower）。一個受到本專長影響的生物在24小時內免疫本專長的再次影響。</p><p><strong>戰策</strong>：如果花費5點耐力，一個受到本專長影響的生物在24小時內可以再次被本專長影響。</p><p><strong>擾亂射擊（Disheartening Display）（APG）</strong></p><p><em> 通過準確的射擊，你能夠使近處的敵人更加難以施放法術</em></p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disheartening%20Display\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你驕狂地展示自己的武技，使本來就心虛的對手更加畏縮不前</em></p><p><strong>先決條件</strong>：炫目技巧，武器專攻，基礎攻擊加值+6，擅長所選武器</p><p><strong>專長效果</strong>：當你成功的使用炫目技巧專長挫敗一個已經戰慄，驚懼（Frightened）或恐慌（Panicked）敵人的士氣時，對方的恐懼效果會上升一檔，而已經恐慌的對手將變得畏縮（Cower）。一個受到本專長影響的生物在24小時內免疫本專長的再次影響。</p><p><strong>戰策</strong>：如果花費5點耐力，一個受到本專長影響的生物在24小時內可以再次被本專長影響。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disheartening%20Display\">Archives of Nethys</a></em></p>"
     },
     "Dislocate": {
       "name": "卸骨脫逃 Dislocate",
@@ -3131,7 +3131,7 @@
     },
     "Distance Thrower": {
       "name": "長距投擲 Distance Thrower",
-      "description": "<p><em> 你能將投擲武器扔得更遠</em></p><p>________________________________________</p><p><strong>先決條件</strong>：力量13。</p><p><strong>專長效果</strong>：當你使用投擲武器時，你超過射程的攻擊檢定罰值降為-2。</p><p><strong>戰策</strong>：使用投擲武器時，如果花費2點耐力，可以將超過射程的攻擊檢定懲罰再減4點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Distance%20Thrower\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你能將投擲武器扔得更遠</em></p><p><strong>先決條件</strong>：力量13。</p><p><strong>專長效果</strong>：當你使用投擲武器時，你超過射程的攻擊檢定罰值降為-2。</p><p><strong>戰策</strong>：使用投擲武器時，如果花費2點耐力，可以將超過射程的攻擊檢定懲罰再減4點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Distance%20Thrower\">Archives of Nethys</a></em></p>"
     },
     "Distant Delivery": {
       "name": "延伸傳法 Distant Delivery",
@@ -3271,7 +3271,7 @@
     },
     "Domain Strike": {
       "name": "領域打擊 Domain Strike",
-      "description": "<p><em> 你在徒手打擊中能對敵人使用你的領域神授力量。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：【領域】能力，精通徒手打擊。</p><p><strong>專長效果</strong>：當你獲得這個專長，選擇一項你能使用的，針對單一目標的領域神授力量。當你對一個敵人進行了一次成功的徒手打擊，除了造成你的徒手打擊傷害，你還可以用一個迅捷動作將你選擇的神授力量的效果傳遞給敵人。這麼做不會觸發藉機攻擊。</p><p><strong>戰策</strong>：花費2點耐力，將神授力量傳遞給敵人只需一個自由動作而非迅捷動作。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Domain%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你在徒手打擊中能對敵人使用你的領域神授力量。</em></p><p><strong>先決條件</strong>：【領域】能力，精通徒手打擊。</p><p><strong>專長效果</strong>：當你獲得這個專長，選擇一項你能使用的，針對單一目標的領域神授力量。當你對一個敵人進行了一次成功的徒手打擊，除了造成你的徒手打擊傷害，你還可以用一個迅捷動作將你選擇的神授力量的效果傳遞給敵人。這麼做不會觸發藉機攻擊。</p><p><strong>戰策</strong>：花費2點耐力，將神授力量傳遞給敵人只需一個自由動作而非迅捷動作。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Domain%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Domino Crash": {
       "name": "Domino Crash",
@@ -3319,7 +3319,7 @@
     },
     "Drag Down": {
       "name": "拽倒 Drag Down",
-      "description": "<p><em> 當你摔倒時，你反射性地拖著你的對手一起倒下。</em></p><p>________________________________________</p><p><strong>先決條件</strong>：智力13，寓守於攻，精通摔絆。</p><p><strong>專長效果</strong>：你每當一個敵人成功的摔絆了你，你可以立刻用直覺動作對其進行一次摔絆嘗試。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果你拽倒的CMB鑑定超過對方CMD 10點，只要花費5點耐力就可以立刻從倒地狀態站起並不受藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Drag%20Down\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 當你摔倒時，你反射性地拖著你的對手一起倒下。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，精通摔絆。</p><p><strong>專長效果</strong>：你每當一個敵人成功的摔絆了你，你可以立刻用直覺動作對其進行一次摔絆嘗試。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果你拽倒的CMB鑑定超過對方CMD 10點，只要花費5點耐力就可以立刻從倒地狀態站起並不受藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Drag%20Down\">Archives of Nethys</a></em></p>"
     },
     "Dragon Ferocity": {
       "name": "龍威 Dragon Ferocity",
@@ -3379,7 +3379,7 @@
     },
     "Dramatic Display": {
       "name": "精彩武技 Dramatic Display",
-      "description": "<p><em> 你對武器的掌握技巧同時展現給對手和在場觀眾</em></p><p>________________________________________</p><p><strong>先決條件</strong>：炫目技巧</p><p><strong>專長效果</strong>：當你以迅捷動作進行演武檢定時，技巧令人嘆為觀止。你的演武檢定+2，並在下輪結束前的所有攻擊和戰技檢定都獲得+2加值。</p><p><strong>戰策</strong>：使用該專長時花費5點耐力就還能獲得2點躲避AC直至你下一輪。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dramatic%20Display\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你對武器的掌握技巧同時展現給對手和在場觀眾</em></p><p><strong>先決條件</strong>：炫目技巧</p><p><strong>專長效果</strong>：當你以迅捷動作進行演武檢定時，技巧令人嘆為觀止。你的演武檢定+2，並在下輪結束前的所有攻擊和戰技檢定都獲得+2加值。</p><p><strong>戰策</strong>：使用該專長時花費5點耐力就還能獲得2點躲避AC直至你下一輪。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dramatic%20Display\">Archives of Nethys</a></em></p>"
     },
     "Dramatic Slam": {
       "name": "Dramatic Slam",
@@ -3503,15 +3503,15 @@
     },
     "Earth Child Binder": {
       "name": "狡兔搏鷹 Earth Child Binder",
-      "description": "<p><em> 即便最高大的巨人也畏懼你的技巧</em></p><p>________________________________________</p><p><strong>先決條件</strong>：感知13，以小搏大，四兩撥千斤，精通摔絆，高等摔絆，震懾拳，特技9級。</p><p><strong>專長效果</strong>：你可以摔絆任何體型的巨人亞種生物。你處於地堂流派架勢時，巨人亞種生物因在俯臥狀態中站起而引發你藉機攻擊時，你可以進行徒手打擊，你可以在這次攻擊命中後宣告使用震懾拳，這次震懾拳DC+4</p><p><strong>戰策</strong>：巨人亞種生物因在俯臥狀態中站起而引發你藉機攻擊時，你可以用5點耐力發動震懾拳。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Binder\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 即便最高大的巨人也畏懼你的技巧</em></p><p><strong>先決條件</strong>：感知13，以小搏大，四兩撥千斤，精通摔絆，高等摔絆，震懾拳，特技9級。</p><p><strong>專長效果</strong>：你可以摔絆任何體型的巨人亞種生物。你處於地堂流派架勢時，巨人亞種生物因在俯臥狀態中站起而引發你藉機攻擊時，你可以進行徒手打擊，你可以在這次攻擊命中後宣告使用震懾拳，這次震懾拳DC+4</p><p><strong>戰策</strong>：巨人亞種生物因在俯臥狀態中站起而引發你藉機攻擊時，你可以用5點耐力發動震懾拳。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Binder\">Archives of Nethys</a></em></p>"
     },
     "Earth Child Style": {
       "name": "以小搏大 Earth Child Style",
-      "description": "<p><em> 你所受的武技訓練使你成為巨人剋星</em></p><p>________________________________________</p><p><strong>先決條件</strong>：感知13，矮人或侏儒，“防禦訓練”種族特性，精通徒手打擊，特技3級。</p><p><strong>專長效果</strong>：你啟用地堂流派架勢時，“防禦訓練”的獎勵閃避AC變成+6；同時你在對抗巨人亞種生物時，徒手傷害加上感知修正</p><p><strong>戰策</strong>：你在徒手攻擊命中巨人亞種生物時可以選擇花費最多5點耐力，每點耐力提升2點傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你所受的武技訓練使你成為巨人剋星</em></p><p><strong>先決條件</strong>：感知13，矮人或侏儒，“防禦訓練”種族特性，精通徒手打擊，特技3級。</p><p><strong>專長效果</strong>：你啟用地堂流派架勢時，“防禦訓練”的獎勵閃避AC變成+6；同時你在對抗巨人亞種生物時，徒手傷害加上感知修正</p><p><strong>戰策</strong>：你在徒手攻擊命中巨人亞種生物時可以選擇花費最多5點耐力，每點耐力提升2點傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Style\">Archives of Nethys</a></em></p>"
     },
     "Earth Child Topple": {
       "name": "四兩撥千斤 Earth Child Topple",
-      "description": "<p><em> 你對平衡與動量的掌握允許你空手摞倒巨人</em></p><p>________________________________________</p><p><strong>先決條件</strong>：感知13，以小搏大，精通摔絆，特技6級。</p><p><strong>專長效果</strong>：你可以對巨人亞種生物進行摔絆（體型不超過超大型）。當你使用地堂流派架勢時，你在對抗巨人亞種生物的重擊確認骰與摔絆CMB上加上你的感知修正。</p><p><strong>戰策</strong>：成功摔絆巨人時你可以選擇消耗3點耐力，令目標承受2d6跌落傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Topple\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你對平衡與動量的掌握允許你空手摞倒巨人</em></p><p><strong>先決條件</strong>：感知13，以小搏大，精通摔絆，特技6級。</p><p><strong>專長效果</strong>：你可以對巨人亞種生物進行摔絆（體型不超過超大型）。當你使用地堂流派架勢時，你在對抗巨人亞種生物的重擊確認骰與摔絆CMB上加上你的感知修正。</p><p><strong>戰策</strong>：成功摔絆巨人時你可以選擇消耗3點耐力，令目標承受2d6跌落傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Topple\">Archives of Nethys</a></em></p>"
     },
     "Earth Magic": {
       "name": "大地魔法 Earth Magic",
@@ -3571,15 +3571,15 @@
     },
     "Efreeti Stance": {
       "name": "炎宿 Efreeti Stance",
-      "description": "<p><em> 你呼喚出實體化的炎之靈魂保護自己，並將敵人燒為灰燼</em></p><p>________________________________________</p><p><strong>先決條件</strong>：體質15，炎靈，基本攻擊加值+11或武僧9級。</p><p><strong>專長效果</strong>：你獲得額外1次額外“元素之拳”每日使用次數。當你使用炎靈流派架勢時獲得以下好處：你獲得火焰抗力，數值等同於你的基本攻擊加值、或你的武僧等級加上你 從其他職業得到的基本攻擊加值（取高者）。當你失去AC的敏捷加值時，你也會失去此抗力。受到你元素之拳火焰傷害的對手須進行一次DC為“10+1/2角 色等級+感知修正”的反射豁免，失敗將著火</p><p><strong>戰策</strong>：使用元素之拳令對手著火時你可花費最多5點耐力，每點耐力提升DC1點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Stance\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你呼喚出實體化的炎之靈魂保護自己，並將敵人燒為灰燼</em></p><p><strong>先決條件</strong>：體質15，炎靈，基本攻擊加值+11或武僧9級。</p><p><strong>專長效果</strong>：你獲得額外1次額外“元素之拳”每日使用次數。當你使用炎靈流派架勢時獲得以下好處：你獲得火焰抗力，數值等同於你的基本攻擊加值、或你的武僧等級加上你 從其他職業得到的基本攻擊加值（取高者）。當你失去AC的敏捷加值時，你也會失去此抗力。受到你元素之拳火焰傷害的對手須進行一次DC為“10+1/2角 色等級+感知修正”的反射豁免，失敗將著火</p><p><strong>戰策</strong>：使用元素之拳令對手著火時你可花費最多5點耐力，每點耐力提升DC1點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Stance\">Archives of Nethys</a></em></p>"
     },
     "Efreeti Style": {
       "name": "炎靈 Efreeti Style",
-      "description": "<p><em> 你掌握了火焰變幻莫測的力量，即使你接觸不到敵人，你拳腳間爆發的烈風仍然能燒焦你的敵人</em></p><p>________________________________________</p><p><strong>先決條件</strong>：體質13，感知15，元素之拳，精通徒手打擊，基本攻擊加值+9或武僧5級。</p><p><strong>專長效果</strong>：你獲得1次額外“元素之拳”每日使用次數。你在炎靈流派架勢中使用元素之拳時，你在造成火系傷害時獲得等於你感知加值的額外傷害。如果你在此架勢中使用火系元素之拳沒有命中，你仍然能給予對手1d6火焰傷害。</p><p><strong>戰策</strong>：使用元素之拳並造成火焰傷害時你可花費最多5點耐力，每點耐力提升2點火焰傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你掌握了火焰變幻莫測的力量，即使你接觸不到敵人，你拳腳間爆發的烈風仍然能燒焦你的敵人</em></p><p><strong>先決條件</strong>：體質13，感知15，元素之拳，精通徒手打擊，基本攻擊加值+9或武僧5級。</p><p><strong>專長效果</strong>：你獲得1次額外“元素之拳”每日使用次數。你在炎靈流派架勢中使用元素之拳時，你在造成火系傷害時獲得等於你感知加值的額外傷害。如果你在此架勢中使用火系元素之拳沒有命中，你仍然能給予對手1d6火焰傷害。</p><p><strong>戰策</strong>：使用元素之拳並造成火焰傷害時你可花費最多5點耐力，每點耐力提升2點火焰傷害。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Style\">Archives of Nethys</a></em></p>"
     },
     "Efreeti Touch": {
       "name": "炎觸 Efreeti Touch",
-      "description": "<p><em> 你掌握了烈風與炎日的秘密，可以讓手中凝聚的火之精靈解放，化成毀滅之焰</em></p><p>________________________________________</p><p><strong>先決條件</strong>：感知17，炎宿，基本攻擊加值+13或武僧11級。</p><p><strong>專長效果</strong>：你使用炎靈流派架勢時，以一個標準動作，消耗兩次“元素之拳”使用次數，你可以放出半徑15尺的錐狀爆炎，對範圍內所有生物造成等於“你的徒手打擊傷害+元素之拳火傷”的傷害並著火。通過DC為“10+1/2角色等級+感知修正”的反射豁免則傷害減半，且不會著火。</p><p><strong>戰策</strong>：使用炎觸時你可以選擇不用2發元素之拳，而使用一發元素之拳和2點耐力。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Touch\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 你掌握了烈風與炎日的秘密，可以讓手中凝聚的火之精靈解放，化成毀滅之焰</em></p><p><strong>先決條件</strong>：感知17，炎宿，基本攻擊加值+13或武僧11級。</p><p><strong>專長效果</strong>：你使用炎靈流派架勢時，以一個標準動作，消耗兩次“元素之拳”使用次數，你可以放出半徑15尺的錐狀爆炎，對範圍內所有生物造成等於“你的徒手打擊傷害+元素之拳火傷”的傷害並著火。通過DC為“10+1/2角色等級+感知修正”的反射豁免則傷害減半，且不會著火。</p><p><strong>戰策</strong>：使用炎觸時你可以選擇不用2發元素之拳，而使用一發元素之拳和2點耐力。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Touch\">Archives of Nethys</a></em></p>"
     },
     "Eidolon Mount": {
       "name": "幻靈坐騎 Eidolon Mount",
@@ -3811,7 +3811,7 @@
     },
     "Enfilading Fire": {
       "name": "交叉火力 Enfilading Fire",
-      "description": "<p><em> 透過盟友的夾擊，你在射擊時得到額外的優勢</em></p><p>________________________________________</p><p><strong>先決條件</strong>：近距射擊，精準射擊，至少一項團隊專長。</p><p><strong>專長效果</strong>：當至少一個擁有此專長的盟友夾擊敵人時，你對該目標的遠程攻擊得到+2加值</p><p><strong>戰策</strong>：在每次攻擊前，只要花費1點耐力，即使夾擊的盟友不擁有團隊專長你也可享受該專長的效果</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Enfilading%20Fire\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 透過盟友的夾擊，你在射擊時得到額外的優勢</em></p><p><strong>先決條件</strong>：近距射擊，精準射擊，至少一項團隊專長。</p><p><strong>專長效果</strong>：當至少一個擁有此專長的盟友夾擊敵人時，你對該目標的遠程攻擊得到+2加值</p><p><strong>戰策</strong>：在每次攻擊前，只要花費1點耐力，即使夾擊的盟友不擁有團隊專長你也可享受該專長的效果</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Enfilading%20Fire\">Archives of Nethys</a></em></p>"
     },
     "Enforcer": {
       "name": "脅迫者 Enforcer",

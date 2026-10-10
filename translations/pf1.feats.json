@@ -940,6 +940,390 @@
     "Wind Stance": {
       "name": "疾風步 Wind Stance",
       "description": "<p><b><i>你移動時步伐飄忽不定，令敵人難以瞄準你的位置。</i></b></p><p><b>先決條件</b>：敏捷15，閃避，基本攻擊加值+6。</p><p><b>專長效果</b>：若你在一輪中移動超過5尺，則該輪中你針對遠程攻擊獲得20%隱蔽。</p><p><b>譯註</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wind%20Stance\">Archives of Nethys</a></em></p>"
+    },
+    "Ability Focus": {
+      "name": "能力專攻 Ability Focus",
+      "description": "<p><b><i>這個生物的某種特殊攻擊能力極難抵抗。</i></b></p><p><b>先決條件</b>：擁有特殊攻擊。</p><p><b>專長效果</b>：選擇一項該生物擁有的特殊攻擊能力，其他生物對抗這項特殊攻擊能力的所有豁免DC+2。</p><p><b>特殊說明</b>：你可以多次選擇本專長，但其效果不能疊加。每次你選擇此專長時，它的效果將應用在另一個特殊攻擊能力上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ability%20Focus\">Archives of Nethys</a></em></p>"
+    },
+    "Amateur Gunslinger": {
+      "name": "業餘槍手 Amateur Gunslinger",
+      "description": "<p><em>雖然你並不是一個槍手，但你仍擁有並可以使用勇毅能力。</em></p><p><strong>先決條件</strong>：在擁有【勇毅】能力的職業上沒有等級。</p><p><strong>專長效果</strong>： 你獲得少量的勇毅點，並且可以使用一項1級槍手銃技。在一天的開始，你獲得1點勇毅點，不過在這一天裡你仍然可以通過額外獎勵獲得最大為感知修正的勇毅點 數（最低為1）。你像其他槍手一樣適用勇毅點恢復的規則。你可以花費這些勇毅點來使用你在獲得該專長時選擇的1級槍手銃技，或通過專長或魔法物品獲得的其 他銃技。</p><p><strong>特殊說明</strong>：如果你在擁有【勇毅】能力的職業上獲得了等級，你可以立刻將本專長替換為“額外勇毅（Extra Grit, UC）”專長。</p><p><strong>戰策</strong>：選擇第二個1級槍手銃技。你可以花費勇毅點數來使用此銃技，或以5點耐力為代價使用這兩個銃技。如果你在提供勇毅點的職業上升了級，你可以選擇花費5點耐力而非勇毅點來使用任何一種你的1級銃技。該戰策也適用於</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Amateur%20Gunslinger\">Archives of Nethys</a></em></p>"
+    },
+    "Amateur Investigator": {
+      "name": "業餘調查員 Amateur Investigator",
+      "description": "<p><i>你擁有的知識和靈感已經足夠用來解決神秘事件。</i></p><p><b>先決條件：</b>智力13，至少在一個知識技能上擁有技能等級，在擁有靈感（Inspiration）職業能力的職業上不具有任何等級</p><p><b>專長效果：</b>你獲得一個大小等同於你智力調整值的靈感池，如同調查員的靈感一樣，你可以以一個自由動作使用一點靈感點數，再已受訓的知識，語言學或辨識法術技能檢定上增加1d6點結果（即使你在這項檢定上取10或取20也可以），但你必須在進行檢定但得出結果以前使用此能力。你在每次技能檢定上只能使用最多1點靈感點數。你的靈感池會在每天的完整休息以後得到恢復。</p><p><b>特殊情況：</b>如果你在擁有靈感職業能力的職業上獲得了職業等級，那麼本專長將立刻替換為額外靈感專長。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Amateur%20Investigator\">Archives of Nethys</a></em></p>"
+    },
+    "Amateur Swashbuckler": {
+      "name": "業餘劍客 Amateur Swashbuckler",
+      "description": "<p><i>雖然不經常搏命，但你的派頭已經超越了普通的決鬥者。</i></p><p><b>先決條件：</b>在擁有派頭（Panache）職業能力的職業上不具有任何等級</p><p><b>專長效果：</b>你獲得少量的時髦值，並且可以選擇學會一項1級遊蕩劍客炫技（不能選擇適時格擋反擊），一旦選擇即不能更改。在一天的開始，你獲得1點時髦值，不過在這一天裡你仍然可以通過額外獎勵獲得最大為魅力調整值的時髦值（最低為1）。你像其他遊蕩劍客一樣適用時髦值恢復的規則。你可以花費這些時髦值來使用你在獲得該專長時選擇的1級炫技，或通過專長或魔法物品獲得的其他炫技。</p><p><b>特殊情況：</b>如果你在擁有派頭職業能力的職業上獲得了職業等級，那麼本專長將立刻替換為額外時髦值專長。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Amateur%20Swashbuckler\">Archives of Nethys</a></em></p>"
+    },
+    "Aspect of the Beast": {
+      "name": "化獸態 Aspect of the Beast",
+      "description": "<p><b><i>無論是由於血液中流淌的魔法還是詛咒，你身上的某些部分更像野獸而非人類。</i></b></p><p><b>先決條件</b>：【自然變身】職業特性；見特殊說明。</p><p><b>專長效果</b>：你的獸性以後述中的一種形式展露出來。當你選擇該專長時從這些形式中進行選擇，一旦選取則無法改變。</p><p><b>夜視（</b><b>Night Senses, Ex</b><b>）</b>：如果你的基礎種族只擁有正常的視覺，則獲得昏暗視覺。如果你的基礎種族擁有昏暗視覺，則獲得30尺黑暗視覺。如果你的基礎種族擁有黑暗視覺，那麼黑暗視覺的範圍增加30尺。</p><p><b>獸爪（</b><b>Claws of the Beast, Ex</b><b>）</b>：你長出一對爪子。這些爪子是造成1d4傷害的主要攻擊（小型體型為1d3）。</p><p><b>獵手飛躍（</b><b>Predator's Leap, Ex</b><b>）</b>：你可以直接進行助跑跳躍而無需在跳躍前進行10尺助跑。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Aspect%20of%20the%20Beast\">Archives of Nethys</a></em></p>"
+    },
+    "Awesome Blow": {
+      "name": "可怖毆擊 Awesome Blow",
+      "description": "<p><b><i>這個生物猛惡的攻擊足以將對手打飛。</i></b></p><p><b>先決條件</b>：力量25，猛力攻擊，精通衝撞，體型大型以上。</p><p><b>專長效果</b>：以一個標準動作，該生物可以發動一次“可怖毆擊”戰技攻擊。如果戰技攻擊成功且目標是一個比該生物體型更小的非虛體生物，那麼目標除了受到該生物的攻擊傷害（通常為揮擊傷害加上該生物的力量修正）外，還會被擊飛10尺（方向由攻擊生物選擇）並被擊倒至俯臥。擊飛路線必須是直線，且目標生物不可被移動至比它受到攻擊的起始位置距離攻擊生物更近的方格。如果擊飛路線上有障礙物阻擋了目標生物的移動，那麼障礙物和目標生物都會受到1d6點傷害，目標生物將在障礙物的鄰接格被擊倒至俯臥。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Awesome%20Blow\">Archives of Nethys</a></em></p>"
+    },
+    "Bashing Finish": {
+      "name": "一擊撲殺 Bashing Finish",
+      "description": "<p><b><i>你能夠在用武器進行強有力的攻擊後順勢使用盾牌進行打擊。</i></b></p><p><b>先決條件</b>：精通盾擊，盾牌大師，雙武器格鬥，基本攻擊加值+11。</p><p><b>專長效果</b>：每當你成功使用近戰武器進行重擊時，就能夠以自由動作對相同的目標，使用相同的加值對其進行盾擊攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bashing%20Finish\">Archives of Nethys</a></em></p>"
+    },
+    "Bloody Assault": {
+      "name": "血腥強襲 Bloody Assault",
+      "description": "<p><b><i>通過犧牲精度，你能夠製造出難於癒合的流血傷口。</i></b></p><p><b>先決條件</b>：力量13，猛力攻擊，基本攻擊加值+6。</p><p><b>專長效果</b>：你可以選擇讓所有近戰攻擊檢定與戰技檢定承受-5減值，使你的武器近戰攻擊在正常能夠造成的傷害之外，額外造成1d4點流血傷害。受到流血傷害的生物會在其每行動輪開始時持續遭受這一傷害。通過DC15的醫療檢定或者任何魔法治療均可制止流血傷害。由此專長造成的流血傷害不會相互疊加。你必須在進行攻擊檢定之前選擇使用該專長，並且該效果會持續至你的下一輪為止（不過流血會如常持續，直至被治癒為止）。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bloody%20Assault\">Archives of Nethys</a></em></p>"
+    },
+    "Bludgeoner": {
+      "name": "鈍擊士 Bludgeoner",
+      "description": "<p><b>專長效果</b>：當你處於該流派下衝鋒命中敵人並選擇造成瘀傷時，你的武器傷害骰視為增大1級來造成傷害。若你在衝鋒後可以進行不止1次攻擊，該專長只對第一次攻擊起效。</p><p class=\"zhtw-credit\"><em>譯者：月夜白雨｜書目：專長／近戰戰術工具箱｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bludgeoner\">Archives of Nethys</a></em></p>"
+    },
+    "Bodyguard": {
+      "name": "保鏢 Bodyguard",
+      "description": "<p><b><i>你的快速攻擊能夠格擋開敵人對附近盟友的攻擊。</i></b></p><p><b>先決條件</b>：戰鬥反射。</p><p><b>專長效果</b>：當鄰近的盟友被攻擊時，你能夠使用藉機攻擊來嘗試進行協助他人動作來增加盟友的AC。你無法以藉機攻擊來使用協助他人動作增加盟友的攻擊檢定。</p><p><b>通常狀況</b>：協助他人是標準動作。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Bodyguard\">Archives of Nethys</a></em></p>"
+    },
+    "Breadth of Experience": {
+      "name": "生命歷練 Breadth of Experience",
+      "description": "<p><b><i>儘管你在同族中還很年輕，卻已經具備了相當程度的訓練與知識。</i></b></p><p><b>先決條件</b>：矮人，精靈或侏儒；年齡100歲以上。</p><p><b>專長效果</b>：你的所有知識檢定與專業檢定獲得+2加值，並且可以在未受訓的情況下進行這些檢定。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Breadth%20of%20Experience\">Archives of Nethys</a></em></p>"
+    },
+    "Charging Hurler": {
+      "name": "衝鋒投擲 Charging Hurler",
+      "description": "<p><em> 你知道如何利用慣性來提高投擲武器的殺傷力</em></p><p><strong>先決條件</strong>：近距射擊。</p><p><strong>專長效果</strong>：你可以在使用投擲武器時適用衝鋒規則。這次攻擊的所有規則都與衝鋒相同，不過你移動的方向必須朝向你的敵人，而移動的終點必須位於該敵人半徑30尺範圍以 內。如果你這樣做了，你可以對這個敵人進行一次單獨的投擲武器攻擊，攻擊骰獲得+2加值，並且在你下一次行動前AC獲得-2罰值。</p><p><strong>戰策</strong>：如果花費2點耐力，移動的終點可以位於目標50尺內而非30尺內。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Charging%20Hurler\">Archives of Nethys</a></em></p>"
+    },
+    "Chokehold": {
+      "name": "鎖喉 Chokehold",
+      "description": "<p><em> 當你擒抱時，你可以切斷目標的呼吸和血液循環。</em></p><p><strong>先決條件</strong>：精通擒抱，精通徒手打擊，基本攻擊加值+6或武僧5級。</p><p><strong>專長效果</strong>：當你擒抱一個比你體型最多大一級的生物，你可以用-5罰值來進行一次戰技檢定來嘗試發動鎖喉能力。如果你成功，你將你擒抱的敵人壓制住，並使其陷入被鎖喉 狀態。只要你保持擒抱狀態，你同時也能保持鎖喉狀態。一個被鎖喉的生物無法呼吸或說話，因此不能施放帶有語言成分的法術。被鎖喉的生物必須屏住呼吸，否則 陷入窒息狀態。任何不需呼吸、免疫出血傷害或免疫重擊的生物，也免疫於你的“鎖喉”效果。一旦擒抱結束，鎖喉也隨之結束。</p><p><strong>戰策</strong>：如果花費2點耐力，鎖喉所需承受的減值僅為-1。</p><p><strong>利爪猛撲（Claw pounce）（ARG）</strong></p><p><em> 尚無翻譯</em></p><p><strong>戰策</strong>：使用該專長時，你可以選擇花費5點耐力用你的一隻爪子發動第二次攻擊。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Chokehold\">Archives of Nethys</a></em></p>"
+    },
+    "Cleaving Finish": {
+      "name": "終勢斬 Cleaving Finish",
+      "description": "<p><em> 當你擊倒一名敵人，你繼續揮舞你的武器並攻擊下一名敵人。</em></p><p><strong>先決條件</strong>：力量13，順勢斬，猛力攻擊。</p><p><strong>專長效果</strong>：當你進行一次近戰攻擊，並且將目標的HP降低至0或更低，你可以使用你的最高攻擊加值對另一名觸及範圍內的敵人進行一次近戰攻擊。你每輪只能利用該專長進行一次額外攻擊。</p><p><strong>戰策</strong>：如果終勢斬將目標的HP降低至0或更低，花費5點耐力可繼續終勢斬。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Cleaving%20Finish\">Archives of Nethys</a></em></p>"
+    },
+    "Close-Quarters Thrower": {
+      "name": "近身投擲 Close-Quarters Thrower",
+      "description": "<p><em> 你身形靈巧，足以讓你在投擲武器和炸彈時避免遭到近戰攻擊。</em></p><p><strong>先決條件</strong>：敏捷13，閃避，武器專攻（所選投擲武器）。</p><p><strong>專長效果</strong>：選擇一種投擲武器類型。你使用這種類型的投擲武器進行遠程攻擊時不會觸發藉機攻擊。如果你是一個鍊金術士，當你學習該專長並選擇鍊金炸彈時，你在取出材料、創造和投擲炸彈時都不會觸發藉機攻擊。</p><p><strong>戰策</strong>：如果花費2點耐力點，投擲任何投擲武器都不會觸發藉機攻擊。</p><p><strong>裂盔（Cloven helm）（ARG）</strong></p><p><em> 未翻譯</em></p><p><strong>戰策</strong>：當你被重擊威脅時，可最多花費5點耐力，並在對抗重擊確認的投骰時獲得等同所耗費耐力值的AC加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Close-Quarters%20Thrower\">Archives of Nethys</a></em></p>"
+    },
+    "Clustered Shots": {
+      "name": "集束射擊 Clustered Shots",
+      "description": "<p><em> 你花費少許時間進行瞄準，然後你的攻擊幾乎全部命中了同一個點</em></p><p><strong>先決條件</strong>：近距射擊，精準射擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：當你使用多次遠程武器對同一個目標進行全力攻擊，在計算目標的傷害時只用總傷害減去一次傷害減免。</p><p><strong>戰策</strong>：使用該專長時每次成功的命中最多可花費2點耐力，在結算傷害時獲得等同所花費耐力的傷害加值。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Clustered%20Shots\">Archives of Nethys</a></em></p>"
+    },
+    "Crossbow Mastery": {
+      "name": "十字弓熟稔 Crossbow Mastery",
+      "description": "<p><b><i>你能夠以令人目眩的速度裝填弩弓，甚至可以在近戰中用他們射擊而不必擔心遭到報復。</i></b></p><p><b>先決條件</b>：敏捷15，近距射擊，快速裝填，快速射擊。</p><p><b>專長效果</b>：不論你使用的弩的類型為何種，裝填弩所需要的時間降低為自由動作。你能夠在全力攻擊中使用弩射擊多次，就如同使用弓的時候一般。當你選取“快速裝填”專長時所選擇的那種類型的弩在進行裝填時不會引起藉機攻擊。</p><p><b>特殊說明</b>：從6級起，選擇【箭術戰鬥流派】的遊俠能夠將“十字弓熟稔”作為戰鬥流派專長進行選取。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crossbow%20Mastery\">Archives of Nethys</a></em></p>"
+    },
+    "Deadly Finish": {
+      "name": "致命終結 Deadly Finish",
+      "description": "<p><em> 你的攻擊從不擊倒對手——因為他們都直接死了</em></p><p><strong>先決條件</strong>：基本攻擊加值+11。</p><p><strong>專長效果</strong>：當你用近戰攻擊將你的敵人的生命值減少至-1或更低時，他必須進行一次DC為“15+最後一擊傷害”的強韌檢定，否則立刻死亡。</p><p><strong>戰策</strong>：花費2點耐力，你可以令目標的強韌檢定必然成功。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Finish\">Archives of Nethys</a></em></p>"
+    },
+    "Death or Glory": {
+      "name": "死地後生 Death or Glory",
+      "description": "<p><em> 即使面對巨大的敵人，你也會為了贏得最後勝利而無懼任何危險。</em></p><p><strong>先決條件</strong>：力量13，猛力攻擊，基本攻擊加值+6。</p><p><strong>專長效果</strong>：在面對一個大型或更大的生物時，你可以用整輪動作進行一次單次近戰攻擊，這次攻擊的攻擊檢定、傷害和重擊確認骰獲得+4加值。這個加值在你的基本攻擊加值 達到+11、+16和+20時分別會增加1（最高在基本攻擊加值+20時達到+7）。當你決定進行這次攻擊，你攻擊的目標可以用直覺動作用與你同樣的加值 對你進行一次單次攻擊。</p><p><strong>戰策</strong>：花費5點耐力，你可在對方發動直覺反擊時將其無效化。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Death%20or%20Glory\">Archives of Nethys</a></em></p>"
+    },
+    "Deific Obedience": {
+      "name": "崇神儀典 Deific Obedience",
+      "description": "<p><b><i>你以每日的祈禱，讚美和祭獻榮耀你所信仰的神祇，而祂則賦予你特殊的恩寵。</i></b></p><p><b>先決條件：</b>在知識（宗教）技能上擁有3個等級，必須崇拜一位神祇</p><p><b>效果：</b>每一位神祇都有其特定的日常服從儀典（Daily Obedience），不過這些儀典每天最多只需要一小時來完成。每天當你完成服從儀典以後，你將獲得你所崇拜的神祇所擁有的“服從儀典“項目所列出的特殊能力與抗力獎勵。</p><p>如果你擁有至少12個HD，你獲得你所信仰神祇的第一神恩（Boon）；在16HD時，你獲得祂的第二神恩；在20HD時，你獲得最終的第三神恩。除非特別提及其持續時間，否則神恩在一經獲得後是永久生效的。</p><p>本書中列出的三個進階職業可以在較低等級時即可獲得神恩。如果你在這些進階職業上並無任何等級，那麼你自行通過此專長獲得的神恩視為“上級神恩”。當你在傳音者（Evangelist）或者衛道者（Sentinel）進階職業上獲得了等級，那麼你會失去已獲得的上級神恩，而是依據這兩個進階職業的能力而獲得合適的新神恩。</p><p>如果你未能執行每日的服從儀典，你將失去所有通過本專長獲得的神恩獎勵，直到你下一次完成服從儀典為止。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／內海諸神｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Deific%20Obedience\">Archives of Nethys</a></em></p>"
+    },
+    "Disarming Strike": {
+      "name": "繳械重擊 Disarming Strike",
+      "description": "<p><b><i>你的重擊能夠繳械敵人。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻，精通繳械，基本攻擊加值+9。</p><p><b>專長效果</b>：當你的近戰攻擊成功重擊時，除了攻擊正常造成的傷害之外還能夠卸除敵人的武器。如果你的重擊確認檢定超過了敵人的CMD，那麼就能夠將卸除敵人的武器，就如同進行了繳械戰技檢定一般。這不會引起藉機攻擊。</p><p><b>通常狀況</b>：你必須進行繳械戰技檢定才能卸除敵人的武器。</p><p><b>特殊說明</b>：你只能將後述專長中的一個應用在一次確認的重擊上：衝撞重擊，移位重擊，擊破重擊，繳械重擊或者摔絆重擊。你可以在重擊確認檢定之後選擇使用該專長。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disarming%20Strike\">Archives of Nethys</a></em></p>"
+    },
+    "Disengaging Feint": {
+      "name": "虛招脫離 Disengaging Feint",
+      "description": "<p><em> 你虛晃一招，掉頭就走。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試虛招脫離。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Feint\">Archives of Nethys</a></em></p>"
+    },
+    "Disengaging Flourish": {
+      "name": "逃之夭夭 Disengaging Flourish",
+      "description": "<p><em> 你擾亂周圍的敵人，然後迅速轉進。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，精通虛招。</p><p><strong>專長效果</strong>：以一個標準動作，你對每個威脅你的對手都進行一次唬騙檢定。如果你成功了至少1次，你可以移動你的正常速度距離。這次移動不會觸發所有對其虛招成功的敵人的藉機攻擊。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。如果花費5點耐力，可以用移動動作嘗試逃之夭夭。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Flourish\">Archives of Nethys</a></em></p>"
+    },
+    "Disengaging Shot": {
+      "name": "回馬槍 Disengaging Shot",
+      "description": "<p><em> 你在戰略轉進之前進行最後一次攻擊。</em></p><p><strong>先決條件</strong>：智力13，寓守於攻，虛招脫離，閃避，精通虛招，靈活移動。</p><p><strong>專長效果</strong>：每當你使用“虛招脫離”或“逃之夭夭”，你可以對一個虛招成功的敵人進行一次單次的近戰攻擊。敵人在這次攻擊中失去AC中的敏捷加值。</p><p><strong>戰策</strong>：即使能力不滿足前提（13智力），只要耐力池依然有1點耐力就可以使用該專長。使用回馬槍時最多可消耗5點耐力，每點消耗耐力提升回馬槍傷害2點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Shot\">Archives of Nethys</a></em></p>"
+    },
+    "Distance Thrower": {
+      "name": "長距投擲 Distance Thrower",
+      "description": "<p><em> 你能將投擲武器扔得更遠</em></p><p><strong>先決條件</strong>：力量13。</p><p><strong>專長效果</strong>：當你使用投擲武器時，你超過射程的攻擊檢定罰值降為-2。</p><p><strong>戰策</strong>：使用投擲武器時，如果花費2點耐力，可以將超過射程的攻擊檢定懲罰再減4點。</p><p class=\"zhtw-credit\"><em>譯者：solariusyang｜書目：遊戲進行／耐力和戰策｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=76864.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Distance%20Thrower\">Archives of Nethys</a></em></p>"
+    },
+    "Dolphin Circle": {
+      "name": "海豚環殺 Dolphin Circle",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一樣環繞著你的敵人，將他們玩弄於你攻擊的股掌之中。</em></p><p><strong>先決條件:</strong> 海豚突進，海豚流，精通徒手擊打，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢下時，以一個整輪動作，你可以在水下選擇一個環形的路線，其起點和終點都必須在你目前所處的方格，且長度不能超過你以單個移動動作所能遊過的距離。你會環繞這條路線遊動直到你的下一回合開始，這次移動不會引發藉機攻擊。在考慮威脅範圍和為盟友（除了你自己）提供夾擊以及範圍效果時，你被視為處在該路線所有經過的方格中。其他生物可以攻擊你（以及用有益的接觸法術來觸碰你），如同你處在該路線所有經過的方格中。但當其他生物穿過這條線路的任意方格時，你不會被視作在其中的任何方格。在你下一回合開始時，選擇該路徑經過的任一方格來停止環繞。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
+    },
+    "Dolphin Dart": {
+      "name": "海豚突進 Dolphin Dart",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突擊一個敵人又迅速地後撤，就像一隻海豚一樣。</em></p><p><strong>先決條件:</strong> 海豚流，精通徒手擊打，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢之下時，以一個標準動作，你可以在水下最多移動你游泳速度的一半，並對位於你觸及範圍內的一名敵人做一次近戰攻擊，然後撤回你原來所處的位置。你的移動和攻擊都不會引發藉機攻擊，即使你的敵人擁有除了移出威脅範圍外其他觸發藉機攻擊的條件。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
+    },
+    "Dolphin Style": {
+      "name": "海豚流 Dolphin Style",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一隻海豚一樣戰鬥，將你的敵人困在一起，這讓你更容易幹掉他們。</em></p><p><strong>先決條件:</strong> 精通徒手擊打，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果:</strong> 你對一個你不對它有夾擊，且它至少鄰接兩個它其他盟友的生物的近戰攻擊骰獲得+1加值。除此之外，你的近戰攻擊忽略任何來自協助他人動作的AC加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
+    },
+    "Dreadful Carnage": {
+      "name": "懼栗屠殺 Dreadful Carnage",
+      "description": "<p><b><i>殺死敵人能夠挫敗附近其他敵人的士氣。</i></b></p><p><b>先決條件</b>：力量15，猛力攻擊，沉著暴怒，基本攻擊加值+11。</p><p><b>專長效果</b>：當你將一名敵人的HP降至0或更低時，你能夠以自由動作對30尺內的所有敵人進行一次威嚇檢定以挫敗士氣。若敵人無法同時看到你和HP被你降至0或更低的敵人，則不受影響。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dreadful%20Carnage\">Archives of Nethys</a></em></p>"
+    },
+    "Eldritch Claws": {
+      "name": "奧秘之爪 Eldritch Claws",
+      "description": "<p><b><i>誰需要魔法武器？鬼魅的把戲無法阻擋你的獸性之力。</i></b></p><p><b>先決條件</b>：力量15，擁有天生武器，基本攻擊加值+6。</p><p><b>專長效果</b>：你的天生武器在克服傷害減免時同時被視為魔法和銀。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Claws\">Archives of Nethys</a></em></p>"
+    },
+    "Empower Spell-Like Ability": {
+      "name": "類法術能力強效 Empower Spell-Like Ability",
+      "description": "<p><b><i>該生物的一種類法術能力極其強而有力。</i></b></p><p><b>先決條件</b>：擁有施法者等級6級以上的類法術能力。</p><p><b>專長效果</b>：選擇一個該生物擁有的類法術能力（不過要遵守以下列出的限制）。每天3次，該生物可以如同搭配了“法術強效”超魔般使用此類法術能力（除非該生物每天可以使用該類法術能力的次數低於3次）。每當該生物使用類法術能力強效時，法術效果中的所有可變量值皆增加一半（+50%）。但本專長不影響豁免檢定與對抗檢定，對沒有變量的法術也無影響。該生物必須選擇一個法術環級不超過“1/2生物最高CL-2”的類法術能力以搭配此專長。詳見表：類法術能力強效與瞬發。</p><p><b>特殊說明</b>：生物可以多次選擇本專長。每次選擇此專長時，它的效果將應用在另一個類法術能力上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell-Like%20Ability\">Archives of Nethys</a></em></p>"
+    },
+    "Enforcer": {
+      "name": "脅迫者 Enforcer",
+      "description": "<p><b><i>你善於在被你傷害的人心中製造恐懼。</i></b></p><p><b>先決條件</b>：威嚇1級。</p><p><b>專長效果</b>：每當你使用近戰武器造成非致命傷害，就能夠以自由動作進行一次威嚇檢定，用以挫敗攻擊目標的士氣。若成功，目標會戰慄，持續等同於傷害的輪數。如果你的攻擊是重擊，你的目標會在成功的威嚇檢定後驚懼1輪，除此之外還會在等同於傷害的輪數中戰慄。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Enforcer\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Amplification": {
+      "name": "額外精神增幅 Extra Amplification",
+      "description": "<p>Extra Amplification</p><p><i>你精通於使用精神能量產生增幅效果。</i></p><p><b>先決條件</b>：精神增幅（Phrenic Amplification）職業能力</p><p><b>好處</b>：你獲得一個額外的精神增幅（Phrenic Amplification）。但不能選取高等精神增幅（Major Amplification）。</p><p><b>特殊</b>：你可以多次選取該專長。每次選擇該專長，都會獲得另一個精神增幅（Phrenic Amplification）。</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：專長／OA異能冒險｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Amplification\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Arcana": {
+      "name": "額外奧能 Extra Arcana",
+      "description": "<p><b><i>你發掘了一個新魔戰士奧能的秘密。</i></b></p><p><b>先決條件</b>：【魔戰士奧能】職業特性。</p><p class=\"zhtw-credit\"><em>譯者：他化自在天｜書目：專長／UM 極限魔法｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Arcana\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Arcanist Exploit": {
+      "name": "額外奧能技藝 Extra Arcanist Exploit",
+      "description": "<p><i>你比其他的奧能師了解了更多關於魔法的秘密。</i></p><p><b>先決條件：</b>奧能師奧能技藝職業能力</p><p><b>專長效果：</b>你獲得一個額外的奧能技藝，你必須滿足獲得此奧能技藝的前提條件。</p><p><b>特殊情況：</b>你可以多次選擇本專長，每次選擇，你需要選擇一個額外的奧能技藝。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Arcanist%20Exploit\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Cantrips or Orisons": {
+      "name": "額外戲法或禱念 Extra Cantrips or Orisons",
+      "description": "<p><b><i>你是使用小戲法的大師。</i></b></p><p><b>先決條件</b>：施展戲法或禱念的能力。</p><p><b>專長效果</b>：你所知道的戲法或禱念數量增加2.</p><p><b>特殊說明</b>：你可以多次選擇本專長，其效果累計。</p><p class=\"zhtw-credit\"><em>譯者：他化自在天｜書目：專長／UM 極限魔法｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Cantrips%20or%20Orisons\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Discovery": {
+      "name": "額外科研發現 Extra Discovery",
+      "description": "<p><b><i>你完成了一種新的鍊金科研發現。</i></b></p><p><b>先決條件</b>：【科研發現】職業特性。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Discovery\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Evolution": {
+      "name": "額外進化 Extra Evolution",
+      "description": "<p><b><i>你的幻靈擁有更多的進化。</i></b></p><p><b>先決條件</b>：【幻靈】職業特性。</p><p><b>專長效果</b>：你幻靈的進化池增加1點。</p><p><b>特殊說明</b>：你可以在1級選擇這一次進化，並且在5級、10級、15級和20級再次選擇。</p><p class=\"zhtw-credit\"><em>譯者：他化自在天｜書目：專長／UM 極限魔法｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=52439\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Evolution\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Focus Power": {
+      "name": "額外靈器之力 Extra Focus Power",
+      "description": "<p>Extra Focus Power</p><p><i>你從靈器中獲得一項額外的靈器之力。</i></p><p><b>先決條件</b>：靈器之力（Focus Power）職業能力</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：專長／OA異能冒險｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Focus%20Power\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Gnome Magic": {
+      "name": "額外侏儒魔法 Extra Gnome Magic",
+      "description": "<p><em>你血脈中流淌的原始魔力比普通侏儒更加強大。</em></p><p><strong>先決條件</strong>：魅力13，侏儒</p><p><strong>專長效果</strong>：你每天額外獲得3次使用侏儒類法術能力（舞光術、幻音術、魔法伎倆）的機會。這些次數可以任意組合使用：例如你可以一天內使用四次舞光術（將所有額外次數用於同一個法術），或者各使用兩次幻音術、魔法伎倆和動物交談，再加一次舞光術。如果你擁有其他能改變種族0環類法術能力的專長、特性或能力，本專長同樣適用於改變後的法術。</p><p class=\"zhtw-credit\"><em>書目：格拉里昂的侏儒／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Gnome%20Magic\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Hex": {
+      "name": "額外巫術 Extra Hex",
+      "description": "<p><b><i>你學會了一種新的巫術之秘。</i></b></p><p><b>先決條件</b>：【巫術】職業特性。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Hex\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Inspiration": {
+      "name": "額外靈感 Extra Inspiration",
+      "description": "<p><i>你的靈感力源源不絕。</i></p><p><b>先決條件：</b>業餘調查員專長或靈感職業能力</p><p><b>專長效果：</b>你的靈感池獲得每日3點額外的靈感點數</p><p><b>特殊情況：</b>如果你在調查員職業上擁有等級，你可以多次選擇本專長，每次選擇，你獲得額外3點額外的每日靈感點數。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Inspiration\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Investigator Talent": {
+      "name": "額外調查員天賦 Extra Investigator Talent",
+      "description": "<p><i>在靈感的驅動下，你的口袋裡總有一堆花招可用。</i></p><p><b>先決條件：</b>調查員天賦職業能力</p><p><b>專長效果：</b> 你獲得一個額外的調查員天賦，你必須滿足獲得此調查員天賦的前提條件。</p><p><b>特殊情況：</b>你可以多次選擇本專長，每次選擇，你需要選擇一個額外的調查員天賦。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Investigator%20Talent\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Martial Flexibility": {
+      "name": "額外招式 Extra Martial Flexibility",
+      "description": "<p><i>你的武技可謂千變萬化。</i></p><p><b>先決條件：</b>千招百式職業能力</p><p><b>專長效果：</b>你每天使用千招百式能力的次數增加3次。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Martial%20Flexibility\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Mental Focus": {
+      "name": "額外心智點 Extra Mental Focus",
+      "description": "<p>Extra Mental Focus</p><p><i>你的心智點得到了提升。</i></p><p><b>先決條件</b>：心智點（Mental Focus）職業能力</p><p><b>好處</b>：你獲得2點額外的心智點（Mental Focus）。</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：專長／OA異能冒險｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Mental%20Focus\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Mesmerist Tricks": {
+      "name": "額外催眠師詭計 Extra Mesmerist Tricks",
+      "description": "<p>Extra Mesmerist Tricks</p><p><i>你可以比以往使用更多次的催眠師詭計。</i></p><p><b>先決條件</b>：催眠師詭計（Mesmerist Trick）職業能力</p><p><b>好處</b>：你每日可以額外植入2次催眠師詭計（Mesmerist Trick）。</p><p><b>特殊</b>：你可以多次選取該專長，其效果會疊加。</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：專長／OA異能冒險｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=78448.msg742539#msg742539\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Mesmerist%20Tricks\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Ninja Trick": {
+      "name": "額外忍術 Extra Ninja Trick",
+      "description": "<p>你對自身暗影技藝的修煉超越了大部分人。</p><p><strong>先決條件：</strong>【忍術<sup>UC</sup>】職業能力</p><p class=\"zhtw-credit\"><em>書目：陰影血脈／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Ninja%20Trick\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Panache": {
+      "name": "額外派頭 Extra Panache",
+      "description": "<p><i>你比普通的遊蕩劍客更加時髦。</i></p><p><b>先決條件：</b>業餘劍客專長或派頭職業能力</p><p><b>專長效果：</b>你獲得每日額外兩點時髦值，以及兩點時髦最大值。</p><p><b>特殊情況：</b>如果你在遊蕩劍客職業上擁有等級，你可以多次選擇本專長，每次選擇，專長效果疊加。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Panache\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Rage Power": {
+      "name": "額外狂暴之力 Extra Rage Power",
+      "description": "<p><b><i>你解鎖了一種狂暴中可以使用的新能力。</i></b></p><p><b>先決條件</b>：【狂暴之力】職業特性。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Rage%20Power\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Reservoir": {
+      "name": "額外魔源 Extra Reservoir",
+      "description": "<p><i>奧發能量在你體內暢快地湧動。</i></p><p><b>先決條件：</b>奧能師奧能源泉職業能力</p><p><b>專長效果：</b>你的奧能源泉獲得每日3點額外的魔法能量，並且最大值上升3點。</p><p><b>特殊情況：</b>你可以多次選擇本專長，每次選擇效果疊加。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Reservoir\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Revelation": {
+      "name": "額外啟示 Extra Revelation",
+      "description": "<p><b><i>你領悟了領域中的一種新的表現方式。</i></b></p><p><b>先決條件</b>：【啟示】職業特性。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Revelation\">Archives of Nethys</a></em></p>"
+    },
+    "Extra Slayer Talent": {
+      "name": "額外殺手天賦 Extra Slayer Talent",
+      "description": "<p><i>經年累月的摘取目標讓你練就了更多殺人技巧。</i></p><p><b>先決條件：</b>殺手天賦職業能力</p><p><b>專長效果：</b> 你獲得一個額外的殺手天賦，你必須滿足獲得此殺手天賦的前提條件。</p><p><b>特殊情況：</b>你可以多次選擇本專長，每次選擇，你需要選擇一個額外的殺手天賦。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Slayer%20Talent\">Archives of Nethys</a></em></p>"
+    },
+    "Flyby Attack": {
+      "name": "飛越攻擊 Flyby Attack",
+      "description": "<p><b><i>該生物可以在飛行移動的前後發起攻擊。</i></b></p><p><b>先決條件</b>：擁有飛行速度。</p><p><b>專長效果</b>：當生物飛行時，該生物可以在移動途中進行一個移動動作和另一個標準動作。不過在飛行途中，生物不能進行多於一個移動動作。</p><p><b>通常狀況</b>：沒有此專長的情況下，生物只能在移動前或移動後進行標準動作。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack\">Archives of Nethys</a></em></p>"
+    },
+    "Focused Shot": {
+      "name": "集中射擊 Focused Shot",
+      "description": "<p><b><i>對結構的洞悉能夠使你的射擊更加致命。</i></b></p><p><b>先決條件</b>：智力13，近距射擊，精準射擊。</p><p><b>專長效果</b>：以標準動作，你能夠使用弓或弩進行一次攻擊，並且將智力修正加到傷害檢定上。你必須距離目標30尺範圍內，才能造成這個額外傷害。免疫重擊與偷襲的生物同樣免疫這個額外傷害。</p><p><b>特殊說明</b>：從2級起，選擇【箭術戰鬥流派】的遊俠能夠將“集中射擊”作為戰鬥流派專長進行選取。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Focused%20Shot\">Archives of Nethys</a></em></p>"
+    },
+    "Following Step": {
+      "name": "咄咄逼人 Following Step",
+      "description": "<p><b><i>當敵人試圖從你身邊逃開時，你能夠反覆嘗試跟上他而不會妨礙自身的正常移動。</i></b></p><p><b>先決條件</b>：敏捷13，快步跟進。</p><p><b>專長效果</b>：當你使用“快步跟進”專長跟上鄰近的敵人時，你能夠移動至多10尺。你可以在下一輪內使用五尺快步，並且任何使用此專長進行的移動，均不會扣除你下一輪的移動距離。</p><p><b>通常狀況</b>：你只能使用“快步跟進”專長進行五尺快步跟上敵人。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Following%20Step\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Blind-Fight": {
+      "name": "高等盲鬥 Greater Blind-Fight",
+      "description": "<p><b><i>你的敵人無法躲藏在你身邊。</i></b></p><p><b>先決條件</b>：察覺15級，精通盲鬥。</p><p><b>專長效果</b>：你的近戰攻擊忽略低於全隱蔽的失手率，並且對你來說，全隱蔽的敵人被視為只有普通的隱蔽（即20%的失手率而非50%）。你仍舊可以如常重投失手率的百分骰。如果你成功定位隱身或躲藏起來的攻擊者，該名敵人會失去與使用遠程攻擊對你進行攻擊相關的優勢，無論彼此的距離為何。即你的AC不會失去你的敏捷加值，並且攻擊者不會由於隱蔽而獲得通常的+2加值。</p><p><b>特殊說明</b>：高等盲鬥專長對於‘閃現術（blink）’法術的受術者沒有效果。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Blind-Fight\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Dirty Trick": {
+      "name": "高等陰招 Greater Dirty Trick",
+      "description": "<p><b><i>你的敵人會被你的陰招搞得暈頭轉向。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻，精通陰招，基本攻擊加值+6。</p><p><b>專長效果</b>：你所實行的陰招戰技檢定獲得+2加值。這個加值與“精通陰招”提供的加值疊加。每當你成功進行陰招戰技之後，產生的懲罰持續1d4輪，你的攻擊每比目標的CMD高5點，則再多持續1輪。此外，目標移除狀態需要耗費一個標準動作。</p><p><b>通常狀況</b>：陰招所賦予的狀態持續1輪，你的攻擊每比目標的CMD高5點，則再多持續1輪。目標移除狀態需要耗費一個移動動作。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Dirty%20Trick\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Drag": {
+      "name": "高等拖拽 Greater Drag",
+      "description": "<p><b><i>被你拖拽的敵人會失去平衡。</i></b></p><p><b>先決條件</b>：力量13，精通拖拽，猛力攻擊，基本攻擊加值+6。</p><p><b>專長效果</b>：你所實行的拖拽戰技檢定獲得+2加值。這個加值與“精通拖拽”提供的加值疊加。每當你拖拽敵人，他的移動會引起你的盟友的藉機攻擊（但是不包括你）。</p><p><b>通常狀況</b>：被拖拽的生物不會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Drag\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Reposition": {
+      "name": "高等移位 Greater Reposition",
+      "description": "<p><b><i>當你改變敵人的位置時，他們會變得容易遭受你盟友的攻擊。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻，精通移位，基本攻擊加值+6。</p><p><b>專長效果</b>：你所實行的移位戰技檢定獲得+2加值。這個加值與“精通移位”提供的加值疊加。每當你通過移位使敵人移動時，他的移動會引起你的盟友的藉機攻擊（但是不包括你）。</p><p><b>通常狀況</b>：由於移位戰技而移動的生物不會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Reposition\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Spring Attack": {
+      "name": "高等跳躍攻擊 Greater Spring Attack",
+      "description": "<p><em>你是一股貫穿戰場的收割風暴，使你的敵手們搖搖欲墜。</em></p><p><strong>先決條件</strong>：敏捷17，神行步，閃避，精通跳躍攻擊，靈活移動，靈狐步，跳躍攻擊，基礎攻擊加值+16。</p><p><strong>專長效果</strong>：當你使用跳躍攻擊專長時，你可在移動期間選擇三個攻擊目標，而非一個目標。若以這種方式進行第二次攻擊的話，需要應用你完整基礎攻擊加值-5進行攻擊，而若以這種方式進行第三次攻擊的話，則需應用你完整基礎攻擊加值-10進行攻擊。跳躍攻擊的專長的所有限制都適用於每個目標，且你的移動並不會引發任何目標的藉機攻擊。你不能以同一生物為目標進行超過一次的攻擊。</p><p><strong>特殊說明</strong>：一名至少有18個武僧等級的武僧，可以選擇此專長作為其武僧獎勵專長，但前提是該角色已擁有精通跳躍攻擊專長和跳躍攻擊專長。</p><p class=\"zhtw-credit\"><em>書目：極限荒野UW／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154625.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spring%20Attack\">Archives of Nethys</a></em></p>"
+    },
+    "Greater Steal": {
+      "name": "高等盜取 Greater Steal",
+      "description": "<p><b><i>你懂得在戰鬥中從敵人那裡扒竊道具的敲門。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻，精通盜取，基本攻擊加值+6。</p><p><b>專長效果</b>：你所實行的盜取戰技檢定獲得+2加值。這個加值與“精通盜取”提供的加值疊加。如果你成功在戰鬥中從敵人身上盜取一件物品，那麼他直至戰鬥結束或者嘗試使用這件丟失的物品前不會察覺這件事情。</p><p><b>通常狀況</b>：被盜取戰技檢定取走物品的生物會自動察覺這點。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Steal\">Archives of Nethys</a></em></p>"
+    },
+    "Hover": {
+      "name": "盤旋 Hover",
+      "description": "<p><b><i>這個生物可以在空中盤旋飛行，同時揚起沙塵和碎石。</i></b></p><p><b>先決條件</b>：擁有飛行速度。</p><p><b>專長效果</b>：擁有此專長的生物可以停止飛行移動，而是進行無需飛行檢定的盤旋動作。如果該生物的體型為大型以上，那麼它可以利用盤旋形成的氣流吹起起周圍20尺具有碎石和塵土的地面，形成半徑60尺的圓形沙塵。沙塵氣流可以熄滅影響範圍內的火把、營火、提燈等暴露的小型非魔法火源。在沙塵內生物的能見度下降為10尺，距離15至20尺時，生物獲得掩蔽（20%失手率），而在25尺或更遠時，生物獲得全隱蔽（50%失手率，且無法被視覺定位）。</p><p><b>通常狀況</b>：一個生物必須通過飛行技能檢定才能盤旋，且無法通過盤旋捲起沙塵。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Hover\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Dirty Trick": {
+      "name": "精通陰招 Improved Dirty Trick",
+      "description": "<p><b><i>你很擅長對敵人耍一些小伎倆。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻。</p><p><b>專長效果</b>：當你使用陰招戰技時不會引起藉機攻擊。此外，你所實行的陰招戰技檢定獲得+2加值。你還在對抗針對自身的陰招戰技時，CMD獲得+2加值。</p><p><b>通常狀況</b>：當你使用陰招戰技時會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Dirty%20Trick\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Drag": {
+      "name": "精通拖拽 Improved Drag",
+      "description": "<p><b><i>你擅長在戰場中拖拽敵人。</i></b></p><p><b>先決條件</b>：力量13，猛力攻擊，基本攻擊加值+1。</p><p><b>專長效果</b>：當你使用拖拽戰技時不會引起藉機攻擊。此外，你所實行的拖拽戰技檢定獲得+2加值。你還在對抗針對自身的拖拽戰技時，CMD獲得+2加值。</p><p><b>通常狀況</b>：當你使用拖拽戰技時會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Drag\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Natural Armor": {
+      "name": "精通天生護甲 Improved Natural Armor",
+      "description": "<p><b><i>這個生物皮厚異常。</i></b></p><p><b>先決條件</b>：擁有天生護甲，體質13。</p><p><b>專長效果</b>：該生物的AC天生護甲加值+1。</p><p><b>特殊說明</b>：生物可以多次選擇本專長。每次選擇此專長時，AC天生護甲加值額外+1。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Armor\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Natural Attack": {
+      "name": "精通天生武器攻擊 Improved Natural Attack",
+      "description": "<p><b><i>這個生物的天生武器可以造成可怕的傷害。</i></b></p><p><b>先決條件</b>：擁有天生武器攻擊，基本攻擊加值+4。</p><p><b>專長效果</b>：選擇一種你擁有的天生武器攻擊（不可以是徒手擊打），其可造成的傷害投骰按以下列表提升一個體型等級：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始傷害為1d10，則依據此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊說明</b>：生物可以多次選擇本專長，每次選擇本專長時，它必須將之應用在一項新的天生武器攻擊上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Reposition": {
+      "name": "精通移位 Improved Reposition",
+      "description": "<p><b><i>你習得了如何迫使敵人在戰場中移動的技巧。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻。</p><p><b>專長效果</b>：當你使用移位戰技時不會引起藉機攻擊。此外，你所實行的移位戰技檢定獲得+2加值。你還在對抗針對自身的移位戰技時，CMD獲得+2加值。</p><p><b>通常狀況</b>：當你使用移位戰技時會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Reposition\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Spring Attack": {
+      "name": "精通跳躍攻擊 Improved Spring Attack",
+      "description": "<p><em>你如風一般掠過焦灼的戰場，並在經過時攻擊敵手。</em></p><p><strong>先決條件</strong>：敏捷15，閃避，靈活移動，靈狐步，跳躍攻擊，基礎攻擊加值+9。</p><p><strong>專長效果</strong>：當你使用跳躍攻擊專長時，你可在移動期間選擇兩個個攻擊目標，而非一個目標。若以這種方式進行第二次攻擊的話，需要應用你完整基礎攻擊加值-5進行攻擊。跳躍攻擊的專長的所有限制都適用於每個目標，且你的移動並不會引發任何目標的藉機攻擊。你不能以同一生物為目標進行超過一次的攻擊。</p><p><strong>特殊說明</strong>：一名至少有14個武僧等級的武僧，可以選擇此專長作為其武僧獎勵專長，但前提是該角色已擁有跳躍攻擊專長。</p><p class=\"zhtw-credit\"><em>書目：極限荒野UW／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154625.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Spring%20Attack\">Archives of Nethys</a></em></p>"
+    },
+    "Improved Swap Places": {
+      "name": "精通換位 Improved Swap Places",
+      "description": "<p><i>無論你們之間的身材差異多大，你和夥伴已經完全掌握了互相移身的技巧。</i></p><p><b>先決條件：</b></p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Swap%20Places\">Archives of Nethys</a></em></p>"
+    },
+    "Inner Flame": {
+      "name": "熾焰核心 Inner Flame",
+      "description": "<p><b><i>你的身體產生了如此之多的熱能，使得你僅靠觸摸就能燒焦敵人。</i></b></p><p><b>先決條件</b>：炙熱武器，角色等級7，火元素裔。</p><p><b>專長效果</b>：你在對抗火焰攻擊以及帶有〔火〕或者〔光亮〕描述符的法術時的豁免加值提升至+4。當你使用“炙熱武器”時，被影響的武器造成額外1d6火焰傷害而非原本的1點，此外當你處於擒抱狀態時，你可以在你的行動輪對擒抱對手造成該傷害。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Inner%20Flame\">Archives of Nethys</a></em></p>"
+    },
+    "Magical Tail": {
+      "name": "魔性之尾 Magical Tail",
+      "description": "<p><b><i>你長出了額外的尾巴，它代表著你不斷成長的魔力。</i></b></p><p><b>先決條件</b>：狐妖。</p><p><b>專長效果</b>：你獲得了新的類法術能力，每個每天都能用2次，按照後述內容依序選取：‘易容術’，‘魅惑人類’，‘誤導術’，‘隱形術’，‘暗示術’，‘移位術’，‘困惑術’，‘支配人類’。例如，你第一次選擇該專長，你獲得每天2次的‘易容術’，第二次選擇該專長獲得每天2次的‘魅惑人類’。你的CL等同於你的HD。這些能力的DC基於魅力。</p><p><b>特殊說明</b>：你最多能夠選擇該專長8次。每次你選擇該專長都會按照以上描述獲得額外的能力。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Tail\">Archives of Nethys</a></em></p>"
+    },
+    "Mounted Shield": {
+      "name": "騎乘盾牌防禦 Mounted Shield",
+      "description": "<p><b><i>你的防禦技巧可以同時應用到自身和坐騎上。</i></b></p><p><b>先決條件</b>：騎乘戰鬥，盾牌專攻。</p><p><b>專長效果</b>：你可以將你的基本盾牌加值（包括由盾牌專攻獲得的加值，但是不包括增強加值）加到你的坐騎的AC上。此外，當你使用“騎乘戰鬥”專長，能夠將這個加值加到用於避免你的坐騎受到攻擊的騎術檢定上。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Shield\">Archives of Nethys</a></em></p>"
+    },
+    "Mounted Skirmisher": {
+      "name": "騎乘散兵 Mounted Skirmisher",
+      "description": "<p><b><i>你擅長在快速移動的馬背上進行攻擊。</i></b></p><p><b>先決條件</b>：騎術14級，騎乘戰鬥，騎乘技巧。</p><p><b>專長效果</b>：如果你的坐騎移動的距離等同於自身速度或更少時，你仍舊可以進行全力攻擊動作。</p><p><b>通常狀況</b>：如果你的坐騎移動距離超過5尺，那麼你就只能進行普通的攻擊動作。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Skirmisher\">Archives of Nethys</a></em></p>"
+    },
+    "Multiattack": {
+      "name": "多重攻擊 Multiattack",
+      "description": "<p><b><i>這個生物精於利用自己的天生武器進行攻擊。</i></b></p><p><b>先決條件</b>：三次或更多天生武器攻擊。</p><p><b>專長效果</b>：生物的次要天生武器攻擊僅在攻擊上承受-2減值。</p><p><b>通常狀況</b>：若無此專長支持，生物的次要天生武器攻擊在攻擊投骰上將承受-5減值。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Multiattack\">Archives of Nethys</a></em></p>"
+    },
+    "Multiweapon Fighting": {
+      "name": "多重武器戰鬥 Multiweapon Fighting",
+      "description": "<p><b><i>這個生物擅於利用自己的多條手臂揮舞武器。</i></b></p><p><b>先決條件</b>：敏捷13，擁有三條或更多手臂。</p><p><b>專長效果</b>：在持用多件武器戰鬥時，你在主手武器上受到的攻擊檢定減值減少2點，副手武器攻擊檢定上的減值減少6點。</p><p><b>通常狀況</b>：若無此專長支持，生物在使用多武器戰鬥時，在主手武器上的攻擊檢定承受-6減值，副手武器上的攻擊檢定承受-10減值（該生物只有一隻手視為主手，其他手皆視為副手）。更多信息請查看雙武器戰鬥規則。</p><p><b>特殊說明</b>：如果該生物的手多於兩隻，那麼此專長對該生物而言取代“雙武器格鬥”專長。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Fighting\">Archives of Nethys</a></em></p>"
+    },
+    "Paired Opportunists": {
+      "name": "雙重藉機 Paired Opportunists",
+      "description": "<p><b><i>你明白如何讓敵人為了懈怠的防守而付出代價。</i></b></p><p><b>專長效果</b>：每當你鄰近一名擁有該專長的盟友，那麼在對抗同時處於你們威脅範圍內的生物時，你們的藉機攻擊都會獲得+4環境加值。若敵人處於你的威脅範圍，那麼只要他引起你的盟友的藉機攻擊，就也會引起你的藉機攻擊（即使由於某些能力或者環境，導致正常情況下不會引起你的藉機攻擊）。在對抗一名生物的一次特定動作時，該專長不會允許你獲得超過一次的藉機攻擊機會。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Paired%20Opportunists\">Archives of Nethys</a></em></p>"
+    },
+    "Piranha Strike": {
+      "name": "食人魚打擊 Piranha Strike",
+      "description": "<p><i>你進行快速的組合打擊，犧牲精確度，造成大量致命的小傷口。</i></p><p><b>先決條件</b>：武器嫻熟，基本攻擊加質+1</p><p><b>專長效果</b>：你使用輕武器時可以選擇在命中和戰技檢定上承受-1的懲罰，使傷害增加2，此加值在你使用副手武器的時候減半，當你的基本攻擊加值達到+4和之後每增加4點的時候命中減值上升1點，而傷害增加2點，你必須在攻擊前使用此專長，且效果延續到你下一輪開始。此傷害加值不會在碰觸攻擊或不造成生命值傷害的攻擊上生效，食人魚打擊無法和猛力攻擊一起使用。</p><p class=\"zhtw-credit\"><em>譯者：PATIBAUL｜書目：專長／薩加瓦，失落的殖民地｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60763.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Piranha%20Strike\">Archives of Nethys</a></em></p>"
+    },
+    "Quick Stow": {
+      "name": "快速收納 Quick Stow",
+      "description": "<p><i>你能輕鬆地收納物品併入鞘武器。</i></p><p><b>先決條件</b>：即時備戰，基礎攻擊加值+1。</p><p><b>專長效果</b>：你在入鞘武器時不會引發藉機攻擊，並且你可以將用於入鞘武器的一個移動動作結合在一次常規移動動作中（以此方式，你可以在同一個移動動作中同時收起與拔出一把武器）。若你具有雙武器戰鬥專長，你可以在通常入鞘一把武器的時間內入鞘兩把輕型或單手武器。</p><p>你也可以將物品快速收納至你所穿戴或攜帶的背包或其他容器中。當你成功使用一個動作拾起一件物品時（包括當你通過巧手檢定或偷竊戰技檢定成功偷取一件物品時），你可以將該物品作為取得它的同一動作的一部分收納。你可以嘗試通過一次承受–20減值的巧手檢定來隱藏該物品，該檢定與所有對手的察覺檢定結果對抗。</p><p class=\"zhtw-credit\"><em>書目：反派法典VC／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=160767.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Stow\">Archives of Nethys</a></em></p>"
+    },
+    "Quicken Spell-Like Ability": {
+      "name": "類法術能力瞬發 Quicken Spell-Like Ability",
+      "description": "<p><b><i>這個生物可以以極短的時間發動類法術能力。</i></b></p><p><b>先決條件</b>：擁有施法者等級10級以上的類法術能力。</p><p><b>專長效果</b>：選擇一項該生物擁有的類法術能力，每天3次，該生物可以如同搭配了“法術瞬發”超魔般使用此類法術能力（除非該生物每天可以使用該類法術能力的次數低於3次）。每當該生物使用類法術能力瞬發時，這個法術的施法時間降低為迅捷動作且不會引發藉機攻擊。在本輪內，這個生物仍然可以進行其他動作——包括施放類法術能力（以標準動作）。這個生物每輪只能施放一個瞬發類法術能力。該生物必須選擇一個法術環級不超過“1/2生物最高CL-4”的類法術能力以搭配此專長。詳見表：類法術能力強效與瞬發。</p><p><b>通常狀況</b>：使用類法術能力通常至少需要一個標準動作，且會引發其他生物的藉機攻擊。</p><p><b>特殊說明</b>：生物可以多次選擇本專長。每次選擇此專長時，它的效果將應用在另一個類法術能力上。</p><table> <tbody> <tr> <td> <b>表：類法術能力強效與瞬發</b><b></b></td></tr> <tr> <td> <b>類法術環級</b><b></b></td> <td> <b>類法術強效</b><b></b> <b>所需施法者等級</b><b></b></td> <td> <b>類法術瞬發</b><b></b> <b>所需施法者等級</b><b></b></td></tr> <tr> <td> <b>0</b><b>環</b><b></b></td> <td> 4級</td> <td> 8級</td></tr> <tr> <td> <b>1</b><b>環</b></td> <td> 6級</td> <td> 10級</td></tr> <tr> <td> <b>2</b><b>環</b></td> <td> 8級</td> <td> 12級</td></tr> <tr> <td> <b>3</b><b>環</b></td> <td> 10級</td> <td> 14級</td></tr> <tr> <td> <b>4</b><b>環</b></td> <td> 12級</td> <td> 16級</td></tr> <tr> <td> <b>5</b><b>環</b></td> <td> 14級</td> <td> 18級</td></tr> <tr> <td> <b>6</b><b>環</b></td> <td> 16級</td> <td> 20級</td></tr> <tr> <td> <b>7</b><b>環</b></td> <td> 18級</td> <td> -</td></tr> <tr> <td> <b>8</b><b>環</b></td> <td> 20級</td> <td> -</td></tr> <tr> <td> <b>9</b><b>環</b></td> <td> -</td> <td> -</td></tr></tbody></table><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Quicken%20Spell-Like%20Ability\">Archives of Nethys</a></em></p>"
+    },
+    "Reach Spell": {
+      "name": "及遠法術 Reach Spell",
+      "description": "<p><b><i>你的法術射程比正常情況更遠。</i></b></p><p><b>專長效果</b>：你能夠調整範圍為接觸，近距或者中距的法術，使其範圍按照後述次序提升為更遠的類別：接觸，近距，中距和遠距。每提高1級範圍類別，及遠法術就會佔用比法術的實際環級高1環的法術位。比如，將原本範圍為接觸的法術提升至遠距，會佔用比法術的實際環級高3環的法術位。需要近戰接觸攻擊的法術若被本專長所調整，那麼會改為需要遠程接觸攻擊。法術範圍不屬於接觸、近距和中距的法術無法由此專長受益。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Reach%20Spell\">Archives of Nethys</a></em></p>"
+    },
+    "Rending Claws": {
+      "name": "撕扯之爪 Rending Claws",
+      "description": "<p><b><i>你的利爪攻擊能夠對敵人造成更高的傷害。</i></b></p><p><b>先決條件</b>：力量13，擁有2爪抓天生武器，基本攻擊加值+6。</p><p><b>專長效果</b>：如果你在同一輪內成功使用2爪抓命中一名生物，第二次爪抓攻擊會額外造成1d6點傷害。這個傷害是精準傷害，不會受到重擊的影響。每輪你只能使用該專長1次。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Claws\">Archives of Nethys</a></em></p>"
+    },
+    "Saving Shield": {
+      "name": "盾牌掩護 Saving Shield",
+      "description": "<p><b><i>你能夠偏轉可能意味著盟友死亡的攻擊。</i></b></p><p><b>先決條件</b>：擅長盾牌。</p><p><b>專長效果</b>：當你鄰近的一名盟友成為一次攻擊的目標，你能夠以直覺動作使這位相鄰盟友的AC獲得+2盾牌加值。你必須持用輕型盾牌、重型盾牌或者塔盾才能使用該專長。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Saving%20Shield\">Archives of Nethys</a></em></p>"
+    },
+    "Scorching Weapons": {
+      "name": "炙熱武器 Scorching Weapons",
+      "description": "<p><b><i>元素火焰在你的體內躁動著，使你的血液沸騰，並讓你能夠抵抗火焰。</i></b></p><p><b>先決條件</b>：火元素裔。</p><p><b>專長效果</b>：你在對抗火焰攻擊以及帶有〔火〕或者〔光亮〕描述符的法術時豁免檢定+2。以一個迅捷動作，你可以將兩隻手中持握的人造金屬武器燒得火紅，成功用這樣的武器命中會造成1點額外火焰傷害，這個效果持續1輪。該效果不與其他給武器增加火焰傷害的同類效果疊加，比如〈熾焰〉武器附魔。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scorching%20Weapons\">Archives of Nethys</a></em></p>"
+    },
+    "Shark Leap": {
+      "name": "鯊躍 Shark Leap",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 58</p><p><em>像一隻致命的掠食者，你從沒有警惕的敵人下面閃擊他們。</em></p><p><strong>先決條件：</strong>精通徒手擊打，猛鯊流，鯊裂，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果：</strong>當你處於猛鯊流的架勢之下，並且你在水下擁有中等，上升，快速上升的浮力時，你可以做出一次可怖的躍擊來攻擊你正上方的敵人。這類似於衝鋒，除了你只能筆直地向上移動，並且只能使用穿刺徒手擊打或者嚙咬攻擊。如果你的攻擊命中了，這將會造成兩倍的傷害；如果你的攻擊骰結果超過了11+目標的游泳加值，這次攻擊將會讓目標失去平衡，直到它的下一回合。和衝鋒一樣，在你只能做一個標準動作時（比如突襲輪），你也可以做一個閹割版本的鯊躍；你只能半速移動，就和部分衝鋒一樣，而且攻擊只會翻倍傷害骰（如同要害打擊）而不是所有傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 58｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
+    },
+    "Shark Style": {
+      "name": "猛鯊流 Shark Style",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鯊魚一樣戰鬥，像鯊魚一樣撕碎你的敵人。</em></p><p><strong>先決條件：</strong>精通徒手擊打，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果：</strong>你可以在使用徒手攻擊時造成穿刺或者鈍擊傷害。你的穿刺徒手打擊和嚙咬攻擊將會造成1d6點額外的流血傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
+    },
+    "Shark Tear": {
+      "name": "鯊裂 Shark Tear",
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敵人，並能在水中嗅到他們的血腥味。</em></p><p><strong>先決條件：</strong>精通徒手擊打，猛鯊流，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果：</strong>在處於猛鯊流的架勢時，你在水下獲得靈敏嗅覺，但僅限對流血的敵人。你還會在對抗流血敵人的傷害骰和攻擊骰上獲得+1加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
+    },
+    "Shield of Swings": {
+      "name": "劍刃屏障 Shield of Swings",
+      "description": "<p><b><i>瘋狂而又狂野的攻擊能夠加強你的防禦。</i></b></p><p><b>先決條件</b>：力量13，猛力攻擊，基本攻擊加值+1。</p><p><b>專長效果</b>：當你持用雙手武器進行全力攻擊動作時，能夠選擇減少1/2的傷害，來使AC和CMD獲得+4盾牌加值，直至你的下一輪開始為止。傷害減少也會持續至你的下一輪開始。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20of%20Swings\">Archives of Nethys</a></em></p>"
+    },
+    "Sidestep": {
+      "name": "滑步 Sidestep",
+      "description": "<p><b><i>你能夠在敵人揮空之後重新改變自己的位置。</i></b></p><p><b>先決條件</b>：敏捷13，閃避，靈活移動。</p><p><b>專長效果</b>：每當一名敵人對你進行的近戰攻擊失手時，你能夠以直覺動作移動五尺，但是你只能在該名敵人的威脅範圍內移動。這次移動不會引起藉機攻擊。如果你採取這一行動，那麼你無法在下一回合內進行五尺快步。如果你在下一回合進行移動，那麼你的總移動距離減少5尺。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sidestep\">Archives of Nethys</a></em></p>"
+    },
+    "Snatch": {
+      "name": "攫抓 Snatch",
+      "description": "<p><b><i>這個生物可以輕鬆抓握住另一個生物。</i></b></p><p><b>先決條件</b>：體型超大型以上。</p><p><b>專長效果</b>：生物能以一次爪抓或嚙咬攻擊展開擒抱戰技，如同它具有＜攫抓（Grab）＞能力。如果目標生物的體型比該生物至少小三個級別，該生物可以每輪通過一個成功的擒抱檢定自動對目標造成一個爪抓或嚙咬傷害。如果目標生物因為受到嚙咬攻擊而被擒抱、且攻擊生物擁有噴吐武器武器攻擊，那麼目標生物無法對此噴吐武器攻擊進行反射檢定。生物可以通過一個自由動作丟下被擒抱的生物或者通過一個標準動作將其拋飛。被拋飛的生物會移動“1d6×10尺”距離，並且每被移動10尺就會承受1d6點傷害。如果生物在飛行狀態拋出被攫抓的目標，目標還要承受相應的墜落傷害。</p><p><b>側滑飛行（</b><b>Wingover</b><b>）</b></p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Snatch\">Archives of Nethys</a></em></p>"
+    },
+    "Spit Venom": {
+      "name": "噴毒 Spit Venom",
+      "description": "<p><b><i>你已經掌握了娜迦裔戰士的技巧——將毒素噴入敵人的眼睛。</i></b></p><p><b>先決條件</b>：娜迦裔。</p><p><b>專長效果</b>：以一個整輪動作，你能夠用遠程接觸攻擊將毒液噴出10尺遠。如果你命中目標，他必須進行一次成功的強韌豁免，否則將會目盲1d6輪。豁免DC等同於“10+1/2總生命骰+體質修正”。每天你能夠使用該能力1次，每擁有3個HD時額外再增加1次。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Spit%20Venom\">Archives of Nethys</a></em></p>"
+    },
+    "Step Up and Strike": {
+      "name": "飛步進擊 Step Up and Strike",
+      "description": "<p><b><i>當地人試圖移開的時候，你能夠追上他並且進行一次攻擊。</i></b></p><p><b>先決條件</b>：敏捷13，咄咄逼人，快步跟進，基本攻擊加值+6。</p><p><b>專長效果</b>：當你使用“咄咄逼人”或者“快步跟進”專長跟隨鄰近的敵人時，你還能以最高的BAB進行單次近戰攻擊對抗該名敵人。這個攻擊被計為你在該輪的一次藉機攻擊。使用本專長不計入正常每輪能夠進行的動作數量。</p><p><b>通常狀況</b>：正常情況下你只能進行一次標準動作和一次五尺快步。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Step%20Up%20and%20Strike\">Archives of Nethys</a></em></p>"
+    },
+    "Stony Step": {
+      "name": "穿石步 Stony Step",
+      "description": "<p><b><i>大地承認你的親緣關係並且不再妨礙你的行動。</i></b></p><p><b>先決條件</b>：土元素裔。</p><p><b>專長效果</b>：每當你移動時，每輪你可以忽略5尺土地以及岩石造成的困難地形（碎石，石階等等）。該專長的效果同類專長疊加，比如“神行步”或者“靈狐步”專長。該專長允許你在此類困難地形中使用五尺快步。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Stony%20Step\">Archives of Nethys</a></em></p>"
+    },
+    "Sundering Strike": {
+      "name": "擊破重擊 Sundering Strike",
+      "description": "<p><b><i>你的重擊能夠擊破敵人的武器。</i></b></p><p><b>先決條件</b>：力量13，精通擊破，猛力攻擊，基本攻擊加值+9。</p><p><b>專長效果</b>：當你的近戰攻擊成功重擊時，除了攻擊正常造成的傷害之外還能夠擊破敵人的武器。如果你的重擊確認檢定超過了敵人的CMD，那麼你能夠擊破敵人的武器，就如同進行了擊破戰技檢定一般（單獨對武器進行正常的傷害檢定）。這不會引起藉機攻擊。</p><p><b>通常狀況</b>：你必須進行擊破戰技檢定才能擊破敵人的武器。</p><p><b>特殊說明</b>：你只能將後述專長中的一個應用在一次確認的重擊上：衝撞重擊，移位重擊，擊破重擊，繳械重擊或者摔絆重擊。你可以在重擊確認檢定之後選擇使用該專長。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sundering%20Strike\">Archives of Nethys</a></em></p>"
+    },
+    "Swap Places": {
+      "name": "換位 Swap Places",
+      "description": "<p><b><i>你很擅長與盟友在混亂的近戰格鬥中交換位置。</i></b></p><p><b>專長效果</b>：每當你鄰近一名擁有該專長的盟友，你就能夠將移入盟友所在的方格作為正常移動的一部分進行。與此同時，你的盟友會以直覺動作移入你原本的空間。你們兩人必須都是自願這麼做，並且能夠利用該專長進行移動。你的盟友必須與你體型相同才能利用該專長。你的盟友不會因這次移動而引起藉機攻擊，但是你會如常引發。這個移動不會計算入盟友的下一輪總移動距離內。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Swap%20Places\">Archives of Nethys</a></em></p>"
+    },
+    "Tail Terror": {
+      "name": "驚駭之尾 Tail Terror",
+      "description": "<p><b><i>你的尾巴有足夠的力量進行攻擊。</i></b></p><p><b>先決條件</b>：基本攻擊加值+1，狗頭人。</p><p><b>專長效果</b>：你可以使用尾巴進行拍擊。這是可以造成1d4鈍器傷害的次要天生武器攻擊。此外，你可以給你的尾巴添加上狗頭人尾部附屬武器。並且在選擇武器專長時，視為你擅長所有狗頭人尾部附屬武器。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tail%20Terror\">Archives of Nethys</a></em></p>"
+    },
+    "Trick Riding": {
+      "name": "騎乘技巧 Trick Riding",
+      "description": "<p><b><i>你不僅僅善於在戰鬥中控制馬匹；甚至將其看起來就像一種藝術。</i></b></p><p><b>先決條件</b>：騎術9級，騎乘戰鬥。</p><p><b>專長效果</b>：當你身著輕甲或不穿甲時，就不需要為了進行騎術技能中列出的任何DC為15或更低的項目而進行技能檢定。當你騎乘無馬鞍的坐騎時，騎術檢定不會受到-5減值。你可以每輪使用“騎乘戰鬥”專長進行檢定、忽略2次對你的坐騎的攻擊而非原本的1次。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Trick%20Riding\">Archives of Nethys</a></em></p>"
     }
   }
 }

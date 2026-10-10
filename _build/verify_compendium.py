@@ -128,9 +128,14 @@ for fn in src_files:
     dst = load_lenient(os.path.join(OUT_DIR, fn))
 
     se, de = src.get('entries') or {}, dst.get('entries') or {}
+    n_entries += len(de)
+    # build_chm.py 補進的條目（上游對照表沒收、CHM 有）算合法新增，比對鍵集合與結構前先拿掉
+    chm_added = (set(de) - set(se)) & set(CHM_ENTRIES.get(fn, {}))
+    if chm_added:
+        dst = dict(dst, entries={k: v for k, v in de.items() if k not in chm_added})
+        de = dst['entries']
     if set(se) != set(de):
         bad_keys.append(f'{fn}: 缺 {len(set(se)-set(de))} / 多 {len(set(de)-set(se))}')
-    n_entries += len(de)
 
     if src.get('mapping') != dst.get('mapping'):
         bad_mapping.append(fn)
