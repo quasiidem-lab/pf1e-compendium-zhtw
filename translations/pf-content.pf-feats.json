@@ -75,7 +75,7 @@
     },
     "Acute Shot": {
       "name": "敏銳射擊 Acute Shot",
-      "description": "<p>當魔法援助你的遠程攻擊時，你幾乎從不失手。</p><p>先決條件：遠距射擊，精確射擊</p><p>專長效果：每當你使用遠程武器並在攻擊骰上獲得魔法加值時，你可以將任何遠程攻擊距離減值轉為傷害減值。另外，每當你在遠程攻擊骰上獲得魔法加值時，你可以對有隱蔽的目標造成偷襲傷害（但不能是全隱蔽），只要該攻擊滿足造成偷襲傷害的其他要求。你能用該方式造成的偷襲傷害骰數等於你在攻擊骰上的魔法加值數量。</p><p><sup><sub>1</sub></sup></p><p class=\"zhtw-credit\"><em>書目：魔法戰術工具箱／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Acute%20Shot\">Archives of Nethys</a></em></p>"
+      "description": "<p>當魔法援助你的遠程攻擊時，你幾乎從不失手。</p><p>先決條件：遠距射擊，精確射擊</p><p>專長效果：每當你使用遠程武器並在攻擊骰上獲得魔法加值時，你可以將任何遠程攻擊距離減值轉為傷害減值。另外，每當你在遠程攻擊骰上獲得魔法加值時，你可以對有隱蔽的目標造成偷襲傷害（但不能是全隱蔽），只要該攻擊滿足造成偷襲傷害的其他要求。你能用該方式造成的偷襲傷害骰數等於你在攻擊骰上的魔法加值數量。</p><p class=\"zhtw-credit\"><em>書目：魔法戰術工具箱／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Acute%20Shot\">Archives of Nethys</a></em></p>"
     },
     "Adaptive Fortune": {
       "name": "萬用強運 Adaptive Fortune",
@@ -111,7 +111,7 @@
     },
     "Advanced Gathlain Magic": {
       "name": "進階伽瑟蘭魔法 Advanced Gathlain Magic",
-      "description": "<p>你已開發了你天生的魔法能力。</p><p><b>前置條件：</b>魅力 13，角色等級 3，伽瑟蘭</p><p><b>專長效果：</b>你獲得下述法術作為類法術能力，每項每日可以施展一次：融身入木<i>wood meld</i>（類似融身入石<i>meld with stone</i>，但僅作用於木頭），塑木術<i>wood shape</i>。</p><p>*<sup><sub>1</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：其他種族／伽瑟蘭UW｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159479.msg1357743#msg1357743\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Advanced%20Gathlain%20Magic\">Archives of Nethys</a></em></p>"
+      "description": "<p>你已開發了你天生的魔法能力。</p><p><b>前置條件：</b>魅力 13，角色等級 3，伽瑟蘭</p><p><b>專長效果：</b>你獲得下述法術作為類法術能力，每項每日可以施展一次：融身入木<i>wood meld</i>（類似融身入石<i>meld with stone</i>，但僅作用於木頭），塑木術<i>wood shape</i>。</p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：其他種族／伽瑟蘭UW｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159479.msg1357743#msg1357743\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Advanced%20Gathlain%20Magic\">Archives of Nethys</a></em></p>"
     },
     "Advanced Ranger Trap": {
       "name": "進階遊俠陷阱 Advanced Ranger Trap",
@@ -447,7 +447,7 @@
     },
     "Archon Justice": {
       "name": "神使正義 Archon Justice",
-      "description": "<p><strong>來源</strong> 位面冒險<em>Planar Adventures</em> pg. 25</p><p><em>在你警戒期間攻擊你會讓敵人受到盟友的攻擊。</em></p><p><strong>先決條件：</strong>神使援護，神使之型，寓守於攻，戰鬥反射，基礎攻擊加值+8或武僧等級7</p><p><strong>好處：</strong>你不再因為使用神使之型為鄰接的盟友提供AC加值而受到AC減值，且你能以迅捷動作或移動動作激活此效果。每當你因使用神使援護後轉移給自己的攻擊而受到傷害時，每個威脅發起這次攻擊生物的盟友都可以對該生物進行藉機攻擊。</p><p><sup><sub>1</sub></sup></p><p class=\"zhtw-credit\"><em>書目：位面冒險Planar Adventures pg. 25｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Archon%20Justice\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 位面冒險<em>Planar Adventures</em> pg. 25</p><p><em>在你警戒期間攻擊你會讓敵人受到盟友的攻擊。</em></p><p><strong>先決條件：</strong>神使援護，神使之型，寓守於攻，戰鬥反射，基礎攻擊加值+8或武僧等級7</p><p><strong>好處：</strong>你不再因為使用神使之型為鄰接的盟友提供AC加值而受到AC減值，且你能以迅捷動作或移動動作激活此效果。每當你因使用神使援護後轉移給自己的攻擊而受到傷害時，每個威脅發起這次攻擊生物的盟友都可以對該生物進行藉機攻擊。</p><p class=\"zhtw-credit\"><em>書目：位面冒險Planar Adventures pg. 25｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Archon%20Justice\">Archives of Nethys</a></em></p>"
     },
     "Archon Style": {
       "name": "神使之型 Archon Style",
@@ -2331,7 +2331,7 @@
     },
     "Crippling Critical": {
       "name": "致跛重擊 Crippling Critical",
-      "description": "<p><b><i>你能夠讓目標殘廢，使其運動受到阻礙。</i></b></p><p><b>先決條件</b>：重擊專攻，基本攻擊加值+13。</p><p><b>專長效果</b>：當你成功對一名敵人造成重擊時，他的速度會減半，持續1分鐘。成功的強韌豁免能夠使持續時間降低至1d4輪。該次豁免的DC等同於“10+你的BAB”。對於擁有多種移動類型的生物，你必須選擇想要影響的移動類型。正在飛行的生物若被此攻擊命中，則必須進行DC為10的飛行檢定以保持滯留在空中，並且它的機動性會下降一級。</p><p><b>特殊說明</b>：你只能將一種重擊專長的效果應用到一次確認的重擊上，除非你擁有“重擊大師”專長。</p><p><sup><sub>1</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crippling%20Critical\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能夠讓目標殘廢，使其運動受到阻礙。</i></b></p><p><b>先決條件</b>：重擊專攻，基本攻擊加值+13。</p><p><b>專長效果</b>：當你成功對一名敵人造成重擊時，他的速度會減半，持續1分鐘。成功的強韌豁免能夠使持續時間降低至1d4輪。該次豁免的DC等同於“10+你的BAB”。對於擁有多種移動類型的生物，你必須選擇想要影響的移動類型。正在飛行的生物若被此攻擊命中，則必須進行DC為10的飛行檢定以保持滯留在空中，並且它的機動性會下降一級。</p><p><b>特殊說明</b>：你只能將一種重擊專長的效果應用到一次確認的重擊上，除非你擁有“重擊大師”專長。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Crippling%20Critical\">Archives of Nethys</a></em></p>"
     },
     "Crippling Thrust": {
       "name": "Crippling Thrust",
@@ -4107,7 +4107,7 @@
     },
     "Extended Scrying": {
       "name": "延時探知 Extended Scrying",
-      "description": "<p>你的探知法術持續時間更長。</p><p><strong>先決條件</strong>：能夠施放探知（Scrying）子學派的法術。</p><p><strong>專長效果</strong>：你施放的任何探知子學派法術的持續時間是通常的兩倍，如同它是通過</p><p class=\"zhtw-credit\"><em>書目：地獄騎士之道PotH／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extended%20Scrying\">Archives of Nethys</a></em></p>"
+      "description": "<p>你的探知法術持續時間更長。</p><p><strong>先決條件</strong>：能夠施放</p><p class=\"zhtw-credit\"><em>書目：地獄騎士之道PotH／專長｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Extended%20Scrying\">Archives of Nethys</a></em></p>"
     },
     "Extended Stare": {
       "name": "注視增距 Extended Stare",
@@ -4587,7 +4587,7 @@
     },
     "Ferocious Tenacity": {
       "name": "不屈凶暴 Ferocious Tenacity",
-      "description": "<p><b><i>你對死亡不屑一顧。</i></b></p><p><b>先決條件</b>：“凶猛”種族特性，半獸人或獸人，【狂暴】職業特性。</p><p><b>專長效果</b>：當你處於狂暴狀態時，每天1次，如果你受到一次攻擊所造成的傷害足以殺死你（負HP等同於你的體質屬性），你能夠以一個直覺動作並花費1或更多的狂暴輪數降低該傷害並使你存活下來。你所花費的每個狂暴輪數能夠降低1點該次攻擊的傷害，但是無法將該次傷害降低至1點以下。</p><p>比如，當你處於狂暴狀態，擁有18點體質，當前HP為2點，並且受到一次造成20點傷害的攻擊（這足以使你的HP降至-18點並殺死你），你能夠花費1輪狂暴輪數使傷害降低1點（這使你的HP降至-17點並免於被直接殺死）；如果你花費17輪狂暴輪數，你能夠將傷害降至1點（最低值），使你還剩1點HP。【編者吐槽：2-20+17=1，原文如此，可作為數死早的範例。】</p><p><b>備註</b>：如果該傷害仍會使你失去意識，你的狂暴就會像通常情況那樣結束，將你的體質屬性降至普通狀態並使你的總HP恢復正常。因此，上述例子允許你使用該專長防止自己立刻死亡，但是你仍可能由於負HP超過正常體質屬性而……所以當你使用該專長並決定花費多少狂暴輪數時，多考慮一下原本的體質屬性。</p><p><sup><sub>2</sub></sup></p><p><sup><sub>3</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Tenacity\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你對死亡不屑一顧。</i></b></p><p><b>先決條件</b>：“凶猛”種族特性，半獸人或獸人，【狂暴】職業特性。</p><p><b>專長效果</b>：當你處於狂暴狀態時，每天1次，如果你受到一次攻擊所造成的傷害足以殺死你（負HP等同於你的體質屬性），你能夠以一個直覺動作並花費1或更多的狂暴輪數降低該傷害並使你存活下來。你所花費的每個狂暴輪數能夠降低1點該次攻擊的傷害，但是無法將該次傷害降低至1點以下。</p><p>比如，當你處於狂暴狀態，擁有18點體質，當前HP為2點，並且受到一次造成20點傷害的攻擊（這足以使你的HP降至-18點並殺死你），你能夠花費1輪狂暴輪數使傷害降低1點（這使你的HP降至-17點並免於被直接殺死）；如果你花費17輪狂暴輪數，你能夠將傷害降至1點（最低值），使你還剩1點HP。【編者吐槽：2-20+17=1，原文如此，可作為數死早的範例。】</p><p><b>備註</b>：如果該傷害仍會使你失去意識，你的狂暴就會像通常情況那樣結束，將你的體質屬性降至普通狀態並使你的總HP恢復正常。因此，上述例子允許你使用該專長防止自己立刻死亡，但是你仍可能由於負HP超過正常體質屬性而……所以當你使用該專長並決定花費多少狂暴輪數時，多考慮一下原本的體質屬性。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Tenacity\">Archives of Nethys</a></em></p>"
     },
     "Fetid Breath": {
       "name": "腐敗呼吸 Fetid Breath",
@@ -4791,7 +4791,7 @@
     },
     "Flexible Hex": {
       "name": "靈活巫術 Flexible Hex",
-      "description": "<p><i>飄渺之精魂聽你命而動。</i></p><p><b>先決條件：</b>薩滿飄渺巫術職業能力</p><p><b>專長效果：</b>每天一次以一個迅捷動作，你可以改變你選擇的當日遊蕩巫術，當這個巫術也必須來自你當日的飄渺魂域。在12級時，你可以改變你當日所有的兩個飄渺巫術。</p><p><b>正常情況：</b>薩滿必須在每日準備法術時選擇自己的巫術，一旦選擇則本日包括改變。</p><p><sup><sub>3</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Flexible%20Hex\">Archives of Nethys</a></em></p>"
+      "description": "<p><i>飄渺之精魂聽你命而動。</i></p><p><b>先決條件：</b>薩滿飄渺巫術職業能力</p><p><b>專長效果：</b>每天一次以一個迅捷動作，你可以改變你選擇的當日遊蕩巫術，當這個巫術也必須來自你當日的飄渺魂域。在12級時，你可以改變你當日所有的兩個飄渺巫術。</p><p><b>正常情況：</b>薩滿必須在每日準備法術時選擇自己的巫術，一旦選擇則本日包括改變。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／ACG 進階職業手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663693#msg663693\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Flexible%20Hex\">Archives of Nethys</a></em></p>"
     },
     "Flexible Shadow Jump": {
       "name": "Flexible Shadow Jump",
@@ -5482,8 +5482,8 @@
       "description": "<p><b><i>當你改變敵人的位置時，他們會變得容易遭受你盟友的攻擊。</i></b></p><p><b>先決條件</b>：智力13，寓守於攻，精通移位，基本攻擊加值+6。</p><p><b>專長效果</b>：你所實行的移位戰技檢定獲得+2加值。這個加值與“精通移位”提供的加值疊加。每當你通過移位使敵人移動時，他的移動會引起你的盟友的藉機攻擊（但是不包括你）。</p><p><b>通常狀況</b>：由於移位戰技而移動的生物不會引起藉機攻擊。</p><p class=\"zhtw-credit\"><em>譯者：佐鳥カナコ，四月｜書目：專長／APG 進階玩家手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=59971\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Reposition\">Archives of Nethys</a></em></p>"
     },
     "Greater School Familiar": {
-      "name": "Greater School Familiar",
-      "description": "<em>Your school familiar's powers are greater than others of its kind.</em><br/><br/><b>Prerequisites</b><br/>School Familiar, wizard level 10th, specialized arcane school class feature.<br/><br/><b>Benefits</b><br/>Your school familiar gains the greater school power from the school familiar archetype."
+      "name": "高等學派魔寵 Greater School Familiar",
+      "description": "<p>Greater School Familiar</p><p><i>你的學派魔寵要比它的同類強大許多。</i></p><p><b>先決條件</b>：學派魔寵，法師等級10級，專精奧術學派（specialized arcane school）職業能力</p><p><b>好處</b>：你的學派魔寵獲得學派魔寵變體中的高階學派力量（greater school power）。</p><p><b>學派魔寵（魔寵變體）</b></p><p><b>School Familiar (Familiar Archetype)</b></p><p>學派魔寵與主人所選擇的學派魔法之力有著緊密的聯繫。學派魔寵不能具有其他魔寵變體（familiar archetype；詳見本書的魔寵變體章節）。依照DM的判斷，其他魔法學派（比如極限魔法中刊載的元素學派）也可以具有相應的學派魔寵。</p><p><b>學派聯結（</b><b>School Link</b><b>，</b><b>Su</b><b>）</b>：學派魔寵的法術共享（Share Spells）和傳遞接觸法術（Deliver Touch Spells）能力僅能使用其主人所專精的奧術學派中的法術。</p><p><b>學派戲法（</b><b>School Cantrip</b><b>，</b><b>Sp</b><b>）</b>：學派魔寵能夠隨意施放一個戲法（cantrip），這個戲法要在與其關聯的奧術學派中選擇，使用它的主人的施法者等級。</p><p><b>專學私用（</b><b>Specialty Stowaway</b><b>，</b><b>Sp</b><b>或</b><b>Su</b><b>）</b>：學派魔寵能夠使用自身主人的奧術學派所賦予的能力，不過僅限每日只有一定使用次數或者輪數限定的能力，學派魔寵可以花費兩倍於正常標準的輪數或次數來使用這些能力。</p><p><b>低階學派力量（</b><b>Lesser School Power</b><b>）</b>：學派魔寵會獲得與自身對應的奧術學派相關聯的低階學派力量。</p><p><b>高階學派力量（</b><b>Greater School Power</b><b>）</b>：若學派魔寵的主人獲得了高等學派魔寵（Greater School Familiar）專長，那麼學派魔寵會獲得與自身對應的奧術學派相關聯的高階學派力量。</p><p class=\"zhtw-credit\"><em>書目：魔寵手記／學派魔寵｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=75641.msg714559#msg714559\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20School%20Familiar\">Archives of Nethys</a></em></p>"
     },
     "Greater Serpent Lash": {
       "name": "Greater Serpent Lash",
@@ -5539,7 +5539,7 @@
     },
     "Greater Weapon Shift": {
       "name": "高等武器變形 Greater Weapon Shift",
-      "description": "<p><em> 身處動物型態時，你的天生攻擊如同你手持的武器一樣致命。</em></p><p><strong>先決條件：</strong>精通武器變形，武器變形，BAB+8，自然變身職業特性</p><p><strong>專長效果：</strong>當你使用武器變形專長一把近戰武器的傷害類型和特性應用至你的天生攻擊時，你的天生攻擊還獲得此武器的增強加值（若有的話）。 PFS修正：用武器變形專長不能給天生攻擊長武特性。用精通武器變形和高等武器變形時，選擇要用融入武器的給予的增強和附魔還是別的，例如重拳護附；你不能全都要。</p><p>When using the Weapon Shift feat, the user's natural attacks do not gain the reach weapon property. When using Improved Weapon Shift and Greater Weapon Shift, choose whether to apply the enhancement bonus and weapon special properties of the melded weapon or the bonuses and properties granted by other items, such as an amulet of mighty fists; you cannot gain the benefits of both items simultaneously.</p><p class=\"zhtw-credit\"><em>譯者：犬良人、鹹魚、約翰遜｜書目：變體/選項／變形者/擬態/專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=110752.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Shift\">Archives of Nethys</a></em></p>"
+      "description": "<p><em> 身處動物型態時，你的天生攻擊如同你手持的武器一樣致命。</em></p><p><strong>先決條件：</strong>精通武器變形，武器變形，BAB+8，自然變身職業特性</p><p><strong>專長效果：</strong>當你使用武器變形專長一把近戰武器的傷害類型和特性應用至你的天生攻擊時，你的天生攻擊還獲得此武器的增強加值（若有的話）。 PFS修正：用武器變形專長不能給天生攻擊長武特性。用精通武器變形和高等武器變形時，選擇要用融入武器的給予的增強和附魔還是別的，例如重拳護附；你不能全都要。</p><p class=\"zhtw-credit\"><em>譯者：犬良人、鹹魚、約翰遜｜書目：變體/選項／變形者/擬態/專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=110752.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Shift\">Archives of Nethys</a></em></p>"
     },
     "Greater Weapon Specialization": {
       "name": "高等武器專精 Greater Weapon Specialization",
@@ -5683,7 +5683,7 @@
     },
     "Hammer Throw": {
       "name": "投擲戰錘 Hammer Throw",
-      "description": "<p>描述：你投擲錘子的力量如此強大，足以將你的敵人擊倒。</p><p>類型：戰鬥</p><p>先決條件：智力13、寓守於攻、精通摔絆、近程射擊、精準射擊、BAB+1、矮人。</p><p>效果：作為一個標準動作，你可以使用一件能造成鈍擊傷害的武器，對處於該武器第一個射程增量內、體型不比你大超過1級的生物進行一次遠程攻擊。如果你命中目標並造成傷害，你可以立即嘗試對該目標進行一次摔絆戰技。這不會引發藉機攻擊，而且如果你的戰技檢定失敗且失敗10點以上，你也不會被反摔在地。</p><p><em><sup><sub>1</sub></sup></em></p><p class=\"zhtw-credit\"><em>譯者：阿什利天爪｜書目：緣界英雄Heroes from the Fringe／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154866.msg1326942#msg1326942\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Hammer%20Throw\">Archives of Nethys</a></em></p>"
+      "description": "<p>描述：你投擲錘子的力量如此強大，足以將你的敵人擊倒。</p><p>類型：戰鬥</p><p>先決條件：智力13、寓守於攻、精通摔絆、近程射擊、精準射擊、BAB+1、矮人。</p><p>效果：作為一個標準動作，你可以使用一件能造成鈍擊傷害的武器，對處於該武器第一個射程增量內、體型不比你大超過1級的生物進行一次遠程攻擊。如果你命中目標並造成傷害，你可以立即嘗試對該目標進行一次摔絆戰技。這不會引發藉機攻擊，而且如果你的戰技檢定失敗且失敗10點以上，你也不會被反摔在地。</p><p class=\"zhtw-credit\"><em>譯者：阿什利天爪｜書目：緣界英雄Heroes from the Fringe／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154866.msg1326942#msg1326942\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Hammer%20Throw\">Archives of Nethys</a></em></p>"
     },
     "Hand's Autonomy": {
       "name": "Hand's Autonomy",
@@ -5711,7 +5711,7 @@
     },
     "Harder They Fall": {
       "name": "摔得更狠 Harder They Fall",
-      "description": "<p>描述：你可以和一名盟友協作來移動或撞倒一個對你們來說過於龐大而無法單獨取勝的敵人。</p><p>類型：戰鬥，團隊</p><p>先決條件：力量13、智力13、寓守於攻、猛力攻擊。</p><p>效果：當你使用協助他人動作來幫助擁有同樣專長的盟友，為其在一次衝撞或摔絆戰技的CMB檢定提供+2加值時，該盟友甚至可以對比自己大兩個或更多體型類別的敵人嘗試該戰技。</p><p><sub><sup><sub>1</sub></sup></sub></p><p class=\"zhtw-credit\"><em>譯者：阿什利天爪｜書目：巨人獵手手冊／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154524.msg1324853#msg1324853\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Harder%20They%20Fall\">Archives of Nethys</a></em></p>"
+      "description": "<p>描述：你可以和一名盟友協作來移動或撞倒一個對你們來說過於龐大而無法單獨取勝的敵人。</p><p>類型：戰鬥，團隊</p><p>先決條件：力量13、智力13、寓守於攻、猛力攻擊。</p><p>效果：當你使用協助他人動作來幫助擁有同樣專長的盟友，為其在一次衝撞或摔絆戰技的CMB檢定提供+2加值時，該盟友甚至可以對比自己大兩個或更多體型類別的敵人嘗試該戰技。</p><p class=\"zhtw-credit\"><em>譯者：阿什利天爪｜書目：巨人獵手手冊／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154524.msg1324853#msg1324853\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Harder%20They%20Fall\">Archives of Nethys</a></em></p>"
     },
     "Hardy Liver": {
       "name": "一副好肝 Hardy Liver",
@@ -5999,7 +5999,7 @@
     },
     "Illusive Gnome Surprise": {
       "name": "侏儒幻影奇襲 Illusive Gnome Surprise",
-      "description": "<p>Illusive Gnome Surprise (Combat)</p><p><i>你能夠以不同尋常的方式使用侏儒武器。</i></p><p><b>先決條件</b>：智力13，寓守於攻，侏儒武器專攻<sup>ARG</sup>，侏儒幻影武技，精通虛招（Improved Feint）</p><p><b>好處</b>：當你使用侏儒幻影武技時，執行陰招<sup>APG</sup>（dirty tricks）戰技的戰技檢定以及執行虛招的唬騙檢定均會獲得+2加值。此外，當你成功使用唬騙對一名敵人進行虛招時，可以選擇不讓該名敵人失去AC上的敏捷加值，取而代之的是讓你正在持用的一把“侏儒（gnome）”武器視為擁有後述武器特殊能力中的一種：格擋<sup>UC</sup>（Blocking）、反衝鋒（Brace）、虛實<sup>UC</sup>（Distracting）、演武<sup>UC</sup>（Performance）、擊破*（sunder）或摔絆（trip）。該效果僅能用於對抗該名敵人，持續輪數等同於你的魅力調整值（最低1輪）。</p><p><i><sup><sub>1</sub></sup></i></p><p class=\"zhtw-credit\"><em>書目：專長／種族武器大師｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Illusive%20Gnome%20Surprise\">Archives of Nethys</a></em></p>"
+      "description": "<p>Illusive Gnome Surprise (Combat)</p><p><i>你能夠以不同尋常的方式使用侏儒武器。</i></p><p><b>先決條件</b>：智力13，寓守於攻，侏儒武器專攻<sup>ARG</sup>，侏儒幻影武技，精通虛招（Improved Feint）</p><p><b>好處</b>：當你使用侏儒幻影武技時，執行陰招<sup>APG</sup>（dirty tricks）戰技的戰技檢定以及執行虛招的唬騙檢定均會獲得+2加值。此外，當你成功使用唬騙對一名敵人進行虛招時，可以選擇不讓該名敵人失去AC上的敏捷加值，取而代之的是讓你正在持用的一把“侏儒（gnome）”武器視為擁有後述武器特殊能力中的一種：格擋<sup>UC</sup>（Blocking）、反衝鋒（Brace）、虛實<sup>UC</sup>（Distracting）、演武<sup>UC</sup>（Performance）、擊破*（sunder）或摔絆（trip）。該效果僅能用於對抗該名敵人，持續輪數等同於你的魅力調整值（最低1輪）。</p><p class=\"zhtw-credit\"><em>書目：專長／種族武器大師｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Illusive%20Gnome%20Surprise\">Archives of Nethys</a></em></p>"
     },
     "Impact Critical Shot": {
       "name": "衝撞射擊 Impact Critical Shot",
@@ -6055,7 +6055,7 @@
     },
     "Improved Balor Whip": {
       "name": " Improved Balor Whip",
-      "description": "<p><strong>來源</strong><strong><em>惡棍志</em></strong> pg. 80</p><p>你可以用鞭子拉住敵人，並且用劍攻擊他們。</p><p><strong>先決條件：</strong>巴洛炎魔之鞭笞，武器專攻（長鞭），長鞭熟稔<sup>UC</sup>，BAB+12</p><p><strong>專長效果：</strong>當你成功使用長鞭對一個與你不相鄰的目標進行一次拖拽戰技，並且在拖拽移動結束後目標與你相鄰時，以一個自由動作你可以用另一隻手中的武器使用最高攻擊加值對其進行一次近戰攻擊。當你使用長鞭進行拖拽戰技時，你在拖拽戰技檢定上獲得額外的+2加值，但這個加值不能與高等拖拽給予的加值疊加。</p><p>https://www.goddessfantasy.net/bbs/index.php?topic=160767.0</p><p class=\"zhtw-credit\"><em>書目：惡棍志 pg. 80｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=160767.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Balor%20Whip\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong><strong><em>惡棍志</em></strong> pg. 80</p><p>你可以用鞭子拉住敵人，並且用劍攻擊他們。</p><p><strong>先決條件：</strong>巴洛炎魔之鞭笞，武器專攻（長鞭），長鞭熟稔<sup>UC</sup>，BAB+12</p><p><strong>專長效果：</strong>當你成功使用長鞭對一個與你不相鄰的目標進行一次拖拽戰技，並且在拖拽移動結束後目標與你相鄰時，以一個自由動作你可以用另一隻手中的武器使用最高攻擊加值對其進行一次近戰攻擊。當你使用長鞭進行拖拽戰技時，你在拖拽戰技檢定上獲得額外的+2加值，但這個加值不能與高等拖拽給予的加值疊加。</p><p class=\"zhtw-credit\"><em>書目：惡棍志 pg. 80｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=160767.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Balor%20Whip\">Archives of Nethys</a></em></p>"
     },
     "Improved Beast Hunter": {
       "name": "精通野獸獵人 Improved Beast Hunter",
@@ -7127,7 +7127,7 @@
     },
     "Lie Low": {
       "name": "潛伏 Lie Low",
-      "description": "<p><em>你匍匐時將更難被發現。</em></p><p><b>專長效果</b>：若你從你的上一回合結束時就一直匍匐，通過察覺檢定發現你的DC將會增加。你與搜索者之間距離每有20尺，DC就增加1。該專長帶來的DC加值與正常情況下距離帶來的察覺檢定DC加值疊加。</p><p><sup><sub>1</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：月夜白雨｜書目：專長／遠程戰術工具箱｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Lie%20Low\">Archives of Nethys</a></em></p>"
+      "description": "<p><em>你匍匐時將更難被發現。</em></p><p><b>專長效果</b>：若你從你的上一回合結束時就一直匍匐，通過察覺檢定發現你的DC將會增加。你與搜索者之間距離每有20尺，DC就增加1。該專長帶來的DC加值與正常情況下距離帶來的察覺檢定DC加值疊加。</p><p class=\"zhtw-credit\"><em>譯者：月夜白雨｜書目：專長／遠程戰術工具箱｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Lie%20Low\">Archives of Nethys</a></em></p>"
     },
     "Life Lure": {
       "name": "生命誘惑 Life Lure",
@@ -7479,7 +7479,7 @@
     },
     "Masked Intent": {
       "name": "掩飾意圖 Masked Intent",
-      "description": "<p>出自 <em>Adventurer's Guide pg. 124, Arcane Anthology pg. 15</em></p><p>被面具覆蓋的面容令你的意圖幾乎無法被辨別。</p><p><strong>前置條件：</strong>無名之人</p><p><strong>專長好處：</strong>當處於無名之人的專長效果下時，你的意圖變得令人難以解讀。你在對抗性的唬騙檢定上獲得+4環境加值（You gain a +4 circumstance bonus on opposed Bluff checks），並且嘗試通過交涉收集關於你的信息的交涉檢定，了解你、你的能力或弱點的相關知識技能檢定，或者辨識你施放的法術或類法術能力的法術辨識檢定的DC+4。如果你在上述任一技能上有10級或更多等級，這些技能上的加值或相關檢定的DC增加會提升至+8。</p><p>*<sup><sub>2</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：冒險者指南AG／瑪伽姆比亞｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=58822.msg545138#msg545138\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Masked%20Intent\">Archives of Nethys</a></em></p>"
+      "description": "<p>出自 <em>Adventurer's Guide pg. 124, Arcane Anthology pg. 15</em></p><p>被面具覆蓋的面容令你的意圖幾乎無法被辨別。</p><p><strong>前置條件：</strong>無名之人</p><p><strong>專長好處：</strong>當處於無名之人的專長效果下時，你的意圖變得令人難以解讀。你在對抗性的唬騙檢定上獲得+4環境加值（You gain a +4 circumstance bonus on opposed Bluff checks），並且嘗試通過交涉收集關於你的信息的交涉檢定，了解你、你的能力或弱點的相關知識技能檢定，或者辨識你施放的法術或類法術能力的法術辨識檢定的DC+4。如果你在上述任一技能上有10級或更多等級，這些技能上的加值或相關檢定的DC增加會提升至+8。</p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：冒險者指南AG／瑪伽姆比亞｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=58822.msg545138#msg545138\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Masked%20Intent\">Archives of Nethys</a></em></p>"
     },
     "Masked Renown": {
       "name": "Masked Renown",
@@ -7631,7 +7631,7 @@
     },
     "Metallic Wings": {
       "name": "金屬之翼 Metallic Wings",
-      "description": "<p><b><i>你翅膀上的羽毛是閃閃發亮的金屬構成。</i></b></p><p><b>先決條件</b>：天使之血，天使之軀，天使之翼，神裔，角色等級11。</p><p><b>專長效果</b>：你獲得2翼擊。這是一種次要天生武器，造成1d4點揮砍傷害（如果你是小體型則1d3）。</p><p><sup><sub>4</sub></sup></p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Metallic%20Wings\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你翅膀上的羽毛是閃閃發亮的金屬構成。</i></b></p><p><b>先決條件</b>：天使之血，天使之軀，天使之翼，神裔，角色等級11。</p><p><b>專長效果</b>：你獲得2翼擊。這是一種次要天生武器，造成1d4點揮砍傷害（如果你是小體型則1d3）。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Metallic%20Wings\">Archives of Nethys</a></em></p>"
     },
     "Metamagic Invocation": {
       "name": "Metamagic Invocation",
@@ -9291,7 +9291,7 @@
     },
     "Reactive Reversion": {
       "name": "反應式復原 Reactive Reversion",
-      "description": "<p><em>你能夠反應式地變回你的自然形態。</em></p><p><strong>先決條件</strong>：敏捷13，【變身】特性，藤蔓萊西</p><p><strong>好處</strong>：你可以在植物形態下以一個直覺動作使用自己的變身特性變回自然形態。</p><p><strong>正常</strong>：藤蔓萊西可以以一個迅捷動作來切換變身的不同形態。</p><p><strong>藤蔓萊西</strong></p><p>藤蔓萊西喜歡以下這些奇物。</p><p><strong>瓶裝陽光（Bottled Sunlight）</strong></p><p><strong>靈氳</strong>：微弱塑能系；<strong>施法者等級</strong>：1級</p><p><strong>位置</strong>：無；<strong>價格</strong>：200gp；<strong>重量</strong>：—</p><p>這個不透明的球體含有陽光的蒸餾精華。每天一次，以一個命令字可以使它釋放一小瓶陽光，在它所處的方格上產生持續一個小時的強光，在此期間它提供足夠的能量來滿足單一植物生物的日常營養需求。在小瓶所處的方格內，散發出光線視作自然陽光。如果瓶子進入一個對陽光有易傷的不死生物所處的方格，該生物可以嘗試一次DC11的意志豁免；如果成功，瓶中光芒會立即熄滅。只要這個小瓶位於該生物所在的方格內，他就可以每輪嘗試一次新的豁免檢定，但這種陽光的強度不足以傷害對陽光敏感的生物。打碎瓶子會熄滅它的光。小瓶的硬度為2，具有5HP。在這個球體釋放了50瓶陽光之後，它就失去了它的魔力。</p><p><strong>製造條件</strong>：製造奇物，<em>晝明術</em></p><p><strong>製造成本</strong>：100gp</p><p><strong>微風蒲公英（Breezeblown Dandelion）</strong></p><p><strong>靈氳</strong>：昏暗變化系；<strong>施法者等級</strong>：3級</p><p><strong>位置</strong>：無；<strong>價格</strong>：10000gp；<strong>重量</strong>：5磅</p><p>這種寬莖灌木分枝成幾十朵超大的蒲公英花。一個體重小於50磅的生物可以用一個移動動作使用一朵花作來減緩他下降速度，每輪減少10英尺。當她慢下來的時候，花也把她裹挾向風的方向。微風載著她飄離10英尺，常風載著她飄離20英尺，強風載著她飄離50英尺，烈風載著她飄離100英尺（CRB 439頁）。如果一朵花暴露在風暴強度或更大的風中，它所有的種子都會立刻被吹走，蒲公英也不會提供更多的好處。4分鐘後或持有者落地後（以先發生者為準），該增益也會終止。</p><p>這種植物在春季期間持續13周的生長期內每天都會長出一個蒲公英，一株最多可長出20個蒲公英。與許多魔法植物不同，微風蒲公英蓬鬆的花朵在使用前一直有效。</p><p><strong>製造條件</strong>：培育魔法植物（Cultivate Magic Plants），<em>滑翔術（glide）</em></p><p><strong>製造成本</strong>：5000gp</p><p><strong>縮水莓果（Shrinking Berries）</strong></p><p><strong>靈氳</strong>：微弱變化系；<strong>施法者等級</strong>：5級</p><p><strong>位置</strong>：無；<strong>價格</strong>：300gp；<strong>重量</strong>：</p><p>這些莓果會使吃下它的生物變成更小、更不危險的樣子，如同<em>動物萌化</em><sup>UC</sup>一般（強韌DC 14取消），除了其他生物不需要在攻擊被轉化的萌物時需要進行意志豁免，該效果持續24小時。這些莓果可以隱藏在肉肉食或其他動物飲食的典型食物。</p><p><strong>製造條件</strong>：製造奇物，<em>動物萌化</em><sup>UC</sup></p><p><strong>製造成本</strong>：150gp</p><p><strong>藤蔓萊西法術</strong></p><p>藤蔓萊西可以獲得以下法術。</p><p><strong>抓握藤蔓（Grasping Vine）</strong></p><p><strong>學派</strong>：變化系</p><p><strong>等級</strong>：鍊金術士 2，德魯伊 2，秘學士 2， 遊俠 2，薩滿 2， 術士/法師 2，女巫 2</p><p><strong>施法時間</strong>：標準動作</p><p><strong>成分</strong>：語言，姿勢</p><p><strong>範圍</strong>：個人</p><p><strong>目標</strong>：你自己</p><p><strong>持續時間</strong>：1分鐘/等級（可解消）</p><p>你使一根細長的藤蔓從你的身體中發芽，通常是從你的胸口中心或伸出的手掌。以一個標準動作，你可以指揮藤蔓末端移動到你20英尺範圍內的任何一個方格，並執行以下任務之一：在藤蔓生長後施放一個觸摸咒語、撿起一個重量不超過20磅的無人看管的物體、將一個持有的物體交給另一個生物、以-2罰值的解除裝置檢定嘗試解除一個陷阱或鎖，或者執行GM認為合理的任何其他任務。這些藤蔓不威脅任何方格，也不能發起藉機攻擊或持握武器。</p><p><strong>萊西集群（Leshy Swarm）</strong></p><p><strong>學派</strong>：咒法系（召喚）</p><p><strong>等級</strong>：吟遊詩人 3，德魯伊 3，術士/法師 3，女巫 3，召喚師 3</p><p><strong>施法時間</strong>：1輪</p><p><strong>成分</strong>：語言，姿勢，材料/法器（一捧種子）</p><p><strong>範圍</strong>：近距（25尺+5尺/2級）</p><p><strong>效果</strong>：10尺見方的萊西集群</p><p><strong>持續時間</strong>：1輪/等級</p><p><strong>豁免</strong>：無</p><p><strong>法術抗力</strong>：否</p><p>你召喚附近的自然之靈，賦予她們臨時的植物軀殼。這些生物和萊西很相似，但只有超小型並且頭腦簡單。該集群使用鼠群的數據，除了她們不攜帶疾病且沒有靈敏嗅覺能力。萊西集群有60英尺的黑暗視覺，對電、影響心靈效果、麻痺、毒素、變形、睡眠效果、音波和震懾免疫。</p><p>你可以通過花費一個標準動作來通過該法術傳達你的要求，或者花費一個移動動作（如果你能和只懂德魯伊語和木族語的生物說話的話）來引導萊西集群沿著你選擇的路徑以它的速度移動。萊西們因為突然佔據的新軀體而糊里糊塗的<sup><sub>3</sub></sup>，她們會認為由你引導她們而接近的幾乎任何生物都是一種威脅。她們會攻擊她們佔據區域內的所有生物，除了你和其他植物類型的生物。</p><p><b>譯註</b></p><p class=\"zhtw-credit\"><em>譯者：Shift_FK｜書目：其他種族／藤蔓萊西UW｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=102696.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Reversion\">Archives of Nethys</a></em></p>"
+      "description": "<p><em>你能夠反應式地變回你的自然形態。</em></p><p><strong>先決條件</strong>：敏捷13，【變身】特性，藤蔓萊西</p><p><strong>好處</strong>：你可以在植物形態下以一個直覺動作使用自己的變身特性變回自然形態。</p><p><strong>正常</strong>：藤蔓萊西可以以一個迅捷動作來切換變身的不同形態。</p><p><strong>藤蔓萊西</strong></p><p>藤蔓萊西喜歡以下這些奇物。</p><p><strong>瓶裝陽光（Bottled Sunlight）</strong></p><p><strong>靈氳</strong>：微弱塑能系；<strong>施法者等級</strong>：1級</p><p><strong>位置</strong>：無；<strong>價格</strong>：200gp；<strong>重量</strong>：—</p><p>這個不透明的球體含有陽光的蒸餾精華。每天一次，以一個命令字可以使它釋放一小瓶陽光，在它所處的方格上產生持續一個小時的強光，在此期間它提供足夠的能量來滿足單一植物生物的日常營養需求。在小瓶所處的方格內，散發出光線視作自然陽光。如果瓶子進入一個對陽光有易傷的不死生物所處的方格，該生物可以嘗試一次DC11的意志豁免；如果成功，瓶中光芒會立即熄滅。只要這個小瓶位於該生物所在的方格內，他就可以每輪嘗試一次新的豁免檢定，但這種陽光的強度不足以傷害對陽光敏感的生物。打碎瓶子會熄滅它的光。小瓶的硬度為2，具有5HP。在這個球體釋放了50瓶陽光之後，它就失去了它的魔力。</p><p><strong>製造條件</strong>：製造奇物，<em>晝明術</em></p><p><strong>製造成本</strong>：100gp</p><p><strong>微風蒲公英（Breezeblown Dandelion）</strong></p><p><strong>靈氳</strong>：昏暗變化系；<strong>施法者等級</strong>：3級</p><p><strong>位置</strong>：無；<strong>價格</strong>：10000gp；<strong>重量</strong>：5磅</p><p>這種寬莖灌木分枝成幾十朵超大的蒲公英花。一個體重小於50磅的生物可以用一個移動動作使用一朵花作來減緩他下降速度，每輪減少10英尺。當她慢下來的時候，花也把她裹挾向風的方向。微風載著她飄離10英尺，常風載著她飄離20英尺，強風載著她飄離50英尺，烈風載著她飄離100英尺（CRB 439頁）。如果一朵花暴露在風暴強度或更大的風中，它所有的種子都會立刻被吹走，蒲公英也不會提供更多的好處。4分鐘後或持有者落地後（以先發生者為準），該增益也會終止。</p><p>這種植物在春季期間持續13周的生長期內每天都會長出一個蒲公英，一株最多可長出20個蒲公英。與許多魔法植物不同，微風蒲公英蓬鬆的花朵在使用前一直有效。</p><p><strong>製造條件</strong>：培育魔法植物（Cultivate Magic Plants），<em>滑翔術（glide）</em></p><p><strong>製造成本</strong>：5000gp</p><p><strong>縮水莓果（Shrinking Berries）</strong></p><p><strong>靈氳</strong>：微弱變化系；<strong>施法者等級</strong>：5級</p><p><strong>位置</strong>：無；<strong>價格</strong>：300gp；<strong>重量</strong>：</p><p>這些莓果會使吃下它的生物變成更小、更不危險的樣子，如同<em>動物萌化</em><sup>UC</sup>一般（強韌DC 14取消），除了其他生物不需要在攻擊被轉化的萌物時需要進行意志豁免，該效果持續24小時。這些莓果可以隱藏在肉肉食或其他動物飲食的典型食物。</p><p><strong>製造條件</strong>：製造奇物，<em>動物萌化</em><sup>UC</sup></p><p><strong>製造成本</strong>：150gp</p><p><strong>藤蔓萊西法術</strong></p><p>藤蔓萊西可以獲得以下法術。</p><p class=\"zhtw-credit\"><em>譯者：Shift_FK｜書目：其他種族／藤蔓萊西UW｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=102696.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Reversion\">Archives of Nethys</a></em></p>"
     },
     "Read Spell Traces": {
       "name": "解讀魔力殘留 Read Spell Traces",
@@ -10047,7 +10047,7 @@
     },
     "Shadowy Dash": {
       "name": "虛影衝刺 Shadowy Dash",
-      "description": "<p><b><i>在昏暗的光線中，你看起來比影子更加難以辨認。</i></b></p><p><b>先決條件</b>：剪影人。</p><p><b>專長效果</b>：當你處於昏暗或黑暗的區域中，你能夠以全速潛行，而不會在這麼做時隱匿檢定受到正常的-5減值。</p><p><b>通常狀況</b>：當你以半速以上的速度移動時，隱匿檢定會受到-5減值。</p><p><b>剪影人奇物（</b><b>Wayang</b><b> Magic Items</b><b>）</b></p><p><b>影雲袋</b><b>（</b><b>Bag of Shadow Clouds</b><b>）</b></p><p><b>靈氳</b>：中等幻術系；<b>施法者等級</b>：7級；</p><p><b>位置</b>：無；<b>價格</b>：30240gp；<b>重量</b>：1磅。</p><p>任何人如果往這個深灰色的布袋裡觀察，只能看到虛無的黑暗。袋子內存在著與陰影位面相連接跨位面空間。每天3次，以一個移動動作，持用者能夠從袋內取出1d4塊半固態的暗影碎片。袋子的持用者能夠將這些碎片分別作為投擲武器使用，每塊能夠命中1個5尺方格。當它命中時，它會如同‘黑暗術’一般運作，但是只影響5尺方格。以一個移動動作，袋子的持用者能夠將影雲向任何方向移動10尺。無論碎片是否被擲出，碎片以及影雲會在消散前存在10分鐘。</p><p><b>製造條件</b>：“製造奇物”；‘黑暗術’，‘幽影咒法術（Shadow Conjuration）’。</p><p><b>製造成本</b>：15120gp。</p><p><b>剪影人法術（</b><b>Wayang</b><b> Spells</b><b>）</b></p><p><b>影錨術（</b><b>Shadow Anchor</b><b>）</b></p><table> <tbody> <tr> <td> <b>學派</b></td> <td> </td> <td> 幻術系（幽影幻覺）〔陰影〕</td></tr> <tr> <td> <b>環級</b></td> <td> </td> <td> 吟遊詩人2，術士/法師2，女巫2</td></tr> <tr> <td> <b>施放時間</b></td> <td> </td> <td> 標準動作</td></tr> <tr> <td> <b>成分</b></td> <td> </td> <td> 姿勢</td></tr> <tr> <td> <b>範圍</b></td> <td> </td> <td> 接觸</td></tr> <tr> <td> <b>效果</b><b></b></td> <td> </td> <td> 一條模糊的影繩</td></tr> <tr> <td> <b>目標</b></td> <td> </td> <td> 接觸到的生物</td></tr> <tr> <td> <b>持續時間</b></td> <td> </td> <td> 1輪/等級（可解消）；見下文</td></tr> <tr> <td> <b>豁免</b></td> <td> </td> <td> 意志，通過則無效</td></tr> <tr> <td> <b>法術抗力</b></td> <td> </td> <td> 可</td></tr></tbody></table><p>目標的影子化為柔韌的繩索拴在在他當前的方格內。生物能夠離開該方格5尺距離而不受到任何懲罰。如果想要移出距離繩子拴住的位置5尺以上距離，目標需要進行一次衝撞戰技檢定，對抗等同於“10+1/2你的施法者等級+施法關鍵屬性修正”的CMD。目標與影繩拴住方格的距離每超出5尺，就會受到-1減值。檢定失敗意味著目標的移動被浪費並且無法移動得更遠。如果目標在檢定中失敗10點或者更多的話，他會向著影繩的方向被拉動5尺並且摔倒。而當目標在檢定中勝出10點或更多時，法術效果結束。該法術對沒有影子或倒影的生物無效。如果目標使用傳送效果或者離開當前的位面，法術效果結束。</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：罕見種族／剪影人｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=51871\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shadowy%20Dash\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>在昏暗的光線中，你看起來比影子更加難以辨認。</i></b></p><p><b>先決條件</b>：剪影人。</p><p><b>專長效果</b>：當你處於昏暗或黑暗的區域中，你能夠以全速潛行，而不會在這麼做時隱匿檢定受到正常的-5減值。</p><p><b>通常狀況</b>：當你以半速以上的速度移動時，隱匿檢定會受到-5減值。</p><p><b>剪影人奇物（</b><b>Wayang</b><b> Magic Items</b><b>）</b></p><p><b>影雲袋</b><b>（</b><b>Bag of Shadow Clouds</b><b>）</b></p><p><b>靈氳</b>：中等幻術系；<b>施法者等級</b>：7級；</p><p><b>位置</b>：無；<b>價格</b>：30240gp；<b>重量</b>：1磅。</p><p>任何人如果往這個深灰色的布袋裡觀察，只能看到虛無的黑暗。袋子內存在著與陰影位面相連接跨位面空間。每天3次，以一個移動動作，持用者能夠從袋內取出1d4塊半固態的暗影碎片。袋子的持用者能夠將這些碎片分別作為投擲武器使用，每塊能夠命中1個5尺方格。當它命中時，它會如同‘黑暗術’一般運作，但是只影響5尺方格。以一個移動動作，袋子的持用者能夠將影雲向任何方向移動10尺。無論碎片是否被擲出，碎片以及影雲會在消散前存在10分鐘。</p><p><b>製造條件</b>：“製造奇物”；‘黑暗術’，‘幽影咒法術（Shadow Conjuration）’。</p><p><b>製造成本</b>：15120gp。</p><p><b>剪影人法術（</b><b>Wayang</b><b> Spells</b><b>）</b></p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：罕見種族／剪影人｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=51871\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shadowy%20Dash\">Archives of Nethys</a></em></p>"
     },
     "Shaitan Earthblast": {
       "name": "地裂 Shaitan Earthblast",
@@ -10631,7 +10631,7 @@
     },
     "Sleep Venom": {
       "name": "昏睡毒素 Sleep Venom",
-      "description": "<p><b><i>你能夠改變天生毒素的性質，並用其讓你的敵人呼呼大睡。</i></b></p><p><b>先決條件</b>：蝮血裔。</p><p><b>專長效果</b>：以一個迅捷動作，你能夠改變自身毒素的效果，使其能夠讓目標失去意識。以下為你的毒素的初始以及後續效果的改變：<b>初始效果</b>－恍惚1d4輪；<b>後續效果</b>－失去意識1分鐘。你必須在將毒素塗抹在武器上之前決定它的效果。</p><p><b>通常狀況</b>：蝮血毒造成敏捷傷害。</p><p><b>蝮血裔奇</b><b>物（</b><b>Vishkanya</b><b> Magic Items</b><b>）</b></p><p><b>蝮血裔</b><b>束胸（</b><b>Corset of the Vishkanya</b><b>）</b></p><p><b>靈氳</b>：微弱變化系；<b>施法者等級</b>：3級；</p><p><b>位置</b>：身體；<b>價格</b>：3000gp；<b>重量</b>：1磅。</p><p>這件黑色的束胸剛好適合穿著在護甲之下。以一個自由動作，穿戴者能夠壓縮身形，使其能夠穿過狹窄的空間，就好像受到‘柔體術’影響一般，每天最多持續10輪。當使用束胸的魔力時，穿戴者逃脫檢定+5。</p><p><b>製造條件</b>：“製造奇物”；‘油膩術’，‘柔體術（Squeeze, <u>ARG</u>）’。</p><p><b>製造成本</b>：1500gp。</p><p><b>蝮血裔</b><b>法術（</b><b>Vishkanya</b><b> Spells</b><b>）</b></p><p><b>柔體術（</b><b>Squeeze</b><b>）</b></p><table> <tbody> <tr> <td> <b>學派</b></td> <td> </td> <td> 變化系（變形）</td></tr> <tr> <td> <b>環級</b></td> <td> </td> <td> 鍊金術師2，術士/法師2，女巫2</td></tr> <tr> <td> <b>施放時間</b></td> <td> </td> <td> 標準動作</td></tr> <tr> <td> <b>成分</b></td> <td> </td> <td> 語言，姿勢</td></tr> <tr> <td> <b>範圍</b></td> <td> </td> <td> 接觸</td></tr> <tr> <td> <b>目標</b></td> <td> </td> <td> 接觸到的生物</td></tr> <tr> <td> <b>持續時間</b></td> <td> </td> <td> 1分鐘/等級</td></tr> <tr> <td> <b>豁免</b></td> <td> </td> <td> 強韌，通過則無效（無害）</td></tr> <tr> <td> <b>法術抗力</b></td> <td> </td> <td> 可（無害）</td></tr></tbody></table><p>目標變得柔韌到可以無視的實際尺寸以及質量的程度。他可以穿過至少自身體型一半寬的區域而不會受到任何懲罰。並且可以通過等同於自身寬度1/4的空間，卻只受到正常情況下穿過自身寬度一半區域的懲罰。</p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：罕見種族／蝮血裔｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=51844\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sleep%20Venom\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能夠改變天生毒素的性質，並用其讓你的敵人呼呼大睡。</i></b></p><p><b>先決條件</b>：蝮血裔。</p><p><b>專長效果</b>：以一個迅捷動作，你能夠改變自身毒素的效果，使其能夠讓目標失去意識。以下為你的毒素的初始以及後續效果的改變：<b>初始效果</b>－恍惚1d4輪；<b>後續效果</b>－失去意識1分鐘。你必須在將毒素塗抹在武器上之前決定它的效果。</p><p><b>通常狀況</b>：蝮血毒造成敏捷傷害。</p><p><b>蝮血裔奇</b><b>物（</b><b>Vishkanya</b><b> Magic Items</b><b>）</b></p><p><b>蝮血裔</b><b>束胸（</b><b>Corset of the Vishkanya</b><b>）</b></p><p><b>靈氳</b>：微弱變化系；<b>施法者等級</b>：3級；</p><p><b>位置</b>：身體；<b>價格</b>：3000gp；<b>重量</b>：1磅。</p><p>這件黑色的束胸剛好適合穿著在護甲之下。以一個自由動作，穿戴者能夠壓縮身形，使其能夠穿過狹窄的空間，就好像受到‘柔體術’影響一般，每天最多持續10輪。當使用束胸的魔力時，穿戴者逃脫檢定+5。</p><p><b>製造條件</b>：“製造奇物”；‘油膩術’，‘柔體術（Squeeze, <u>ARG</u>）’。</p><p><b>製造成本</b>：1500gp。</p><p><b>蝮血裔</b><b>法術（</b><b>Vishkanya</b><b> Spells</b><b>）</b></p><p class=\"zhtw-credit\"><em>譯者：四月｜書目：罕見種族／蝮血裔｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=51844\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sleep%20Venom\">Archives of Nethys</a></em></p>"
     },
     "Sleeper": {
       "name": "休眠者 Sleeper",
@@ -11139,7 +11139,7 @@
     },
     "Sproutling": {
       "name": "小芽兒 Sproutling",
-      "description": "<p>你可以比大多數同類更快發芽，即便你的身體尚且稚嫩。</p><p><b>前置條件：</b>魅力 15，蒿蘭種子種族特性，蒿蘭人</p><p><b>專長效果：</b>當你使用你的蒿蘭種子能力種植一個新身軀時，你可以選擇用通常一半的時間來發芽（1d6天，而不是通常的2d6天）。若如此做，你的新身體會是小體型而非中體型，你從種族特性中獲得的天生護甲加值（如果有的話）將會減半，你在力量、敏捷和體質上承受-2減值。這些調整將持續1d3周，在那之後你的身軀將會長成原本的體型並失去所有因更早發芽帶來的減值。</p><p><b>蒿蘭人法術 Ghoran Spell</b></p><p>蒿蘭人能夠習得以下法術。</p><p><b>鮮美血肉 Delectable Flesh</b></p><p><b>學派：</b>變化系【影響心靈，變形】</p><p><b>等級：</b>德魯伊 7，薩滿 7，術士/法師 6，女巫 6</p><p><b>施法時間：</b>1個標準動作</p><p><b>距離：</b>近距（25尺+5尺/2施法者等級）</p><p><b>目標：</b>以單個活物為中心15尺爆發範圍內的所有生物</p><p><b>持續時間：</b>1分鐘/等級（可解消）</p><p><b>豁免：</b>意志通過則無效</p><p><b>法術抗力：</b>可</p><p>選擇施法距離內的一名生物作為飢渴的目標。在目標15尺範圍內的所有能看到或聞到目標鮮美血肉的其它生物，必須成功通過一次意志堅定，否則陷入一種墮落狀態，在此狀態下他們只有一個目標——儘可能多地進食目標鮮美的血肉。被選為法術目標的生物不會受到上述墮落狀態的影響。</p><p>一名陷入墮落的生物會獲得一次嚙咬攻擊、兩次爪抓攻擊，以及靈敏嗅覺能力，如果他尚未擁有這些。他會丟下所有他持有的物品並以上述天生武器攻擊該法術的目標，如同他已陷入困惑並且目標已先攻擊過他。上述效果持續到法術持續時間結束，或墮落的生物無法看到或聞到他飢渴的目標整整一分鐘。另外，一名墮落的生物可以在任意一輪的結束嘗試一次新的豁免檢定以結束上述效果，只要此輪內這名受到影響的生物已對其飢渴的目標發動過攻擊。如果一名想要進食以獲取營養的生物成功通過豁免提早結束了上述墮落效果，只要仍處在目標15尺範圍內，他在屬性檢定、攻擊骰、專注檢定、豁免骰和技能檢定上將承受-2減值。</p><p><sup><sub>3</sub></sup></p><p><b>譯註</b></p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：其他種族／蒿蘭人UW｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159479.msg1357751#msg1357751\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sproutling\">Archives of Nethys</a></em></p>"
+      "description": "<p>你可以比大多數同類更快發芽，即便你的身體尚且稚嫩。</p><p><b>前置條件：</b>魅力 15，蒿蘭種子種族特性，蒿蘭人</p><p><b>專長效果：</b>當你使用你的蒿蘭種子能力種植一個新身軀時，你可以選擇用通常一半的時間來發芽（1d6天，而不是通常的2d6天）。若如此做，你的新身體會是小體型而非中體型，你從種族特性中獲得的天生護甲加值（如果有的話）將會減半，你在力量、敏捷和體質上承受-2減值。這些調整將持續1d3周，在那之後你的身軀將會長成原本的體型並失去所有因更早發芽帶來的減值。</p><p><b>蒿蘭人法術 Ghoran Spell</b></p><p>蒿蘭人能夠習得以下法術。</p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：其他種族／蒿蘭人UW｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159479.msg1357751#msg1357751\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Sproutling\">Archives of Nethys</a></em></p>"
     },
     "Squash Flat": {
       "name": "碾壓衝撞 Squash Flat",
@@ -12954,8 +12954,8 @@
       "description": "<b>專長類型：</b>Conduit<br/><br/><em>來自極樂境的自由誓言讓你能夠從各式的制約中解放出來，讓你可以隨心所欲地行動，避免各種會讓旅行者與探險者困擾的限制。</em><br/><br/><b>先決條件: </b>知識(位面) 3級。<br/><br/><b>專長效果: </b>以一個迅捷動作，你可以獲得行動自如法術的好處，持續到你的回合結束或你籍此逃脫了擒抱或法術限制為止，以較先發生者為準。</p><p>你可以使用並獲得本專長的好處每天一次，在知識（位面）上每有5級額外增加一次。<br/><br/><b>資源出處: </b>Planar Adventures pg. 33<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wanderer's%20Fortune"
     },
     "Wandering Mind": {
-      "name": "Wandering Mind",
-      "description": "<em>Your mind drifts swiftly from one thing to the next and is all but impossible to pin down.</em><br/><br/><b>Prerequisites</b><br/>Character level 9th, gathlain.<br/><br/><b>Benefits</b><br/>When you fail a Will save against a mind-affecting effect that lasts more than 1 round, you can attempt another Will save on the round after your failed save. If you succeed, you gain the normal benefits of succeeding at a Will save against the effect. This feat offers only one additional saving throw against each effect."
+      "name": "漫遊之魂 Wandering Mind",
+      "description": "<p>你的思緒總是從一件事飄向下一件，幾乎無法被確定。</p><p><b>前置條件：</b>角色等級 9，伽瑟蘭</p><p><b>專長效果：</b>當你未能通過一項對抗持續事件超過1輪的影響心靈效果的意志豁免時，你可以在你豁免失敗後的下一輪重新嘗試一次意志豁免。如果你成功通過這次豁免，你獲得針對這項效果通過意志豁免時的正常好處。針對每個效果，此專長僅提供一次額外的豁免。</p><p><b>伽瑟蘭奇物 Gathlain Magic Items</b></p><p>伽瑟蘭們可以選取下述奇物。</p><p><b>爬藤揹帶 Harness of Grabbing Vines</b></p><p><b>靈氳：</b>微弱變化系 <b>施法者等級：</b>5</p><p><b>位置：</b>軀幹 <b>價格：</b>40,000 gp <b>重量：</b>1/2磅</p><p>只要穿戴者不在飛行，這條常春藤揹帶允許穿戴者的翅膀操控物件或抓握把手，如同它們是額外的手臂。它們不會給予額外的攻擊次數，但它們可以在不佔用穿戴者雙手的情況下用來抓握物品或施展戰技。以命令詞啟動，這根揹帶會長出根鬚將穿戴者錨定在恰當的位置，如同足底生根<i>anchored step</i>一般。當如此錨定後，穿戴者可以僅以腿和翅膀，以等同於基礎速度減少後的攀爬速度進行攀爬。足底生根<i>Anchored Step</i>的好處在穿戴者用根鬚攀爬時也生效。</p><p><b>製造需求：</b>製造奇物，足底生根<sup>ACG</sup> <i>anchored step</i>，蛛行術 <i>spider climb</i></p><p><b>製造成本：</b>20,000 gp</p><p class=\"zhtw-credit\"><em>譯者：Rivers｜書目：其他種族／伽瑟蘭UW｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159479.msg1357743#msg1357743\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wandering%20Mind\">Archives of Nethys</a></em></p>"
     },
     "War Blessing": {
       "name": "戰爭祝福 War Blessing",
@@ -13170,8 +13170,8 @@
       "description": "<p><em>自然之力充斥你的身軀，你無需木質或鋼鐵的武器，你的爪牙與任何人造的武器一樣有力。</em></p><p><strong>先決條件</strong>：力量13，精通徒手打擊，荒野之痕。</p><p><strong>專長效果</strong>：你的徒手打擊的傷害骰增加至1d6（小型體型為1d4）。這與其他增加徒手攻擊傷害骰的效果無法與其疊加，這包括了諸如武僧等可隨其職業等級增加的效果。增加你體型的效果（如人類變巨術）依然能夠正常增大你的傷害骰。</p><p class=\"zhtw-credit\"><em>書目：極限荒野UW／專長｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=154625.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Wilding%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Will of Giants": {
-      "name": "Will of Giants",
-      "description": "<em>You are no mere humanoid, to be toyed with by petty enchantments.</em><br/><br/><b>Prerequisites</b><br/>Wis 14, Iron Will, giant subtype.<br/><br/><b>Benefits</b><br/>You gain immunity to enchantment effects that target only humanoids, such as charm person and hold person."
+      "name": "巨人意志 Will of Giants",
+      "description": "<p>描述：你已超越類人生物，不會這些小把戲所玩弄</p><p>先決條件：感知14，鋼鐵意志，巨人</p><p>效果：你免疫僅對類人生物起效的惑控系法術，比如說魅惑人類和人類定身術</p><p><b>巨人法術</b></p><p class=\"zhtw-credit\"><em>譯者：餓死的駱駝｜書目：巨人殺手／91:Battle of Bloodmarch Hills｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=159067.0\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Will%20of%20Giants\">Archives of Nethys</a></em></p>"
     },
     "Willing Accomplice": {
       "name": "義警幫手 Willing Accomplice",

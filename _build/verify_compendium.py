@@ -109,6 +109,7 @@ def strings_with_path(node, path='', skip_mapping=True):
 
 bad_keys, bad_mapping, bad_tag, bad_link, bad_cjk, bad_shape = [], [], [], [], [], []
 
+chm_lost_link = []
 _chm = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chm_entries.json')
 CHM_ENTRIES = json.load(open(_chm, encoding='utf-8')) if os.path.exists(_chm) else {}
 
@@ -158,7 +159,8 @@ for fn in src_files:
         if not from_chm and sorted(TAG.findall(s)) != sorted(TAG.findall(d)):
             bad_tag.append(f'{fn}:{p}')
         if sorted(LINK_ID.findall(s)) != sorted(LINK_ID.findall(d)):
-            bad_link.append(f'{fn}:{p}')
+            # CHM 譯文沒有 Foundry 的內部連結（@UUID／@Compendium），換掉後連結就沒了：列出但不擋
+            (chm_lost_link if from_chm else bad_link).append(f'{fn}:{p}')
         if not from_chm and has_simplified(d):
             bad_cjk.append(f'{fn}:{p}')
 
@@ -185,6 +187,12 @@ for label, lst in (('缺檔', missing_files), ('多檔', extra_files),
         print(f'--- {label} 異常（最多 15 筆）---')
         for k in lst[:15]:
             print(f'   {k}')
+
+if chm_lost_link:
+    print()
+    print(f'（提示）換成 CHM 譯文後少了內部連結的條目 {len(chm_lost_link)} 筆，不算失敗：')
+    for k in chm_lost_link[:15]:
+        print(f'   {k}')
 
 ok = not (missing_files or extra_files or bad_keys or bad_mapping
           or bad_shape or bad_tag or bad_link or bad_cjk)

@@ -54,12 +54,21 @@ def to_tw(s):
     return _FIX(_S2TW.convert(s))
 
 # 類別：錨點報表的檔名樣式、要寫進哪些翻譯檔、AoN 網址樣式、名稱格式
+# max：內文純文字長度上限（超過多半是吃進了整節）；chapter：同名多處時優先挑 CHM 目錄在這個章節的；
+# drop_table：拿掉標題後第一張表（法術的屬性表，Foundry 法術卡已經用欄位顯示學派、環位等，留著會重複）
 KINDS = {
     'feat': dict(report='條目索引-專長-*.tsv',
                  files=['pf-content.pf-feats.json', 'pf1.feats.json'],
-                 aon='https://aonprd.com/FeatDisplay.aspx?ItemName={}'),
+                 aon='https://aonprd.com/FeatDisplay.aspx?ItemName={}',
+                 max=2000, chapter=('專長', '专长')),
+    'spell': dict(report='條目索引-法術-*.tsv',
+                  files=['pf1.spells.json'],
+                  aon='https://aonprd.com/SpellDisplay.aspx?ItemName={}',
+                  max=6000, chapter=('法術', '法术'), drop_table=True),
 }
-NAME_FMT = {'pf-content.pf-feats.json': '{zh} {en}', 'pf1.feats.json': '{zh} {en}'}
+NAME_FMT = {'pf-content.pf-feats.json': '{zh} {en}', 'pf1.feats.json': '{zh} {en}',
+            'pf1.spells.json': '{zh} ({en})'}
+CFG = KINDS['feat']   # main() 逐類切換
 
 BLOCK = re.compile(r'<P\b.*?</P>|<TABLE\b.*?</TABLE>', re.S | re.I)
 TAG = re.compile(r'<[^>]+>')
@@ -174,6 +183,7 @@ def clean(raw):
             out.append(tables[int(mt.group(1))])
             continue
         line = re.sub(r'^\?\s*', '• ', line)   # Symbol 字型的項目符號轉出來是「?」
+        line = re.sub(r'^l\s+(?=[一-鿿])', '• ', line)   # Wingdings 的圓點轉出來是「l」
         line = re.sub(r'[_＿—-]{8,}', '', line)  # Word 用一長串底線或破折號當分隔線
         line = _balance(line)
         while True:   # Word 留下的空粗體／斜體（<b><i></i></b>）
@@ -184,7 +194,23 @@ def clean(raw):
         if not re.sub(r'<[^>]+>', '', line).strip(' 　•'):
             continue
         out.append(f'<p>{line}</p>')
+    # 結尾黏到的下一條純英文標題、字母索引（「E」「Eagle Eye」）：沒有中文的尾段拿掉
+    while out and not re.search(r'[㐀-鿿]', re.sub(r'<[^>]+>', '', out[-1])):
+        out.pop()
     return ''.join(out)
+
+
+STAT = re.compile(r'^(?:<[^>]+>)*\s*(?:學派|学派|環位|环位|環級|环级|施法時間|施法时间|施放時間|施放时间|成分|範圍|范围|'
+                  r'目標|目标|效果|區域|区域|持續時間|持续时间|豁免|法術抗力|法术抗力)')
+
+
+def drop_stat_lines(body):
+    """法術：開頭一行一行的屬性欄（沒做成表格的頁）拿掉，到第一段不是屬性欄的為止。"""
+    ps = re.findall(r'<p>.*?</p>|<table>.*?</table>', body)
+    k = 0
+    while k < len(ps) and STAT.match(ps[k][3:]):
+        k += 1
+    return ''.join(ps[k:]) if k else body
 
 
 PREREQ = re.compile(r'先決條件|先决条件|前置條件|前置条件')
@@ -233,14 +259,15 @@ def extract(tree, links, names):
     """
     en, zh = names
     cands = []
-    for link in links.split():
+    # 報表用空格分隔多個連結，但法術頁檔名本身有空格（Spell CRB.html），照「…html#錨點」的形狀切
+    for link in re.findall(r'[^\s#][^#]*?\.html?#[\w-]+', links):
         x = extract_one(tree, link)
         if x and x[1] and heading_is(x[0], en, zh):
             body = trim_next_entry(x[1])
             # 排序：有「先決條件／效果」的優先（沒有的多半是總表的一行摘要），再取短的
             full = bool(PREREQ.search(body) or re.search(r'效果|Benefit', body))
-            # 同名標題也出現在規則變體頁（健壯在「負傷與活力」也有一條），優先挑目錄在專長章節的
-            in_feats = '專長' in x[2]['book'] or '专长' in x[2]['book']
+            # 同名標題也出現在規則變體頁（健壯在「負傷與活力」也有一條），優先挑目錄在該類章節的
+            in_feats = any(k in x[2]['book'] for k in CFG.get('chapter', ()))
             cands.append((not full, not in_feats, book_rank(x[2]['book']), len(text(body)) < 20,
                           len(body), (x[0], body, x[2])))
     if not cands:
@@ -285,8 +312,14 @@ def extract_one(tree, link):
     seg = s[m.end():end]
     h = HEAD_END.search(seg)
     head, body = (seg[:h.start()], seg[h.end():]) if h else (seg, '')
+    if CFG.get('drop_table'):
+        t0 = re.search(r'<TABLE\b.*?</TABLE>', body, re.S | re.I)
+        if t0 and len(text(body[:t0.start()])) < 10:   # 標題後緊接的那張才是屬性表
+            body = body[:t0.start()] + body[t0.end():]
     body = clean(body)
-    if len(text(body)) > MAX_TEXT:
+    if CFG.get('drop_table'):
+        body = drop_stat_lines(body)
+    if len(text(body)) > CFG.get('max', MAX_TEXT):
         return None
     return head, body, page_meta(s, m.start(), name)
 
@@ -369,7 +402,9 @@ def main():
     a = ap.parse_args()
     stats = Counter()
     record = {}
+    global CFG
     for kind, cfg in KINDS.items():
+        CFG = cfg
         rname, rows = load_report(cfg['report'])
         print(f'[{kind}] 錨點報表 {rname}：{len(rows)} 條')
         got = {}
