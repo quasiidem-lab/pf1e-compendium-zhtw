@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 r"""從果園 PF1 CHM 產合集包譯文（名稱＋內文），繁體寫進 translations/，簡體另存。
 
-    python _build/build_chm.py            # 建置：改 translations/，簡體寫 _build/out/zh-cn/
+    python _build/build_chm.py            # 建置：改 translations/，簡體寫旁邊 pf1e-compendium-zhcn/translations/
     python _build/build_chm.py --dry      # 只算、印統計，不寫
 
 **CHM 優先**（他 2026-10-10 定）：CHM 有的條目，名稱與內文都換成 CHM；
@@ -32,7 +32,9 @@ sys.stdout.reconfigure(encoding='utf-8')
 HERE = Path(__file__).resolve().parent
 MOD = HERE.parent
 TR = MOD / 'translations'
-OUT_CN = HERE / 'out' / 'zh-cn'
+# 簡體版是另一個模組（pf1e-compendium-zhcn），譯文直接寫進它的 translations/：
+# 上游 pf1e_compendium_chn 的簡體稿當底，CHM 有的條目換成 CHM 簡體版
+OUT_CN = MOD.parent / 'pf1e-compendium-zhcn' / 'translations'
 BASE = HERE / 'base'   # 套 CHM 之前的繁體譯文。改上游繁化或用語集補名稱時改這裡，再重跑本支
 CHM = Path(r'D:\TRPG\4_工具與筆記\CHM勘誤')
 TREES = {'zh-tw': CHM / 'chmbuild_tc', 'zh-cn': CHM / 'chmbuild'}
@@ -43,6 +45,7 @@ sys.path.insert(0, str(CHM))
 import chm  # noqa: E402
 import opencc  # noqa: E402
 _S2TW = opencc.OpenCC('s2tw')
+_TW2S = opencc.OpenCC('tw2s')
 _FIX = chm.TcFixer()
 CHM_VER = re.search(r'v[\d.]+', chm.CHM_NAME).group(0)
 
@@ -314,8 +317,11 @@ def load_report(pattern):
     return Path(files[-1]).name, [r for r in rows if r.get('連結')]
 
 
-def load_tr(path):
-    return json.loads(path.read_text(encoding='utf-8'))
+def load_tr(path, lenient=False):
+    t = path.read_text(encoding='utf-8-sig')
+    if lenient:   # 上游 pf-content.pf-tables.json 有物件結尾多餘逗號，strict JSON 讀不了
+        t = re.sub(r',(\s*[}\]])', r'\1', t)
+    return json.loads(t)
 
 
 def save_tr(path, d, ref=None):
@@ -352,8 +358,11 @@ def main():
                     stats[f'{kind} {lang} 內文空白'] += 1
                     continue
                 aon = cfg['aon'].format(en.replace(' ', '%20'))
+                cr = credit(meta, aon, body)
+                if lang == 'zh-cn':
+                    cr = _TW2S.convert(cr)   # 出處行的「譯者／書目／果園原帖」轉簡體（網址是 ASCII，不受影響）
                 got.setdefault(en.lower(), {})[lang] = dict(
-                    en=en, zh=zh, desc=body + credit(meta, aon, body), meta=meta, link=r['連結'])
+                    en=en, zh=zh, desc=body + cr, meta=meta, link=r['連結'])
         print(f'  抽到 {len(got)} 條')
         for fname in cfg['files']:
             fmt = NAME_FMT.get(fname, '{zh}（{en}）')
@@ -365,7 +374,7 @@ def main():
                 if not src.exists():
                     stats[f'{fname} {lang} 沒有底稿'] += 1
                     continue
-                d = load_tr(src)
+                d = load_tr(src, lenient=True)
                 ent = d['entries']
                 lower = {k.lower(): k for k in ent}
                 for enl, item in got.items():
@@ -384,6 +393,15 @@ def main():
                         record.setdefault(fname, {})[key] = it['link']
                 if not a.dry:
                     save_tr(dst, d, ref=TR / fname)
+    # 簡體模組其餘沒有 CHM 條目的檔：照抄上游（修掉 JSON 語法錯誤）
+    if not a.dry and OUT_CN.parent.exists():
+        done = {f for cfg in KINDS.values() for f in cfg['files']}
+        for src in sorted(UPSTREAM_CN.glob('*.json')):
+            if src.name not in done:
+                save_tr(OUT_CN / src.name, load_tr(src, lenient=True), ref=TR / src.name)
+                stats['簡體模組 照抄上游'] += 1
+    elif not OUT_CN.parent.exists():
+        print('！找不到簡體模組資料夾', OUT_CN.parent, '——簡體版沒寫')
     for k, v in sorted(stats.items()):
         print(f'  {k}: {v}')
     if not a.dry:

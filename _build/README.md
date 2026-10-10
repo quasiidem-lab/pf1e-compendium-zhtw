@@ -6,9 +6,13 @@
 2. **CHM 層**：`build_chm.py` 從果園 CHM 抽條目，有的就整條（名稱＋內文）換掉
 
 ```powershell
-python _build/build_chm.py          # base/ ＋ CHM → translations/（繁）、out/zh-cn/（簡）
+python _build/build_chm.py          # base/ ＋ CHM → translations/（繁）；上游簡體稿＋CHM → ../pf1e-compendium-zhcn/translations/（簡）
+python _build/make_zhcn.py          # 繁中版 scripts/、styles/ → 簡體模組（改了程式碼才要跑）
 python _build/verify_compendium.py  # 驗證
 ```
+
+簡體模組 `pf1e-compendium-zhcn` 是另一個 repo（quasiidem-lab/pf1e-compendium-zhcn），但沒有自己的建置流程，
+程式碼與譯文都從這裡產生；它自己只手寫 `module.json`、`README.md`、`NOTICE.md`（FVTT-CN 署名在那裡，不要刪）。
 
 CHM 週五發版後重跑 `build_chm.py` 就會跟著更新。定位靠 CHM 線插的條目錨點，
 CHM 線每多做一類錨點，在 `build_chm.py` 的 `KINDS` 加一列就多吃一類；用法與壞掉的症狀寫在它開頭。

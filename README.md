@@ -58,8 +58,8 @@ https://github.com/quasiidem-lab/pf1e-compendium-zhtw/releases/latest/download/m
 
 ## 簡體中文版
 
-簡體中文使用者請直接使用上游的
-[pf1e_compendium_chn](https://github.com/fvtt-cn/pf1e_compendium_chn)。
+[`pf1e-compendium-zhcn`](https://github.com/quasiidem-lab/pf1e-compendium-zhcn)：同一套建置流程產生的簡體版（FVTT-CN 譯稿為底，CHM 條目改用 CHM 簡體版）。
+上游的 [pf1e_compendium_chn](https://github.com/fvtt-cn/pf1e_compendium_chn) 在 Babele 2.9 下無法載入。
 
 ## 相對上游的修正
 
