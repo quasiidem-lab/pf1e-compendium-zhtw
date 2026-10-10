@@ -1,6 +1,23 @@
 # 建置管線
 
-從上游 `pf1e_compendium_chn` 的簡體對照表重新產生 `translations/`。
+譯文分兩層，**CHM 優先**（2026-10-10 定）：
+
+1. **底稿** `base/`：上游 `pf1e_compendium_chn` 繁化＋人工修訂的譯文（就是套 CHM 之前的 `translations/`）
+2. **CHM 層**：`build_chm.py` 從果園 CHM 抽條目，有的就整條（名稱＋內文）換掉
+
+```powershell
+python _build/build_chm.py          # base/ ＋ CHM → translations/（繁）、out/zh-cn/（簡）
+python _build/verify_compendium.py  # 驗證
+```
+
+CHM 週五發版後重跑 `build_chm.py` 就會跟著更新。定位靠 CHM 線插的條目錨點，
+CHM 線每多做一類錨點，在 `build_chm.py` 的 `KINDS` 加一列就多吃一類；用法與壞掉的症狀寫在它開頭。
+每條內文結尾附出處行（譯者、書目、CHM 果園原帖、AoN），是公開發布的條件，不要拿掉。
+
+**要改底稿（上游繁化、用語集補名稱 `glossary_names.py`）就改 `base/`，再重跑 `build_chm.py`。**
+直接改 `translations/` 的東西下次建置會被蓋掉。
+
+以下是底稿層的舊管線：從上游的簡體對照表重新產生底稿。
 只有上游更新時才需要跑；平常維護模組本身用不到。
 
 ```powershell

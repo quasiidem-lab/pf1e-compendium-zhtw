@@ -109,6 +109,9 @@ def strings_with_path(node, path='', skip_mapping=True):
 
 bad_keys, bad_mapping, bad_tag, bad_link, bad_cjk, bad_shape = [], [], [], [], [], []
 
+_chm = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chm_entries.json')
+CHM_ENTRIES = json.load(open(_chm, encoding='utf-8')) if os.path.exists(_chm) else {}
+
 src_files = sorted(f for f in os.listdir(SRC_DIR) if f.lower().endswith('.json'))
 out_files = sorted(f for f in os.listdir(OUT_DIR) if f.lower().endswith('.json')) \
     if os.path.isdir(OUT_DIR) else []
@@ -139,15 +142,19 @@ for fn in src_files:
     d_strs = dict(strings_with_path(dst))
     n_strings += len(d_strs)
 
+    # 換成 CHM 譯文的條目（build_chm.py 記在 chm_entries.json）跟上游本來就不同：
+    # HTML 標籤不比，殘簡也不查——CHM 繁體版的字形由 CHM 線的例外表裁定（污、拆台、回合這類會被誤報）
+    chm_prefix = tuple(f'entries.{k}.' for k in CHM_ENTRIES.get(fn, {}))
     for p, s in s_strs.items():
         d = d_strs.get(p)
         if d is None:
             continue
-        if sorted(TAG.findall(s)) != sorted(TAG.findall(d)):
+        from_chm = bool(chm_prefix) and p.startswith(chm_prefix)
+        if not from_chm and sorted(TAG.findall(s)) != sorted(TAG.findall(d)):
             bad_tag.append(f'{fn}:{p}')
         if sorted(LINK_ID.findall(s)) != sorted(LINK_ID.findall(d)):
             bad_link.append(f'{fn}:{p}')
-        if has_simplified(d):
+        if not from_chm and has_simplified(d):
             bad_cjk.append(f'{fn}:{p}')
 
 print(f'來源檔案數         : {len(src_files)}')
