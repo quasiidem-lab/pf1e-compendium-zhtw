@@ -1,3 +1,11 @@
 .app.pf1.compendium-browser .filter label {
   overflow-wrap: anywhere;
 }
+/* CHM 譯文的出處行（build_chm.py 產生）：小一號、與內文隔一條線 */
+.zhtw-credit {
+  margin-top: 0.8em;
+  padding-top: 0.4em;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  font-size: 0.85em;
+  opacity: 0.8;
+}
