@@ -7,9 +7,15 @@
 
 ```powershell
 python _build/build_chm.py          # base/ ＋ CHM → translations/（繁）；上游簡體稿＋CHM → ../pf1e-compendium-zhcn/translations/（簡）
+python _build/apply_terms.py        # 套譯名定案（繁簡都套）；每次跑完 build_chm.py 都要跑
 python _build/make_zhcn.py          # 繁中版 scripts/、styles/ → 簡體模組（改了程式碼才要跑）
 python _build/verify_compendium.py  # 驗證
 ```
+
+**apply_terms.py 為什麼要在 build_chm.py 之後跑：** CHM 層會把名稱與內文整條換成 CHM 的寫法，
+但有些譯名是維護者另外裁定、跟 CHM 不同的（例：Energy Drained「能量流失」，CHM 寫「能量吸取」；
+Dazing Touch 統一為「暈眩之觸」）。定案表寫在 `apply_terms.py` 開頭，來源是 pf1-zhtw 的
+`audit/譯名一致性稽核.md`（2026-10-17）。要加新的定案就加在那裡。
 
 簡體模組 `pf1e-compendium-zhcn` 是另一個 repo（quasiidem-lab/pf1e-compendium-zhcn），但沒有自己的建置流程，
 程式碼與譯文都從這裡產生；它自己只手寫 `module.json`、`README.md`、`NOTICE.md`（FVTT-CN 署名在那裡，不要刪）。

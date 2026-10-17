@@ -75,7 +75,7 @@
     },
     "Brew Potion": {
       "name": "調製藥劑 Brew Potion",
-      "description": "<p><b><i>你能製造魔法藥水。</i></b></p><p><b>先決條件</b>：施法者等級3級。</p><p><b>專長效果</b>：你能基於任意3環以下、目標為一個或多個生物或物體的法術製造魔法藥水。<sup><sub>1</sub></sup>製造價值250gp以下的藥水需要花費2個小時，否則每1000gp需花費1天。當你調製藥劑的時候，由你設定其CL，該等級需滿足施放該法術的條件並且不高於你當前的等級。你需要同等同於一半藥水價值的原料來調製藥劑。更多信息請參見魔法物品規則。</p><p>當你調製藥劑時，你需要像施展該法術一樣進行某些效果的選擇。法術的目標就是使用藥水者。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Brew%20Potion\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能製造魔法藥水。</i></b></p><p><b>先決條件</b>：施法者等級3級。</p><p><b>專長效果</b>：你能基於任意3環以下、目標為一個或多個生物或物體的法術製造魔法藥水。<sup><sub>1</sub></sup>製造價值250gp以下的藥水需要花費2個小時，否則每1000gp需花費1天。當你調製藥劑的時候，由你設定其CL，該等級需滿足施放該法術的條件並且不高於你當前的等級。你需要同等同於一半藥水價值的原料來調製藥劑。更多訊息請參見魔法物品規則。</p><p>當你調製藥劑時，你需要像施展該法術一樣進行某些效果的選擇。法術的目標就是使用藥水者。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Brew%20Potion\">Archives of Nethys</a></em></p>"
     },
     "Caster's Champion": {
       "name": "Caster's Champion",
@@ -119,11 +119,11 @@
     },
     "Craft Magic Arms and Armor": {
       "name": "製造魔法武器和防具 Craft Magic Arms and Armor",
-      "description": "<p><b><i>你能製造魔法盔甲，盾牌和武器。</i></b></p><p><b>先決條件</b>：施法者等級5級。</p><p><b>專長效果</b>：你能製造魔法盔甲，盾牌和武器。為一件武器、一套盔甲或盾牌附魔需要的時間為：附加的魔法特性的價格每增加1000gp，工期增加1天。加工所需耗材的價格為成品價格的一半。更多信息請參見魔法物品規則。將被附魔的武器、盔甲或盾牌必須為精製品，其成本不在上述之列。你還可以修理損壞的武器、盔甲或盾牌，只要你能製造它。修理耗費一半製造該物品所需的原料和時間。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能製造魔法盔甲，盾牌和武器。</i></b></p><p><b>先決條件</b>：施法者等級5級。</p><p><b>專長效果</b>：你能製造魔法盔甲，盾牌和武器。為一件武器、一套盔甲或盾牌附魔需要的時間為：附加的魔法特性的價格每增加1000gp，工期增加1天。加工所需耗材的價格為成品價格的一半。更多訊息請參見魔法物品規則。將被附魔的武器、盔甲或盾牌必須為精製品，其成本不在上述之列。你還可以修理損壞的武器、盔甲或盾牌，只要你能製造它。修理耗費一半製造該物品所需的原料和時間。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor\">Archives of Nethys</a></em></p>"
     },
     "Craft Ooze": {
       "name": "創造泥怪 Craft Ooze",
-      "description": "<p>你可以用鍊金術來製造危險的泥怪生物。</p><p><strong>先決條件：</strong>製造藥劑，製造奇物，工藝（鍊金）3級，施法者等級5級。</p><p><strong>專長效果：</strong>你可以如同製造魔法物品一般製造活體泥怪。創造泥怪生物每500gp製造成本，就需要一天的時間。要創造一個泥怪，你必須有一個泥怪甕（見下文）。你必須使用價值相當於泥怪製造成本的原材料，並且你必須成功通過工藝（鍊金）檢定（DC10 + 2*泥怪CR）。失敗的檢定會摧毀使用的原材料，而失敗超過5點以上則會導致泥怪攻擊製造者。新創造出來的泥怪擁有其HD的平均生命值。使用該專長創造出來的泥怪時無意識並且不受控制的，甚至類似slithering trackers這種通常擁有智力的泥怪，以這種方法創造出來也是沒有智力屬性，並且不會忠於其創造者的。</p><p>雖然通常不能在傳統市場上購買泥怪生物，但是希望在遊戲中包含這種選項的GM——也許可以讓黑市商品出售的泥怪——只需要將特定泥怪生物的製造成本加倍，以便找到一個公平的市場價。</p><p>下表列出了一些最常見的可創造泥怪及其創造要求。由GM裁決，其他類型的泥怪生物也可以使用此專長創建。來自探索者怪物圖鑑2、3、4的生物用匹配的上標標記。</p><table> <tr> <td><strong>泥怪</strong></td> <td><strong>製造成本</strong></td> <td><strong>工藝 DC</strong></td></tr> <tr> <td>膠質怪（Gelatinous Cube）</td> <td>1600gp</td> <td>16</td></tr> <tr> <td>灰泥怪（Gray Ooze）</td> <td>3600gp</td> <td>18</td></tr> <tr> <td>滑行獵手（Slithering Tracker）</td> <td>3600gp</td> <td>18</td></tr> <tr> <td>赭凍怪（Ochre Jelly）</td> <td>4900gp</td> <td>20</td></tr> <tr> <td>黑布丁怪（Black Pudding）</td> <td>8100gp</td> <td>24</td></tr> <tr> <td>岩漿怪（Magma Ooze）</td> <td>8100gp</td> <td>24</td></tr> <tr> <td>死亡陷阱怪（Deathtrap Ooze）</td> <td>8100gp</td> <td>26</td></tr> <tr> <td>肉食晶簇（Carnivorous Crystal）</td> <td>16900gp</td> <td>32</td></tr></table><p><strong>泥怪甕（Oozing Vat）</strong></p><p><strong>價格：</strong>可變 <strong>重量：</strong>可變</p><p><strong>小型泥怪甕</strong> 1gp 2磅</p><p><strong>中型</strong> 10gp 20磅</p><p><strong>大型</strong> 50gp 200磅</p><p><strong>超大型</strong> 200gp 2000磅</p><p><strong>巨型</strong> 500gp 10000磅</p><p>這些陶瓷大桶由伊諾皮恩中央湖泊疏浚的特殊粘土污泥製成，並注入泥怪蒸餾物。 在大型陶窯中燒製後，泥怪甕通常嵌入玻璃纖維管，設計用於將電荷輸送到生長的泥怪中。想要使用創造泥怪專長來創造泥怪生物，創造者必須使用一個足夠大的泥怪甕來容納製作的泥怪。</p><p class=\"zhtw-credit\"><em>書目：專長／造物專長一覽｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Ooze\">Archives of Nethys</a></em></p>"
+      "description": "<p>你可以用鍊金術來製造危險的泥怪生物。</p><p><strong>先決條件：</strong>製造藥劑，製造奇物，工藝（鍊金）3級，施法者等級5級。</p><p><strong>專長效果：</strong>你可以如同製造魔法物品一般製造活體泥怪。創造泥怪生物每500gp製造成本，就需要一天的時間。要創造一個泥怪，你必須有一個泥怪甕（見下文）。你必須使用價值相當於泥怪製造成本的原材料，並且你必須成功通過工藝（鍊金）檢定（DC10 + 2*泥怪CR）。失敗的檢定會摧毀使用的原材料，而失敗超過5點以上則會導致泥怪攻擊製造者。新創造出來的泥怪擁有其HD的平均生命值。使用該專長創造出來的泥怪時無意識並且不受控制的，甚至類似slithering trackers這種通常擁有智力的泥怪，以這種方法創造出來也是沒有智力屬性，並且不會忠於其創造者的。</p><p>雖然通常不能在傳統市場上購買泥怪生物，但是希望在遊戲中包含這種選項的GM——也許可以讓黑市商品出售的泥怪——只需要將特定泥怪生物的製造成本加倍，以便找到一個公平的市場價。</p><p>下表列出了一些最常見的可創造泥怪及其創造要求。由GM裁決，其他類型的泥怪生物也可以使用此專長建立。來自探索者怪物圖鑑2、3、4的生物用匹配的上標標記。</p><table> <tr> <td><strong>泥怪</strong></td> <td><strong>製造成本</strong></td> <td><strong>工藝 DC</strong></td></tr> <tr> <td>膠質怪（Gelatinous Cube）</td> <td>1600gp</td> <td>16</td></tr> <tr> <td>灰泥怪（Gray Ooze）</td> <td>3600gp</td> <td>18</td></tr> <tr> <td>滑行獵手（Slithering Tracker）</td> <td>3600gp</td> <td>18</td></tr> <tr> <td>赭凍怪（Ochre Jelly）</td> <td>4900gp</td> <td>20</td></tr> <tr> <td>黑布丁怪（Black Pudding）</td> <td>8100gp</td> <td>24</td></tr> <tr> <td>岩漿怪（Magma Ooze）</td> <td>8100gp</td> <td>24</td></tr> <tr> <td>死亡陷阱怪（Deathtrap Ooze）</td> <td>8100gp</td> <td>26</td></tr> <tr> <td>肉食晶簇（Carnivorous Crystal）</td> <td>16900gp</td> <td>32</td></tr></table><p><strong>泥怪甕（Oozing Vat）</strong></p><p><strong>價格：</strong>可變 <strong>重量：</strong>可變</p><p><strong>小型泥怪甕</strong> 1gp 2磅</p><p><strong>中型</strong> 10gp 20磅</p><p><strong>大型</strong> 50gp 200磅</p><p><strong>超大型</strong> 200gp 2000磅</p><p><strong>巨型</strong> 500gp 10000磅</p><p>這些陶瓷大桶由伊諾皮恩中央湖泊疏浚的特殊粘土污泥製成，並注入泥怪蒸餾物。 在大型陶窯中燒製後，泥怪甕通常嵌入玻璃纖維管，設計用於將電荷輸送到生長的泥怪中。想要使用創造泥怪專長來創造泥怪生物，創造者必須使用一個足夠大的泥怪甕來容納製作的泥怪。</p><p class=\"zhtw-credit\"><em>書目：專長／造物專長一覽｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Ooze\">Archives of Nethys</a></em></p>"
     },
     "Craft Poppet": {
       "name": "Craft Poppet",
@@ -131,7 +131,7 @@
     },
     "Craft Rod": {
       "name": "製造權杖 Craft Rod",
-      "description": "<p><b><i>你能製造魔法權杖。</i></b></p><p><b>先決條件</b>：施法者等級9級。</p><p><b>專長效果</b>：你能製造魔法權杖。權杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。更多信息請參見魔法物品規則。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Rod\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能製造魔法權杖。</i></b></p><p><b>先決條件</b>：施法者等級9級。</p><p><b>專長效果</b>：你能製造魔法權杖。權杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。更多訊息請參見魔法物品規則。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Rod\">Archives of Nethys</a></em></p>"
     },
     "Craft Shadow Piercing": {
       "name": "Craft Shadow Piercing",
@@ -139,11 +139,11 @@
     },
     "Craft Staff": {
       "name": "製造法杖 Craft Staff",
-      "description": "<p><b><i>你能製造法杖。</i></b></p><p><b>先決條件</b>：施法者等級11級。</p><p><b>專長效果</b>：你能製造法杖。法杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。新制造的法杖擁有10發充能。更多信息請參見魔法物品規則。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Staff\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能製造法杖。</i></b></p><p><b>先決條件</b>：施法者等級11級。</p><p><b>專長效果</b>：你能製造法杖。法杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。新制造的法杖擁有10發充能。更多訊息請參見魔法物品規則。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Staff\">Archives of Nethys</a></em></p>"
     },
     "Craft Wand": {
       "name": "製造魔杖 Craft Wand",
-      "description": "<p><b><i>你能製造魔杖。</i></b></p><p><b>先決條件</b>：施法者等級5級。</p><p><b>專長效果</b>：你能製造任何你知道的4環或以下法術的魔杖。法杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。新的魔杖擁有50發充能。更多信息請參見魔法物品規則。</p><p><b>製造奇物（</b><b>Craft Wondrous Item</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Wand\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你能製造魔杖。</i></b></p><p><b>先決條件</b>：施法者等級5級。</p><p><b>專長效果</b>：你能製造任何你知道的4環或以下法術的魔杖。法杖的每1000gp基本價格將使製造時間延長1天。加工所需耗材的價值為成品價格的一半。新的魔杖擁有50發充能。更多訊息請參見魔法物品規則。</p><p><b>製造奇物（</b><b>Craft Wondrous Item</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Wand\">Archives of Nethys</a></em></p>"
     },
     "Craft Wondrous Item": {
       "name": "製造奇物 Craft Wondrous Item",
@@ -227,7 +227,7 @@
     },
     "Empower Spell": {
       "name": "法術強效 Empower Spell",
-      "description": "<p><b><i>你可以增強法術的力量，使其造成更大的傷害。</i></b></p><p><b>專長效果</b>：搭配此專長時，法術效果中的所有可變量值皆增加一半。但本專長不影響豁免檢定與對抗檢定，對沒有變量的法術也無影響。強效的法術須佔用高於原本2個環位的法術位。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以增強法術的力量，使其造成更大的傷害。</i></b></p><p><b>專長效果</b>：搭配此專長時，法術效果中的所有可變量值皆增加一半。但本專長不影響豁免檢定與對抗檢定，對沒有變數的法術也無影響。強效的法術須佔用高於原本2個環位的法術位。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell\">Archives of Nethys</a></em></p>"
     },
     "Endurance": {
       "name": "堅忍 Endurance",
@@ -291,7 +291,7 @@
     },
     "Fleet": {
       "name": "快速移動 Fleet",
-      "description": "<p><b><i>你比常人要快。</i></b></p><p><b>專長效果</b>：當穿著輕型或不穿盔甲時，你的基本移動速度增加5尺。當你處於中度或重度負荷時失去本專長效果。</p><p><b>特殊說明</b>：你可以多次選擇此專長，其效果累計。</p><p><b>鍛造戒指（</b><b>Forge Ring</b><b>）〔造物〕</b></p><p><b><i>你可以製造帶有各式魔法效果的戒指。</i></b></p><p><b>先決條件</b>：施法者等級7級。</p><p><b>專長效果</b>：你可以製造魔法戒指。鍛造一枚戒指需花費每1000gp基本價格1天的時間。要鍛造一枚戒指，你需要花費其基本價格一半的天然材料。更多信息請參見魔法物品規則。只要你有能力製造同樣的東西，便可以修復損壞的魔法戒指。你必須支付相當於製造時一半的耗材和時間。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Fleet\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你比常人要快。</i></b></p><p><b>專長效果</b>：當穿著輕型或不穿盔甲時，你的基本移動速度增加5尺。當你處於中度或重度負荷時失去本專長效果。</p><p><b>特殊說明</b>：你可以多次選擇此專長，其效果累計。</p><p><b>鍛造戒指（</b><b>Forge Ring</b><b>）〔造物〕</b></p><p><b><i>你可以製造帶有各式魔法效果的戒指。</i></b></p><p><b>先決條件</b>：施法者等級7級。</p><p><b>專長效果</b>：你可以製造魔法戒指。鍛造一枚戒指需花費每1000gp基本價格1天的時間。要鍛造一枚戒指，你需要花費其基本價格一半的天然材料。更多訊息請參見魔法物品規則。只要你有能力製造同樣的東西，便可以修復損壞的魔法戒指。你必須支付相當於製造時一半的耗材和時間。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Fleet\">Archives of Nethys</a></em></p>"
     },
     "Fleshwarper": {
       "name": "Fleshwarper",
@@ -299,7 +299,7 @@
     },
     "Forge Ring": {
       "name": "鍛造戒指 Forge Ring",
-      "description": "<p><b><i>你可以製造帶有各式魔法效果的戒指。</i></b></p><p><b>先決條件</b>：施法者等級7級。</p><p><b>專長效果</b>：你可以製造魔法戒指。鍛造一枚戒指需花費每1000gp基本價格1天的時間。要鍛造一枚戒指，你需要花費其基本價格一半的天然材料。更多信息請參見魔法物品規則。只要你有能力製造同樣的東西，便可以修復損壞的魔法戒指。你必須支付相當於製造時一半的耗材和時間。</p><p><strong>駭人飾物(造物)</strong></p><p>Source Monster Hunter's Handbook pg. 24</p><p class=\"zhtw-credit\"><em>書目：專長／造物專長一覽｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Forge%20Ring\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以製造帶有各式魔法效果的戒指。</i></b></p><p><b>先決條件</b>：施法者等級7級。</p><p><b>專長效果</b>：你可以製造魔法戒指。鍛造一枚戒指需花費每1000gp基本價格1天的時間。要鍛造一枚戒指，你需要花費其基本價格一半的天然材料。更多訊息請參見魔法物品規則。只要你有能力製造同樣的東西，便可以修復損壞的魔法戒指。你必須支付相當於製造時一半的耗材和時間。</p><p><strong>駭人飾物(造物)</strong></p><p>Source Monster Hunter's Handbook pg. 24</p><p class=\"zhtw-credit\"><em>書目：專長／造物專長一覽｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Forge%20Ring\">Archives of Nethys</a></em></p>"
     },
     "Furious Focus": {
       "name": "沉著暴怒 Furious Focus",
@@ -371,11 +371,11 @@
     },
     "Greater Weapon Focus": {
       "name": "高等武器專攻 Greater Weapon Focus",
-      "description": "<p><b><i>從已有“武器專攻”的武器類型中選擇一個，也可以選徒手擊打或擒抱，對此種武器你是個中高手。</i></b></p><p><b>先決條件</b>：對應武器的擅長武器、武器專攻，戰士等級8。</p><p><b>專長效果</b>：使用特定武器時攻擊檢定+1。此加值可與其他攻擊加值累加，包括“武器專攻”的加值。</p><p><b>特殊說明</b>：你可以多次選擇本專長，但並非累加效果；每次選擇本專長時需選擇一個新的武器類型。</p><p><b>高等武器專精（</b><b>Greater Weapons Specialization</b><b>）〔戰鬥〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Focus\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>從已有“武器專攻”的武器類型中選擇一個，也可以選徒手打擊或擒抱，對此種武器你是個中高手。</i></b></p><p><b>先決條件</b>：對應武器的擅長武器、武器專攻，戰士等級8。</p><p><b>專長效果</b>：使用特定武器時攻擊檢定+1。此加值可與其他攻擊加值累加，包括“武器專攻”的加值。</p><p><b>特殊說明</b>：你可以多次選擇本專長，但並非累加效果；每次選擇本專長時需選擇一個新的武器類型。</p><p><b>高等武器專精（</b><b>Greater Weapons Specialization</b><b>）〔戰鬥〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Focus\">Archives of Nethys</a></em></p>"
     },
     "Greater Weapon Specialization": {
       "name": "高等武器專精 Greater Weapon Specialization",
-      "description": "<b>專長類型：</b>Combat<br/><br/><em>從已有“武器專精”的武器中選擇一個，也可以選徒手擊打或擒抱，使用此種武器將可造成更多傷害。</em><br/><br/><br/><br/><b>先決條件: </b>對應武器的擅長武器、武器專攻、高等專攻、武器專精，戰士等級12。<br/><br/><b>專長效果: </b>使用特定武器時傷害+2，且可與其他傷害加值累加，包括“武器專精”的加值。<br/><br/><b>特殊說明: </b>你可以多次選擇本專長，但並非累加效果；每次選擇本專長時需選擇一個新的武器類型。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>戰策增益：</b>每輪一次，你可以消耗2點耐力來將高等武器專精在傷害骰上的加值應用到其它一件武器上。這個加值會持續到你的下一回合開始。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 122"
+      "description": "<b>專長類型：</b>Combat<br/><br/><em>從已有“武器專精”的武器中選擇一個，也可以選徒手打擊或擒抱，使用此種武器將可造成更多傷害。</em><br/><br/><br/><br/><b>先決條件: </b>對應武器的擅長武器、武器專攻、高等專攻、武器專精，戰士等級12。<br/><br/><b>專長效果: </b>使用特定武器時傷害+2，且可與其他傷害加值累加，包括“武器專精”的加值。<br/><br/><b>特殊說明: </b>你可以多次選擇本專長，但並非累加效果；每次選擇本專長時需選擇一個新的武器類型。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>戰策增益：</b>每輪一次，你可以消耗2點耐力來將高等武器專精在傷害骰上的加值應用到其它一件武器上。這個加值會持續到你的下一回合開始。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 122"
     },
     "Grisly Ornament": {
       "name": "Grisly Ornament",
@@ -391,7 +391,7 @@
     },
     "Heighten Spell": {
       "name": "法術升階 Heighten Spell",
-      "description": "<p><b><i>你可以使法術表現得比原本等級高。</i></b></p><p><b>專長效果</b>：本專長可以使法術表現得比原本等級高（最高不可超過9環）。與其他超魔專長不同的是，法術升階可以確實提升法術的有效等級。法術效果中所有與法術等級有關的變量（如法術豁免檢定DC或穿透‘次等法術無效結界’法術的能力）都以升階後的法術等級計算。升階法術準備和釋放的難度都以提升後的法術等級計算。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Heighten%20Spell\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以使法術表現得比原本等級高。</i></b></p><p><b>專長效果</b>：本專長可以使法術表現得比原本等級高（最高不可超過9環）。與其他超魔專長不同的是，法術升階可以確實提升法術的有效等級。法術效果中所有與法術等級有關的變數（如法術豁免檢定DC或穿透‘次等法術無效結界’法術的能力）都以升階後的法術等級計算。升階法術準備和釋放的難度都以提升後的法術等級計算。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63006\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Heighten%20Spell\">Archives of Nethys</a></em></p>"
     },
     "Hurricane Punch": {
       "name": "Hurricane Punch",
@@ -479,7 +479,7 @@
     },
     "Improved Unarmed Strike": {
       "name": "精通徒手打擊 Improved Unarmed Strike",
-      "description": "<p><b><i>你精通徒手作戰的技巧。</i></b></p><p><b>專長效果</b>：即使徒手也視同持有武器，也就是說當你徒手攻擊時，不會引發藉機攻擊。此外，你可以選擇讓你的徒手擊打造成致命或非致命傷害。</p><p><b>通常狀況</b>：無此專長者若徒手攻擊則視為未武裝，也只能造成非致命傷害。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57643\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你精通徒手作戰的技巧。</i></b></p><p><b>專長效果</b>：即使徒手也視同持有武器，也就是說當你徒手攻擊時，不會引發藉機攻擊。此外，你可以選擇讓你的徒手打擊造成致命或非致命傷害。</p><p><b>通常狀況</b>：無此專長者若徒手攻擊則視為未武裝，也只能造成非致命傷害。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=57643\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike\">Archives of Nethys</a></em></p>"
     },
     "Improved Vital Strike": {
       "name": "精通要害打擊 Improved Vital Strike",
@@ -551,11 +551,11 @@
     },
     "Maximize Spell": {
       "name": "法術極效 Maximize Spell",
-      "description": "<p><b><i>你可以將法術的效果發揮到最大。</i></b></p><p><b>專長效果</b>：搭配本專長時，法術效果中所有變量皆以最大值計算。豁免檢定和對抗檢定不受影響。法術若無變動數值則無影響。極效的法術須佔用高於原本3個環位的法術位。配合“法術強效”和“法術極效”的法術，可分別獲得兩個專長的效果，也就是將檢定結果的最大值加上正常檢定結果的一半。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Maximize%20Spell\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你可以將法術的效果發揮到最大。</i></b></p><p><b>專長效果</b>：搭配本專長時，法術效果中所有變數皆以最大值計算。豁免檢定和對抗檢定不受影響。法術若無變動數值則無影響。極效的法術須佔用高於原本3個環位的法術位。配合“法術強效”和“法術極效”的法術，可分別獲得兩個專長的效果，也就是將檢定結果的最大值加上正常檢定結果的一半。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Maximize%20Spell\">Archives of Nethys</a></em></p>"
     },
     "Medusa's Wrath": {
       "name": "萬蛇出洞 Medusa's Wrath",
-      "description": "<b>專長類型：</b>Combat<br/><br/><em>你的連續攻擊令對手眼花繚亂。</em><br/><br/><br/><br/><b>先決條件: </b>精通徒手打擊，蛇形拳，蠍形拳，基本攻擊加值+11。<br/><br/><b>專長效果: </b>每當你進行全力攻擊並做出至少一次徒手擊打攻擊時，你可以額外以最高BAB做出兩次徒手擊打攻擊。這些額外攻擊必須針對暈眩、措手不及、麻痺、恍惚、震懾或昏迷狀態的敵人。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa's%20Wrath<br/><br/><b>戰策增益：</b>當你使用這個專長時，你可以消耗10點耐力來對你正在夾擊的敵人做出額外的攻擊，而不是只能對暈眩，措手不及，麻痺，恍惚，震懾，或者失去意識的敵人做出額外攻擊。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 126"
+      "description": "<b>專長類型：</b>Combat<br/><br/><em>你的連續攻擊令對手眼花繚亂。</em><br/><br/><br/><br/><b>先決條件: </b>精通徒手打擊，蛇形拳，蠍形拳，基本攻擊加值+11。<br/><br/><b>專長效果: </b>每當你進行全力攻擊並做出至少一次徒手打擊攻擊時，你可以額外以最高BAB做出兩次徒手打擊攻擊。這些額外攻擊必須針對暈眩、措手不及、麻痺、恍惚、震懾或昏迷狀態的敵人。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa's%20Wrath<br/><br/><b>戰策增益：</b>當你使用這個專長時，你可以消耗10點耐力來對你正在夾擊的敵人做出額外的攻擊，而不是只能對暈眩，措手不及，麻痺，恍惚，震懾，或者失去意識的敵人做出額外攻擊。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 126"
     },
     "Mobility": {
       "name": "靈活移動 Mobility",
@@ -647,11 +647,11 @@
     },
     "Scorpion Style": {
       "name": "蠍形拳 Scorpion Style",
-      "description": "<p><b><i>你的徒手擊打能夠嚴重妨礙目標的移動。</i></b></p><p><b>先決條件</b>：精通徒手打擊。</p><p><b>專長效果</b>：要使用此專長，你必須用標準動作做一次單一的徒手攻擊。如果此徒手攻擊命中，你正常造成傷害，且目標的基本陸地速度降為5尺，持續輪數等同於你的感知修正，除非其通過DC為“10+1/2你的角色等級+感知修正”的強韌豁免檢定。</p><p><b>抄寫卷軸（</b><b>Scribe Scroll</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你的徒手打擊能夠嚴重妨礙目標的移動。</i></b></p><p><b>先決條件</b>：精通徒手打擊。</p><p><b>專長效果</b>：要使用此專長，你必須用標準動作做一次單一的徒手攻擊。如果此徒手攻擊命中，你正常造成傷害，且目標的基本陸地速度降為5尺，持續輪數等同於你的感知修正，除非其通過DC為“10+1/2你的角色等級+感知修正”的強韌豁免檢定。</p><p><b>抄寫卷軸（</b><b>Scribe Scroll</b><b>）〔造物〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style\">Archives of Nethys</a></em></p>"
     },
     "Scribe Scroll": {
       "name": "抄寫卷軸 Scribe Scroll",
-      "description": "<p><b>專長效果</b>：當你使用卷軸施法時，視卷軸比其自身的施法者等級高1級。這種好處會延伸至你所製作的卷軸中。此外，如果你使用的卷軸的施法者等級比你自身的施法者等級高，那麼你會在激活這個卷軸的施法者等級檢定中獲得+2加值。</p><p class=\"zhtw-credit\"><em>譯者：弒君者伊恩，四月｜書目：專長／內海世界指南｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scribe%20Scroll\">Archives of Nethys</a></em></p>"
+      "description": "<p><b>專長效果</b>：當你使用卷軸施法時，視卷軸比其自身的施法者等級高1級。這種好處會延伸至你所製作的卷軸中。此外，如果你使用的卷軸的施法者等級比你自身的施法者等級高，那麼你會在啟動這個卷軸的施法者等級檢定中獲得+2加值。</p><p class=\"zhtw-credit\"><em>譯者：弒君者伊恩，四月｜書目：專長／內海世界指南｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Scribe%20Scroll\">Archives of Nethys</a></em></p>"
     },
     "Selective Channeling": {
       "name": "選擇導能 Selective Channeling",
@@ -895,7 +895,7 @@
     },
     "Two-Weapon Defense": {
       "name": "雙武器防禦 Two-Weapon Defense",
-      "description": "<p><b><i>你的雙武器戰鬥風格可攻可守。</i></b></p><p><b>先決條件</b>：敏捷15，雙武器格鬥。</p><p><b>專長效果</b>：使用雙頭武器或雙武器時（不包含天生武器或徒手擊打），AC獲得+1盾牌加值。當你使用防禦式戰鬥或全防禦時，此盾牌加值增為+2。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你的雙武器戰鬥風格可攻可守。</i></b></p><p><b>先決條件</b>：敏捷15，雙武器格鬥。</p><p><b>專長效果</b>：使用雙頭武器或雙武器時（不包含天生武器或徒手打擊），AC獲得+1盾牌加值。當你使用防禦式戰鬥或全防禦時，此盾牌加值增為+2。</p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense\">Archives of Nethys</a></em></p>"
     },
     "Two-Weapon Fighting": {
       "name": "雙武器格鬥 Two-Weapon Fighting",
@@ -911,7 +911,7 @@
     },
     "Vicious Stomp": {
       "name": "惡毒踩踏 Vicious Stomp",
-      "description": "<b>專長類型：</b>Combat<br/><br/><em>你在對手倒地的恰當時機猛踹之。</em><br/><br/><br/><br/><b>先決條件: </b>戰鬥反射，精通徒手打擊。<br/><br/><b>專長效果: </b>當對手倒在你的鄰接方格，他將會觸發你的藉機攻擊。藉機攻擊必須以徒手攻擊。<br/><br/><b>資源出處: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp<br/><br/><b>戰策增益：</b>當一個對手因為摔倒引發了你的徒手擊打藉機攻擊，你可以消耗2點耐力來在那次徒手擊打上造成額外的1d6點傷害。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 135"
+      "description": "<b>專長類型：</b>Combat<br/><br/><em>你在對手倒地的恰當時機猛踹之。</em><br/><br/><br/><br/><b>先決條件: </b>戰鬥反射，精通徒手打擊。<br/><br/><b>專長效果: </b>當對手倒在你的鄰接方格，他將會觸發你的藉機攻擊。藉機攻擊必須以徒手攻擊。<br/><br/><b>資源出處: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp<br/><br/><b>戰策增益：</b>當一個對手因為摔倒引發了你的徒手打擊藉機攻擊，你可以消耗2點耐力來在那次徒手打擊上造成額外的1d6點傷害。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 135"
     },
     "Vital Strike": {
       "name": "要害打擊 Vital Strike",
@@ -923,11 +923,11 @@
     },
     "Weapon Focus": {
       "name": "武器專攻 Weapon Focus",
-      "description": "<p><b><i>選擇一種武器。你同樣可以選擇徒手擊打或擒抱（若你能施法，也可選擇“射線”）作為本專長選擇的武器類型。</i></b></p><p><b>先決條件</b>：擅長對應武器，基本攻擊加值+1。</p><p><b>專長效果</b>：使用專攻的武器時攻擊檢定+1。</p><p><b>特殊說明</b>：你可以多次選擇本專長，其效果並不累加。每次你都必須選擇不同種類的武器。</p><p><b>武器專精（</b><b>Weapons Specialization</b><b>）〔戰鬥〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>選擇一種武器。你同樣可以選擇徒手打擊或擒抱（若你能施法，也可選擇“射線”）作為本專長選擇的武器類型。</i></b></p><p><b>先決條件</b>：擅長對應武器，基本攻擊加值+1。</p><p><b>專長效果</b>：使用專攻的武器時攻擊檢定+1。</p><p><b>特殊說明</b>：你可以多次選擇本專長，其效果並不累加。每次你都必須選擇不同種類的武器。</p><p><b>武器專精（</b><b>Weapons Specialization</b><b>）〔戰鬥〕</b></p><p class=\"zhtw-credit\"><em>譯者：cmjh625｜書目：專長／CRB 核心規則手冊｜CHM 出處：<a href=\"http://www.goddessfantasy.net/bbs/index.php?topic=40217\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus\">Archives of Nethys</a></em></p>"
     },
     "Weapon Specialization": {
       "name": "武器專精 Weapon Specialization",
-      "description": "<b>專長類型：</b>Combat<br/><br/><em>你善於使用特定類型的武器造成傷害。從已有“武器專攻”的武器中選擇一個（包括徒手擊打和擒抱），使用此種武器將可造成更多傷害。</em><br/><br/><br/><br/><b>先決條件: </b>擅長對應武器，武器專攻，戰士4級。<br/><br/><b>專長效果: </b>使用專精的武器時傷害檢定+2。<br/><br/><b>特殊說明: </b>你可以多次選擇本專長，其效果並不累加。每次你都必須選擇不同種類的武器。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization<br/><br/><b>戰策增益：</b>每輪1次，你可以消耗2點耐力來在一件你并沒有武器專精的武器上獲得武器專精在傷害骰上的加值。這個加值將會持續到你的下一回合開始。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 135"
+      "description": "<b>專長類型：</b>Combat<br/><br/><em>你善於使用特定類型的武器造成傷害。從已有“武器專攻”的武器中選擇一個（包括徒手打擊和擒抱），使用此種武器將可造成更多傷害。</em><br/><br/><br/><br/><b>先決條件: </b>擅長對應武器，武器專攻，戰士4級。<br/><br/><b>專長效果: </b>使用專精的武器時傷害檢定+2。<br/><br/><b>特殊說明: </b>你可以多次選擇本專長，其效果並不累加。每次你都必須選擇不同種類的武器。<br/><br/><b>資源出處: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization<br/><br/><b>戰策增益：</b>每輪1次，你可以消耗2點耐力來在一件你并沒有武器專精的武器上獲得武器專精在傷害骰上的加值。這個加值將會持續到你的下一回合開始。<br/><br/><b>戰策資源出處: </b>Pathfinder Unchained pg. 135"
     },
     "Whirlwind Attack": {
       "name": "旋風攻擊 Whirlwind Attack",
@@ -1043,15 +1043,15 @@
     },
     "Dolphin Circle": {
       "name": "海豚環殺 Dolphin Circle",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一樣環繞著你的敵人，將他們玩弄於你攻擊的股掌之中。</em></p><p><strong>先決條件:</strong> 海豚突進，海豚流，精通徒手擊打，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢下時，以一個整輪動作，你可以在水下選擇一個環形的路線，其起點和終點都必須在你目前所處的方格，且長度不能超過你以單個移動動作所能遊過的距離。你會環繞這條路線遊動直到你的下一回合開始，這次移動不會引發藉機攻擊。在考慮威脅範圍和為盟友（除了你自己）提供夾擊以及範圍效果時，你被視為處在該路線所有經過的方格中。其他生物可以攻擊你（以及用有益的接觸法術來觸碰你），如同你處在該路線所有經過的方格中。但當其他生物穿過這條線路的任意方格時，你不會被視作在其中的任何方格。在你下一回合開始時，選擇該路徑經過的任一方格來停止環繞。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像海豚一樣環繞著你的敵人，將他們玩弄於你攻擊的股掌之中。</em></p><p><strong>先決條件:</strong> 海豚突進，海豚流，精通徒手打擊，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢下時，以一個整輪動作，你可以在水下選擇一個環形的路線，其起點和終點都必須在你目前所處的方格，且長度不能超過你以單個移動動作所能遊過的距離。你會環繞這條路線遊動直到你的下一回合開始，這次移動不會引發藉機攻擊。在考慮威脅範圍和為盟友（除了你自己）提供夾擊以及範圍效果時，你被視為處在該路線所有經過的方格中。其他生物可以攻擊你（以及用有益的接觸法術來觸碰你），如同你處在該路線所有經過的方格中。但當其他生物穿過這條線路的任意方格時，你不會被視作在其中的任何方格。在你下一回合開始時，選擇該路徑經過的任一方格來停止環繞。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Dart": {
       "name": "海豚突進 Dolphin Dart",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突擊一個敵人又迅速地後撤，就像一隻海豚一樣。</em></p><p><strong>先決條件:</strong> 海豚流，精通徒手擊打，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢之下時，以一個標準動作，你可以在水下最多移動你游泳速度的一半，並對位於你觸及範圍內的一名敵人做一次近戰攻擊，然後撤回你原來所處的位置。你的移動和攻擊都不會引發藉機攻擊，即使你的敵人擁有除了移出威脅範圍外其他觸發藉機攻擊的條件。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你迅速地突擊一個敵人又迅速地後撤，就像一隻海豚一樣。</em></p><p><strong>先決條件:</strong> 海豚流，精通徒手打擊，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果:</strong> 當你處於海豚流的架勢之下時，以一個標準動作，你可以在水下最多移動你游泳速度的一半，並對位於你觸及範圍內的一名敵人做一次近戰攻擊，然後撤回你原來所處的位置。你的移動和攻擊都不會引發藉機攻擊，即使你的敵人擁有除了移出威脅範圍外其他觸發藉機攻擊的條件。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart\">Archives of Nethys</a></em></p>"
     },
     "Dolphin Style": {
       "name": "海豚流 Dolphin Style",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一隻海豚一樣戰鬥，將你的敵人困在一起，這讓你更容易幹掉他們。</em></p><p><strong>先決條件:</strong> 精通徒手擊打，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果:</strong> 你對一個你不對它有夾擊，且它至少鄰接兩個它其他盟友的生物的近戰攻擊骰獲得+1加值。除此之外，你的近戰攻擊忽略任何來自協助他人動作的AC加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 57</p><p><em>你像一隻海豚一樣戰鬥，將你的敵人困在一起，這讓你更容易幹掉他們。</em></p><p><strong>先決條件:</strong> 精通徒手打擊，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果:</strong> 你對一個你不對它有夾擊，且它至少鄰接兩個它其他盟友的生物的近戰攻擊骰獲得+1加值。除此之外，你的近戰攻擊忽略任何來自協助他人動作的AC加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 57｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Style\">Archives of Nethys</a></em></p>"
     },
     "Dreadful Carnage": {
       "name": "懼栗屠殺 Dreadful Carnage",
@@ -1063,7 +1063,7 @@
     },
     "Empower Spell-Like Ability": {
       "name": "類法術能力強效 Empower Spell-Like Ability",
-      "description": "<p><b><i>該生物的一種類法術能力極其強而有力。</i></b></p><p><b>先決條件</b>：擁有施法者等級6級以上的類法術能力。</p><p><b>專長效果</b>：選擇一個該生物擁有的類法術能力（不過要遵守以下列出的限制）。每天3次，該生物可以如同搭配了“法術強效”超魔般使用此類法術能力（除非該生物每天可以使用該類法術能力的次數低於3次）。每當該生物使用類法術能力強效時，法術效果中的所有可變量值皆增加一半（+50%）。但本專長不影響豁免檢定與對抗檢定，對沒有變量的法術也無影響。該生物必須選擇一個法術環級不超過“1/2生物最高CL-2”的類法術能力以搭配此專長。詳見表：類法術能力強效與瞬發。</p><p><b>特殊說明</b>：生物可以多次選擇本專長。每次選擇此專長時，它的效果將應用在另一個類法術能力上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell-Like%20Ability\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>該生物的一種類法術能力極其強而有力。</i></b></p><p><b>先決條件</b>：擁有施法者等級6級以上的類法術能力。</p><p><b>專長效果</b>：選擇一個該生物擁有的類法術能力（不過要遵守以下列出的限制）。每天3次，該生物可以如同搭配了“法術強效”超魔般使用此類法術能力（除非該生物每天可以使用該類法術能力的次數低於3次）。每當該生物使用類法術能力強效時，法術效果中的所有可變量值皆增加一半（+50%）。但本專長不影響豁免檢定與對抗檢定，對沒有變數的法術也無影響。該生物必須選擇一個法術環級不超過“1/2生物最高CL-2”的類法術能力以搭配此專長。詳見表：類法術能力強效與瞬發。</p><p><b>特殊說明</b>：生物可以多次選擇本專長。每次選擇此專長時，它的效果將應用在另一個類法術能力上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell-Like%20Ability\">Archives of Nethys</a></em></p>"
     },
     "Enforcer": {
       "name": "脅迫者 Enforcer",
@@ -1203,7 +1203,7 @@
     },
     "Improved Natural Attack": {
       "name": "精通天生武器攻擊 Improved Natural Attack",
-      "description": "<p><b><i>這個生物的天生武器可以造成可怕的傷害。</i></b></p><p><b>先決條件</b>：擁有天生武器攻擊，基本攻擊加值+4。</p><p><b>專長效果</b>：選擇一種你擁有的天生武器攻擊（不可以是徒手擊打），其可造成的傷害投骰按以下列表提升一個體型等級：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始傷害為1d10，則依據此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊說明</b>：生物可以多次選擇本專長，每次選擇本專長時，它必須將之應用在一項新的天生武器攻擊上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>這個生物的天生武器可以造成可怕的傷害。</i></b></p><p><b>先決條件</b>：擁有天生武器攻擊，基本攻擊加值+4。</p><p><b>專長效果</b>：選擇一種你擁有的天生武器攻擊（不可以是徒手打擊），其可造成的傷害投骰按以下列表提升一個體型等級：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始傷害為1d10，則依據此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><b>特殊說明</b>：生物可以多次選擇本專長，每次選擇本專長時，它必須將之應用在一項新的天生武器攻擊上。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Attack\">Archives of Nethys</a></em></p>"
     },
     "Improved Reposition": {
       "name": "精通移位 Improved Reposition",
@@ -1239,7 +1239,7 @@
     },
     "Multiweapon Fighting": {
       "name": "多重武器戰鬥 Multiweapon Fighting",
-      "description": "<p><b><i>這個生物擅於利用自己的多條手臂揮舞武器。</i></b></p><p><b>先決條件</b>：敏捷13，擁有三條或更多手臂。</p><p><b>專長效果</b>：在持用多件武器戰鬥時，你在主手武器上受到的攻擊檢定減值減少2點，副手武器攻擊檢定上的減值減少6點。</p><p><b>通常狀況</b>：若無此專長支持，生物在使用多武器戰鬥時，在主手武器上的攻擊檢定承受-6減值，副手武器上的攻擊檢定承受-10減值（該生物只有一隻手視為主手，其他手皆視為副手）。更多信息請查看雙武器戰鬥規則。</p><p><b>特殊說明</b>：如果該生物的手多於兩隻，那麼此專長對該生物而言取代“雙武器格鬥”專長。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Fighting\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>這個生物擅於利用自己的多條手臂揮舞武器。</i></b></p><p><b>先決條件</b>：敏捷13，擁有三條或更多手臂。</p><p><b>專長效果</b>：在持用多件武器戰鬥時，你在主手武器上受到的攻擊檢定減值減少2點，副手武器攻擊檢定上的減值減少6點。</p><p><b>通常狀況</b>：若無此專長支持，生物在使用多武器戰鬥時，在主手武器上的攻擊檢定承受-6減值，副手武器上的攻擊檢定承受-10減值（該生物只有一隻手視為主手，其他手皆視為副手）。更多訊息請查看雙武器戰鬥規則。</p><p><b>特殊說明</b>：如果該生物的手多於兩隻，那麼此專長對該生物而言取代“雙武器格鬥”專長。</p><p class=\"zhtw-credit\"><em>譯者：傻豆｜書目：專長／B1 怪物圖鑑｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=60891\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Fighting\">Archives of Nethys</a></em></p>"
     },
     "Paired Opportunists": {
       "name": "雙重藉機 Paired Opportunists",
@@ -1275,15 +1275,15 @@
     },
     "Shark Leap": {
       "name": "鯊躍 Shark Leap",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 58</p><p><em>像一隻致命的掠食者，你從沒有警惕的敵人下面閃擊他們。</em></p><p><strong>先決條件：</strong>精通徒手擊打，猛鯊流，鯊裂，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果：</strong>當你處於猛鯊流的架勢之下，並且你在水下擁有中等，上升，快速上升的浮力時，你可以做出一次可怖的躍擊來攻擊你正上方的敵人。這類似於衝鋒，除了你只能筆直地向上移動，並且只能使用穿刺徒手擊打或者嚙咬攻擊。如果你的攻擊命中了，這將會造成兩倍的傷害；如果你的攻擊骰結果超過了11+目標的游泳加值，這次攻擊將會讓目標失去平衡，直到它的下一回合。和衝鋒一樣，在你只能做一個標準動作時（比如突襲輪），你也可以做一個閹割版本的鯊躍；你只能半速移動，就和部分衝鋒一樣，而且攻擊只會翻倍傷害骰（如同要害打擊）而不是所有傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 58｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 58</p><p><em>像一隻致命的掠食者，你從沒有警惕的敵人下面閃擊他們。</em></p><p><strong>先決條件：</strong>精通徒手打擊，猛鯊流，鯊裂，游泳10級，基本攻擊加值+10或者武僧10級</p><p><strong>專長效果：</strong>當你處於猛鯊流的架勢之下，並且你在水下擁有中等，上升，快速上升的浮力時，你可以做出一次可怖的躍擊來攻擊你正上方的敵人。這類似於衝鋒，除了你只能筆直地向上移動，並且只能使用穿刺徒手打擊或者嚙咬攻擊。如果你的攻擊命中了，這將會造成兩倍的傷害；如果你的攻擊骰結果超過了11+目標的游泳加值，這次攻擊將會讓目標失去平衡，直到它的下一回合。和衝鋒一樣，在你只能做一個標準動作時（比如突襲輪），你也可以做一個閹割版本的鯊躍；你只能半速移動，就和部分衝鋒一樣，而且攻擊只會翻倍傷害骰（如同要害打擊）而不是所有傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 58｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Leap\">Archives of Nethys</a></em></p>"
     },
     "Shark Style": {
       "name": "猛鯊流 Shark Style",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鯊魚一樣戰鬥，像鯊魚一樣撕碎你的敵人。</em></p><p><strong>先決條件：</strong>精通徒手擊打，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果：</strong>你可以在使用徒手攻擊時造成穿刺或者鈍擊傷害。你的穿刺徒手打擊和嚙咬攻擊將會造成1d6點額外的流血傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你像鯊魚一樣戰鬥，像鯊魚一樣撕碎你的敵人。</em></p><p><strong>先決條件：</strong>精通徒手打擊，游泳3級，基本攻擊加值+3或者武僧3級</p><p><strong>專長效果：</strong>你可以在使用徒手攻擊時造成穿刺或者鈍擊傷害。你的穿刺徒手打擊和嚙咬攻擊將會造成1d6點額外的流血傷害。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Style\">Archives of Nethys</a></em></p>"
     },
     "Shark Tear": {
       "name": "鯊裂 Shark Tear",
-      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敵人，並能在水中嗅到他們的血腥味。</em></p><p><strong>先決條件：</strong>精通徒手擊打，猛鯊流，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果：</strong>在處於猛鯊流的架勢時，你在水下獲得靈敏嗅覺，但僅限對流血的敵人。你還會在對抗流血敵人的傷害骰和攻擊骰上獲得+1加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
+      "description": "<p><strong>來源</strong> 水下冒險<em>Aquatic Adventures</em> pg. 59</p><p><em>你撕裂那些流血的敵人，並能在水中嗅到他們的血腥味。</em></p><p><strong>先決條件：</strong>精通徒手打擊，猛鯊流，游泳6級，基本攻擊加值+6或者武僧6級</p><p><strong>專長效果：</strong>在處於猛鯊流的架勢時，你在水下獲得靈敏嗅覺，但僅限對流血的敵人。你還會在對抗流血敵人的傷害骰和攻擊骰上獲得+1加值。</p><p class=\"zhtw-credit\"><em>書目：水下冒險Aquatic Adventures pg. 59｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear\">Archives of Nethys</a></em></p>"
     },
     "Shield of Swings": {
       "name": "劍刃屏障 Shield of Swings",
@@ -1319,7 +1319,7 @@
     },
     "Tail Terror": {
       "name": "驚駭之尾 Tail Terror",
-      "description": "<p><b><i>你的尾巴有足夠的力量進行攻擊。</i></b></p><p><b>先決條件</b>：基本攻擊加值+1，狗頭人。</p><p><b>專長效果</b>：你可以使用尾巴進行拍擊。這是可以造成1d4鈍器傷害的次要天生武器攻擊。此外，你可以給你的尾巴添加上狗頭人尾部附屬武器。並且在選擇武器專長時，視為你擅長所有狗頭人尾部附屬武器。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tail%20Terror\">Archives of Nethys</a></em></p>"
+      "description": "<p><b><i>你的尾巴有足夠的力量進行攻擊。</i></b></p><p><b>先決條件</b>：基本攻擊加值+1，狗頭人。</p><p><b>專長效果</b>：你可以使用尾巴進行拍擊。這是可以造成1d4鈍器傷害的次要天生武器攻擊。此外，你可以給你的尾巴加上狗頭人尾部附屬武器。並且在選擇武器專長時，視為你擅長所有狗頭人尾部附屬武器。</p><p class=\"zhtw-credit\"><em>譯者：四月，月夜白雨，他化自在天，弒君者伊恩｜書目：專長／ARG 進階種族手冊｜CHM 出處：<a href=\"https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513\">果園原帖</a>（CHM v2.31.0）｜AoN 出處：<a href=\"https://aonprd.com/FeatDisplay.aspx?ItemName=Tail%20Terror\">Archives of Nethys</a></em></p>"
     },
     "Trick Riding": {
       "name": "騎乘技巧 Trick Riding",
