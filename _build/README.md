@@ -13,7 +13,7 @@ python _build/verify_compendium.py  # 驗證
 ```
 
 **apply_terms.py 為什麼要在 build_chm.py 之後跑：** CHM 層會把名稱與內文整條換成 CHM 的寫法，
-但有些譯名是維護者另外裁定、跟 CHM 不同的（例：Energy Drained「能量流失」，CHM 寫「能量吸取」；
+但有些譯名是維護者另外裁定、跟 CHM 不同的（例：Terrifying Howl「驚駭狂嚎」，CHM 寫「怖懼狂嚎」；
 Dazing Touch 統一為「暈眩之觸」）。定案表寫在 `apply_terms.py` 開頭，來源是 pf1-zhtw 的
 `audit/譯名一致性稽核.md`（2026-10-17）。要加新的定案就加在那裡。
 
