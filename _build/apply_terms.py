@@ -5,7 +5,7 @@ r"""把譯名定案套到 translations/（繁）與旁邊的 pf1e-compendium-zhc
     python _build/apply_terms.py --dry    # 只算、印統計，不寫
 
 **每次跑完 build_chm.py 之後都要再跑這支。** CHM 層會把名稱與內文整條換成 CHM 的寫法，
-而有些譯名是維護者另外裁定、跟 CHM 不同的（例：Energy Drained 定為「能量流失」，CHM 寫「能量吸取」），
+而有些譯名是維護者另外裁定、跟 CHM 不同的（例：Terrifying Howl 定為「驚駭狂嚎」，CHM 寫「怖懼狂嚎」），
 不在建置的最後補一次就會被蓋回去。
 
 定案來源：pf1-zhtw 的 audit/譯名一致性稽核（2026-10-17 維護者裁定＋依 CHM v2.33.0 的建議）。
@@ -39,7 +39,6 @@ NAME = {
         'Martial Focus': '武術專精',
     },
     'pf1.pf1e-rules.json': {
-        'Conditions/Energy Drained': '能量流失',
         'Conditions/Prone': '俯臥',
     },
     'pf1.races.json': {'Ratfolk': '鼠族'},
