@@ -40,6 +40,7 @@ NAME = {
     },
     'pf1.pf1e-rules.json': {
         'Conditions/Prone': '俯臥',
+        'Conditions/Energy Drained': '能量吸取',   # 2026-10-20 維護者改定（跟 CHM、怪物能力 Energy Drain 同詞）
     },
     'pf1.races.json': {'Ratfolk': '鼠族'},
     'pf1.racial-hd.json': {'Ooze': '泥怪'},
