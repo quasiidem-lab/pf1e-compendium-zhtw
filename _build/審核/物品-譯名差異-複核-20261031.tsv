@@ -86,7 +86,7 @@ B	pf1.weapons-and-ammo.json	Sai	十手	equipment	果園用例			筆架叉	不套
 B	pf1.weapons-and-ammo.json	Seven-Branched Sword	七支劍	equipment	果園用例			七支刀（Seven-branched sword）	不套		現行 8／用語集 0	page_207.html：…而无论目标生物是否有护甲AC加值。 七支刀（Seven-branched sword）：这支造型奇特的…	CHM 武器表與條目標題「七支刀」（8 次）；用語集「七支劍」CHM 查無
 B	pf1.weapons-and-ammo.json	Shang Gou	雙鉤	equipment	果園用例			雙鉤（Shang gou）	不套		現行 8／用語集 8	page_207.html：…号，这令巨镰也往往被用作威慑武器。 双钩（Shang gou）：这对精钢打造的长剑有一个回钩的弯头，…	中文已相同，差異只在英文大小寫，不用改
 B	pf1.weapons-and-ammo.json	Spiked Armor	甲刺	equipment	果園用例			甲刺（Spiked armor）	不套		現行 102／用語集 102	page_207.html：…范围，你会因为同一个动作结束擒抱。 甲刺（Spiked armor）：你能为你的盔甲加装尖刺，在擒抱…	中文已相同，差異只在英文大小寫，不用改
-B	pf1.weapons-and-ammo.json	Spiked Chain	刺鏈	equipment	果園用例			刺鏈w	套		現行 0／用語集 113	page_207.html：…7磅 挥砍 缴械，武僧 UC东方 Spiked chain 刺链 25 gp 1d6 2d4 ×2 10磅 穿刺 缴械，摔绊…	現行名稱多打了一個「w」（刺鏈w），用語集「刺鏈」與 CHM 武器表一致
+B	pf1.weapons-and-ammo.json	Spiked Chain	刺鏈	equipment	果園用例			刺鏈w	套		現行 0／用語集 113	page_207.html：…7磅 挥砍 缴械，武僧 UC东方 Spiked chain 刺链 25 gp 1d6 2d4 ×2 10磅 穿刺 缴械，摔绊…	現行名稱多打了一個「w」；10-31 已直接修好 base/ 與 translations/，這列套不套結果都一樣
 B	pf1.weapons-and-ammo.json	Spiked Heavy Shield	帶刺重盾	equipment	果園用例			帶刺重盾（Spiked heavy shield）	不套		現行 6／用語集 6	page_207.html：…述请查看盔甲部分。甲刺无法被缴械。 带刺重盾（Spiked heavy shield）：带刺盾牌是威慑武…	中文已相同，差異只在英文大小寫，不用改
 B	pf1.weapons-and-ammo.json	Spiked Light Shield	帶刺輕盾	equipment	果園用例			帶刺輕盾（Spiked light shield）	不套		現行 8／用語集 8	page_207.html：…重盾猛砸敌人。带刺重盾无法被缴械。 带刺轻盾（Spiked light shield）：除了防御，你还能…	中文已相同，差異只在英文大小寫，不用改
 B	pf1.weapons-and-ammo.json	Sword Cane	短劍和劍杖	equipment	果園用例			杖劍	不套		現行 21／用語集 1	page_207.html：…是说也要过反射不然插自己脑门啊！】 杖剑（Sword cane）：这把细身剑被放置在作为剑鞘和伪装的…	用語集譯名黏了「短劍和」，CHM 武器表寫「杖劍（Sword cane）」（21 次）
