@@ -83,7 +83,7 @@ Agitating Cognizance	Agitating Cognizance	PsychicDisciplinesDisplay.aspx?ItemNam
 Agonizing Wound	Agonizing Wound	PsychicDisciplinesDisplay.aspx?ItemName=Pain	Psychic Discipline 能力（Pain）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			劇痛之創（Agonizing Wound）	
 Agony	Agony	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html	苦咒	苦咒（Agony）	
 Agony's Embrace	Agony's Embrace	BloodragerBloodlineDisplay.aspx?ItemName=Kyton	Bloodrager Bloodline 能力（Kyton）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Ahrimon's Favor					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Ahriman’s Favor
+Ahrimon's Favor	Ahriman’s Favor	BloodlineDisplay.aspx?ItemName=Div	Bloodline 能力（Div）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Aid Allies	Aid Allies	CavalierOrders.aspx?ItemName=Order%20of%20the%20Dragon	Order 能力（Order of the Dragon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_23.html|page_1212.html	协助盟友	協助盟友（Aid Allies）	
 Air Barrier	Air Barrier	MysteryDisplay.aspx?ItemName=Wind	Mystery 能力（Wind）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_88.html	大气之盾	大氣之盾（Air Barrier）	
 Air Blessing: Soaring Assault	Soaring Assault	WarpriestBlessingDisplay.aspx?ItemName=Air	Blessing 能力（Air）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	沒有			飛行突擊（Air Blessing: Soaring Assault）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
@@ -184,7 +184,7 @@ Arcane Beacon	Arcane Beacon	DomainDisplay.aspx?ItemName=Magic	Domain 能力（Ma
 Arcane Bloodline	Arcane	SorcererBloodlines.aspx?ItemName=Arcane	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_24.html|page_64.html	奥秘血统／混种术师使用该能力来获得奥秘血统	奧秘血統（Arcane Bloodline）	
 Arcane Bloodrage	Arcane Bloodrage	BloodragerBloodlineDisplay.aspx?ItemName=Arcane	Bloodrager Bloodline 能力（Arcane）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			秘咒血怒（Arcane Bloodrage）	
 Arcane Bloodrager Bloodline	Arcane	BloodragerBloodlines.aspx?ItemName=Arcane	Bloodrager Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_99.html	奥秘血脉		
-Arcane Bond					—	對不到				奧術聯結（Arcane Bond）	「Arcane Bond」AoN 有，但職業不同（AoN：Sorcerer）；AoN 名冊裡找不到；最像的 AoN 名稱：Arcane Bond
+Arcane Bond	Arcane Bond	ClassDisplay.aspx?ItemName=Wizard	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_38.html|page_82.html|page_24.html	奥术联结／奥术连结	奧術聯結（Arcane Bond）	
 Arcane Bond (SOR)	Arcane Bond	BloodlineDisplay.aspx?ItemName=Arcane	Bloodline 能力（Arcane）	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（該職業頁）	page_24.html	奥术联结	奧術聯結(術士)（Arcane Bond (SOR)）	
 Arcane Cloak	Arcane Cloak	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	奥能遮蔽	奧能遮蔽（Arcane Cloak）	
 Arcane Crafter Susbchool					—	對不到					AoN 名冊裡找不到
@@ -193,7 +193,7 @@ Arcane Deed	Arcane Deed	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫�
 Arcane Discovery Exploit					—	對得到					現行 pf1-data 沒有這個名稱，AoN 也找不到
 Arcane Edge	Arcane Edge	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	奥能刀锋	奧能刀鋒（Arcane Edge）	
 Arcane Enlightenment	Arcane Enlightenment	ShamanSpiritDisplay.aspx?ItemName=Lore	Shaman Spirit 能力（Lore）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			奧術啟蒙（Arcane Enlightenment）	
-Arcane Hypothesis					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Arcane Apotheosis
+Arcane Hypothesis	Arcane Apotheosis	BloodlineDisplay.aspx?ItemName=Arcane	Bloodline 能力（Arcane）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_24.html	奥术颠峰		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Arcane Pool	Arcane Pool	ClassDisplay.aspx?ItemName=Magus	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_82.html|page_81.html	奥能力池	奧能力池（Arcane Pool）	
 Arcane Redoubt	Arcane Redoubt	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	奥能堡垒	奧能堡壘（Arcane Redoubt）	
 Arcane Redoubt, Greater	Arcane Redoubt, Greater	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			高等奧能壁壘（Arcane Redoubt, Greater）	
@@ -262,7 +262,7 @@ Athletic Exploit	Athletic Exploit	DomainDisplay.aspx?ItemName=Strength	Domain �
 Attune Implants	Attune Implants	PsychicDisciplinesDisplay.aspx?ItemName=Mindtech	Psychic Discipline 能力（Mindtech）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			殖裝調和（Attune Implants）	
 Augment	Augment	SchoolDisplay.aspx?ItemName=Transmutation	Arcane School 能力（Transmutation）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	强效	強效（Augment）	
 Augury	Augury	Inquisitions.aspx	Inquisition 能力（Fate）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_41.html|page_42.html|page_43.html	占卜术／占卜	佔命（Augury）	
-Aura (OMD)					—	對不到				靈光(導魂者)（Aura (OMD)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Aura
+Aura (OMD)					—	對不到				靈光(導魂者)（Aura (OMD)）	人工確認：跟 AoN 同名／近名的不是同一條能力，不收（導魂者的靈光，AoN 只有牧師、戰鬥祭司的）
 Aura of Banishment	Aura of Banishment	SchoolDisplay.aspx?ItemName=Abjuration	Arcane School 能力（Abjuration）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	放逐灵氲	放逐靈光（Aura of Banishment）	
 Aura of Bedlam	Aura of Bedlam	DomainDisplay.aspx?ItemName=Chaos	Domain 能力（Chaos）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Aura of Chaos	Aura of Chaos	DomainDisplay.aspx?ItemName=Chaos	Domain 能力（Chaos）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	混沌灵氲	混沌靈光（Aura of Chaos）	
@@ -285,7 +285,7 @@ Aura of Madness	Aura of Madness	DomainDisplay.aspx?ItemName=Madness	Domain 能�
 Aura of Menace	Aura of Menace	DomainDisplay.aspx?ItemName=Good｜DomainDisplay.aspx?ItemName=Law	Domain 能力（Good）｜Domain 能力（Law）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				威脅靈光（Aura of Menace）	
 Aura of Protection	Aura of Protection	WarpriestBlessingDisplay.aspx?ItemName=Protection｜DomainDisplay.aspx?ItemName=Protection	Blessing 能力（Protection）｜Domain 能力（Protection）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	多筆	對不到				保護靈光（Aura of Protection）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Aura of Purity	Aura of Purity	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（別的職業頁）	page_55.html	纯净灵氲		
-Aura of Repitition					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Aura of Repetition
+Aura of Repitition	Aura of Repetition	DomainDisplay.aspx?ItemName=Artifice	Domain 能力（Artifice）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_42.html	重复灵氲		
 Aura of Resolve	Aura of Resolve	ClassDisplay.aspx?ItemName=Paladin	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			虔誠靈光（Aura of Resolve）	
 Aura of Righteousness	Aura of Righteousness	ClassDisplay.aspx?ItemName=Paladin	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			公正靈光（Aura of Righteousness）	
 Aura of Sanctification	Aura of Sanctification	DomainDisplay.aspx?ItemName=Good	Domain 能力（Good）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			聖化靈光（Aura of Sanctification）	
@@ -385,12 +385,12 @@ Bitter Pill	Bitter Pill	AlchemistDiscoveries.aspx	Discovery	原樣（只差大�
 Black Blood	Black Blood	BloodragerBloodlines.aspx?ItemName=Black Blood	Bloodrager Bloodline	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Black Blood Bloodrager Bloodline	Black Blood	BloodragerBloodlines.aspx?ItemName=Black Blood	Bloodrager Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	沒有				
 Black Blood Immunity	Black Blood Immunity	BloodragerBloodlineDisplay.aspx?ItemName=Black%20Blood	Bloodrager Bloodline 能力（Black Blood）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Black Blood Resistances					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Black Blood Resistance
+Black Blood Resistances	Black Blood Resistance	BloodragerBloodlineDisplay.aspx?ItemName=Black%20Blood	Bloodrager Bloodline 能力（Black Blood）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Black Blood Transfusion	Black Blood Transfusion	BloodragerBloodlineDisplay.aspx?ItemName=Black%20Blood	Bloodrager Bloodline 能力（Black Blood）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Black Market Connections	Black Market Connections	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_62.html	黑市客户		AoN 另有掉鏈子版同名條目，已排除
 Black Powder Inquisition	Black Powder Inquisition	Inquisitions.aspx	Inquisition	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_79.html	火药裁决域	裁決：槍火（Black Powder Inquisition）	
 Blackened Curse	Blackened	OracleCurses.aspx	Oracle Curse	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	zh85ad885f45.htm|page_273.html	焦黑之臂	焦黑之臂（Blackened Curse）	
-Blackstar Bomb					—	對不到					AoN 名冊裡找不到
+Blackstar Bomb	Blackstar Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Blade Rush Infusion	Blade Rush	KineticistTalents.aspx	Wild Talent	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	沒有				
 Blade Whirlwind Infusion	Blade Whirlwind	KineticistTalents.aspx	Wild Talent	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	有（該職業頁）	zhc3dfe53681.htm	念刃旋风		
 Blast Rune	Blast Rune	WarpriestBlessingDisplay.aspx?ItemName=Rune｜DomainDisplay.aspx?ItemName=Rune	Blessing 能力（Rune）｜Domain 能力（Rune）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	多筆	對不到				爆發符文（Blast Rune）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
@@ -412,7 +412,7 @@ Blessing	Blessing	BloodlineDisplay.aspx?ItemName=Unicorn	Bloodline 能力（Unic
 Blessings	Blessings	ClassDisplay.aspx?ItemName=Warpriest	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_124.html|page_126.html	战斗祭司每日能够使用祝福／祝福	祝福（Blessings）	
 Blight	Blight	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html|page_70.html|page_93.html	凋零／枯萎术	凋零（Blight）	
 Blind Spot	Blind Spot	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zh62263cd083.htm	一叶障目		
-Blinding Bomb					—	對得到				致盲炸彈（Blinding Bomb）	「Blinding Bomb」AoN 有，但職業不同（AoN：Ninja）；AoN 名冊裡找不到；最像的 AoN 名稱：Blinding Bomb
+Blinding Bomb	Blinding Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（別的職業頁）	page_86.html	障目弹	致盲炸彈（Blinding Bomb）	
 Blinding Flash	Blinding Flash	DomainDisplay.aspx?ItemName=Sun	Domain 能力（Sun）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	瞎眼闪光	瞎眼閃光（Blinding Flash）	
 Blinding Ray	Blinding Ray	SchoolDisplay.aspx?ItemName=Illusion	Arcane School 能力（Illusion）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	失明射线	失明射線（Blinding Ray）	
 Blinding Strike	Blinding Strike	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（別的職業頁）	page_305.html	致盲闪击		AoN 另有掉鏈子版同名條目，已排除
@@ -528,7 +528,7 @@ Burrow (3 pts)	Burrow	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點
 Burrow (UC) (3 pts)	Burrow	SummonerEvolutions.aspx	Evolution	去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條	高	對不到	有（該職業頁）	page_411.html|page_247.html	掘地		
 By My Honor	By My Honor	CavalierOrders.aspx?ItemName=Order%20of%20the%20Sword	Order 能力（Order of the Sword）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_23.html|page_1212.html	荣耀之名	榮耀之名（By My Honor）	
 Cackle	Cackle	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html	尖笑	尖笑（Cackle）	
-Caging Strke					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Caging Strike
+Caging Strke	Caging Strike	Inquisitions.aspx	Inquisition 能力（Imprisonment）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_79.html	囚禁打击		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Call Ancestor	Call Ancestor	BloodlineDisplay.aspx?ItemName=Vestige	Bloodline 能力（Vestige）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Call Fire	Call Fire	DomainDisplay.aspx?ItemName=Fire	Domain 能力（Fire）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			煽風點火（Call Fire）	
 Call Spirit	Call Spirit	ClassDisplay.aspx?ItemName=Spiritualist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_269.html|page_1037.html	类法术能力的形式施放法术呼唤魂魄／呼唤魂魄	呼喚死魂（Call Spirit）	
@@ -707,7 +707,7 @@ Conflicted Identity	Conflicted Identity	VigilanteTalents.aspx	Vigilante Talent	�
 Confounding Blades	Confounding Blades	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			困惑之刃（Confounding Blades）	AoN 另有掉鏈子版同名條目，已排除
 Confusing Critical	Confusing Critical	BloodragerBloodlineDisplay.aspx?ItemName=Fey	Bloodrager Bloodline 能力（Fey）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			迷亂重擊（Confusing Critical）	
 Confusing Strike	Confusing Strike	InvestigatorTalents.aspx	Investigator Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_107.html	迷乱一击	迷亂一擊（Confusing Strike）	
-Confusion Bomb					—	對不到				困惑炸彈（Confusion Bomb）	AoN 名冊裡找不到
+Confusion Bomb	Confusion Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			困惑炸彈（Confusion Bomb）	
 Confusion Curse	Confusion Curse	ShamanSpiritDisplay.aspx?ItemName=Lore	Shaman Spirit 能力（Lore）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			困惑詛咒（Confusion Curse）	
 Congeal	Congeal	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Conjuration Resonant School	Conjuration	OccultistImplements.aspx?ItemName=Conjuration	Implement School	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	有（別的職業頁）	page_306.html	这是一个咒法系	咒法靈器（Conjuration Resonant School）	
@@ -823,7 +823,7 @@ Dancing Electricity	Dancing Electricity	ArcanistExploits.aspx	Arcanist Exploit	�
 Dancing Weapons	Dancing Weapons	DomainDisplay.aspx?ItemName=Artifice	Domain 能力（Artifice）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	舞空武器	舞空武器（Dancing Weapons）	
 Danger Sense	Danger Sense	ClassDisplay.aspx?ItemName=Barbarian (Unchained)｜ClassDisplay.aspx?ItemName=Rogue (Unchained)	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				危險感知（Danger Sense）	
 Danger Sight	Danger Sight	OccultistImplementsDisplay.aspx?ItemName=Divination	Implement School 能力（Divination）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			危險預兆（Danger Sight）	
-Danger Word					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Danger Ward
+Danger Word	Danger Ward	CavalierOrders.aspx?ItemName=Order%20of%20the%20Paw	Order 能力（Order of the Paw）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_23.html|page_1212.html	预警		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Dark Apothecary	Dark Apothecary	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Dark Defense	Dark Defense	PsychicDisciplinesDisplay.aspx?ItemName=Shadow	Psychic Discipline 能力（Shadow）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_318.html	暗处防御		
 Dark Half	Dark Half	PsychicDisciplinesDisplay.aspx?ItemName=Abomination	Psychic Discipline 能力（Abomination）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			黑暗半身（Dark Half）	
@@ -916,7 +916,7 @@ Delay Affliction	Delay Affliction	MysteryDisplay.aspx?ItemName=Life	Mystery 能�
 Delayed Bomb	Delayed bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zh990dd8fc83.htm	定时炸弹／工程学大师	定時炸彈（Delayed Bomb）	
 Delayed Spells	Delayed Spells	Inquisitions.aspx	Inquisition 能力（Clandestine）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Delicious Fright	Delicious Fright	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Deliver Touch Spells (SPI)					—	對不到					「Deliver Touch Spells」AoN 有，但職業不同（AoN：Shaman、Witch）；AoN 名冊裡找不到；最像的 AoN 名稱：Deliver Touch Spells
+Deliver Touch Spells (SPI)					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（幻影的能力，AoN 同名的是薩滿靈獸、女巫魔寵的）
 Demand Attention	Demand Attention	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Demand Subjugation	Demand Subjugation	DomainDisplay.aspx?ItemName=Law	Domain 能力（Law）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Demanding Challenge	Demanding Challenge	ClassDisplay.aspx?ItemName=Cavalier	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_74.html	该能力取代威迫挑战	威迫挑戰（Demanding Challenge）	
@@ -959,7 +959,7 @@ Developed Poison Immunity	Developed Poison Immunity	RogueTalents.aspx	Rogue Tale
 Device Talent	Device Talent	InvestigatorTalents.aspx	Investigator Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_107.html	礼装天分	禮裝天分（Device Talent）	
 Devil Subdomain	Devil Subdomain	DomainDisplay.aspx?ItemName=Evil｜DomainDisplay.aspx?ItemName=Law	Domain 能力（Evil）｜Domain 能力（Law）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				魔鬼子域（Devil Subdomain）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Devoted Blade	Devoted Blade	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	虔诚刀锋	虔誠刀鋒（Devoted Blade）	
-Devotion (SPI)					—	對不到				忠誠(喚魂師)（Devotion (SPI)）	「Devotion」AoN 有，但職業不同（AoN：Witch）；AoN 名冊裡找不到；最像的 AoN 名稱：Devotion
+Devotion (SPI)					—	對不到				忠誠(喚魂師)（Devotion (SPI)）	人工確認：跟 AoN 同名／近名的不是同一條能力，不收（幻影的能力，AoN 同名的是女巫庇護主）
 Devotion Patron	Devotion	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	page_125.html|page_46.html|page_411.html	忠诚／虔信献身		
 Diabolical Arrogance	Diabolical Arrogance	BloodragerBloodlineDisplay.aspx?ItemName=Infernal	Bloodrager Bloodline 能力（Infernal）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			魔鬼之傲（Diabolical Arrogance）	
 Diamond Body	Diamond Body	ClassDisplay.aspx?ItemName=Monk	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_52.html	金刚体	金剛體（Diamond Body）	
@@ -987,7 +987,7 @@ Discern Lies	Discern Lies	ClassDisplay.aspx?ItemName=Inquisitor	Class Feature	�
 Discord	Discord	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Discovery	Discovery	ClassDisplay.aspx?ItemName=Alchemist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_71.html|page_69.html|zh990dd8fc83.htm	科研发现／进化魔宠专长作为炼金术士科研发现／炼金术师科研发现	科研發現（Discovery）	
 Discreet Inquiries	Discreet Inquiries	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Disease (UC) (4 pts)					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Disease
+Disease (UC) (4 pts)					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（掉鏈子幻靈進化，AoN 同名的是牧師變體引導）
 Disease Use	Disease Use	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Disemboweling Tusks	Disemboweling Tusks	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Disguise	Disguise	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html	易容	易容（Disguise）	
@@ -1064,7 +1064,7 @@ Draconic Claws					—	對不到					AoN 名冊裡找不到
 Draconic Claws (BLO)					—	對不到				龍族利爪(血脈狂怒者)（Draconic Claws (BLO)）	AoN 名冊裡找不到
 Draconic Resilience	Draconic Resilience	ShamanHexes.aspx	Shaman Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Draconic Resistance	Draconic Resistance	MysteryDisplay.aspx?ItemName=Dragon	Mystery 能力（Dragon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			龍類抗力（Draconic Resistance）	
-Draconic Resistances					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Draconic Resistance
+Draconic Resistances	Draconic Resistance	BloodragerBloodlineDisplay.aspx?ItemName=Draconic	Bloodrager Bloodline 能力（Draconic）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Dragon Final Revelation	Final Revelation	MysteryDisplay.aspx?ItemName=Dragon	Mystery 能力（Dragon）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示		
 Dragon Form	Dragon Form	BloodragerBloodlineDisplay.aspx?ItemName=Draconic	Bloodrager Bloodline 能力（Draconic）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			龍形（Dragon Form）	
 Dragon Magic	Dragon Magic	MysteryDisplay.aspx?ItemName=Dragon	Mystery 能力（Dragon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
@@ -1107,7 +1107,7 @@ Earth Climb	Earth Climb	KineticistTalents.aspx	Wild Talent	原樣（只差大小
 Earth Crawler	Earth Crawler	BloodlineDisplay.aspx?ItemName=Ghoul	Bloodline 能力（Ghoul）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Earth Domain	Earth	ClericDomains.aspx?ItemName=Earth	Domain	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_42.html	土领域	土領域（Earth Domain）	
 Earth Glide	Earth Glide	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_260.html|zhc3dfe53681.htm	的遁地／潜地	遁地術（Earth Glide）	
-Earth Glide (Kobold)					—	對不到				潛地(狗頭人)（Earth Glide (Kobold)）	AoN 名冊裡找不到；最像的 AoN 名稱：Earth Glide
+Earth Glide (Kobold)	Earth Glide	BloodlineDisplay.aspx?ItemName=Kobold%20Sorcerer	Bloodline 能力（Kobold Sorcerer）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_24.html	遁地术	潛地(狗頭人)（Earth Glide (Kobold)）	
 Earth Tongue	Earth Tongue	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zhc3dfe53681.htm	大地之语		
 Earth Totem	Earth Totem	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Earth Totem, Greater	Earth Totem, Greater	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
@@ -1138,7 +1138,7 @@ Eidetic Recollection	Eidetic Recollection	InvestigatorTalents.aspx	Investigator 
 Eidolon	Eidolon	ClassDisplay.aspx?ItemName=Summoner	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_409.html|page_410.html|page_411.html	幻灵／它们被称为幻灵	幻靈（Eidolon）	
 Eidolon (UC)	Eidolon	ClassDisplay.aspx?ItemName=Summoner (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（該職業頁）	page_409.html|page_410.html|page_411.html	幻灵／它们被称为幻灵	幻靈（Eidolon (UC)）	AoN 另有原版同名條目，已排除
 Elbow Smash (UC)	Elbow Smash	MonkUCStyleStrikes.aspx｜ClassDisplay.aspx?ItemName=Monk (Unchained)	Style Strike｜Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	多筆	對不到				肘裂擊（Elbow Smash (UC)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
-Eldritch Blast					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Eldritch Bolt
+Eldritch Blast	Eldritch Bolt	MysteryDisplay.aspx?ItemName=Spellscar	Mystery 能力（Spellscar）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Eldritch Conduit	Eldritch Conduit	InvestigatorTalents.aspx｜RogueTalents.aspx	Investigator Talent｜Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對得到					AoN 另有掉鏈子版同名條目，已排除
 Eldritch Resistance	Eldritch Resistance	MysteryDisplay.aspx?ItemName=Spellscar	Mystery 能力（Spellscar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			異常抵抗（Eldritch Resistance）	
 Eldritch Scar	Eldritch Scar	MysteryDisplay.aspx?ItemName=Spellscar	Mystery 能力（Spellscar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			恐怖傷疤（Eldritch Scar）	
@@ -1165,20 +1165,20 @@ Elemental Exile	Elemental Exile	KineticistTalents.aspx	Wild Talent	原樣（只�
 Elemental Final Revelation	Final Revelation	MysteryDisplay.aspx?ItemName=Elemental	Mystery 能力（Elemental）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示		
 Elemental Focus	Elemental Focus	ClassDisplay.aspx?ItemName=Kineticist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_259.html	根据操念使的元素念力	元素念力（Elemental Focus）	
 Elemental Form	Elemental Form	BloodragerBloodlineDisplay.aspx?ItemName=Elemental	Bloodrager Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_1202.html	元素形态	元素形態（Elemental Form）	
-Elemental Form (SHA) (Air)					—	對不到				元素形態(薩滿)(氣)（Elemental Form (SHA) (Air)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Form
-Elemental Form (SHA) (Earth)					—	對不到				元素形態(薩滿)(土)（Elemental Form (SHA) (Earth)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Form
-Elemental Form (SHA) (Fire)					—	對不到				元素形態(薩滿)(火)（Elemental Form (SHA) (Fire)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Form
-Elemental Form (SHA) (Water)					—	對不到				元素形態(薩滿)(水)（Elemental Form (SHA) (Water)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Form
+Elemental Form (SHA) (Air)	Elemental Form	ShamanSpiritDisplay.aspx?ItemName=Wind	Shaman Spirit 能力（Wind）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（別的職業頁）	page_1202.html	元素形态	元素形態(薩滿)(氣)（Elemental Form (SHA) (Air)）	
+Elemental Form (SHA) (Earth)	Elemental Form	ShamanSpiritDisplay.aspx?ItemName=Stone	Shaman Spirit 能力（Stone）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（別的職業頁）	page_1202.html	元素形态	元素形態(薩滿)(土)（Elemental Form (SHA) (Earth)）	
+Elemental Form (SHA) (Fire)	Elemental Form	ShamanSpiritDisplay.aspx?ItemName=Flame	Shaman Spirit 能力（Flame）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（別的職業頁）	page_1202.html	元素形态	元素形態(薩滿)(火)（Elemental Form (SHA) (Fire)）	
+Elemental Form (SHA) (Water)	Elemental Form	ShamanSpiritDisplay.aspx?ItemName=Waves	Shaman Spirit 能力（Waves）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（別的職業頁）	page_1202.html	元素形态	元素形態(薩滿)(水)（Elemental Form (SHA) (Water)）	
 Elemental Fury (UC)	Elemental Fury	ClassDisplay.aspx?ItemName=Monk (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	沒有			四象怒（Elemental Fury (UC)）	照 Foundry 標籤挑家族（沒有標籤＝職業本身的能力）
-Elemental Gap					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Elemental Trap
+Elemental Gap					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（念力天賦（utility），AoN 最像的 Elemental Trap 是另一條注能）
 Elemental Imbalance Curse	Elemental Imbalance	OracleCurses.aspx	Oracle Curse	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	zh85ad885f45.htm	元素失衡		
 Elemental Manipulation	Elemental Manipulation	SchoolDisplay.aspx?ItemName=Evocation	Arcane School 能力（Evocation）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	元素操作	元素操作（Elemental Manipulation）	
 Elemental Movement	Elemental Movement	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	元素移动	元素移動（Elemental Movement）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
-Elemental Movement (Air)					—	對不到				元素移動(氣)（Elemental Movement (Air)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Movement
+Elemental Movement (Air)	Elemental Movement	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（該職業頁）	page_24.html	元素移动	元素移動(氣)（Elemental Movement (Air)）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
 Elemental Movement (BLO)	Elemental Movement	BloodragerBloodlineDisplay.aspx?ItemName=Elemental	Bloodrager Bloodline 能力（Elemental）	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（別的職業頁）	page_24.html	元素移动	元素移動(血脈狂怒者)（Elemental Movement (BLO)）	
-Elemental Movement (Earth)					—	對不到				元素移動(土)（Elemental Movement (Earth)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Movement
-Elemental Movement (Fire)					—	對不到				元素移動(火)（Elemental Movement (Fire)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Movement
-Elemental Movement (Water)					—	對不到				元素移動(水)（Elemental Movement (Water)）	AoN 名冊裡找不到；最像的 AoN 名稱：Elemental Movement
+Elemental Movement (Earth)	Elemental Movement	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（該職業頁）	page_24.html	元素移动	元素移動(土)（Elemental Movement (Earth)）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
+Elemental Movement (Fire)	Elemental Movement	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（該職業頁）	page_24.html	元素移动	元素移動(火)（Elemental Movement (Fire)）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
+Elemental Movement (Water)	Elemental Movement	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	高	對不到	有（該職業頁）	page_24.html	元素移动	元素移動(水)（Elemental Movement (Water)）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
 Elemental Mutagen	Elemental Mutagen	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Elemental Mystery	Elemental	OracleMysteries.aspx?ItemName=Elemental	Mystery	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	有（別的職業頁）	page_247.html|page_24.html|page_99.html	元素／元素血统／元素血脉		
 Elemental Overflow	Elemental Overflow	ClassDisplay.aspx?ItemName=Kineticist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_297.html|page_260.html	毁灭注能不会获得元素满溢／元素满溢／念刃不会获得元素满溢	元素滿溢（Elemental Overflow）	
@@ -1187,11 +1187,11 @@ Elemental Rage, Greater	Elemental Rage, Greater	BarbarianRagePowers.aspx?Type=Of
 Elemental Rage, Lesser	Elemental Rage, Lesser	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			次級元素之怒（Elemental Rage, Lesser）	
 Elemental Ray	Elemental Ray	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	元素射线	元素射線（Elemental Ray）	
 Elemental Resistance	Elemental Resistance	BloodlineDisplay.aspx?ItemName=Elemental	Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	元素抗力	元素抗力（Elemental Resistance）	照 Foundry 標籤的上層挑（Bloodline Power、Elemental Bloodline）
-Elemental Resistance (Acid)					—	對不到				元素抗力(酸蝕)（Elemental Resistance (Acid)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Elemental Resistance
+Elemental Resistance (Acid)	Elemental Resistance	BloodlineDisplay.aspx?ItemName=Djinni｜BloodlineDisplay.aspx?ItemName=Efreeti｜BloodlineDisplay.aspx?ItemName=Elemental｜BloodlineDisplay.aspx?ItemName=Marid｜BloodlineDisplay.aspx?ItemName=Shaitan｜BloodragerBloodlineDisplay.aspx?ItemName=Elemental｜MysteryDisplay.aspx?ItemName=Elemental	Bloodline 能力（Djinni）｜Bloodline 能力（Efreeti）｜Bloodline 能力（Elemental）｜Bloodline 能力（Marid）｜Bloodline 能力（Shaitan）｜Bloodrager Bloodline 能力（Elemental）｜Mystery 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	多筆	對不到				元素抗力(酸蝕)（Elemental Resistance (Acid)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Elemental Resistance (BLO)	Elemental Resistance	BloodragerBloodlineDisplay.aspx?ItemName=Elemental	Bloodrager Bloodline 能力（Elemental）	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（別的職業頁）	page_24.html	元素抗力	元素抗力(血脈狂怒者)（Elemental Resistance (BLO)）	
-Elemental Resistance (Cold)					—	對不到				元素抗力(寒冷)（Elemental Resistance (Cold)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Elemental Resistance
-Elemental Resistance (Electricity)					—	對不到				元素抗力(電擊)（Elemental Resistance (Electricity)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Elemental Resistance
-Elemental Resistance (Fire)					—	對不到				元素抗力(火焰)（Elemental Resistance (Fire)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Elemental Resistance
+Elemental Resistance (Cold)	Elemental Resistance	BloodlineDisplay.aspx?ItemName=Djinni｜BloodlineDisplay.aspx?ItemName=Efreeti｜BloodlineDisplay.aspx?ItemName=Elemental｜BloodlineDisplay.aspx?ItemName=Marid｜BloodlineDisplay.aspx?ItemName=Shaitan｜BloodragerBloodlineDisplay.aspx?ItemName=Elemental｜MysteryDisplay.aspx?ItemName=Elemental	Bloodline 能力（Djinni）｜Bloodline 能力（Efreeti）｜Bloodline 能力（Elemental）｜Bloodline 能力（Marid）｜Bloodline 能力（Shaitan）｜Bloodrager Bloodline 能力（Elemental）｜Mystery 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	多筆	對不到				元素抗力(寒冷)（Elemental Resistance (Cold)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
+Elemental Resistance (Electricity)	Elemental Resistance	BloodlineDisplay.aspx?ItemName=Djinni｜BloodlineDisplay.aspx?ItemName=Efreeti｜BloodlineDisplay.aspx?ItemName=Elemental｜BloodlineDisplay.aspx?ItemName=Marid｜BloodlineDisplay.aspx?ItemName=Shaitan｜BloodragerBloodlineDisplay.aspx?ItemName=Elemental｜MysteryDisplay.aspx?ItemName=Elemental	Bloodline 能力（Djinni）｜Bloodline 能力（Efreeti）｜Bloodline 能力（Elemental）｜Bloodline 能力（Marid）｜Bloodline 能力（Shaitan）｜Bloodrager Bloodline 能力（Elemental）｜Mystery 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	多筆	對不到				元素抗力(電擊)（Elemental Resistance (Electricity)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
+Elemental Resistance (Fire)	Elemental Resistance	BloodlineDisplay.aspx?ItemName=Djinni｜BloodlineDisplay.aspx?ItemName=Efreeti｜BloodlineDisplay.aspx?ItemName=Elemental｜BloodlineDisplay.aspx?ItemName=Marid｜BloodlineDisplay.aspx?ItemName=Shaitan｜BloodragerBloodlineDisplay.aspx?ItemName=Elemental｜MysteryDisplay.aspx?ItemName=Elemental	Bloodline 能力（Djinni）｜Bloodline 能力（Efreeti）｜Bloodline 能力（Elemental）｜Bloodline 能力（Marid）｜Bloodline 能力（Shaitan）｜Bloodrager Bloodline 能力（Elemental）｜Mystery 能力（Elemental）	元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）	多筆	對不到				元素抗力(火焰)（Elemental Resistance (Fire)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Elemental Stance (UC)	Elemental Stance	BarbarianUnchainedRagePowers.aspx?Type=Stance	Rage Power (UC)	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	有（該職業頁）	page_252.html	元素战姿	元素戰姿（Elemental Stance (UC)）	
 Elemental Strikes	Elemental Strikes	BloodragerBloodlineDisplay.aspx?ItemName=Elemental	Bloodrager Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			元素打擊（Elemental Strikes）	
 Elemental Totem, Lesser	Elemental Totem, Lesser	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
@@ -1232,7 +1232,7 @@ Enduring Toxin	Enduring Toxin	AlchemistDiscoveries.aspx	Discovery	原樣（只�
 Enemies' Bane	Enemies' Bane	ShamanSpiritDisplay.aspx?ItemName=Battle	Shaman Spirit 能力（Battle）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Enemy Ground	Enemy Ground	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Energize Weapon Infusion	Energize Weapon	KineticistTalents.aspx	Wild Talent	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	有（該職業頁）	zhc3dfe53681.htm	注能武器		
-Energy Absorbtion					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Energy Absorption
+Energy Absorbtion	Energy Absorption	SchoolDisplay.aspx?ItemName=Abjuration	Arcane School 能力（Abjuration）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_68.html	能量吸取		
 Energy Absorption	Energy Absorption	BarbarianRagePowers.aspx?Type=Defensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	能量吸收	能量吸收（Energy Absorption）	
 Energy Absorption (UC)	Energy Absorption	BarbarianUnchainedRagePowers.aspx?Type=Defensive	Rage Power (UC)	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（該職業頁）	page_36.html|page_252.html	能量吸收	能量吸收（Energy Absorption (UC)）	AoN 另有原版同名條目，已排除
 Energy Attacks (2 pts)	Energy Attacks	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	沒有				
@@ -1267,7 +1267,7 @@ Entangling Curse	Entangling Curse	ShamanSpiritDisplay.aspx?ItemName=Nature	Shama
 Entangling Ectoplasm	Entangling Ectoplasm	BloodlineDisplay.aspx?ItemName=Ectoplasm	Bloodline 能力（Ectoplasm）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			糾纏靈質（Entangling Ectoplasm）	
 Entangling Infusion	Entangling Infusion	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			糾纏注能（Entangling Infusion）	
 Entrancing Aura					—	對不到					AoN 名冊裡找不到
-Entrepeneur					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Entrepreneur
+Entrepeneur	Entrepreneur	VigilanteTalents.aspx	Vigilante Talent	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Entropy Patron	Entropy	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
 Entropy Subdomain	Entropy Subdomain	DomainDisplay.aspx?ItemName=Chaos	Domain 能力（Chaos）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	熵子域		
 Enveloping Darkness	Enveloping Darkness	BloodlineDisplay.aspx?ItemName=Shadow	Bloodline 能力（Shadow）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	极暗之渊	極暗之淵（Enveloping Darkness）	
@@ -1450,12 +1450,12 @@ Fiend Totem, Greater	Fiend Totem, Greater	BarbarianRagePowers.aspx?Type=Totem	Ra
 Fiend Totem, Lesser	Fiend Totem, Lesser	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			次級惡魔圖騰（Fiend Totem, Lesser）	
 Fiendish Appearance (3 pts)	Fiendish Appearance	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	沒有				
 Fiendish Boon	Fiendish Boon	ClassDisplay.aspx?ItemName=Antipaladin	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			魔契（Fiendish Boon）	
-Fiendish Probiscus					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Fiendish Proboscis
+Fiendish Probiscus	Fiendish Proboscis	ArcanistExploits.aspx	Arcanist Exploit	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Fierce Fortitude	Fierce Fortitude	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			兇暴堅韌（Fierce Fortitude）	
 Fiery Conduit	Fiery Conduit	MysteryDisplay.aspx?ItemName=Volcano	Mystery 能力（Volcano）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Fiery Soul	Fiery Soul	ShamanSpiritDisplay.aspx?ItemName=Flame	Shaman Spirit 能力（Flame）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			烈焰之魂（Fiery Soul）	
 Fighter Training	Fighter Training	ClassDisplay.aspx?ItemName=Magus	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_82.html|page_81.html	战士训练／战斗训练	戰鬥訓練（Fighter Training）	
-Final Asepct					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Final Aspect
+Final Asepct	Final Aspect	ClassDisplay.aspx?ItemName=Shifter	Class Feature	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_1201.html	终极拟态		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Final Rest Inquisition	Final Rest Inquisition	Inquisitions.aspx	Inquisition	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			裁決：安息（Final Rest Inquisition）	
 Final Revelation	Final Revelation	ClassDisplay.aspx?ItemName=Oracle	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示	最終啟示（Final Revelation）	照 Foundry 標籤挑家族（沒有標籤＝職業本身的能力）
 Final Vengeance	Final Vengeance	Inquisitions.aspx	Inquisition 能力（Vengeance）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_79.html	临终报复	大仇將報（Final Vengeance）	
@@ -1574,7 +1574,7 @@ Form of Flame	Form of Flame	MysteryDisplay.aspx?ItemName=Flame	Mystery 能力（
 Form of the Beast	Form of the Beast	MysteryDisplay.aspx?ItemName=Lunar	Mystery 能力（Lunar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Form of the Dragon	Form of the Dragon	MysteryDisplay.aspx?ItemName=Dragon	Mystery 能力（Dragon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_58.html	龙之健硕		
 Formless Mastery (UC)	Formless Mastery	ClassDisplay.aspx?ItemName=Monk (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	沒有			無極式（Formless Mastery (UC)）	照 Foundry 標籤挑家族（沒有標籤＝職業本身的能力）
-Fortification Subdomain					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Fortifications Subdomain
+Fortification Subdomain	Fortifications Subdomain	DomainDisplay.aspx?ItemName=Protection	Domain 能力（Protection）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Fortified Position	Fortified Position	InvestigatorTalents.aspx｜RogueTalents.aspx｜SlayerTalents.aspx	Investigator Talent｜Rogue Talent｜Slayer Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對得到					AoN 另有掉鏈子版同名條目，已排除
 Fortress of Sorrow	Fortress of Sorrow	PsychicDisciplinesDisplay.aspx?ItemName=Sorrow	Psychic Discipline 能力（Sorrow）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Fortune	Fortune	WitchHexes.aspx｜ShamanHexes.aspx	Hex｜Shaman Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對得到				祈福（Fortune）	
@@ -1911,7 +1911,7 @@ Ice Tomb	Ice Tomb	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(
 Iceplant	Iceplant	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Icewalker	Icewalker	BloodlineDisplay.aspx?ItemName=Boreal	Bloodline 能力（Boreal）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_24.html	霜之行者	霜之行者（Icewalker）	
 Icicle	Icicle	DomainDisplay.aspx?ItemName=Water	Domain 能力（Water）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	冰柱	冰柱（Icicle）	
-Iconoclastic Strike					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Iconclastic Strike*
+Iconoclastic Strike	Iconclastic Strike	InvestigatorTalents.aspx	Investigator Talent	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Icy Skin	Icy Skin	MysteryDisplay.aspx?ItemName=Waves｜MysteryDisplay.aspx?ItemName=Winter	Mystery 能力（Waves）｜Mystery 能力（Winter）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				冰冷皮膚（Icy Skin）	
 Icy Tomb	Icy Tomb	ArcanistExploits.aspx	Arcanist Exploit	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			冰霜墓穴（Icy Tomb）	
 Illuminating Answers	Illuminating Answers	PsychicDisciplinesDisplay.aspx?ItemName=Lore	Psychic Discipline 能力（Lore）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			啟發性解答（Illuminating Answers）	
@@ -1947,13 +1947,13 @@ Improved Invocation					—	對不到				精通祈神禱告（Improved Invocatio
 Improved Natural Armor (1 pt)	Improved Natural Armor	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	有（別的職業頁）	page_617.html	精通天生护甲		
 Improved Natural Armor (UC) (1 pt)	Improved Natural Armor	SummonerEvolutions.aspx	Evolution	去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條	高	對不到	有（別的職業頁）	page_617.html	精通天生护甲		
 Improved Quarry	Improved Quarry	ClassDisplay.aspx?ItemName=Ranger｜ClassDisplay.aspx?ItemName=Slayer	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				精通狩獵目標（Improved Quarry）	
-Improved Quarry (VAM)					—	對不到				精通狩獵目標(吸血鬼獵人)（Improved Quarry (VAM)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Improved Quarry
+Improved Quarry (VAM)					—	對不到				精通狩獵目標(吸血鬼獵人)（Improved Quarry (VAM)）	人工確認：跟 AoN 同名／近名的不是同一條能力，不收（吸血鬼獵人的，AoN 只有遊俠、殺手的）
 Improved Shadow's Chill	Improved Shadow’s Chill	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
 Improved Spell Combat	Improved Spell Combat	ClassDisplay.aspx?ItemName=Magus	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_81.html	精通法术战斗	精通法術戰鬥（Improved Spell Combat）	
 Improved Spell Recall	Improved Spell Recall	ClassDisplay.aspx?ItemName=Magus	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_81.html	精通法术唤回	精通法術喚回（Improved Spell Recall）	
 Improved Uncanny Dodge	Improved Uncanny Dodge	ClassDisplay.aspx?ItemName=Barbarian｜ClassDisplay.aspx?ItemName=Bloodrager｜ClassDisplay.aspx?ItemName=Rogue｜ClassDisplay.aspx?ItemName=Skald	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				精通直覺閃避（Improved Uncanny Dodge）	AoN 另有掉鏈子版同名條目，已排除
 Improvised Weapon Proficiency (UC)	Improvised Weapon Proficiency	MonkUCKiPowers.aspx	Ki Power	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	沒有				
-In Accordance with Prophecy					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：In Accordance with the Prophecy
+In Accordance with Prophecy	In Accordance with the Prophecy	SchoolDisplay.aspx?ItemName=Divination	Arcane School 能力（Divination）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 In Vogue	In Vogue	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			頭牌（In Vogue）	
 Incendiary Charge	Incendiary Charge	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Incorporeal Bonded Manifestation	Incorporeal Bonded Manifestation	ClassDisplay.aspx?ItemName=Spiritualist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			虛靈態顯形（Incorporeal Bonded Manifestation）	
@@ -2089,7 +2089,7 @@ Kamikaze	Kamikaze	NinjaTricks.aspx	Ninja Trick	原樣（只差大小寫、撇號
 Kawarimi	Kawarimi	NinjaTricks.aspx	Ninja Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Keen Recollection	Keen Recollection	ClassDisplay.aspx?ItemName=Investigator	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			敏銳回想（Keen Recollection）	
 Keen Scent (2 pts)	Keen Scent	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	沒有				
-Keep the Corners					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Keep to the Corners
+Keep the Corners	Keep to the Corners	MysteryDisplay.aspx?ItemName=Streets	Mystery 能力（Streets）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Keeper	Keeper	CavalierOrders.aspx?ItemName=Order%20of%20the%20Seal	Order 能力（Order of the Seal）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_23.html|page_1212.html	传承管理	傳承管理（Keeper）	
 Kelizandri's Tide	Kelizandri’s Tide	BarbarianRagePowers.aspx?Type=Elemental	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
 Ki Arcana	Ki Arcana	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_82.html|page_83.html	以神御气／奥能真气	奧能真氣（Ki Arcana）	
@@ -2297,7 +2297,7 @@ Maelstrom Jump	Maelstrom Jump	ArcanistExploits.aspx	Arcanist Exploit	原樣（�
 Maestro Bloodline	Maestro	SorcererBloodlines.aspx?ItemName=Maestro	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_24.html	谐律血统	諧律血統（Maestro Bloodline）	
 Mage of the Veil Subschool					—	對不到					AoN 名冊裡找不到
 Magic Attacks (1 pt)	Magic Attacks	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	沒有				
-Magic Attacks (SPI)					—	對不到					「Magic Attacks」AoN 有，但職業不同（AoN：Eidolon、Eidolon (Unchained)、Summoner、Summoner (Unchained)）；AoN 名冊裡找不到；最像的 AoN 名稱：Magic Attacks
+Magic Attacks (SPI)					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（幻影的能力，AoN 同名的是幻靈進化）
 Magic Attacks (UC) (1 pt)	Magic Attacks	SummonerEvolutions.aspx	Evolution	去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條	高	對不到	沒有				
 Magic Blessing: Blessed Magic	Blessed Magic	WarpriestBlessingDisplay.aspx?ItemName=Magic	Blessing 能力（Magic）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	沒有			祝福法術（Magic Blessing: Blessed Magic）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Magic Blessing: Hand of the Acolyte	Hand of the Acolyte	WarpriestBlessingDisplay.aspx?ItemName=Magic	Blessing 能力（Magic）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	有（別的職業頁）	page_42.html	随从之手	侍僧之手（Magic Blessing: Hand of the Acolyte）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
@@ -2326,7 +2326,7 @@ Malevolent Ectoplasm	Malevolent Ectoplasm	BloodlineDisplay.aspx?ItemName=Ectopla
 Malign Eye	Malign Eye	DomainDisplay.aspx?ItemName=Luck	Domain 能力（Luck）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	冷眼	冷眼（Malign Eye）	
 Malignant Poison	Malignant Poison	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（別的職業頁）	page_70.html	恶性毒药／恶性猛毒		
 Malleable Flesh	Malleable Flesh	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Mammoth Hide					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Mammoth's Hide
+Mammoth Hide	Mammoth's Hide	ShamanSpiritDisplay.aspx?ItemName=Mammoth	Shaman Spirit 能力（Mammoth）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Mammoth Spirit	Mammoth	ShamanSpirits.aspx?ItemName=Mammoth	Shaman Spirit	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	page_411.html	猛犸		
 Mammoth Spirit Manifestation	Manifestation	ShamanSpiritDisplay.aspx?ItemName=Mammoth	Shaman Spirit 能力（Mammoth）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_112.html	显圣		
 Maneuver Mastery	Maneuver Mastery	MagusArcana.aspx｜MysteryDisplay.aspx?ItemName=Battle	Magus Arcana｜Mystery 能力（Battle）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	多筆	對得到				戰技熟稔（Maneuver Mastery）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
@@ -2350,8 +2350,8 @@ Many Throw Infusion	Many Throw	KineticistTalents.aspx	Wild Talent	去掉結尾�
 Marid Bloodline	Marid	SorcererBloodlines.aspx?ItemName=Marid	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_24.html	水灵血统	水靈血統（Marid Bloodline）	
 Marksman's Shot	Marksman’s Shot	SlayerTalents.aspx	Slayer Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Marshal Spirit	Marshal	MediumSpirits.aspx	Medium Spirit	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	page_609.html|page_618.html	统帅	統帥英靈（Marshal Spirit）	
-Marshall's Order					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Marshal's Order
-Martial Discipline					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Martial Disciple
+Marshall's Order	Marshal's Order	MediumSpirits.aspx	Medium Spirit 能力（Marshal）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
+Martial Discipline	Martial Disciple	MysteryDisplay.aspx?ItemName=Ascetic	Mystery 能力（Ascetic）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Martial Flexibility	Martial Flexibility	ClassDisplay.aspx?ItemName=Brawler	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_101.html	拳师每日可以使用千招百式	千招百式（Martial Flexibility）	
 Martial Training	Martial Training	ClassDisplay.aspx?ItemName=Brawler	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_22.html	军武熟谙	習武（Martial Training）	
 Martyr Subdomain	Martyr Subdomain	DomainDisplay.aspx?ItemName=Nobility	Domain 能力（Nobility）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	殉难子域	殉難子域（Martyr Subdomain）	
@@ -2373,7 +2373,7 @@ Master Skald	Master Skald	ClassDisplay.aspx?ItemName=Skald	Class Feature	原樣�
 Master Slayer	Master Slayer	ClassDisplay.aspx?ItemName=Slayer	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_116.html	杀手宗师	殺手宗師（Master Slayer）	
 Master Strike	Master Strike	ClassDisplay.aspx?ItemName=Rogue	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			大師之擊（Master Strike）	
 Master Strike (UC)	Master Strike	ClassDisplay.aspx?ItemName=Rogue (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	沒有			大師之擊（Master Strike (UC)）	AoN 另有原版同名條目，已排除
-Master Tacitician					—	對不到				戰術大師（Master Tacitician）	AoN 名冊裡找不到；最像的 AoN 名稱：Master Tactician
+Master Tacitician	Master Tactician	ClassDisplay.aspx?ItemName=Cavalier	Class Feature	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_74.html	该能力取代战术大师／以及战术大师	戰術大師（Master Tacitician）	
 Master Tactician	Master Tactician	ClassDisplay.aspx?ItemName=Cavalier	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_74.html	该能力取代战术大师／以及战术大师	戰術大師（Master Tactician）	
 Master Tricks	Master Tricks	ClassDisplay.aspx?ItemName=Ninja	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（別的職業頁）	page_62.html	高等忍术	高等忍術（Master Tricks）	
 Master Vampire Hunter					—	對不到				吸血鬼獵人大師（Master Vampire Hunter）	現行 pf1-data 沒有這個名稱，AoN 也找不到
@@ -2422,7 +2422,7 @@ Metamagic Knowledge	Metamagic Knowledge	ArcanistExploits.aspx	Arcanist Exploit	�
 Metamagic Mastery	Metamagic Mastery	SchoolDisplay.aspx?ItemName=Universalist	Arcane School 能力（Universalist）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	超魔熟稔	超魔熟稔（Metamagic Mastery）	
 Metamixing	Metamixing	ArcanistExploits.aspx	Arcanist Exploit	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_96.html	混合超魔	混合超魔（Metamixing）	
 Method to the Madness	Method to the Madness	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Metmorphosis					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Metamorphosis
+Metmorphosis	Metamorphosis	PsychicDisciplinesDisplay.aspx?ItemName=Rivethun	Psychic Discipline 能力（Rivethun）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_318.html	蜕变		
 Mien of Despair	Mien of Despair	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
 Might of the Fallen	Might of the Fallen	ShamanSpiritDisplay.aspx?ItemName=Ancestors	Shaman Spirit 能力（Ancestors）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Might of the Godclaw	Might of the Godclaw	MysteryDisplay.aspx?ItemName=Godclaw	Mystery 能力（Godclaw）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
@@ -2462,7 +2462,7 @@ Misdirection	Misdirection	MesmeristTricks.aspx	Mesmerist Trick	原樣（只差�
 Misdirection Mastery	Misdirection Mastery	MysteryDisplay.aspx?ItemName=Whimsy	Mystery 能力（Whimsy）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Misfortune	Misfortune	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html	降祸	降禍（Misfortune）	
 Misfortune (SHA)	Misfortune	ShamanHexes.aspx	Shaman Hex	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（別的職業頁）	page_92.html|page_20.html	降祸／灾厄	降禍(薩滿)（Misfortune (SHA)）	
-Mists Shroud					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Mist's Shroud
+Mists Shroud	Mist's Shroud	ShamanSpiritDisplay.aspx?ItemName=Waves	Shaman Spirit 能力（Waves）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Mnemonic Cache	Mnemonic Cache	PsychicDisciplinesDisplay.aspx?ItemName=Lore	Psychic Discipline 能力（Lore）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			記憶之匣（Mnemonic Cache）	
 Mnemonic Esoterica	Mnemonic Esoterica	PsychicDisciplinesDisplay.aspx?ItemName=Rebirth	Psychic Discipline 能力（Rebirth）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			記憶秘籍（Mnemonic Esoterica）	
 Mobile Blast Infusion	Mobile Blast	KineticistTalents.aspx	Wild Talent	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	沒有			靈動（Mobile Blast Infusion）	
@@ -2490,7 +2490,7 @@ Moon Totem, Lesser	Moon Totem, Lesser	BarbarianRagePowers.aspx?Type=Totem	Rage P
 Moonbeam	Moonbeam	MysteryDisplay.aspx?ItemName=Lunar	Mystery 能力（Lunar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Moonfire	Moonfire	DomainDisplay.aspx?ItemName=Darkness	Domain 能力（Darkness）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			月火（Moonfire）	
 Moonlight Bridge	Moonlight Bridge	MysteryDisplay.aspx?ItemName=Heavens｜MysteryDisplay.aspx?ItemName=Lunar	Mystery 能力（Heavens）｜Mystery 能力（Lunar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				月光橋樑（Moonlight Bridge）	
-Moonlight Script					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Moonlit Script
+Moonlight Script	Moonlit Script	MysteryDisplay.aspx?ItemName=Lunar	Mystery 能力（Lunar）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Moral Crisis	Moral Crisis	MysteryDisplay.aspx?ItemName=Reaper	Mystery 能力（Reaper）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 More for Me	More for Me	DomainDisplay.aspx?ItemName=Trickery	Domain 能力（Trickery）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Morphic Form	Morphic Form	PsychicDisciplinesDisplay.aspx?ItemName=Abomination	Psychic Discipline 能力（Abomination）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			形態構成（Morphic Form）	
@@ -2561,7 +2561,7 @@ Nighteye	Nighteye	BloodlineDisplay.aspx?ItemName=Shadow	Bloodline 能力（Shado
 Nightmare (Stare)	Nightmare	MesmeristStares.aspx	Stare	去掉結尾括號裡的家族名：`Restriction (Stare)` → `Restriction`，只認凝視	高	對得到	有（該職業頁）	page_304.html	梦魇		
 Nightmares	Nightmares	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_92.html	噩梦	噩夢（Nightmares）	
 Nightmares Patron					—	對不到					AoN 名冊裡找不到
-Nightmate Subdomain					—	對不到				暗夜子域（Nightmate Subdomain）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Nightmare Subdomain
+Nightmate Subdomain	Nightmare Subdomain	DomainDisplay.aspx?ItemName=Madness	Domain 能力（Madness）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_42.html	梦魇子域	暗夜子域（Nightmate Subdomain）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Nimble	Nimble	ClassDisplay.aspx?ItemName=Gunslinger	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_76.html|page_75.html	该能力取代机敏／机敏	機敏（Nimble）	
 Nimble (SWA)	Nimble	ClassDisplay.aspx?ItemName=Swashbuckler	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（別的職業頁）	page_76.html|page_75.html|page_144.html	该能力取代机敏／机敏／灵活	機敏(遊蕩劍客)（Nimble (SWA)）	
 Nimble Climber	Nimble Climber	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_62.html	飞檐走壁／灵动攀爬	飛簷走壁（Nimble Climber）	
@@ -2632,7 +2632,7 @@ Orc Bloodline	Orc	SorcererBloodlines.aspx?ItemName=Orc	Bloodline	去掉結尾的
 Order	Order	ClassDisplay.aspx?ItemName=Cavalier	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_73.html|page_23.html	骑士团	騎士道（Order）	
 Order Inquisition	Order Inquisition	Inquisitions.aspx	Inquisition	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_79.html	秩序裁决域	裁決：秩序（Order Inquisition）	
 Order of the Asp	Order of the Asp	CavalierOrders.aspx	Order	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			角虺騎士團（Order of the Asp）	
-Order of the Beast					—	對不到				狂獸騎士團（Order of the Beast）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Order of the Asp
+Order of the Beast					—	對不到				狂獸騎士團（Order of the Beast）	人工確認：跟 AoN 同名／近名的不是同一條能力，不收（AoN 沒有這個騎士團，最像的 Order of the Asp 是另一個）
 Order of the Beast (ISC)	Order of the Beast (ISC)	CavalierOrders.aspx	Order	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			狂獸騎士團（Order of the Beast (ISC)）	
 Order of the Blossom	Order of the Blossom	CavalierOrders.aspx	Order	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			百花騎士團（Order of the Blossom）	
 Order of the Blue Rose	Order of the Blue Rose	CavalierOrders.aspx	Order	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_23.html	蓝玫瑰骑士团	藍玫瑰騎士團（Order of the Blue Rose）	
@@ -2681,7 +2681,7 @@ Overflowing Grace	Overflowing Grace	MediumSpirits.aspx	Medium Spirit 能力（Hi
 Overpowering Mind	Overpowering Mind	PhrenicAmplifications.aspx	Phrenic Amplification	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			意念壓迫（Overpowering Mind）	
 Owl Aspect	Owl	ShifterAspects.aspx?ItemName=All	Shifter Aspect	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_1201.html	夜枭	夜梟擬態（Owl Aspect）	
 Owl's Sight	Owl's Sight	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Pack Range					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Pack Rage
+Pack Range	Pack Rage	BarbarianRagePowers.aspx?Type=Misc	Rage Power	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Pageantry Discipline	Pageantry	PsychicDisciplines.aspx?ItemName=Pageantry	Psychic Discipline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_318.html	盛典		
 Pain Discipline	Pain	PsychicDisciplines.aspx?ItemName=Pain	Psychic Discipline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_318.html	苦痛	苦痛境界（Pain Discipline）	
 Pain is Power	Pain Is Power	DomainDisplay.aspx?ItemName=Evil｜DomainDisplay.aspx?ItemName=Law	Domain 能力（Evil）｜Domain 能力（Law）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到					
@@ -2739,7 +2739,7 @@ Phantom Limb	Phantom Limb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大
 Phantom Recall	Phantom Recall	ClassDisplay.aspx?ItemName=Spiritualist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			魅影呼喚（Phantom Recall）	
 Phantom Stampede	Phantom Stampede	ShamanSpiritDisplay.aspx?ItemName=Mammoth	Shaman Spirit 能力（Mammoth）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Phantom Touch	Phantom Touch	MysteryDisplay.aspx?ItemName=Ancestor｜MysteryDisplay.aspx?ItemName=Occult	Mystery 能力（Ancestor）｜Mystery 能力（Occult）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	多筆	對不到				幻象之觸（Phantom Touch）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
-Pheremones					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Pheromones
+Pheremones	Pheromones	AlchemistDiscoveries.aspx	Discovery	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	zh990dd8fc83.htm	信息素		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Philanthropic Magic	Philanthropic Magic	ArcanistExploits.aspx	Arcanist Exploit	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_96.html	慈善魔法	慈善魔法（Philanthropic Magic）	
 Philologist	Philologist	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Philosopher's Stone	Philosopher's Stone	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_69.html	贤者之石	賢者之石（Philosopher's Stone）	
@@ -2767,7 +2767,7 @@ Pillar	Pillar	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇�
 Pincers (1 pt)	Pincers	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	有（該職業頁）	page_411.html|page_247.html	螯夹		
 Pincers (UC) (1 pt)	Pincers	SummonerEvolutions.aspx	Evolution	去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條	高	對不到	有（該職業頁）	page_411.html|page_247.html	螯夹		
 Pitiful Foe	Pitiful Foe	MysteryDisplay.aspx?ItemName=Succor	Mystery 能力（Succor）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Plague Bomb					—	對不到				瘟疫炸彈（Plague Bomb）	AoN 名冊裡找不到
+Plague Bomb	Plague Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			瘟疫炸彈（Plague Bomb）	
 Plague Bringer	Plague Bringer	ClassDisplay.aspx?ItemName=Antipaladin	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			疫病神（Plague Bringer）	
 Plague Carrier	Plague Carrier	BloodlineDisplay.aspx?ItemName=Pestilence	Bloodline 能力（Pestilence）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_105.html	瘟疫打击	瘟疫使者（Plague Carrier）	
 Plague Patron	Plague	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_92.html	疫病	疫病庇護主（Plague Patron）	
@@ -2826,7 +2826,7 @@ Power of the Djinn	Power of the Djinn	BloodlineDisplay.aspx?ItemName=Djinni	Bloo
 Power of the Efreet	Power of the Efreet	BloodlineDisplay.aspx?ItemName=Efreeti	Bloodline 能力（Efreeti）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	火灵神力	火靈神力（Power of the Efreet）	
 Power of the Elements	Power of the Elements	BloodragerBloodlineDisplay.aspx?ItemName=Elemental	Bloodrager Bloodline 能力（Elemental）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			元素之力（Power of the Elements）	
 Power of the Fallen	Power of the Fallen	MysteryDisplay.aspx?ItemName=Apocalypse	Mystery 能力（Apocalypse）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Power of the Giants					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Power of Giants
+Power of the Giants	Power of Giants	BloodlineDisplay.aspx?ItemName=Orc	Bloodline 能力（Orc）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Power of the Marid	Power of the Marid	BloodlineDisplay.aspx?ItemName=Marid	Bloodline 能力（Marid）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	水灵神力	水靈神力（Power of the Marid）	
 Power of the Pit	Power of the Pit	BloodlineDisplay.aspx?ItemName=Infernal	Bloodline 能力（Infernal）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	炼狱之力	煉獄之力（Power of the Pit）	
 Power of the Shaitan	Power of the Shaitan	BloodlineDisplay.aspx?ItemName=Shaitan	Bloodline 能力（Shaitan）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	土灵神力	土靈神力（Power of the Shaitan）	
@@ -2894,7 +2894,7 @@ Psychedelia Discipline	Psychedelia	PsychicDisciplines.aspx?ItemName=Psychedelia	
 Psychic Bloodline	Psychic	SorcererBloodlines.aspx?ItemName=Psychic	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_24.html	心灵血统	心靈血統（Psychic Bloodline）	
 Psychic Curse	Psychic Curse	OccultistImplementsDisplay.aspx?ItemName=Necromancy	Implement School 能力（Necromancy）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			精神詛咒（Psychic Curse）	
 Psychic Defense	Psychic Defense	PhrenicAmplifications.aspx	Phrenic Amplification	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Psychic Discipline					—	對不到				精神境界（Psychic Discipline）	AoN 名冊裡找不到
+Psychic Discipline	Psychic Discipline	ClassDisplay.aspx?ItemName=Psychic	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_308.html	该能力取代了精神境界	精神境界（Psychic Discipline）	
 Psychic Fog	Psychic Fog	OccultistImplementsDisplay.aspx?ItemName=Conjuration	Implement School 能力（Conjuration）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			精神迷霧（Psychic Fog）	
 Psychic Impression	Psychic Impression	MesmeristTricks.aspx	Mesmerist Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Psychic Inception (Stare)	Psychic Inception	MesmeristStares.aspx	Stare	去掉結尾括號裡的家族名：`Restriction (Stare)` → `Restriction`，只認凝視	高	對得到	有（該職業頁）	page_305.html	中的开启心智／译者认为此处的加值指的是开启心智	開啟心智（Psychic Inception (Stare)）	
@@ -2932,7 +2932,7 @@ Putrid Curse	Putrid	OracleCurses.aspx	Oracle Curse	去掉結尾的家族字：`E
 Pyroclastic Shove	Pyroclastic Shove	MysteryDisplay.aspx?ItemName=Volcano	Mystery 能力（Volcano）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Qinggong Power (UC)	Qinggong Power	ClassDisplay.aspx?ItemName=Monk (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	沒有			內家力（Qinggong Power (UC)）	照 Foundry 標籤挑家族（沒有標籤＝職業本身的能力）
 Quarry	Quarry	ClassDisplay.aspx?ItemName=Ranger｜ClassDisplay.aspx?ItemName=Slayer	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				狩獵目標（Quarry）	
-Quarry (VAM)					—	對不到				狩獵目標(吸血鬼獵人)（Quarry (VAM)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Quarry
+Quarry (VAM)					—	對不到				狩獵目標(吸血鬼獵人)（Quarry (VAM)）	人工確認：跟 AoN 同名／近名的不是同一條能力，不收（吸血鬼獵人的，AoN 只有遊俠、殺手的）
 Quenching Infusion	Quenching Infusion	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			猝熄注能（Quenching Infusion）	
 Quick Change	Quick Change	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zh0238981e67.htm	如同他拥有快速变装	快速變裝（Quick Change）	
 Quick Disable	Quick Disable	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_22.html|page_62.html	快速解除	快速解除（Quick Disable）	
@@ -2959,7 +2959,7 @@ Radiating Touch	Radiating Touch	DomainDisplay.aspx?ItemName=Earth	Domain 能力�
 Radiation Subdomain	Radiation Subdomain	DomainDisplay.aspx?ItemName=Earth	Domain 能力（Earth）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Rag Doll Mutagen	Rag Doll Mutagen	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_21.html	洋娃娃突变药剂		
 Rage	Rage	ClassDisplay.aspx?ItemName=Barbarian	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_35.html|page_34.html|page_36.html	狂暴／丧心狂暴／狂暴之力	狂暴（Rage）	
-Rage (Cleric)					—	對不到				狂暴(牧師)（Rage (Cleric)）	AoN 名冊裡找不到；最像的 AoN 名稱：Rage
+Rage (Cleric)	Rage	DomainDisplay.aspx?ItemName=Destruction	Domain 能力（Destruction）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_42.html	狂暴／狂暴术／狂暴子域	狂暴(牧師)（Rage (Cleric)）	
 Rage (UC)	Rage	ClassDisplay.aspx?ItemName=Barbarian (Unchained)	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（該職業頁）	page_35.html|page_34.html|page_36.html	狂暴／丧心狂暴／狂暴之力	狂暴（Rage (UC)）	AoN 另有原版同名條目，已排除
 Rage Powers	Rage Powers	ClassDisplay.aspx?ItemName=Barbarian	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_35.html|page_34.html	狂暴之力／级获得的狂暴之力／级的狂暴之力	狂暴之力（Rage Powers）	
 Rage Powers (SKA)	Rage Powers	ClassDisplay.aspx?ItemName=Skald	Class Feature	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對不到	有（別的職業頁）	page_35.html|page_34.html|page_58.html	狂暴之力／级获得的狂暴之力／级的狂暴之力	狂暴之力(歌者)（Rage Powers (SKA)）	
@@ -2993,7 +2993,7 @@ Rapid Convalescence	Rapid Convalescence	MysteryDisplay.aspx?ItemName=Ascetic	Mys
 Rapid Perception	Rapid Perception	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
 Rapport Discipline	Rapport	PsychicDisciplines.aspx?ItemName=Rapport	Psychic Discipline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_318.html	和谐	和諧境界（Rapport Discipline）	
 Rare-Metal Infusion	Rare-Metal Infusion	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			全金屬注能（Rare-Metal Infusion）	
-Ravenous Fury					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Ravenous Frenzy
+Ravenous Fury	Ravenous Frenzy	BloodlineDisplay.aspx?ItemName=Ghoul	Bloodline 能力（Ghoul）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Reach (1 pt)	Reach	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	有（該職業頁）	page_411.html|page_247.html	触及		
 Reach (UC) (1 pt)	Reach	SummonerEvolutions.aspx	Evolution	去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條	高	對不到	有（該職業頁）	page_411.html|page_247.html	触及		
 Reach Magic	Reach Magic	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	及远法术	及遠法術（Reach Magic）	
@@ -3043,7 +3043,7 @@ Relentless Band					—	對不到				無情追獵團（Relentless Band）	現行
 Relentless Casting	Relentless Casting	PhrenicAmplifications.aspx	Phrenic Amplification	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			強韌施法（Relentless Casting）	
 Relentless Footing	Relentless Footing	Inquisitions.aspx	Inquisition 能力（Persistence）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_79.html	舍命追逐	健步如飛（Relentless Footing）	
 Remade Self	Remade Self	ClassDisplay.aspx?ItemName=Psychic	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_308.html	该能力取代了重塑自我	重塑自我（Remade Self）	
-Remedy Extract					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Remady Extract
+Remedy Extract	Remady Extract	AlchemistDiscoveries.aspx	Discovery	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Remote Bomb	Remote Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Remote Viewing	Remote Viewing	DomainDisplay.aspx?ItemName=Knowledge	Domain 能力（Knowledge）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	远处观察	遠處觀察（Remote Viewing）	
 Remove Vampirism					—	對不到				移除血族感染（Remove Vampirism）	現行 pf1-data 沒有這個名稱，AoN 也找不到
@@ -3119,7 +3119,7 @@ Rivers Subdomain	Rivers Subdomain	DomainDisplay.aspx?ItemName=Water	Domain 能�
 Rivethun Discipline	Rivethun	PsychicDisciplines.aspx?ItemName=Rivethun	Psychic Discipline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_318.html	钉魂门		
 Roaring Drunk	Roaring Drunk	BarbarianRagePowers.aspx?Type=Misc	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	醉轰鸣	醉轟鳴（Roaring Drunk）	AoN 另有掉鏈子版同名條目，已排除
 Rock Throwing	Rock Throwing	MysteryDisplay.aspx?ItemName=Stone	Mystery 能力（Stone）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_88.html	石块投掷	石塊投擲（Rock Throwing）	
-Rocket Bomb					—	對不到					AoN 名冊裡找不到
+Rocket Bomb	Rocket Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_21.html|zh990dd8fc83.htm	火箭炸弹		
 Rockseer	Rockseer	BloodlineDisplay.aspx?ItemName=Deep%20Earth	Bloodline 能力（Deep Earth）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	岩石视觉	岩石視覺（Rockseer）	
 Rod Mastery	Rod Mastery	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	权杖掌握	權杖掌握（Rod Mastery）	
 Rod Wielder	Rod Wielder	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	权杖支配	權杖支配（Rod Wielder）	
@@ -3148,7 +3148,7 @@ Rune Blessing: Blast Rune	Blast Rune	WarpriestBlessingDisplay.aspx?ItemName=Rune
 Rune Blessing: Spell-Storing Weapon	Spell-Storing Weapon	WarpriestBlessingDisplay.aspx?ItemName=Rune	Blessing 能力（Rune）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	沒有			儲法刻印（Rune Blessing: Spell-Storing Weapon）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Rune Domain	Rune	ClericDomains.aspx?ItemName=Rune	Domain	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_42.html	符文领域	符文領域（Rune Domain）	
 Rune Shift	Rune Shift	DomainDisplay.aspx?ItemName=Rune	Domain 能力（Rune）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	符文转移	符文轉移（Rune Shift）	
-Rustling Grasp					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Rusting Grasp
+Rustling Grasp	Rusting Grasp	MysteryDisplay.aspx?ItemName=Metal	Mystery 能力（Metal）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_88.html	锈蚀之触		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Sabotage (Stare)	Sabotage	MesmeristStares.aspx	Stare	去掉結尾括號裡的家族名：`Restriction (Stare)` → `Restriction`，只認凝視	高	對得到	沒有				
 Sacred Armor	Sacred Armor	ClassDisplay.aspx?ItemName=Warpriest	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			神聖護甲（Sacred Armor）	
 Sacred Council	Sacred Council	MysteryDisplay.aspx?ItemName=Ancestor	Mystery 能力（Ancestor）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_88.html	神圣评议	神聖評議（Sacred Council）	
@@ -3166,7 +3166,7 @@ Safekeeping	Safekeeping	BloodlineDisplay.aspx?ItemName=Unicorn	Bloodline 能力�
 Sahkil Subdomain	Sahkil Subdomain	DomainDisplay.aspx?ItemName=Evil	Domain 能力（Evil）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Salamander Bloodline	Salamander	SorcererBloodlines.aspx?ItemName=Salamander	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
 Salamander Bloodrager Bloodline	Salamander	BloodragerBloodlines.aspx?ItemName=Salamander	Bloodrager Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對不到	沒有				
-Salamander's Scales					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Salamander Scales
+Salamander's Scales	Salamander Scales	BloodragerBloodlineDisplay.aspx?ItemName=Salamander	Bloodrager Bloodline 能力（Salamander）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Sand Bomb	Sand Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Sandstone Solution	Sandstone Solution	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Sandwalker	Sandwalker	BloodlineDisplay.aspx?ItemName=Scorpion	Bloodline 能力（Scorpion）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_45.html	热沙行者		
@@ -3196,7 +3196,7 @@ Scorpion Aspect	Scorpion	ShifterAspects.aspx?ItemName=All	Shifter Aspect	去掉�
 Scorpion Bloodline	Scorpion	SorcererBloodlines.aspx?ItemName=Scorpion	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	page_91.html|page_104.html|page_1201.html	蝎／蝎子／蠍子		
 Scourge Curse	Scourge	OracleCurses.aspx	Oracle Curse	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	zh85ad885f45.htm	天灾		
 Scourge of the Enemy	Scourge of the Enemy	Inquisitions.aspx	Inquisition 能力（Zeal）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_79.html	敌手末日	懲敵（Scourge of the Enemy）	
-Scrap Bomb					—	對不到					AoN 名冊裡找不到
+Scrap Bomb	Scrap Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_21.html	破片炸弹		
 Scribe Scroll	Scribe Scroll	ClassDisplay.aspx?ItemName=Skald｜ClassDisplay.aspx?ItemName=Wizard	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到					
 Scroll Mastery	Scroll Mastery	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_83.html	卷轴掌握	卷軸掌握（Scroll Mastery）	
 Scry Slip	Scry Slip	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
@@ -3428,7 +3428,7 @@ Snow Shroud	Snow Shroud	BloodlineDisplay.aspx?ItemName=Boreal	Bloodline 能力�
 Snow Sight	Snow Sight	MysteryDisplay.aspx?ItemName=Winter	Mystery 能力（Winter）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Social Grace	Social Grace	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Social Talent	Social Talent	ClassDisplay.aspx?ItemName=Vigilante	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	zh0238981e67.htm	级时获得的社交天赋／和社交天赋／级获得的社交天赋	社交天賦（Social Talent）	
-Soiling Touch					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Spoiling Touch
+Soiling Touch	Spoiling Touch	BloodlineDisplay.aspx?ItemName=Div	Bloodline 能力（Div）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Solar Ascension	Solar Ascension	BloodlineDisplay.aspx?ItemName=Solar	Bloodline 能力（Solar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Solar Bloodline	Solar	SorcererBloodlines.aspx?ItemName=Solar	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
 Solar Final Revelation	Final Revelation	MysteryDisplay.aspx?ItemName=Solar	Mystery 能力（Solar）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示		
@@ -3451,8 +3451,8 @@ Soul of the Fey	Soul of the Fey	BloodlineDisplay.aspx?ItemName=Fey	Bloodline 能
 Soul Siphon	Soul Siphon	MysteryDisplay.aspx?ItemName=Bones｜MysteryDisplay.aspx?ItemName=Succor	Mystery 能力（Bones）｜Mystery 能力（Succor）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				靈魂吸取（Soul Siphon）	
 Soulbound Puppet	Soulbound Puppet	OccultistImplementsDisplay.aspx?ItemName=Necromancy	Implement School 能力（Necromancy）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			魂縛木偶（Soulbound Puppet）	
 Souls Subdomain	Souls Subdomain	DomainDisplay.aspx?ItemName=Repose	Domain 能力（Repose）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	灵魂子域	靈魂子域（Souls Subdomain）	
-Soulstrider					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Soulrider
-Soverignty Subdomain					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Sovereignty Subdomain
+Soulstrider	Soulrider	ArcanistExploits.aspx	Arcanist Exploit	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_96.html	灵魂骑师		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
+Soverignty Subdomain	Sovereignty Subdomain	DomainDisplay.aspx?ItemName=Law	Domain 能力（Law）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Space Patron	Space	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
 Space-rending Spell	Space-rending Spell	PhrenicAmplifications.aspx	Phrenic Amplification	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			空間撕裂（Space-rending Spell）	
 Spacious Soul	Spacious Soul	ClassDisplay.aspx?ItemName=Medium	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_261.html	伽蓝之洞／和伽蓝之洞	伽藍之洞（Spacious Soul）	
@@ -3476,7 +3476,7 @@ Spectral Spells	Spectral Spells	MysteryDisplay.aspx?ItemName=Occult｜MysteryDis
 Speed or Slow Time	Speed or Slow Time	MysteryDisplay.aspx?ItemName=Time	Mystery 能力（Time）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_88.html	加减时流	加減時流（Speed or Slow Time）	
 Spell Aid	Spell Aid	CavalierOrders.aspx?ItemName=Order%20of%20the%20Staff	Order 能力（Order of the Staff）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			施法援助（Spell Aid）	
 Spell Anticipation	Spell Anticipation	MesmeristTricks.aspx	Mesmerist Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			先製法術（Spell Anticipation）	
-Spell Binding					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Spell Blending
+Spell Binding	Spell Blending	MagusArcana.aspx	Magus Arcana	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_82.html|page_83.html	当念刃选择法术混合／法术混合		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Spell Blast	Spell Blast	MysteryDisplay.aspx?ItemName=Apocalypse	Mystery 能力（Apocalypse）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Spell Combat	Spell Combat	ClassDisplay.aspx?ItemName=Magus	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_81.html|page_82.html	法术战斗	法術戰鬥（Spell Combat）	
 Spell Deflection	Spell Deflection	KineticistTalents.aspx｜MysteryDisplay.aspx?ItemName=Ascetic	Wild Talent｜Mystery 能力（Ascetic）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	多筆	對得到				法術偏轉（Spell Deflection）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
@@ -3609,7 +3609,7 @@ Stone Resistance	Stone Resistance	BloodragerBloodlineDisplay.aspx?ItemName=Medus
 Stone Sculptor	Stone Sculptor	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			雕石者（Stone Sculptor）	
 Stone Spirit	Stone	ShamanSpirits.aspx?ItemName=Stone	Shaman Spirit	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	page_20.html|page_88.html|zhc3dfe53681.htm	岩石／它就可以获得岩石结构／岩石秘示域	岩石魂域（Stone Spirit）	
 Stone Spirit Manifestation	Manifestation	ShamanSpiritDisplay.aspx?ItemName=Stone	Shaman Spirit 能力（Stone）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_112.html	显圣	岩石魂域顯聖（Stone Spirit Manifestation）	
-Stone Stabilitiy					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Stone Stability
+Stone Stabilitiy	Stone Stability	MysteryDisplay.aspx?ItemName=Stone	Mystery 能力（Stone）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_88.html	稳如磐石		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Stone Stability	Stone Stability	ShamanSpiritDisplay.aspx?ItemName=Stone	Shaman Spirit 能力（Stone）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（別的職業頁）	page_88.html	稳如磐石	穩如磐石（Stone Stability）	
 Stony Skin	Stony Skin	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
 Storm Burst	Storm Burst	DomainDisplay.aspx?ItemName=Weather	Domain 能力（Weather）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	风暴冲击	風暴炸裂（Storm Burst）	
@@ -3649,7 +3649,7 @@ Studied Target	Studied Target	ClassDisplay.aspx?ItemName=Slayer	Class Feature	�
 Stunning Appearance	Stunning Appearance	ClassDisplay.aspx?ItemName=Vigilante	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			震撼現身（Stunning Appearance）	
 Stunning Fist	Stunning Fist	ClassDisplay.aspx?ItemName=Monk	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_52.html	该能力取代震慑拳／该能力取代武僧的震慑拳	震懾拳（Stunning Fist）	AoN 另有掉鏈子版同名條目，已排除
 Style Master	Style Master	NinjaTricks.aspx	Ninja Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_86.html	流派大师	忍法 · 百式（Style Master）	
-Style Strikes (UC)					—	對不到				真勁擊（Style Strikes (UC)）	現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Style Strike
+Style Strikes (UC)	Style Strike	ClassDisplay.aspx?ItemName=Monk (Unchained)	Class Feature	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有			真勁擊（Style Strikes (UC)）	現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Stylish Infusion	Stylish Infusion	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Subjective Truth	Subjective Truth	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			主觀事實（Subjective Truth）	
 Subjugate	Subjugate	CavalierOrders.aspx?ItemName=Order%20of%20the%20Ennead%20Star	Order 能力（Order of the Ennead Star）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_1212.html	征服	征服（Subjugate）	
@@ -3676,8 +3676,8 @@ Suggestion	Suggestion	ClassDisplay.aspx?ItemName=Bard	Class Feature	原樣（只
 Summer Patron	Summer	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	zhc3dfe53681.htm	通夏火		
 Summer Rage	Summer Rage	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			夏之怒（Summer Rage）	
 Summer's Heat	Summer’s Heat	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Summon Monster					—	對不到				召喚怪物（Summon Monster）	AoN 名冊裡找不到；最像的 AoN 名稱：Summon Monster I
-Summon Monster (UC)					—	對不到				召喚怪物(掉鏈)（Summon Monster (UC)）	AoN 名冊裡找不到；最像的 AoN 名稱：Summon Monster I
+Summon Monster	Summon Monster I	ClassDisplay.aspx?ItemName=Summoner	Class Feature	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有			召喚怪物（Summon Monster）	
+Summon Monster (UC)	Summon Monster I	ClassDisplay.aspx?ItemName=Summoner (Unchained)	Class Feature	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有			召喚怪物(掉鏈)（Summon Monster (UC)）	AoN 另有原版同名條目，已排除
 Summon Nature's Spirits	Summon Nature's Spirits	MysteryDisplay.aspx?ItemName=Juju	Mystery 能力（Juju）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Summon Spirit	Summon Spirit	WitchHexes.aspx	Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			喚魂（Summon Spirit）	
 Summoner's Charm	Summoner's Charm	SchoolDisplay.aspx?ItemName=Conjuration	Arcane School 能力（Conjuration）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_68.html	召唤者魅力	召喚者魅力（Summoner's Charm）	
@@ -3692,7 +3692,7 @@ Sun's Blessing	Sun's Blessing	DomainDisplay.aspx?ItemName=Sun	Domain 能力（Su
 Sunder Enchantment	Sunder Enchantment	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	破除强化	破除強化（Sunder Enchantment）	AoN 另有掉鏈子版同名條目，已排除
 Sungazer	Sungazer	MysteryDisplay.aspx?ItemName=Solar	Mystery 能力（Solar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Sunlight Acclimation	Sunlight Acclimation	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Sunlight Bomb					—	對不到				日光炸彈（Sunlight Bomb）	AoN 名冊裡找不到
+Sunlight Bomb	Sunlight Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	zh990dd8fc83.htm	日光炸弹	日光炸彈（Sunlight Bomb）	
 Sunlight Strike	Sunlight Strike	SlayerTalents.aspx	Slayer Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Sunsight	Sunsight	BloodlineDisplay.aspx?ItemName=Solar	Bloodline 能力（Solar）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Supercharge	Supercharge	ClassDisplay.aspx?ItemName=Kineticist	Class Feature	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_259.html|zhc3dfe53681.htm	超聚合／若拥有超聚合	超聚合（Supercharge）	
@@ -3771,7 +3771,7 @@ Tainted Infusion	Tainted Infusion	AlchemistDiscoveries.aspx	Discovery	原樣（�
 Take 'em Alive	Take 'Em Alive	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Take Your Best Shot	Take Your Best Shot	BloodlineDisplay.aspx?ItemName=Imperious	Bloodline 能力（Imperious）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	做到最好	做到最好（Take Your Best Shot）	
 Talons of the Dragon	Talons of the Dragon	MysteryDisplay.aspx?ItemName=Dragon	Mystery 能力（Dragon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Tanglefoot Bomb					—	對不到				絆足炸彈（Tanglefoot Bomb）	AoN 名冊裡找不到；最像的 AoN 名稱：Tanglefoot Bomb (Su)*
+Tanglefoot Bomb	Tanglefoot Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	zh990dd8fc83.htm	绊足炸弹	絆足炸彈（Tanglefoot Bomb）	
 Tanglevine	Tanglevine	BloodlineDisplay.aspx?ItemName=Verdant	Bloodline 能力（Verdant）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	蔓藤鞭	蔓藤鞭（Tanglevine）	
 Taunting Stance (UC)	Taunting Stance	BarbarianUnchainedRagePowers.aspx?Type=Stance	Rage Power (UC)	去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條	高	對得到	有（該職業頁）	page_252.html	嘲讽战姿	嘲諷戰姿（Taunting Stance (UC)）	
 Teaching Moment	Teaching Moment	DomainDisplay.aspx?ItemName=Community｜DomainDisplay.aspx?ItemName=Knowledge	Domain 能力（Community）｜Domain 能力（Knowledge）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到					
@@ -3829,7 +3829,7 @@ Thirst Subdomain	Thirst Subdomain	DomainDisplay.aspx?ItemName=Sun	Domain 能力�
 Thorn Burst	Thorn Burst	MysteryDisplay.aspx?ItemName=Wood	Mystery 能力（Wood）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_88.html	棘刺爆发	棘刺爆發（Thorn Burst）	
 Thorn Flesh	Thorn Flesh	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zhc3dfe53681.htm|page_662.html	棘肤		
 Thorns Patron	Thorns	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_70.html	荆棘		
-Thorns Subdomainf					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Thorns Subdomain
+Thorns Subdomainf	Thorns Subdomain	DomainDisplay.aspx?ItemName=Plant	Domain 能力（Plant）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Thorny Bomb	Thorny Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Thought Subdomain	Thought Subdomain	DomainDisplay.aspx?ItemName=Knowledge	Domain 能力（Knowledge）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	思想子域	思想子域（Thought Subdomain）	
 Thoughtful Reexamining	Thoughtful Reexamining	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_62.html	诡诈心智	詭詐心智（Thoughtful Reexamining）	
@@ -3999,7 +3999,7 @@ Tyranny Subdomain	Tyranny Subdomain	DomainDisplay.aspx?ItemName=Law	Domain 能�
 Tyrant Totem	Tyrant Totem	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			暴君圖騰（Tyrant Totem）	
 Tyrant Totem, Greater	Tyrant Totem, Greater	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			高等暴君圖騰（Tyrant Totem, Greater）	
 Tyrant Totem, Lesser	Tyrant Totem, Lesser	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			次級暴君圖騰（Tyrant Totem, Lesser）	
-UItimate Magic (4 pts)					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Ultimate Magic
+UItimate Magic (4 pts)	Ultimate Magic	SummonerEvolutions.aspx	Evolution	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（別的職業頁）	zh990dd8fc83.htm|page_304.html|page_309.html	极限魔法／终极魔法		
 Ultimate Clarity	Ultimate Clarity	BarbarianRagePowers.aspx?Type=Misc	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			通徹澄明（Ultimate Clarity）	
 Ultimate Magic (4 pts)	Ultimate Magic	SummonerEvolutions.aspx	Evolution	去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化	高	對不到	有（別的職業頁）	zh990dd8fc83.htm|page_304.html|page_309.html	极限魔法／终极魔法		
 Umbral Gear	Umbral Gear	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				AoN 另有掉鏈子版同名條目，已排除
@@ -4064,7 +4064,7 @@ Unstoppable	Unstoppable	BloodragerBloodlineDisplay.aspx?ItemName=Destined	Bloodr
 Unstoppable Overrun	Unstoppable Overrun	MysteryDisplay.aspx?ItemName=Apocalypse	Mystery 能力（Apocalypse）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Unstoppable Ravager	Unstoppable Ravager	CavalierOrders.aspx?ItemName=Order%20of%20the%20Beast%20%28ISC%29	Order 能力（Order of the Beast (ISC)）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_23.html	无畏破坏者	無畏破壞者（Unstoppable Ravager）	
 Untouched by the Seasons	Untouched by the Seasons	DomainDisplay.aspx?ItemName=Weather	Domain 能力（Weather）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	四季如春	四季如春（Untouched by the Seasons）	
-Untwisting Infusion					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Untwisting Iron Infusion
+Untwisting Infusion	Untwisting Iron Infusion	KineticistTalents.aspx	Wild Talent	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Unusual Anatomy	Unusual Anatomy	BloodlineDisplay.aspx?ItemName=Aberrant	Bloodline 能力（Aberrant）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_24.html	异常构造	異常構造（Unusual Anatomy）	
 Unwilling Host	Unwilling Host	MysteryDisplay.aspx?ItemName=Juju	Mystery 能力（Juju）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Unwitting Ally	Unwitting Ally	RogueTalents.aspx	Rogue Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_62.html	不存在的盟友	不存在的盟友（Unwitting Ally）	AoN 另有掉鏈子版同名條目，已排除
@@ -4101,7 +4101,7 @@ Venom Infusion, Greater	Venom Infusion, Greater	KineticistTalents.aspx	Wild Tale
 Venom Speaker	Venom Speaker	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zhc3dfe53681.htm	毒素语者		
 Venom Subdomain	Venom Subdomain	DomainDisplay.aspx?ItemName=Scalykind	Domain 能力（Scalykind）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	毒液子域		
 Venomous Saliva	Venomous Saliva	DomainDisplay.aspx?ItemName=Scalykind	Domain 能力（Scalykind）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			劇毒唾液（Venomous Saliva）	
-Venomous Stare					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Venemous Stare
+Venomous Stare	Venemous Stare	DomainDisplay.aspx?ItemName=Scalykind	Domain 能力（Scalykind）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	有（該職業頁）	page_42.html	剧毒瞪视		
 Ventriloquism	Ventriloquism	NinjaTricks.aspx	Ninja Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_86.html	腹语	忍法 · 腹語（Ventriloquism）	
 Verdant Apotheosis	Verdant Apotheosis	BloodragerBloodlineDisplay.aspx?ItemName=Verdant	Bloodrager Bloodline 能力（Verdant）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Verdant Bloodline	Verdant	SorcererBloodlines.aspx?ItemName=Verdant	Bloodline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_24.html	苍翠血统	蒼翠血統（Verdant Bloodline）	
@@ -4128,7 +4128,7 @@ Viper's Kiss	Viper’s Kiss	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	�
 Viper's Touch	Viper's Touch	BloodragerBloodlineDisplay.aspx?ItemName=Medusa	Bloodrager Bloodline 能力（Medusa）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Vision Hex	Vision	WitchHexes.aspx	Hex	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_92.html|page_93.html	预观／灵视		
 Vision of Blood	Vision of Blood	MesmeristTricks.aspx	Mesmerist Trick	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			血泊幻視（Vision of Blood）	
-Vision of Iron					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Vision in Iron
+Vision of Iron	Vision in Iron	MysteryDisplay.aspx?ItemName=Metal	Mystery 能力（Metal）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_88.html	铁眼凝视		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Vision of Madness	Vision of Madness	DomainDisplay.aspx?ItemName=Madness	Domain 能力（Madness）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	狂乱感知	狂亂感知（Vision of Madness）	
 Vision-Clouding Strike	Vision-Clouding Strike	MagusArcana.aspx	Magus Arcana	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Vital Punishment	Vital Punishment	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			暴打（Vital Punishment）	
@@ -4139,7 +4139,7 @@ Voice of the Wind, Greater	Voice of the Wind, Greater	KineticistTalents.aspx	Wil
 Void Adaptation	Void Adaptation	ShamanSpiritDisplay.aspx?ItemName=Heavens	Shaman Spirit 能力（Heavens）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			適應虛空（Void Adaptation）	
 Void Blessing: Airless Touch	Airless Touch	WarpriestBlessingDisplay.aspx?ItemName=Void	Blessing 能力（Void）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Void Blessing: Deny Gravity	Deny Gravity	WarpriestBlessingDisplay.aspx?ItemName=Void	Blessing 能力（Void）	拆開「上層：能力」：`Wildfire Blessing: Fiery Wake` → 祝福 Wildfire 底下的 `Fiery Wake`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
-Void Bomb					—	對不到					AoN 名冊裡找不到
+Void Bomb	Void Bomb	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Void Domain	Void	ClericDomains.aspx?ItemName=Void	Domain	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（別的職業頁）	zhc3dfe53681.htm|page_661.html|page_288.html	虚空／虚		
 Void Form	Void Form	DomainDisplay.aspx?ItemName=Knowledge	Domain 能力（Knowledge）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Void Healer	Void Healer	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	zhc3dfe53681.htm	或者虚空医者／虚空医者		
@@ -4148,7 +4148,7 @@ Volatile Arrows	Volatile Arrows	VigilanteTalents.aspx	Vigilante Talent	原樣（
 Volcano Final Revelation	Final Revelation	MysteryDisplay.aspx?ItemName=Volcano	Mystery 能力（Volcano）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示		
 Volcano Mystery	Volcano	OracleMysteries.aspx?ItemName=Volcano	Mystery	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
 Volumizer	Volumizer	AlchemistDiscoveries.aspx	Discovery	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
-Vortex fo Flesh					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Vortex of Flesh
+Vortex fo Flesh	Vortex of Flesh	BloodlineDisplay.aspx?ItemName=Shapechanger	Bloodline 能力（Shapechanger）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	沒有				現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Vortex Spells	Vortex Spells	MysteryDisplay.aspx?ItemName=Wind｜ShamanSpiritDisplay.aspx?ItemName=Wind	Mystery 能力（Wind）｜Shaman Spirit 能力（Wind）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				漩渦法術（Vortex Spells）	
 Vortex Splash	Vortex Splash	VigilanteTalents.aspx	Vigilante Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Waking Dream	Waking Dream	PsychicDisciplinesDisplay.aspx?ItemName=Dream	Psychic Discipline 能力（Dream）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			清醒之夢（Waking Dream）	
@@ -4173,7 +4173,7 @@ Ward of Flames	Ward of Flames	ShamanSpiritDisplay.aspx?ItemName=Flame	Shaman Spi
 Ward of Stone	Ward of Stone	ShamanSpiritDisplay.aspx?ItemName=Stone	Shaman Spirit 能力（Stone）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			磐石結界（Ward of Stone）	
 Warding Rune	Warding Rune	DomainDisplay.aspx?ItemName=Rune	Domain 能力（Rune）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	守护神符		
 Warding Talisman	Warding Talisman	OccultistImplementsDisplay.aspx?ItemName=Abjuration	Implement School 能力（Abjuration）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			守護之符（Warding Talisman）	
-Wards of the City					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Ward of the City
+Wards of the City	Ward of the City	ShamanSpiritDisplay.aspx?ItemName=Slums	Shaman Spirit 能力（Slums）	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	高	對不到	沒有				
 Wards Subdomain	Wards Subdomain	DomainDisplay.aspx?ItemName=Rune	Domain 能力（Rune）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	守护子域	守護子域（Wards Subdomain）	
 Warlord Reborn	Warlord Reborn	BloodlineDisplay.aspx?ItemName=Orc	Bloodline 能力（Orc）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			軍座歸來（Warlord Reborn）	
 Warp Discipline	Warp	PsychicDisciplines.aspx?ItemName=Warp	Psychic Discipline	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	沒有				
@@ -4204,7 +4204,7 @@ Watersense	Watersense	BloodragerBloodlineDisplay.aspx?ItemName=Aquatic	Bloodrage
 Watersense, Greater	Watersense, Greater	KineticistTalents.aspx	Wild Talent	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有				
 Wave of Gloom	Wave of Gloom	PsychicDisciplinesDisplay.aspx?ItemName=Sorrow	Psychic Discipline 能力（Sorrow）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
 Wave Strike	Wave Strike	ShamanSpiritDisplay.aspx?ItemName=Waves	Shaman Spirit 能力（Waves）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			波浪打擊（Wave Strike）	
-Wavedancer					—	對不到					AoN 名冊裡找不到；最像的 AoN 名稱：Waterdancer
+Wavedancer					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（血脈狂怒者血脈能力，AoN 最像的 Waterdancer 是念力天賦）
 Waverider	Waverider	CavalierOrders.aspx?ItemName=Order%20of%20the%20Waves	Order 能力（Order of the Waves）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_1212.html	波涛骑手	波濤騎手（Waverider）	
 Waves Final Revelation	Final Revelation	MysteryDisplay.aspx?ItemName=Waves	Mystery 能力（Waves）	拆開「上層＋通用能力名」：`Battle Final Revelation` → 秘示域 Battle 的 `Final Revelation`	高	對不到	有（該職業頁）	page_20.html|page_87.html	最终启示	波濤最終啟示（Waves Final Revelation）	
 Waves Mystery	Waves	OracleMysteries.aspx?ItemName=Waves	Mystery	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_88.html|page_20.html	波涛／波涛秘示域	波濤秘示域（Waves Mystery）	
@@ -4299,7 +4299,7 @@ Winter Patron	Winter	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：
 Winter Rage	Winter Rage	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	沒有			冬之怒（Winter Rage）	
 Wintry Touch	Wintry Touch	MysteryDisplay.aspx?ItemName=Waves｜MysteryDisplay.aspx?ItemName=Winter	Mystery 能力（Waves）｜Mystery 能力（Winter）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	共用	對不到				寒冬之觸（Wintry Touch）	
 Wisdom of the Ages	Wisdom of the Ages	ShamanSpiritDisplay.aspx?ItemName=Ancestors	Shaman Spirit 能力（Ancestors）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有				
-Wisdom of the Ancients					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：Wisdom of the Ages
+Wisdom of the Ancients					—	對不到					人工確認：跟 AoN 同名／近名的不是同一條能力，不收（內文是出神與祖靈交談，AoN 的 Wisdom of the Ages 是用感知代智力，不同能力）
 Wisdom Patron	Wisdom	WitchPatrons.aspx	Patron Spells	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	page_70.html|page_92.html	或智慧／智慧	智慧庇護主（Wisdom Patron）	
 Witch Hex	Witch Hex	ShamanHexes.aspx	Shaman Hex	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_110.html	巫法	巫法（Witch Hex）	
 Witch Hunter	Witch Hunter	BarbarianRagePowers.aspx?Type=Offensive	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	猎巫人	獵巫人（Witch Hunter）	
@@ -4341,7 +4341,7 @@ Woodlands Patron	Woodlands	WitchPatrons.aspx	Patron Spells	去掉結尾的家族
 Word of Anathema	Word of Anathema	Inquisitions.aspx	Inquisition 能力（Heresy）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_79.html	诅咒之语	滅絕令（Word of Anathema）	
 World Serpent Spirit	World Serpent Spirit	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	世界之蛇圣灵	世界之蛇聖靈（World Serpent Spirit）	
 World Serpent Totem	World Serpent Totem	BarbarianRagePowers.aspx?Type=Totem	Rage Power	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對得到	有（該職業頁）	page_36.html	世界之蛇图腾	世界之蛇圖騰（World Serpent Totem）	
-World Serpent Unity					—	對不到					現行 pf1-data 沒有這個名稱，AoN 也找不到；最像的 AoN 名稱：World Serpent Totem Unity
+World Serpent Unity	World Serpent Totem Unity	BarbarianRagePowers.aspx?Type=Totem	Rage Power	人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`	中	對不到	有（該職業頁）	page_36.html	与世界之蛇合一		現行 pf1-data 沒有這個名稱（合集包譯文鍵比較舊）
 Wound Warp	Wound Warp	BloodlineDisplay.aspx?ItemName=Daemon	Bloodline 能力（Daemon）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	沒有			傷痕遷躍（Wound Warp）	
 Wounding Blade	Wounding Blade	DomainDisplay.aspx?ItemName=War	Domain 能力（War）	原樣（只差大小寫、撇號、(Ex)/(Su) 這類標記）	高	對不到	有（該職業頁）	page_42.html	伤刃	傷刃（Wounding Blade）	
 Wrecker Curse	Wrecker	OracleCurses.aspx	Oracle Curse	去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`	高	對得到	有（該職業頁）	zh85ad885f45.htm|page_273.html	拆毁	拆毀（Wrecker Curse）	

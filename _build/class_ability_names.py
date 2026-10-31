@@ -72,7 +72,8 @@ UNCHAINED_BASE = {'Barbarian (Unchained)': 'Barbarian', 'Monk (Unchained)': 'Mon
 
 # 結尾的 (Ex)／(Su)／(Sp)；通靈者靈體能力還會帶階級：(Lesser, Su)、(Supreme, Su)
 TYPE_SUF = re.compile(r'\s*\((?:(?:lesser|intermediate|greater|supreme),\s*)?'
-                      r'(?:ex|su|sp|ex or su|su or sp|sp or su|ex, su|su, sp|ex/su|su/sp)\)\s*$', re.I)
+                      r'(?:ex|su|sp|ex or su|su or ex|ex or sp|sp or ex|su or sp|sp or su|ex, su|su, sp|ex/su|su/sp)\)\s*$',
+                      re.I)
 
 
 def key(s):
@@ -82,7 +83,7 @@ def key(s):
     """
     s = unicodedata.normalize('NFKC', html.unescape(str(s)))
     s = s.replace('’', "'").replace('‘', "'").replace('–', '-').replace('—', '-')
-    s = TYPE_SUF.sub('', s).replace('*', '').replace('-', ' ')
+    s = TYPE_SUF.sub('', s.replace('*', '')).replace('-', ' ')   # AoN 有 `Tanglefoot Bomb (Su)*`，星號先拿掉
     return re.sub(r" +'", "'", ' '.join(s.split())).lower().strip(' :')
 
 
@@ -236,6 +237,99 @@ def r_same(n):
     yield n, None, None, None
 
 
+# 人工逐條確認過的拼法例外（2026-10-31，報表「對不到／拼法差一點」那批）：
+# Foundry 名 → (AoN 名, 上層, 家族)。確認方式：Foundry 英文內文（現行 pf1-data 沒有的舊鍵看合集包現有內文）
+# 跟 AoN 內文逐條對讀，是同一條能力才收。上層／家族留空＝不限。
+# 名字很像但確認是**不同能力**、刻意不收的列在 NOT_SAME，報表備註會寫出來，免得下次又被當成拼錯
+NOT_SAME = {
+    'Aura (OMD)': '導魂者的靈光，AoN 只有牧師、戰鬥祭司的',
+    'Deliver Touch Spells (SPI)': '幻影的能力，AoN 同名的是薩滿靈獸、女巫魔寵的',
+    'Devotion (SPI)': '幻影的能力，AoN 同名的是女巫庇護主',
+    'Disease (UC) (4 pts)': '掉鏈子幻靈進化，AoN 同名的是牧師變體引導',
+    'Elemental Gap': '念力天賦（utility），AoN 最像的 Elemental Trap 是另一條注能',
+    'Improved Quarry (VAM)': '吸血鬼獵人的，AoN 只有遊俠、殺手的',
+    'Quarry (VAM)': '吸血鬼獵人的，AoN 只有遊俠、殺手的',
+    'Magic Attacks (SPI)': '幻影的能力，AoN 同名的是幻靈進化',
+    'Order of the Beast': 'AoN 沒有這個騎士團，最像的 Order of the Asp 是另一個',
+    'Wavedancer': '血脈狂怒者血脈能力，AoN 最像的 Waterdancer 是念力天賦',
+    'Wisdom of the Ancients': '內文是出神與祖靈交談，AoN 的 Wisdom of the Ages 是用感知代智力，不同能力',
+}
+EXCEPTIONS = {
+    # Foundry 打錯
+    "Ahrimon's Favor": ("Ahriman's Favor", 'Div', None),
+    'Arcane Hypothesis': ('Arcane Apotheosis', 'Arcane', 'Bloodline 能力'),
+    'Aura of Repitition': ('Aura of Repetition', 'Artifice', None),
+    'Caging Strke': ('Caging Strike', 'Imprisonment', None),
+    'Danger Word': ('Danger Ward', 'Order of the Paw', None),
+    'Energy Absorbtion': ('Energy Absorption', 'Abjuration', 'Arcane School 能力'),
+    'Entrepeneur': ('Entrepreneur', None, 'Vigilante Talent'),
+    'Fiendish Probiscus': ('Fiendish Proboscis', None, 'Arcanist Exploit'),
+    'Final Asepct': ('Final Aspect', None, 'Class Feature'),
+    'Keep the Corners': ('Keep to the Corners', 'Streets', None),
+    'Marshall\'s Order': ("Marshal's Order", 'Marshal', None),
+    'Master Tacitician': ('Master Tactician', None, 'Class Feature'),
+    'Metmorphosis': ('Metamorphosis', 'Rivethun', None),
+    'Nightmate Subdomain': ('Nightmare Subdomain', 'Madness', None),
+    'Pack Range': ('Pack Rage', None, 'Rage Power'),
+    'Pheremones': ('Pheromones', None, 'Discovery'),
+    'Rustling Grasp': ('Rusting Grasp', 'Metal', None),
+    'Soiling Touch': ('Spoiling Touch', 'Div', None),
+    'Soverignty Subdomain': ('Sovereignty Subdomain', 'Law', None),
+    'Stone Stabilitiy': ('Stone Stability', 'Stone', 'Mystery 能力'),   # 內文是先知秘示域的寫法（You receive…）
+    'Thorns Subdomainf': ('Thorns Subdomain', 'Plant', None),
+    'UItimate Magic (4 pts)': ('Ultimate Magic', None, 'Evolution'),   # 開頭是大寫 I 不是 l
+    'Vortex fo Flesh': ('Vortex of Flesh', 'Shapechanger', None),
+    # AoN 打錯
+    'Iconoclastic Strike': ('Iconclastic Strike', None, 'Investigator Talent'),
+    'Remedy Extract': ('Remady Extract', None, 'Discovery'),
+    'Venomous Stare': ('Venemous Stare', 'Scalykind', None),
+    # 兩邊寫法不同（單複數、所有格、少一個字、改過名）
+    'Black Blood Resistances': ('Black Blood Resistance', 'Black Blood', None),
+    'Draconic Resistances': ('Draconic Resistance', 'Draconic', 'Bloodrager Bloodline 能力'),
+    'Earth Glide (Kobold)': ('Earth Glide', 'Kobold Sorcerer', None),
+    'Eldritch Blast': ('Eldritch Bolt', 'Spellscar', None),
+    'Fortification Subdomain': ('Fortifications Subdomain', 'Protection', None),   # 替代能力都是 Sheltering Walls
+    'In Accordance with Prophecy': ('In Accordance with the Prophecy', 'Divination', None),
+    'Mammoth Hide': ("Mammoth's Hide", 'Mammoth', None),
+    'Martial Discipline': ('Martial Disciple', 'Ascetic', None),
+    'Mists Shroud': ("Mist's Shroud", 'Waves', None),
+    'Moonlight Script': ('Moonlit Script', 'Lunar', None),
+    'Power of the Giants': ('Power of Giants', 'Orc', None),
+    'Rage (Cleric)': ('Rage', 'Destruction', 'Domain 能力'),   # 狂怒子領域的替代能力
+    'Ravenous Fury': ('Ravenous Frenzy', 'Ghoul', None),
+    'Salamander\'s Scales': ('Salamander Scales', 'Salamander', None),
+    'Soulstrider': ('Soulrider', None, 'Arcanist Exploit'),
+    'Spell Binding': ('Spell Blending', None, 'Magus Arcana'),
+    'Style Strikes (UC)': ('Style Strike', None, 'Class Feature'),
+    'Summon Monster': ('Summon Monster I', None, 'Class Feature'),
+    'Summon Monster (UC)': ('Summon Monster I', None, 'Class Feature'),
+    'Untwisting Infusion': ('Untwisting Iron Infusion', None, 'Wild Talent'),
+    'Vision of Iron': ('Vision in Iron', 'Metal', None),
+    'Wards of the City': ('Ward of the City', 'Slums', None),
+    'World Serpent Unity': ('World Serpent Totem Unity', None, 'Rage Power'),
+}
+
+
+def r_exception(n):
+    """人工確認過的拼法例外（EXCEPTIONS 表）：`Metmorphosis` → `Metamorphosis`"""
+    if n in EXCEPTIONS:
+        aon, parent, fam = EXCEPTIONS[n]
+        yield aon, None, (fam,) if fam else None, parent
+
+
+ELEMENTS = {'air', 'earth', 'fire', 'water', 'acid', 'cold', 'electricity', 'sonic'}
+# 薩滿的元素形態：Foundry 依元素拆，AoN 分屬四個魂域（逐條對過內文：Air 那條是閃電元素，就是 Wind 魂域那條）
+SHAMAN_SPIRIT_OF = {'air': 'Wind', 'earth': 'Stone', 'fire': 'Flame', 'water': 'Waves'}
+
+
+def r_element(n):
+    """元素子選項：`Elemental Movement (Earth)` → `Elemental Movement`（Foundry 依元素拆成好幾條，AoN 寫成一條）"""
+    m = re.fullmatch(r'(.+?)(?: \(([A-Z]{2,3})\))? \(([A-Za-z]+)\)', n)
+    if m and m.group(3).lower() in ELEMENTS and (not m.group(2) or m.group(2) in ABBR):
+        parent = SHAMAN_SPIRIT_OF.get(m.group(3).lower()) if m.group(2) == 'SHA' else None
+        yield m.group(1), ABBR.get(m.group(2)) if m.group(2) else None, None, parent
+
+
 def r_abbr(n):
     """去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條"""
     m = re.fullmatch(r'(.+?) \(([A-Za-z]{2,3})\)', n)
@@ -344,8 +438,8 @@ def r_prefix(n):
         yield m.group(2), None, fams, parent
 
 
-RULES = [r_same, r_abbr, r_uc, r_points, r_paren_family, r_paren_parent, r_inverted, r_family_suffix,
-         r_subschool, r_bomb, r_parent_generic, r_abbr_parent, r_prefix]
+RULES = [r_same, r_exception, r_abbr, r_uc, r_points, r_paren_family, r_paren_parent, r_inverted, r_family_suffix,
+         r_subschool, r_bomb, r_parent_generic, r_abbr_parent, r_prefix, r_element]
 
 
 def rule_doc(f):
@@ -650,10 +744,10 @@ def main():
             row['現行規則'] = '對得到' if ' '.join(name.replace('’', "'").split()).lower() in base else '對不到'
         if not cands:
             row['信心'] = '—'
-            row['備註'] = '；'.join(notes + [why_not(name, fv, by_key)])
+            row['備註'] = '；'.join([x for x in notes if name not in NOT_SAME] + [why_not(name, fv, by_key)])
         else:
             c0 = cands[0]
-            row['轉換後名'] = '｜'.join(dict.fromkeys(TYPE_SUF.sub('', c['name']).rstrip('*') for c in cands))
+            row['轉換後名'] = '｜'.join(dict.fromkeys(TYPE_SUF.sub('', c['name'].replace('*', '')) for c in cands))
             row['AoN 頁'] = '｜'.join(dict.fromkeys(c['url'] for c in cands))
             row['AoN 家族'] = '｜'.join(dict.fromkeys(
                 c['family'] + (f"（{c['parent']}）" if c['parent'] else '') for c in cands))
@@ -684,6 +778,8 @@ def main():
 def why_not(name, fv, by_key):
     """對不到的原因，附 AoN 最像的名稱給人看（只當線索，不自動採用：拼字差一兩個字母也可能是兩條不同能力）。"""
     import difflib
+    if name in NOT_SAME:
+        return '人工確認：跟 AoN 同名／近名的不是同一條能力，不收（' + NOT_SAME[name] + '）'
     msg = 'AoN 名冊裡找不到' if name in fv else '現行 pf1-data 沒有這個名稱，AoN 也找不到'
     base = re.sub(r'(?: \([^)]*\))+$', '', name)
     near = difflib.get_close_matches(key(base), list(by_key), n=1, cutoff=0.85)
