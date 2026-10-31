@@ -595,6 +595,33 @@ def pack_names(fname):
     return _packs.get(fname, {})
 
 
+# 維護者逐條裁定要拿掉的段落：英文名 → 從哪個字串起（含）到內文結尾全部拿掉，繁簡各寫一份。
+# CHM 原文有、但不屬於這條專長的東西（同一節的清單、FAQ、譯者旁白）放這裡，不改切條規則。
+CUT_FROM = {
+    # 2026-10-31：「可選野獸夥伴」是野獸語者那一節的夥伴清單，AoN 本條到「通常」為止
+    'Beast Speaker Mastery': ('可選野獸夥伴', '可选野兽伙伴'),
+    # 2026-10-31：FAQ 與譯者旁白不收
+    "Shifter's Edge": ('FAQ',),
+}
+
+
+def cut_from(en, body):
+    """照 CUT_FROM 拿掉指定段落。記號在段首就整段起拿掉；在段落中間就從記號切、補關標籤。"""
+    marks = CUT_FROM.get(en)
+    if not marks:
+        return body
+    ps = re.findall(r'<p>.*?</p>|<table>.*?</table>', body)
+    for i, p in enumerate(ps):
+        k = min((p.find(m) for m in marks if m in p), default=-1)
+        if k < 0:
+            continue
+        head = p[:k]
+        if not re.sub(r'<[^>]+>', '', head).strip():
+            return ''.join(ps[:i])
+        return ''.join(ps[:i]) + _balance(head.rstrip() + '</p>')
+    return body
+
+
 def load_report(pattern):
     files = sorted(glob.glob(str(CHM / '_資料' / pattern)))
     if not files:
@@ -645,6 +672,7 @@ def main():
                     stats[f'{kind} {lang} 沒有可用的定義處'] += 1
                     continue
                 head, body, meta = x
+                body = cut_from(en, body)
                 if '／' in zh:   # 報表的中文名有時是幾個候選串起來的，取標題裡實際出現的那個
                     ht = text(head)
                     zh = next((z for z in zh.split('／') if z and z in ht), zh.split('／')[0])
