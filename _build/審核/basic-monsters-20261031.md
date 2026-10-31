@@ -124,3 +124,10 @@ CHM 沒有一隻一隻的怪物頁（只有怪物規則、模板、魔寵這些�
 其中也有 basic-monsters，這次就是從那裡拿上游譯名。其他新增的合集包要不要跟進，是另一件事。
 
 `_build/審核/` 在 `.gitignore` 裡，這份報表與簡體稿是硬加進分支的；`.gitignore` 本身沒改。
+
+## 追記（同日）：刪掉八個舊 bestiary 檔
+
+- `translations/` 與 `_build/base/` 的 `pf1-bestiary.*` 八檔都刪了（譯名還在 git 歷史裡，要撈回來隨時可以）
+- `verify_compendium.py` 加了 `KNOWN_REMOVED`（這八檔）和 `KNOWN_ADDED`（`pf1.basic-monsters.json`），所以上面驗證表的「檔案集合一致」**現在會過**；其餘結果不變（還是只有 main 原本就有的 12 處「樑」字誤報）
+- 簡體模組：`build_chm.py` 建簡體版時會把你本機上游資料夾的檔全部照抄過去，上游舊版裡有這八檔，所以 pf1e-compendium-zhcn 那邊**會被寫回來**。要嘛手動刪 zhcn 的八檔並在下次建置後再刪一次，要嘛在 `build_chm.py` 照抄那段跳過 `pf1-bestiary.*`。這次照交代沒動 `build_chm.py`
+- `glossary_names.py` 裡還有 `pf1-bestiary` 的分類設定，檔案不在了它就不會用到，留著無害

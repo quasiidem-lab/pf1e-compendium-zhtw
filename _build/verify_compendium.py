@@ -2,7 +2,7 @@
 """驗證合集包繁中對照表的完整性。只輸出統計與異常位置，不列出譯文內容。
 
 檢查七項（前四項對應介面層 verify_zhtw.py，後三項是合集層特有）：
-  1. 檔案集合一致        來源 30 檔都要有對應輸出
+  1. 檔案集合一致        來源每一檔都要有對應輸出（KNOWN_REMOVED／KNOWN_ADDED 列的例外除外）
   2. entries 鍵集合一致  Babele 靠英文鍵比對，少一個就查不到那筆
   3. mapping 完全未變    欄位路徑被轉換的話 Babele 直接壞掉
   4. HTML 標籤完好
@@ -23,6 +23,12 @@ DATA = r'C:\Users\User\AppData\Local\FoundryVTT\Data'
 SRC_DIR = os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
 
 _cc = opencc.OpenCC('s2tw')
+
+# 跟上游刻意不同的檔案集合（2026-10-31）：
+#   刪掉：pf1-bestiary.* 八檔對的合集包在 PF1 11 已不存在，Foundry 裡的怪物在 pf1.basic-monsters 與 statblock-library
+#   新增：pf1.basic-monsters 是本模組自己做的（_build/basic_monsters.py），上游這一版沒有
+KNOWN_REMOVED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '06', '08', '11', '15', '20')}
+KNOWN_ADDED = {'pf1.basic-monsters.json'}
 
 # 與 build_compendium.py 的 PLACEHOLDER 同義：只認真正的 HTML 標籤。
 # 若這裡用寬鬆的 `<[^>]+>`，<水晶球 (crystal ball)> 這種偽標籤在轉換前後
@@ -117,13 +123,13 @@ src_files = sorted(f for f in os.listdir(SRC_DIR) if f.lower().endswith('.json')
 out_files = sorted(f for f in os.listdir(OUT_DIR) if f.lower().endswith('.json')) \
     if os.path.isdir(OUT_DIR) else []
 
-missing_files = [f for f in src_files if f not in out_files]
-extra_files = [f for f in out_files if f not in src_files]
+missing_files = [f for f in src_files if f not in out_files and f not in KNOWN_REMOVED]
+extra_files = [f for f in out_files if f not in src_files and f not in KNOWN_ADDED]
 
 n_entries = n_strings = 0
 
 for fn in src_files:
-    if fn in missing_files:
+    if fn in missing_files or fn in KNOWN_REMOVED:
         continue
     src = load_lenient(os.path.join(SRC_DIR, fn))
     dst = load_lenient(os.path.join(OUT_DIR, fn))

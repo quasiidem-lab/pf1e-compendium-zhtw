@@ -91,7 +91,7 @@ D:\TRPG\4_工具與筆記\pf1-zhtw\_build\build_zhtw.py
 
 `verify_compendium.py` 檢查七項，任一不過回傳非零：
 
-1. 檔案集合一致（30 檔）
+1. 檔案集合一致（跟上游比；刻意刪掉的 `pf1-bestiary.*` 八檔、自己加的 `pf1.basic-monsters` 列在 `KNOWN_REMOVED`／`KNOWN_ADDED`）
 2. `entries` 鍵集合一致（Babele 靠英文鍵比對）
 3. `mapping` 完全未變（欄位路徑被轉換 Babele 會壞）
 4. 結構一致
