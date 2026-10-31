@@ -25,9 +25,11 @@ SRC_DIR = os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
 _cc = opencc.OpenCC('s2tw')
 
 # 跟上游刻意不同的檔案集合（2026-10-31）：
-#   刪掉：pf1-bestiary.* 八檔對的合集包在 PF1 11 已不存在，Foundry 裡的怪物在 pf1.basic-monsters 與 statblock-library
+#   刪掉：pf1-bestiary.* 八檔對的合集包在 PF1 11 已不存在，Foundry 裡的怪物在 pf1.basic-monsters 與 statblock-library；
+#         commonbuffs、mythicpaths、pf1e-rules、racialhd 是舊合集包名，PF1 11 的 buffs、mythic-paths、rules、racial-hd 本模組另有
 #   新增：pf1.basic-monsters 是本模組自己做的（_build/basic_monsters.py），上游這一版沒有
-KNOWN_REMOVED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '06', '08', '11', '15', '20')}
+KNOWN_REMOVED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '06', '08', '11', '15', '20')} | {
+    'pf1.commonbuffs.json', 'pf1.mythicpaths.json', 'pf1.pf1e-rules.json', 'pf1.racialhd.json'}
 KNOWN_ADDED = {'pf1.basic-monsters.json'}
 
 # 與 build_compendium.py 的 PLACEHOLDER 同義：只認真正的 HTML 標籤。

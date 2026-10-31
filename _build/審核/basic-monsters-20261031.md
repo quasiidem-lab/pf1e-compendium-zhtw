@@ -131,3 +131,11 @@ CHM 沒有一隻一隻的怪物頁（只有怪物規則、模板、魔寵這些�
 - `verify_compendium.py` 加了 `KNOWN_REMOVED`（這八檔）和 `KNOWN_ADDED`（`pf1.basic-monsters.json`），所以上面驗證表的「檔案集合一致」**現在會過**；其餘結果不變（還是只有 main 原本就有的 12 處「樑」字誤報）
 - 簡體模組：`build_chm.py` 建簡體版時會把你本機上游資料夾的檔全部照抄過去，上游舊版裡有這八檔，所以 pf1e-compendium-zhcn 那邊**會被寫回來**。要嘛手動刪 zhcn 的八檔並在下次建置後再刪一次，要嘛在 `build_chm.py` 照抄那段跳過 `pf1-bestiary.*`。這次照交代沒動 `build_chm.py`
 - `glossary_names.py` 裡還有 `pf1-bestiary` 的分類設定，檔案不在了它就不會用到，留著無害
+
+## 追記二（同日）：簡體版跳過、再刪四個舊名檔
+
+- 依你的裁定，`build_chm.py` 加了 `DROPPED` 清單：簡體版照抄上游時跳過刪掉的檔，也跳過 `pf1.basic-monsters.json`（簡體版用 `_build/審核/zhcn/` 那份，上游那份的物品譯名有錯）。只動照抄那一段，CHM 比對邏輯沒動
+- **簡體模組裡已經有的十二檔要你手動刪一次**（八個 bestiary＋下面四個），之後重建不會再寫回來
+- 再刪四個舊合集包名的檔：`pf1.commonbuffs`、`pf1.mythicpaths`、`pf1.pf1e-rules`、`pf1.racialhd`。刪之前比過，`pf1.buffs`、`pf1.mythic-paths`、`pf1.rules`、`pf1.racial-hd` 的譯文完全涵蓋它們，沒有少任何一條
+- `apply_terms.py`：Prone「俯臥」、Energy Drained「能量吸取」兩條定案原本掛在 `pf1.pf1e-rules.json`，改掛 `pf1.rules.json`；成對檔清單 `TWINS` 清空。重跑 `--dry` 結果是 0 條要改（現行譯文已經是定案寫法）
+- 驗證：檔案集合一致會過；殘簡誤報從 12 處變 10 處（另外 2 處在刪掉的兩個舊檔裡）
