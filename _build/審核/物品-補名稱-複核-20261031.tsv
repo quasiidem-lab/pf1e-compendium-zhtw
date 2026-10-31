@@ -1,0 +1,165 @@
+級	檔案	英文	用語集譯名	用語集分類	來源	形狀疑點	其他譯名	現在名稱	裁定	改為	CHM次數	CHM出處	理由
+A	pf1.items.json	Poison Caps	毒牙箍	equipment	定案（弱證據）			Poison Caps（Poison Caps）	套		用語集 0	查無	CHM 查無譯名（只在 PFS 可用清單出現英文原文），只能依用語集定案（弱證據）
+A	pf1.items.json	Silversheen	銀紡	magic-item	慣用譯名			Silversheen（Silversheen）	套		用語集 4	page_234.html：…grate 制造成本：1650gp 银纺SILVERSHEEN 灵氲：微弱变化系 施法者等级：5 价格：250gp 重量：- 这…	CHM 奇物表與條目標題都寫「銀紡」
+A	pf1.weapons-and-ammo.json	Barbazu Beard	霸髯魔倒刺	equipment	慣用譯名			Barbazu Beard（Barbazu Beard）	套		用語集 1	zhd1b7f47fab.htm：…spikes，CRB/UE） | 霸髯魔倒刺（barbazu beard，CEoD） 刺刀（bayone…	CHM 只在武器分組清單出現 1 次，寫法相同
+A	pf1.weapons-and-ammo.json	Flindbar	弗林德鏈枷	equipment	慣用譯名			Flindbar（Flindbar）	套		用語集 4	page_659.html：…Reposition）、弗林得棍→弗林德链枷（Flindbar）、弗林得豺狼人→弗林德豺狼人（Flind…	CHM 武器表與條目標題都寫「弗林德鏈枷」
+A	pf1.weapons-and-ammo.json	Grappling Hook	爪鉤	equipment	慣用譯名			Grappling Hook（Grappling Hook）	套		用語集 59	page_210.html：…r hood 10 金币 4 磅1 爪钩 Grappling hook, common 1 金币 4 磅 薪柴 Firewood(…	CHM 冒險裝備表寫「爪鉤 Grappling hook」
+A	pf1.weapons-and-ammo.json	Split-Blade Sword	裂刃劍	equipment	定案（弱證據）			Split-Blade Sword（Split-Blade Sword）	套		用語集 1	zh9a2dc9b5d0.htm：…Infested Bandages与裂刃剑（Split-Blade Sword）以外，其馀本书中的装备…	CHM 只在 PFS 清單出現 1 次「裂刃劍（Split-Blade Sword）」
+B	pf1.items.json	Air Crystals	呼吸水晶	equipment	果園用例			Air Crystals（Air Crystals）	套		用語集 3	zh94b005423c.htm：…造奇物，法术穿透 消耗 250gp 呼吸水晶（Air crystals）出自《探索者协会战地指南 Pat…	CHM 條目標題「呼吸水晶（Air crystals）」
+B	pf1.items.json	Alchemical Preserves	鍊金蜜餞	equipment	果園用例			Alchemical Preserves（Alchemical Preserves）	套		用語集 2	page_16.html：…lfling Equipment） 炼金蜜饯（Alchemical Preserves）：每一小罐蜜饯就…	CHM 半身人裝備條目標題相同
+B	pf1.items.json	Alchemist's Kindness	鍊金術士的恩惠	equipment	果園用例			Alchemist's Kindness（Alchemist's Kindness）	改	鍊金師的恩惠	用語集 1／改為 5	page_212.html：…效果将持续4小时或直到你洗去油膏。 炼金师的恩惠ALCHEMIST’S KINDNESS 价格：1 gp 重量：- 这种水晶般…	CHM 物品條目標題是「鍊金師的恩惠 ALCHEMIST'S KINDNESS」（5 次）；用語集寫法只在 NPC 裝備清單出現 1 次
+B	pf1.items.json	Alkali Salt	鹼鹽	equipment	果園用例			Alkali Salt（Alkali Salt）	不套		用語集 0	zhc9f6353045.htm：…visited） 装备：Alkali Flask、Alkali Salt、Bulette Bulwar…（只有英文原文）	沒有現成譯名：CHM 只出現英文原文，用語集候選未經 CHM 驗證
+B	pf1.items.json	Allnight	興奮劑	equipment	果園用例			Allnight（Allnight）	套		用語集 9	zhc2dc6d6c5e.htm：…Price） 重量（Weight） 兴奋剂（Allnight） 75 gp — 单身鼻烟（Bachel…	CHM 條目標題「興奮劑（Allnight）價格：75 GP」
+B	pf1.items.json	Ambrosia	仙露	magic-item	果園用例			Ambrosia（Ambrosia）	套		用語集 5	page_129.html：…asimar Equipment） 仙露（Ambrosia）：这种神圣灵药由圣水和祝福药草调制而成。…	CHM 神裔裝備條目標題「仙露（Ambrosia）」；「仙饌」是另一件神話物品
+B	pf1.items.json	Antiplague	抗生素	equipment	果園用例			Antiplague（Antiplague）	套		用語集 14	page_647.html：…ccelerant；UE 102），抗生素（antiplague；UE 100），抗毒剂（antito…	CHM 條目標題「抗生素 Antiplague（AA）」
+B	pf1.items.json	Antitoxin	抗毒劑	equipment	果園用例			Antitoxin（Antitoxin）	套		用語集 36	Spell UC.html：…时间结束。只要目标饮用或者被喂下一瓶抗毒剂 (Antitoxin)，那么该状态也可以提前被结束，但是只…	CHM 多處寫「抗毒劑（Antitoxin）」
+B	pf1.items.json	Aquarium Ball	水族球	equipment	果園用例			Aquarium Ball（Aquarium Ball）	套		用語集 11	page_492.html：…后述新物品能够加强魔宠的效用或功能。水族球（Aquarium Ball）价格：80gp；重量：20磅这…	CHM 條目標題「水族球（Aquarium Ball）」
+B	pf1.items.json	Arcane Family Workbook	奧術師手記	equipment	果園用例			Arcane Family Workbook（Arcane Family Workbook）	套		用語集 4	page_13.html：…（Elven Equipment） 奥术师手记（Arcane Family Workbook）：出于对法师…	CHM 精靈裝備條目標題相同
+B	pf1.items.json	Bachelor snuff	單身鼻菸	equipment	果園用例			Bachelor snuff（Bachelor snuff）	套		用語集 4	zhc2dc6d6c5e.htm：…Allnight） 75 gp — 单身鼻烟（Bachelor snuff） 1 gp — 颠茄草粉（B…	CHM 毒品表與條目標題相同
+B	pf1.items.json	Barbarian Chew	蠻鬥士嚼煙	equipment	果園用例			Barbarian Chew（Barbarian Chew）	套		用語集 7	zh900ce3abb9.htm：…级的流血伤害。此流血效果持续5轮。 蛮斗士嚼烟 Barbarian Chew 价格：25GP；重量：1磅…	CHM 條目標題「蠻鬥士嚼煙 Barbarian Chew」
+B	pf1.items.json	Barding Stitches	除去拼裝馬鎧	equipment	果園用例			Barding Stitches（Barding Stitches）	不套		用語集 0	查無	沒有現成譯名：CHM 查無；用語集譯名黏了動詞「除去」，是髒資料
+B	pf1.items.json	Beast Lure	野獸誘惑	equipment	果園用例			Beast Lure（Beast Lure）	套		用語集 2	zh187eaa9d54.htm：…lague） 50 gp — 25 野兽诱惑（Beast Lure） 30 gp 1/2磅 20 护刃脂…	CHM 鍊金工具條目標題相同
+B	pf1.items.json	Belladonna	顛茄草粉	equipment	果園用例			Belladonna（Belladonna）	套		用語集 5	page_240.html：…1d2体质 1豁免 120 gp 颠茄草粉（Belladonna） 摄入 14 10分钟 1次/每分钟…	CHM 毒素表與條目標題「顛茄草粉（Belladonna）」
+B	pf1.items.json	Black Cumin	黑孜然	equipment	CHM正文			Black Cumin（Black Cumin）	套		用語集 3	zh1a4f7690ca.htm：…照相同的速率继续食用香料即可维持。 黑孜然 Black Cumin：孜然用于咸味食物的坚果味调料。如果…	CHM 香料條目標題「黑孜然 Black Cumin」
+B	pf1.items.json	Bladeguard	護刃脂	equipment	果園用例			Bladeguard（Bladeguard）	套		用語集 7	page_647.html：…ointment；UE 102），护刃脂（bladeguard；UE 100），浮球（buoyant…	CHM 條目標題「護刃脂 Bladeguard（AA）」
+B	pf1.items.json	Blightburn Paste	鍊金物品熾輻膏	equipment	果園用例			Blightburn Paste（Blightburn Paste）	改	熾輻膏	用語集 0／改為 2	zh4c85888433.htm：…成功进行DC 30的工艺（炼金）。 炽辐膏(Blightburn paste) Kobold of G…	CHM 條目標題「熾輻膏(Blightburn paste)」；用語集譯名前面黏了「鍊金物品」
+B	pf1.items.json	Bodybalm	健體香脂	equipment	果園用例			Bodybalm（Bodybalm）	套		用語集 2	zh187eaa9d54.htm：…block） 25 gp — 25 健体香脂（Bodybalm） 25 gp — 25 香波罗树汁蒸馏液…	CHM 條目標題「健體香脂（Bodybalm）」
+B	pf1.items.json	Bomb Launcher	炸彈發射器	equipment	果園用例			Bomb Launcher（Bomb Launcher）	套		用語集 4	page_166.html：…- 12磅 穿刺或挥砍 长武，摔绊 炸弹发射器（Bomb Launcher）：这些看起来古怪的蛋形新奇道具…	CHM 條目標題「炸彈發射器（Bomb Launcher）」
+B	pf1.items.json	Bombchucker	大地精的投彈器	equipment	果園用例			Bombchucker（Bombchucker）	改	投彈器	用語集 0／改為 5	page_1407.html：…爆炸，并可能对周围方格造成溅射伤害。投弹器 Bombchucker价格：12GP 重量：1磅 大地精工…	CHM 條目標題「投彈器 Bombchucker 價格：12GP」，價格相符；用語集多黏了「大地精的」
+B	pf1.items.json	Brewed Reek	臭釀	equipment	果園用例			Brewed Reek（Brewed Reek）	套		用語集 5	page_167.html：…goblin Equipment） 臭酿（Brewed Reek）：将动物的麝香，腐肉，刺激性味道的…	CHM 大地精裝備條目標題相同
+B	pf1.items.json	Clear Ear	空耳	equipment	果園用例			Clear Ear（Clear Ear）	套		用語集 2	zhc2dc6d6c5e.htm：…elladonna） 2 gp — 空耳（Clear ear） 15 gp — 剥皮叶（Flayle…	CHM 毒品表與條目標題相同
+B	pf1.items.json	Cryptography book	密碼學手冊	equipment	果園用例			Cryptography book（Cryptography book）	不套		用語集 0	查無	沒有現成譯名：CHM 查無，用語集候選未經驗證
+B	pf1.items.json	Dancer's Garb	舞衣	equipment	果園用例			Dancer's Garb（Dancer's Garb）	套		用語集 11	zh95932a368e.htm：…跟诗词、策略游戏与良性的艺术竞争。 舞衣（Dancer's Garb） 价格 100 gp 重量 5…	CHM 條目標題「舞衣（Dancer's Garb）」
+B	pf1.items.json	Dung grenade	糞便手榴彈	equipment	果園用例			Dung grenade（Dung grenade）	不套		用語集 0	查無	沒有現成譯名：CHM 查無，用語集候選未經驗證
+B	pf1.items.json	Elemental Breath	元素之息	equipment	果園用例			Elemental Breath（Elemental Breath）	套		用語集 4	page_441.html：…（Sylph Equipment） 元素之息（Elemental Breath）：乍一看去，这个瓶子中空…	CHM 風元素裔裝備條目標題相同
+B	pf1.items.json	Eye Patch	眼罩	equipment	CHM正文			Eye Patch（Eye Patch）	套		用語集 28	zhe31344eb0d.htm：…型、大型、超大型） 类型：冒险道具 眼罩 Eye Patch ：眼罩覆盖一只眼睛，并绑在头上。海盗通常戴眼罩遮住受伤或失明的…	CHM 冒險道具條目標題「眼罩 Eye Patch」，魔法物品「海盜的眼罩」也用同一個詞
+B	pf1.items.json	Eyeglasses	眼鏡	equipment	果園用例			Eyeglasses（Eyeglasses）	套		用語集 106	zh70c88e52f2.htm：…钻头（Drill） 5 sp 1磅 眼镜（Eyeglasses） 5 gp — 漂浮装置（Flota…	CHM 條目標題「眼鏡（Eyeglasses）價格：5 GP」
+B	pf1.items.json	Fashionable accessories	時尚配飾	equipment	果園用例			Fashionable accessories（Fashionable accessories）	不套		用語集 0	查無	沒有現成譯名：CHM 查無（Fashionable 只對到特性「時尚達人」）
+B	pf1.items.json	Flaming sumac	火炬樹粉	equipment	CHM正文			Flaming sumac（Flaming sumac）	套		用語集 6	zh1a4f7690ca.htm：…售价15gp并可为14顿餐食调味。 火炬树粉 Flaming Sumac：火炬树粉是一种酸味调料，如果一…	CHM 香料條目標題相同
+B	pf1.items.json	Flayleaf	剝皮葉	equipment	果園用例			Flayleaf（Flayleaf）	套		用語集 5	page_1494.html：…下其中一种毒品：醚（aether）、剥皮叶（flayleaf）、鸦片（opium）、仙人掌粹（pesh…	CHM 毒品條目標題「剝皮葉 (Flayleaf)」
+B	pf1.items.json	Flotation Device	漂浮裝置	equipment	果園用例			Flotation Device（Flotation Device）	套		用語集 3	zh70c88e52f2.htm：…yeglasses） 5 gp — 漂浮装置（Flotation device） 1 gp 2磅1 杂耍…	CHM 條目標題「漂浮裝置（Flotation device）」
+B	pf1.items.json	Focusing Flask	濃縮燒瓶	magic-item	果園用例			Focusing Flask（Focusing Flask）	套		用語集 3	zh9f682ee486.htm：…魔法物品 魔法烧瓶和圆瓶 浓缩烧瓶(Focusing Flask) 来源：炼金术手册 pg.1…	CHM 條目標題「濃縮燒瓶(Focusing Flask)」
+B	pf1.items.json	Fury Drops	狂怒滴眼液	equipment	果園用例			Fury Drops（Fury Drops）	不套		用語集 0	zh9a2dc9b5d0.htm：…ment）：除了Barding Stitches、Fury Drops和Poison Caps以外，…（只有英文原文）	沒有現成譯名：CHM 只出現英文原文
+B	pf1.items.json	Garlic	大蒜	equipment	果園用例			Garlic（Garlic）	套		用語集 21	page_211.html：…买或销售）。 香料（Spices）：大蒜（garlic）、孜然（cumin）、茴香（fennel）、…	CHM 物品表「大蒜（Garlic）1 sp」
+B	pf1.items.json	Gold	金色	magic-item	果園用例			Gold（Gold）	改	黃金	用語集 168／改為 300	page_29.html：…透目标的法术抗力时施法者等级+1。 黄金 Gold（AM） 价格：5GP；重量：- 高纯度的黄金性质稳定，它可以用来消…	這條是鍊金功能材料，CHM 該頁標題「黃金 Gold（AM）」；用語集「金色」是艾恩石顏色，不是這個意思
+B	pf1.items.json	Golden Maple Leaves	金楓葉	equipment	果園用例			Golden Maple Leaves（Golden Maple Leaves）	套		用語集 4	page_15.html：…-Elven Equipment） 金枫叶（Golden Maple Leaves）：这种强效添加剂只…	CHM 半精靈裝備條目標題相同
+B	pf1.items.json	Golden cardamom	金色小豆蔻	equipment	CHM正文			Golden cardamom（Golden cardamom）	套		用語集 4	zh1a4f7690ca.htm：…粉售价20gp并可为6顿餐食调味。 金色小豆蔻 Golden Cardamom：这种香甜的粉末由小豆蔻籽磨…	CHM 香料條目標題相同
+B	pf1.items.json	Heatstone	熱能石	equipment	果園用例			Heatstone（Heatstone）	套		用語集 27	zh21b3bc0d79.htm：…可以通过1分钟的不间断工作来更换。 热能石（Heatstones） 热能石是在卡蒂亚沙漠中自然形成的火…	CHM 條目標題「熱能石（Heatstone）」
+B	pf1.items.json	Heretic's Fork	異端尖叉	equipment	果園用例			Heretic's Fork（Heretic's Fork）	套		用語集 3	page_736.html：…gp 1磅 环钻 20 gp 1磅 异端尖叉（HERETIC'S FORK）价格：10GP 重量：1磅这…	CHM 刑具條目標題「異端尖叉（HERETIC'S FORK）」
+B	pf1.items.json	Hobgoblin War Draught	大地精征戰飲料	equipment	果園用例			Hobgoblin War Draught（Hobgoblin War Draught）	套		用語集 5	page_167.html：…5gp（精制品50gp），重2磅。 大地精征战饮料（Hobgoblin War Draught）：这种臭烘烘的…	CHM 大地精裝備條目標題相同
+B	pf1.items.json	Holly	冬青	equipment	果園用例			Holly（Holly）	套		用語集 22	zhc2dc6d6c5e.htm：…蒜（Garlic） 1 sp 1磅 冬青（Holly） — — 槲寄生（Mistletoe） — —…	CHM 物品表「冬青（Holly）」
+B	pf1.items.json	Holly And Mistletoe	冬青與榭寄生	equipment	果園用例			Holly And Mistletoe（Holly And Mistletoe）	套		用語集 2	page_729.html：…0个烛台（candlestick）、冬青与榭寄生（holly and mistletoe）、10支香（inc…	CHM 唯一寫法是「冬青與榭寄生」；但單獨的 Mistletoe 寫「槲寄生」，「榭」疑為 CHM 原文筆誤，請你決定要不要統一
+B	pf1.items.json	Ifrit's Blood	伊夫利特之血	equipment	果園用例			Ifrit's Blood（Ifrit's Blood）	改	火靈之血	用語集 1／改為 3	page_439.html：…墨水价格1gp，制造工艺DC15。 火灵之血（Ifrit’s Blood）：火元素裔炼金术师声称这种稠密的红油是由他…	CHM 火元素裔裝備條目標題「火靈之血（Ifrit's Blood）」（3 次）；用語集寫法只在同頁內文出現 1 次
+B	pf1.items.json	Incendiary Catalyst	燃燒催化劑	equipment	果園用例			Incendiary Catalyst（Incendiary Catalyst）	套		用語集 3	115_Trail_of_the_Hunted_.htm：…ail of the Hunted 燃烧催化剂(Incendiary catalyst) 出自《寻路者#1…	CHM 條目標題相同
+B	pf1.items.json	Incense	支香	equipment	果園用例			Incense（Incense）	改	薰香	用語集 5／改為 123	page_129.html：…。天界提灯价格300gp，重2磅。 熏香（Incense）：这种由圣油和芳香树脂制成的熏香通常为棒状、锥形或球形，用于…	CHM 神裔裝備條目標題「熏香（Incense）」，描述與本條相符；用語集「支香」黏了量詞。繁體依本專案轉換慣例寫「薰香」
+B	pf1.items.json	Ioun Torch	浮游明焰	magic-item	果園用例			Ioun Torch（Ioun Torch）	套		用語集 7	page_946.html：…teel），墨水笔（Inkpen），浮游明焰（Ioun Torch）UE，日记本（Journal）UE，…	CHM 奇物表與裝備清單都寫「浮游明焰」
+B	pf1.items.json	Iron Maiden	鐵處女	equipment	果園用例			Iron Maiden（Iron Maiden）	套		用語集 7	page_736.html：…脱出来，尽管异端尖叉仍然绑在脖子上。铁处女（IRON MAIDEN）价格：500GP 重量：300磅。…	CHM 刑具條目標題「鐵處女（IRON MAIDEN）」
+B	pf1.items.json	Magnet	磁鐵	equipment	果園用例			Magnet（Magnet）	套		用語集 17	page_1589.html：…terproof） +5 gp — 磁铁（Magnet） 5 sp 1/2磅 弹珠（Marbles）…	CHM 冒險裝備表「磁鐵（Magnet）5 sp」
+B	pf1.items.json	Manacle Barbs	鐐刺	equipment	果園用例			Manacle Barbs（Manacle Barbs）	套		用語集 2	page_167.html：…0（大地精制作该物品DC为15）。 镣刺（Manacle Barbs）：这些带刺的手铐会刺痛俘虏，使…	CHM 大地精裝備條目標題相同
+B	pf1.items.json	Mistletoe	槲寄生	equipment	果園用例			Mistletoe（Mistletoe）	套		用語集 10	zhc2dc6d6c5e.htm：…1磅 冬青（Holly） — — 槲寄生（Mistletoe） — — 一夜茶（Night tea）…	CHM 物品表「槲寄生（Mistletoe）」
+B	pf1.items.json	Moonrod	月光杖	equipment	果園用例			Moonrod（Moonrod）	套		用語集 4	page_14.html：…价格110gp，制造工艺DC20。 月光杖（Moonrod）：当你以一个标准动作敲击这根1尺长的镶银锡…	CHM 侏儒裝備條目標題相同
+B	pf1.items.json	Neck Guard	護頸	equipment	果園用例			Neck Guard（Neck Guard）	套		用語集 3	page_163.html：…嘴里灌满圣水（或其他类似的东西）。 护颈（Neck Guard）：这个由硬皮革制作并用金属镶边加固的…	CHM 條目標題「護頸（Neck Guard）」
+B	pf1.items.json	Net	捕網	equipment	果園用例			Net（Net）	不套		用語集 150	109_In_Search_of_Sanity.htm：…徒劳，蜘蛛 手艺，邪恶，狂乱，虚空 捕网（Net） 阿撒托斯（Azathoth） 混乱中立（CN）…	這條是銅鈴網、捕蟲網等網具的合併條目，「捕網」是武器 Net 的名稱；CHM 沒有合併條目的名稱
+B	pf1.items.json	Obsession Log	興趣日誌	equipment	果園用例			Obsession Log（Obsession Log）	套		用語集 2	page_14.html：…0gp，重1磅，制造工艺DC25。 兴趣日志（Obsession Log）：侏儒使用这些小本子记录资料以…	CHM 侏儒裝備條目標題相同
+B	pf1.items.json	Plague Powder	瘟疫粉	equipment	CHM正文			Plague Powder（Plague Powder）	套		用語集 7	zh1c6ec796b4.htm：…则可能会用复苏液让尸体再次动起来。 瘟疫粉 Plague Powder 价格：可变；重量：- 这种灰白…	CHM 條目標題「瘟疫粉 Plague Powder」
+B	pf1.items.json	Potion Sponge	藥劑棉	equipment	果園用例			Potion Sponge（Potion Sponge）	套		用語集 9	page_442.html：…链环腰带价格15gp，重1/4磅。 药剂棉（Potion Sponge）：这块鸡蛋大小的海绵表面覆盖着…	CHM 條目標題相同
+B	pf1.items.json	Pox Burster	疫病裂袋	equipment	果園用例			Pox Burster（Pox Burster）	套		用語集 5	page_238.html：…0gp，重1磅，制造工艺DC20。 疫病裂袋（Pox Burster）：疫病裂袋是装满毒剂以及腐朽材料的…	CHM 條目標題相同
+B	pf1.items.json	Rack	肢刑架	equipment	果園用例			Rack（Rack）	套		用語集 5	page_736.html：…穿全身，并立即造成3d6点穿刺伤害。肢刑架（RACK）价格：300GP 重量：500磅。肢刑架是拷问者…	CHM 刑具條目標題「肢刑架（RACK）」
+B	pf1.items.json	Rat Cage	鼠籠	equipment	果園用例			Rat Cage（Rat Cage）	套		用語集 3	page_736.html：…刑架需要成地通过DC30的逃脱检定。鼠笼（RAT CAGE）价格：5GP 重量：15磅。这个一个可以…	CHM 刑具條目標題「鼠籠（RAT CAGE）」
+B	pf1.items.json	Retort Of Control	精控蒸餾器	magic-item	果園用例			Retort Of Control（Retort Of Control）	套		用語集 2	zh9f682ee486.htm：…item） 制作成本：350gp 精控蒸馏器（Retort of Control） 来源：炼金术手册 p…	CHM 條目標題相同
+B	pf1.items.json	Sealing wax	封蠟	equipment	CHM正文			Sealing wax（Sealing wax）	套		用語集 6	page_210.html：…case 1 金币 1/2 磅 T 封蜡 Sealing wax 1 金币 1 磅 纹身 Tatto…	CHM 冒險裝備表「封蠟 Sealing wax」
+B	pf1.items.json	Silver	銀色	magic-item	果園用例			Silver（Silver）	改	白銀	用語集 171／改為 43	page_29.html：…死灵系的法术效果时施法者等级+1。 白银 Silver（AM） 价格：1GP；重量：- 纯洁，贵重，…	這條是鍊金功能材料，CHM 該頁標題「白銀 Silver（AM）」；用語集「銀色」是艾恩石顏色
+B	pf1.items.json	Smelling Salts	嗅鹽	equipment	果園用例			Smelling Salts（Smelling Salts）	套		用語集 11	page_647.html：…firework；UE 109），嗅盐（smelling salts；UE 101），喷嚏粉（sn…	CHM 鍊金物品表與物品清單都寫「嗅鹽」
+B	pf1.items.json	Soothe Syrup	舒緩糖漿	equipment	果園用例			Soothe Syrup（Soothe Syrup）	套		用語集 7	page_647.html：…arker dye；UE 104），舒缓糖浆（soothe syrup；UE 101），净水芯片（wat…	CHM 鍊金物品表相同
+B	pf1.items.json	Soul Stimulant	靈魂刺激劑	equipment	果園用例			Soul Stimulant（Soul Stimulant）	套		用語集 5	page_647.html：…ng powder；UE 104），灵魂刺激剂（soul stimulant；UE 101），炽火绊足包（…	CHM 鍊金物品表相同
+B	pf1.items.json	Sparring Gear	對練護具	equipment	果園用例			Sparring Gear（Sparring Gear）	套		用語集 4	page_1022.html：…丽刺绣的头巾能以相当高的价钱出售。 对练护具 SPARRING GEAR价格：35sp重量：15磅这件缝有厚实内衬的装束包括一顶内含…	CHM 條目標題「對練護具 SPARRING GEAR」
+B	pf1.items.json	Spider Sac	蜘蛛囊	equipment	果園用例			Spider Sac（Spider Sac）	套		用語集 7	page_164.html：…00gp，战斗用版本450gp。1 蜘蛛囊（Spider Sac）：尽管名称叫做蜘蛛囊，但它与蜘蛛毫无…	CHM 條目標題相同
+B	pf1.items.json	Spiritbane spike	破魂錐	equipment	果園用例			Spiritbane spike（Spiritbane spike）	套		用語集 2	page_1582.html：…#msg787748 译者：空山鸣 破魂锥(spiritbane spike) 出自《亡灵杀手手册Un…	CHM 條目標題「破魂錐(spiritbane spike)」
+B	pf1.items.json	Star Charts	星圖	equipment	果園用例			Star Charts（Star Charts）	套		用語集 24	page_15.html：…份金枫叶价格50gp，重1/2磅。 星图（Star Charts）：许多半精灵居住在大城市或者较大的…	CHM 半精靈裝備條目標題「星圖（Star Charts）」
+B	pf1.items.json	Striped nutmeg	條紋肉豆蔻	equipment	CHM正文			Striped nutmeg（Striped nutmeg）	套		用語集 3	zh1a4f7690ca.htm：…籽售价30gp并可为9顿餐食调味。 条纹肉豆蔻 Striped Nutmeg：这种香料会被同时用在甜点和肉…	CHM 香料條目標題相同
+B	pf1.items.json	Stubborn nail	頑固釘子	magic-item	CHM正文			Stubborn nail（Stubborn nail）	套		用語集 2	page_234.html：…LLUSIONS 8,100 UE 顽固钉子STUBBORN NAIL 100 UE 祈神蜡烛CANDL…	CHM 只在奇物總表出現「頑固釘子 STUBBORN NAIL」
+B	pf1.items.json	Sunrise cinnamon	朝日肉桂	equipment	CHM正文			Sunrise cinnamon（Sunrise cinnamon）	套		用語集 4	zh1a4f7690ca.htm：…值100gp并可为12顿餐食调味。 朝日肉桂 Sunrise Cinnamon：朝日肉桂是一种温热的香料…	CHM 香料條目標題相同
+B	pf1.items.json	Tar Bomb	焦油炸彈	equipment	果園用例			Tar Bomb（Tar Bomb）	套		用語集 10	zh5a57696ecf.htm：…炼金物品 焦油炸弹(Tar Bomb) 出自《内海海盗》(Pirates of…	CHM 條目標題「焦油炸彈(Tar Bomb)」
+B	pf1.items.json	Tear-Away Clothing	快脫服裝	equipment	果園用例			Tear-Away Clothing（Tear-Away Clothing）	套		用語集 8	page_211.html：…他人很容易识别出穿戴者所属的部队。 快脱服装（Tear-away clothing） 价格：+5gp；重…	CHM 條目標題「快脫服裝（Tear-away clothing）」
+B	pf1.items.json	Thieves' Ring	盜賊戒指	equipment	果園用例			Thieves' Ring（Thieves' Ring）	套		用語集 1	zhe1f6836e84.htm：…制造要求：工艺（炼金术），DC25 盗贼戒指（Thieves' ring） 出自《地城手册》（Dunge…	CHM 只出現 1 次，是條目標題「盜賊戒指（Thieves' ring）」
+B	pf1.items.json	Tiger cloves	虎斑丁香	equipment	CHM正文			Tiger cloves（Tiger cloves）	套		用語集 5	zh1a4f7690ca.htm：…售价15gp并可为10顿餐食调味。 虎斑丁香 Tiger Cloves：丁香同时被用在甜味和咸味的食物中…	CHM 香料條目標題相同
+B	pf1.items.json	Tindertwig	火柴	equipment	果園用例			Tindertwig（Tindertwig）	套		用語集 25	page_647.html：…firework；UE 109），火柴（tinder twig），驱虫剂（vermin repellent；UE 101），…	CHM 鍊金物品清單寫「火柴（tinder twig）」，鍊金物品表與製作表也都列為「火柴」
+B	pf1.items.json	Tobacco	菸葉	equipment	果園用例			Tobacco（Tobacco）	套		用語集 9	page_210.html：…uffs）、粉末（powders）、烟叶（tobacco）、以及类似的物质。这种盒子可以用多种材料制…	CHM 物品表「菸葉（tobacco）」（CHM 寫「烟叶」）
+B	pf1.items.json	Traveler's any-tool	旅者萬用工具	magic-item	果園用例			Traveler's any-tool（Traveler's any-tool）	套		用語集 5	page_946.html：…tle），50尺丝绳，5天份的干粮，旅者万用工具（Traveler`s Any-tool）UE，水袋，8GP…	CHM 奇物表相同
+B	pf1.items.json	Troll Oil	巨魔油	equipment	果園用例			Troll Oil（Troll Oil）	套		用語集 4	page_647.html：…eburn bag；UE 109），巨魔油（troll oil；UE 101）。 陷阱（Traps）：…	CHM 鍊金物品表相同
+B	pf1.items.json	Troll Styptic	巨魔止血散	equipment	果園用例			Troll Styptic（Troll Styptic）	套		用語集 2	zhbebe99613d.htm：…物品 巨魔止血散(Troll Styptic) 出处：《秘密探求者》（See…	CHM 條目標題相同
+B	pf1.items.json	Tusk Blades	獠牙刃	equipment	果園用例			Tusk Blades（Tusk Blades）	不套		用語集 0	zhc9f6353045.htm：…sperfall Vulture皆属可用； 装备：Tusk Blades属于可用。 《探索者战役设定：…（只有英文原文）	沒有現成譯名：CHM 只出現英文原文
+B	pf1.items.json	Unguent Of Revivification	防腐軟膏	equipment	果園用例			Unguent Of Revivification（Unguent Of Revivification）	不套		用語集 0	zhc9f6353045.htm：…学习得； 魔法物品：哥兹面具（Goz Mask）、Unguent of Revivification、寻路仪（Wayfinder）…（只有英文原文）	沒有現成譯名：CHM 只出現英文原文
+B	pf1.items.json	Unstable Accelerant	不穩定促進劑	equipment	果園用例			Unstable Accelerant（Unstable Accelerant）	套		用語集 4	page_167.html：…（附加于手铐或脚镣之外），重1磅。 不稳定促进剂（Unstable Accelerant）：不稳定促进剂是一…	CHM 條目標題相同
+B	pf1.items.json	Vest	背心	equipment	果園用例			Vest（Vest）	套		用語集 75	zh87a09870bc.htm：…othing） +5 gp 可变1 背心（Vest） 1 sp-50 gp 1/2磅1 假发（Wig） 5 gp…	CHM 服裝表「背心（Vest）1 sp-50 gp」
+B	pf1.items.json	Vial Of Efficacious Medicine	藥性催化之瓶	magic-item	果園用例			Vial Of Efficacious Medicine（Vial Of Efficacious Medicine）	套		用語集 6	zh9a2dc9b5d0.htm：…工具包内的任何单独物品不能分别售回。药性催化之瓶（Vial of Efficacious Medicine）…	CHM 條目標題相同
+B	pf1.items.json	Violet salt	紫羅蘭鹽	equipment	CHM正文			Violet salt（Violet salt）	套		用語集 4	zh1a4f7690ca.htm：…香售价25gp并可为1顿餐食调味。 紫罗兰盐 Violet Salt：盐对于保持身体的水分十分重要。当一…	CHM 香料條目標題相同
+B	pf1.items.json	Whet bone	磨牙骨	equipment	果園用例			Whet bone（Whet bone）	套		用語集 2	zh6522ce506d.htm：…动物装备 磨牙骨Whet bone 出自《动物档案 pg. 12》 价格：1…	CHM 動物裝備條目標題「磨牙骨 Whet bone」
+B	pf1.items.json	Winterbite	冬之咬	equipment	果園用例			Winterbite（Winterbite）	套		用語集 3	page_695.html：…深的色调使它们看起来几乎是黑色的。 冬之咬价值：20GP重量 -采集 DC11 产量 1D4剂地形：任…	CHM 草藥條目有「冬之咬 價值：20GP」，沒有英文對照，價格相符
+B	pf1.items.json	Wolfsbane	烏頭	equipment	果園用例			Wolfsbane（Wolfsbane）	套		用語集 6	page_240.html：…d2魅力 1豁免 1,000 gp 乌头（Wolfsbane） 摄入 16 10分钟 1次/每分钟，…	CHM 毒素表「烏頭（Wolfsbane）」
+B	pf1.weapons-and-ammo.json	Air Repeater	連發氣槍	equipment	果園用例			Air Repeater（Air Repeater）	套		用語集 6	zhdd5001e184.htm：…，5尺 2 4磅 钝击和穿刺 双手 连发气枪（Air Repeater） 600gp 1D4 1D6 ×…	CHM 槍械表相同
+B	pf1.weapons-and-ammo.json	Air Reservoir	儲氣罐	equipment	果園用例			Air Reservoir（Air Reservoir）	套		用語集 9	zhdd5001e184.htm：…击和穿刺 阿肯斯塔弹药 物品 价格 储气罐（Air Reservoir） 6gp 炼金定装弹，灰尘弹（…	CHM 彈藥表「儲氣罐（Air Reservoir）」
+B	pf1.weapons-and-ammo.json	Aldori Dueling Sword	奧多里決鬥劍	equipment	CHM正文			Aldori Dueling Sword（Aldori Dueling Sword）	套		用語集 113	page_276.html：…ld Guide）第290页上刊载的奥多里决斗剑（Aldori dueling sword）。要想获取更多奥…	CHM 113 次，武器清單相同
+B	pf1.weapons-and-ammo.json	Ballista Net	弩炮網	equipment	果園用例			Ballista Net（Ballista Net）	套		用語集 3	page_818.html：…器的弹药能帮助屠龙者把龙打落回地面。弩炮网（BALLISTA NET）价格 75金币重量 15磅这种弩…	CHM 條目標題「弩炮網（BALLISTA NET）」
+B	pf1.weapons-and-ammo.json	Barbed Spear	刺矛	equipment	果園用例			Barbed Spear（Barbed Spear）	套		用語集 6	zhb61304c3de.htm：…去绊倒比你的体型大最多3级的生物。 刺矛（Barbed Spear） 类型：异种武器 刺矛是一种10…	CHM 條目標題「刺矛（Barbed Spear）類型：異種武器」
+B	pf1.weapons-and-ammo.json	Baston Fighting Stick	巴斯頓鬥棍	equipment	果園用例			Baston Fighting Stick（Baston Fighting Stick）	套		用語集 3	zhddb82f8233.htm：…Type） 特性（Special） 巴斯顿斗棍（Baston fighting stick） 10 gp…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Battle Poi	戰鬥火球	equipment	果園用例			Battle Poi（Battle Poi）	套		用語集 6	page_1590.html：…内。灌满一把针筒矛需要1分钟时间. 战斗火球(Battle poi) 出自《冒险家的武器库》(Adven…	CHM 條目標題「戰鬥火球(Battle poi)」
+B	pf1.weapons-and-ammo.json	Bich'hwa	蠍尾短劍	equipment	果園用例			Bich'hwa（Bich'hwa）	不套		用語集 0	查無	沒有現成譯名：CHM 查無
+B	pf1.weapons-and-ammo.json	Bolas Bolts	捆綁矢	equipment	CHM正文			Bolas Bolts（Bolas Bolts）	套		用語集 10	page_1401.html：…40尺 6磅 钝击 非致命，摔绊 捆绑矢 Bolas Bolts价格：20GP 类型：异种 这种结构…	CHM 條目標題「捆綁矢 Bolas Bolts」
+B	pf1.weapons-and-ammo.json	Breech-Loader	後膛槍	equipment	果園用例			Breech-Loader（Breech-Loader）	套		用語集 3	zhdd5001e184.htm：…程 哑火 容弹量 重量 类型 单手 后膛枪（Breech-Loader） 3000gp 1D4 1D6…	CHM 槍械表相同
+B	pf1.weapons-and-ammo.json	Broken-Back Seax	斷背直刀	equipment	CHM正文			Broken-Back Seax（Broken-Back Seax）	套		用語集 3	zh375846f0d6.htm：…d8 x3 — 12磅 穿刺 双头 断背直刀Broken-back seax（轻刃武器组） 在星陨之灾前…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Butterfly Knife	蝴蝶刃	equipment	果園用例			Butterfly Knife（Butterfly Knife）	套		用語集 6	zhc1c9d11ef0.htm：…0尺范围内发出令人毛骨悚然的声音。 蝴蝶刃（Butterfly Knife）：一把蝴蝶刃在其柄的对半处…	CHM 條目標題「蝴蝶刃（Butterfly Knife）」
+B	pf1.weapons-and-ammo.json	Crystal Chakram	水晶戰輪	equipment	果園用例			Crystal Chakram（Crystal Chakram）	改	水晶飛輪	用語集 1／改為 4	zhad925cec10.htm：…新武器 水晶飞轮(Crystal Chakram)PFS可 出处:Class…	CHM 武器條目標題是「水晶飛輪(Crystal Chakram)」（2 次）；用語集寫法只在 PFS 清單出現 1 次
+B	pf1.weapons-and-ammo.json	Cylinder Rifle	轉盤步槍	equipment	果園用例			Cylinder Rifle（Cylinder Rifle）	套		用語集 5	page_1197.html：…12磅 | 钝击与穿刺 | - 1 转盘步枪（Cylinder Rifle）这个有着长长枪管的早期火器配…	CHM 條目標題「轉盤步槍（Cylinder Rifle）」
+B	pf1.weapons-and-ammo.json	Dire Bolas	巨型套牛繩	equipment	果園用例			Dire Bolas（Dire Bolas）	套		用語集 3	zhb61304c3de.htm：…、处于萨里沙长矛攻击范围内的方格。 巨型套牛绳（Dire Bolas） 类型：异种武器 这种特制套牛绳可被…	CHM 條目標題「巨型套牛繩（Dire Bolas）」；武器分組清單另寫「兇蠻套牛繩」1 次
+B	pf1.weapons-and-ammo.json	Doru	飛顱妖	equipment	果園用例			Doru（Doru）	改	杜魯	用語集 11／改為 58	zh4492a3ed99.htm：…Type） 特性（Special） 杜鲁（Doru） 4 gp 1d6 1d8 ×3 20尺 6磅…	這條是武器，CHM 武器表「杜魯（Doru）4 gp」；用語集「飛顱妖」是同名的怪物
+B	pf1.weapons-and-ammo.json	Dwarven Maulaxe	矮人槌斧	equipment	果園用例			Dwarven Maulaxe（Dwarven Maulaxe）	套		用語集 4	zhc1c9d11ef0.htm：…利的刀口，可以直接当做武器来使用。 矮人槌斧（Dwarven Maulaxe）：这种功能多样的武器看上去…	CHM 條目標題相同
+B	pf1.weapons-and-ammo.json	Elven Leafblade	精靈葉刃	equipment	CHM正文			Elven Leafblade（Elven Leafblade）	套		用語集 2	page_1349.html：…确认重击的命中骰上获得+2的加值。 精灵叶刃ELVEN LEAFBLADE 价格 40GP 类型 轻型异…	CHM 條目標題「精靈葉刃 ELVEN LEAFBLADE」
+B	pf1.weapons-and-ammo.json	Elven Thornblade	精靈荊棘刃	equipment	CHM正文			Elven Thornblade（Elven Thornblade）	套		用語集 4	page_1349.html：…领土之外见到的精灵道具，如下所示。 精灵荆棘刃ELVEN THORNBLADE 价格 60GP 类型 单手…	CHM 條目標題相同
+B	pf1.weapons-and-ammo.json	Flak	高射炮	equipment	果園用例			Flak（Flak）	套		用語集 6	page_818.html：…且只能半速移动，并且不能冲锋或奔跑。高射炮（FLAK）价格 500金币重量 30磅高射炮的弹药是一种带…	CHM 條目標題「高射炮（FLAK）」
+B	pf1.weapons-and-ammo.json	Flambard	焰形劍	equipment	果園用例			Flambard（Flambard）	套		用語集 3	zhc1c9d11ef0.htm：…前端可作为钝器的斧背造成钝击伤害。 焰形剑（Flambard）：这把双手剑的剑身是波浪形的，这使得它在…	CHM 條目標題「焰形劍（Flambard）」
+B	pf1.weapons-and-ammo.json	Flask Pike	爆瓶矛	equipment	果園用例			Flask Pike（Flask Pike）	套		用語集 3	zhb61304c3de.htm：…态，在修复之前无法再作为武器使用。 爆瓶矛（Flask Pike ） 类型：异种武器 此矛在末端附近有…	CHM 條目標題「爆瓶矛（Flask Pike）」；分組清單另寫「燒瓶矛」1 次
+B	pf1.weapons-and-ammo.json	Flechette Bolt	箭彈	equipment	果園用例			Flechette Bolt（Flechette Bolt）	套		用語集 11	page_818.html：…只造成1d6点钝击伤害并且不会爆炸。箭弹（FLECHETTE BOLT）价格 30GP重量 20磅这…	CHM 條目標題「箭彈（FLECHETTE BOLT）價格 30GP」
+B	pf1.weapons-and-ammo.json	Garrote	絞索	equipment	果園用例			Garrote（Garrote）	套		用語集 37	zhc1c9d11ef0.htm：…剑（bastard sword）。 绞索（Garrote）：绞索是一根两端都有木柄的金属丝或细绳。将…	CHM 條目標題「絞索（Garrote）」
+B	pf1.weapons-and-ammo.json	Gastraphetes	腹弩	equipment	果園用例			Gastraphetes（Gastraphetes）	套		用語集 7	zh4492a3ed99.htm：…Type） 特性（Special） 腹弩（Gastraphetes） 65 gp 1d10 1d12…	CHM 武器表與條目相同
+B	pf1.weapons-and-ammo.json	Hanbo	半棒	equipment	果園用例			Hanbo（Hanbo）	套		用語集 5	zhc1c9d11ef0.htm：…乘对像用以维持骑乘的骑术检定-2。 半棒（Hanbo）：半棒是一根不到一码长的棒子，通常被雕琢成类手…	CHM 條目標題「半棒（Hanbo）」
+B	pf1.weapons-and-ammo.json	Handwraps	護手繃帶	equipment	果園用例			Handwraps（Handwraps）	套		用語集 2	zh375846f0d6.htm：…许你把它作为双头武器使用。 缠手布/护手绷带Handwraps 许多徒手格斗家都会选择用布包住双手来减少拳头受到的伤害。许…	CHM 條目標題寫「纏手布/護手繃帶 Handwraps」，PFS 清單寫「護手繃帶」
+B	pf1.weapons-and-ammo.json	Harvester	稼穡人	equipment	果園用例			Harvester（Harvester）	不套		用語集 61	page_1379.html：…个下水道，还是一个森林中的中空橡树。稼穑人（Harvester）（那些工程师和进行救援的人）以及灌溉人…	沒有現成譯名：這條是攻城器械，CHM 的「稼穡人」是鈴花會的成員稱號，意思不同
+B	pf1.weapons-and-ammo.json	Heavy Wrist Launcher	重型腕簧機	equipment	果園用例			Heavy Wrist Launcher（Heavy Wrist Launcher）	套		用語集 2	zh06474f5b1a.htm：…wgun）和腕簧机（见下）的弹药。 重型腕簧机（Heavy Wrist Launcher） 价格：250…	CHM 條目標題「重型腕簧機（Heavy Wrist Launcher）」
+B	pf1.weapons-and-ammo.json	Horse Bow	馬弓	equipment	果園用例			Horse Bow（Horse Bow）	套		用語集 7	zhddb82f8233.htm：…备都可在鄂都阿干赫伊的市场上买到。 马弓（Horse bow） 价格：150 GP；类型：异种。 马…	CHM 條目標題「馬弓（Horse bow）」
+B	pf1.weapons-and-ammo.json	Injection Spear	注射矛	equipment	果園用例			Injection Spear（Injection Spear）	套		用語集 5	zhad925cec10.htm：…情况时，将水晶飞轮被视为弹药处理。 注射矛（Injection Spear） 出自《经典恐怖再临》（C…	CHM 條目標題「注射矛（Injection Spear）」
+B	pf1.weapons-and-ammo.json	Launching Crossbow	彈射弩	equipment	果園用例			Launching Crossbow（Launching Crossbow）	套		用語集 12	page_1590.html：…并且该武器无法攻击和你共格的生物。 弹射弩（Launching Crossbow） 来源：冒险家的武器…	CHM 條目標題「彈射弩（Launching Crossbow）」
+B	pf1.weapons-and-ammo.json	Orc Skull Ram	獸人開顱棒	equipment	CHM正文			Orc Skull Ram（Orc Skull Ram）	套		用語集 4	zhd1b7f47fab.htm：…ngspear，CRB/UE） | 兽人开颅棒（orc skull ram，MTT） 重标枪（pilum，…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Paddle-Foot Pistol	步兵手槍	equipment	果園用例			Paddle-Foot Pistol（Paddle-Foot Pistol）	套		用語集 5	page_1197.html：…填专长可以将其减少到一个整轮动作。 步兵手枪（Paddle-Foot Pistol）这支早期火器有着四个…	CHM 條目標題「步兵手槍（Paddle-Foot Pistol）」
+B	pf1.weapons-and-ammo.json	Phaleros	費勒羅斯	equipment	果園用例			Phaleros（Phaleros）	套		用語集 6	zh4492a3ed99.htm：…120尺 12磅 穿刺（P） - 费勒罗斯（Phaleros） 5 gp 1d4 1d6 ×2 20尺…	CHM 武器表與條目相同
+B	pf1.weapons-and-ammo.json	Pickaxe	鶴嘴鋤	equipment	果園用例			Pickaxe（Pickaxe）	不套		用語集 10	page_207.html：…细的短刀，它们的设计非常适合投掷。 鹤嘴锄（Mattock）：鹤嘴锄是一把双手长镐，不过尖端为凿状而非…	沒有現成譯名：CHM 查無 Pickaxe；CHM 的「鶴嘴鋤」是 Mattock，套上去會跟 Mattock 撞名
+B	pf1.weapons-and-ammo.json	Reflex Bow	反射弓	equipment	果園用例			Reflex Bow（Reflex Bow）	套		用語集 5	zhddb82f8233.htm：…Type） 特性（Special） 反射弓（Reflex bow） 125 gp 1d4 1d6 ×3…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Rope Gauntlet	綁繩拳套	equipment	果園用例			Rope Gauntlet（Rope Gauntlet）	套		用語集 8	zhc1c9d11ef0.htm：…，且每片剑刃的末端都有残酷的勾弧。 绑绳拳套（Rope Gauntlet）：通过用细而坚韧的麻绳包裹你的…	CHM 條目標題相同
+B	pf1.weapons-and-ammo.json	Sarissa	薩里沙長矛	equipment	果園用例			Sarissa（Sarissa）	套		用語集 11	zhb61304c3de.htm：…绳甚至能将他们高大的身形变成劣势。 萨里沙长矛（Sarissa） 类型：军用武器 这种类似长矛的武器长约1…	CHM 條目標題「薩里沙長矛（Sarissa）」
+B	pf1.weapons-and-ammo.json	Sea-Knife	海之匕	equipment	果園用例			Sea-Knife（Sea-Knife）	套		用語集 9	page_298.html：…9-20/×2 - 1磅 挥砍 - 海之匕（Sea-Knife）：海之匕带有较长的握柄以及短刃。它被设…	CHM 條目標題「海之匕（Sea-Knife）」
+B	pf1.weapons-and-ammo.json	Short Sword	短劍	equipment	果園用例			Short Sword（Short Sword）	套		用語集 132	page_207.html：…挥砍 缴械，摔绊，武僧 UC东方 Shortsword 短剑 10 gp 1d4 1d6 19–20/×2 2磅 穿刺…	CHM 武器表「Shortsword 短劍」，132 次
+B	pf1.weapons-and-ammo.json	Shrillshaft Javelin	爆雷石標槍	equipment	果園用例			Shrillshaft Javelin（Shrillshaft Javelin）	改	尖嘯標槍	用語集 0／改為 1	zhd1b7f47fab.htm：…rtspear，CRB/UE） | 尖啸标枪（shrillshaft javelin，GoG） 手里剑（…	CHM 只在武器分組清單出現「尖嘯標槍（shrillshaft javelin，GoG）」1 次；用語集寫法 CHM 查無
+B	pf1.weapons-and-ammo.json	Sling Glove	投石手套	equipment	果園用例			Sling Glove（Sling Glove）	套		用語集 4	page_1590.html：…利的刀口，可以直接当做武器来使用。 投石手套(Sling glove) 出处：冒险家的武器库 Adven…	CHM 條目標題「投石手套(Sling glove)」
+B	pf1.weapons-and-ammo.json	Spear-Sling	射矛器	equipment	果園用例			Spear-Sling（Spear-Sling）	套		用語集 9	zhd1b7f47fab.htm：…| 矛（spear，CRB/UE） 射矛器（spear-sling，RTT） | 注射器矛（syrin…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Spring Blade	彈簧刀	equipment	果園用例			Spring Blade（Spring Blade）	套		用語集 4	zh06474f5b1a.htm：…bow），那么你也会擅长重型腕弩。 弹簧刀（ spring Blade） 价格：70 gp；重量6磅…	CHM 條目標題「彈簧刀（spring Blade）價格：70 gp」
+B	pf1.weapons-and-ammo.json	Stingchuck	臭囊	equipment	果園用例			Stingchuck（Stingchuck）	套		用語集 5	zhc1c9d11ef0.htm：…并且该武器无法攻击和你共格的生物。 臭囊（Stingchuck）：臭囊是一种由类人生物的头颅制成的脏…	CHM 條目標題「臭囊（Stingchuck）」
+B	pf1.weapons-and-ammo.json	Switchblade Knife	摺疊刀	equipment	果園用例			Switchblade Knife（Switchblade Knife）	套		用語集 2	zhc1c9d11ef0.htm：…1点伤害，但不会有陷入恶心的风险。 折叠刀（Switchblade Knife）：这把刀的刀柄里藏着一…	CHM 條目標題「折疊刀（Switchblade Knife）」（繁體慣用「摺疊刀」）；分組清單另寫「彈簧刃」1 次
+B	pf1.weapons-and-ammo.json	Syringe Spear	注射矛	equipment	果園用例			Syringe Spear（Syringe Spear）	改	注射器矛	用語集 5／改為 5	zhc1c9d11ef0.htm：…ons）的缴械和击破战技检定+4。 注射器矛（Syringe Spear）：这把武器的锋刃包含一根连接到…	CHM 條目標題「注射器矛（Syringe Spear）」（3 次）；用語集「注射矛」是另一把 Injection Spear，套了會撞名
+B	pf1.weapons-and-ammo.json	Thorn Bow	荊棘弓	equipment	果園用例			Thorn Bow（Thorn Bow）	套		用語集 3	zhd1b7f47fab.htm：…rtbow，CRB/UE/RTT） 荆棘弓（thorn bow，PCS/AA） 贴身（Close）：…	CHM 武器分組清單與魔法物品都寫「荊棘弓」
+B	pf1.weapons-and-ammo.json	Thorn Bracer	尖刺護腕	equipment	果園用例			Thorn Bracer（Thorn Bracer）	不套		用語集 0	查無	沒有現成譯名：CHM 查無，用語集候選未經驗證
+B	pf1.weapons-and-ammo.json	Throwing Arrow Cord	擲箭索	equipment	CHM正文			Throwing Arrow Cord（Throwing Arrow Cord）	套		用語集 10	zhd1b7f47fab.htm：…owing axe，CRB/UE） 掷箭索（throwing arrow cord，RTT） | 飞盾…	CHM 武器表相同
+B	pf1.weapons-and-ammo.json	Totem Spear	圖騰矛	equipment	果園用例			Totem Spear（Totem Spear）	套		用語集 1	zhd1b7f47fab.htm：…ger fork，UC/UE） | 图腾矛（totem spear，VBoL） 三叉戟（trident…	CHM 只在武器分組清單出現 1 次，寫法相同
+B	pf1.weapons-and-ammo.json	War Razor	戰鬥剃刀	equipment	果園用例			War Razor（War Razor）	套		用語集 8	zhd1b7f47fab.htm：…（wakizashi，UC/UE） 战斗剃刀（war razor，PCS/AA/ISWG/BotD） 弓…	CHM 武器分組清單與 PFS 清單都寫「戰鬥剃刀」
+B	pf1.weapons-and-ammo.json	Weighted Bolt	加重箭	equipment	果園用例			Weighted Bolt（Weighted Bolt）	套		用語集 2	page_818.html：…行检定中遭受-4罚值直到伤害被治疗。加重箭（WEIGHTED BOLT）价格 50金币重量 40磅这装…	CHM 條目標題「加重箭（WEIGHTED BOLT）」
+B	pf1.weapons-and-ammo.json	Wrist Launcher	暗器護腕	equipment	果園用例			Wrist Launcher（Wrist Launcher）	改	腕簧機	用語集 0／改為 6	zh06474f5b1a.htm：…藏在身上的巧手检定上获得+4加值。 腕簧机Wrist Launcher 价格：200 gp；重量：1磅…	CHM 條目標題「腕簧機 Wrist Launcher 價格：200 gp」，與 Heavy Wrist Launcher「重型腕簧機」一致；用語集寫法 CHM 查無
+C	pf1.items.json	Chest	胸部	rule	果園用例			Chest（Chest）	改	箱子	用語集 104／改為 125	page_1589.html：…C10的力量检定就可以瞬间破坏它。 箱子（Chest） 价格：25 GP（超大号箱子），10 GP（大号箱子），5 GP…	這條是木箱，CHM 條目標題「箱子（Chest）價格：25 GP」；用語集「胸部」是裝備欄位的意思
+C	pf1.items.json	Cold Iron	寒鐵	misc	果園用例			Cold Iron（Cold Iron）	套		用語集 318	page_29.html：…子学派的法术效果时施法者等级+1。 寒铁 Cold Iron（AM） 价格：1GP；重量：- 将它与其他金属铸为合金，或是作为触…	CHM 鍊金功能材料頁標題「寒鐵 Cold Iron（AM）」
+C	pf1.items.json	Darkwood	黑木	misc	果園用例			Darkwood（Darkwood）	改	暗木	用語集 50／改為 39	page_1361.html：…术影响目标的想过时施法者等级+1。 暗木 Darkwood（AM）：决定创造子学派的法术效果时施法者等级+1。 寒铁 Cold…	CHM 鍊金功能材料頁標題「暗木 Darkwood（AM）」，CHM 材料一律寫「暗木」；「黑木」是一般的黑色木頭
+C	pf1.items.json	Ginger Extract	薑汁	misc	果園用例			Ginger Extract（Ginger Extract）	套		用語集 7	page_29.html：…免DC+1，目盲持续时间增加1轮。 姜汁 Ginger Extract（AM） 价格：5SP；重量：…	CHM 鍊金功能材料頁標題「薑汁 Ginger Extract（AM）」
+C	pf1.items.json	Mugwort Extract	收集艾草	misc	果園用例			Mugwort Extract（Mugwort Extract）	改	艾草	用語集 0／改為 4	page_29.html：…信幻术效果的意志豁免检定DC+1。 艾草 Mugwort Extract（AM） 价格：2GP；重量：- 有很多中不同的艾草使用方式：艾灸，提神，…	CHM 鍊金功能材料頁標題「艾草 Mugwort Extract（AM）」；用語集多黏了動詞「收集」
+C	pf1.items.json	Myrrh	沒藥	misc	果園用例			Myrrh（Myrrh）	套		用語集 16	page_29.html：…定法术的持续时间时施法者等级+1。 没药 Myrrh（AM） 价格：5SP；重量：- 这种有香气的泥膏是大多数炼金药物的基本成…	CHM 鍊金功能材料頁標題「沒藥 Myrrh（AM）」
+C	pf1.items.json	Quicksilver	水銀轉化	misc	果園用例			Quicksilver（Quicksilver）	改	水銀	用語集 0／改為 57	page_29.html：…定法术的有效距离时施法者等级+1。 水银 Quicksilver（AM） 价格：1GP；重量：- 这…	CHM 鍊金功能材料頁標題「水銀 Quicksilver（AM）」；用語集多黏了「轉化」
+C	pf1.items.json	Salt	食鹽	misc	果園用例			Salt（Salt）	改	鹽	用語集 2／改為 226	page_1361.html：…预言系的法术效果时施法者等级+1。 盐 Salt（AM）：决定死灵系的法术效果时施法者等级+1。 艾草 Mugwor…	CHM 鍊金功能材料頁標題「鹽 Salt（AM）」；用語集「食鹽」出自香料清單，不是本條的鍊金材料
+C	pf1.items.json	Spirit Of Wine	酒精	misc	CHM正文			Spirit Of Wine（Spirit Of Wine）	套		用語集 171	page_29.html：…散半径增加5尺，持续时间增加2轮。 酒精 Spirit of Wine（AM） 价格：5SP；重量：…	CHM 鍊金功能材料頁標題「酒精 Spirit of Wine（AM）」
+C	pf1.items.json	Urea	尿素	misc	果園用例			Urea（Urea）	套		用語集 20	page_29.html：…描述符的法术 效果：酸蚀伤害+1。 尿素 Urea（AM） 价格：5SP；重量：- 尿素用途广泛，通常是作为反应更为剧烈的物…	CHM 鍊金功能材料頁標題「尿素 Urea（AM）」
+C	pf1.items.json	Woundweal	創傷浮腫	affliction	果園用例			Woundweal（Woundweal）	套		用語集 2	zhc2dc6d6c5e.htm：…Wolfsbane） 5 sp — 创伤浮肿（Woundweal） 100 gp — 黑市道具（Blac…	CHM 毒品表「創傷浮腫（Woundweal）100 gp」

@@ -1,0 +1,102 @@
+級	檔案	英文	用語集譯名	用語集分類	來源	形狀疑點	其他譯名	現在中文	裁定	改為	CHM次數	CHM出處	理由
+A	pf1.items.json	Acid	酸蝕	equipment	慣用譯名			強酸	不套		現行 157／用語集 594	page_212.html：…2 — — 火焰 见详述 远程武器 强酸(Acid) 10 gp 1d6 ×2 10尺 1磅 酸液…	這條是鍊金物品「強酸」，CHM 物品表寫「強酸(Acid) 10 gp」；「酸蝕」是能量類型的譯名，與 CHM 線強酸／酸蝕複查（2026-10-13）的分法一致
+A	pf1.items.json	Meat	肉	equipment	定案			肉類	不套		現行 11／用語集 1779	page_211.html：…包或者酥饼，配牛肉、豆类，和好酒。 肉类 Meat 价格：3SP；重量：1/2磅 一块足够一餐食用的…	CHM 條目標題「肉類 Meat 價格：3SP」；用語集「肉」標為定案，若那是你刻意的裁定請改套
+A	pf1.items.json	Sack	麻袋	equipment	使用者裁定			袋	不套		現行 663／用語集 20	page_210.html：…der horn 3 金币 1 磅 袋 Sack 1 银币 1/2 磅1 义肢，手臂 Prosthetic (a…	CHM 冒險裝備表寫「袋 Sack 1 銀幣」，「麻袋（Sack）」只出現在物品清單與防熊袋說明；用語集標為使用者裁定，請你確認裁定是否在 CHM 之後
+A	pf1.weapons-and-ammo.json	Punching Dagger	拳匕	equipment	使用者裁定			拳刃	不套		現行 21／用語集 9	page_207.html：…1d6 ×2 4磅 钝击 CRB Punching dagger 拳刃 2 gp 1d3 1d4 ×3 1磅 穿刺 CRB Sic…	CHM 武器表與神祇偏好武器寫「拳刃」（21 次），「拳匕」只在拳師能力內文（9 次）；用語集標為使用者裁定，請你確認
+B	pf1.armors-and-shields.json	Armored Kilt	內襯裙甲	equipment	果園用例			裝甲裙	套		現行 0／用語集 1	zh9a2dc9b5d0.htm：…龙（Pseudodragon），并且内衬裙甲（Armored Kilts）不可用。奴隶（Slaves）于…	CHM 唯一出處是 PFS 清單「內襯裙甲（Armored Kilts）」1 次；現行「裝甲裙」CHM 查無
+B	pf1.armors-and-shields.json	Field Plate	野戰甲	equipment	果園用例			實戰板甲	不套		現行 0／用語集 0	page_216.html：…战场指挥者铠甲（War Commander’s Field Plate） 21,600 gp ISC…（只有英文原文）	兩邊 CHM 都查無，沒有可驗證的譯名，維持現狀
+B	pf1.armors-and-shields.json	Gray Maiden Plate	灰少女鎧甲	equipment	果園用例			灰少女板甲	套		現行 0／用語集 16	page_1230.html：…ent）灰少女的成员会使用后述装备。灰少女铠甲（Gray Maiden Plate）价格：1500gp重量：50磅灰少女的特殊铠甲是她们最为形象的标…	CHM 條目標題「灰少女鎧甲（Gray Maiden Plate）價格：1500gp」，16 次；現行「灰少女板甲」CHM 查無
+B	pf1.armors-and-shields.json	Hellknight Plate	地獄騎士板甲	equipment	果園用例			地獄騎士全身甲	套		現行 5／用語集 7	page_290.html：…加为2。8级时，这些数值增加为3。 地狱骑士板甲(Hellknight Plate)：这些特点鲜明的盔甲是一种独特的精制品全身甲，…	CHM 條目標題「地獄騎士板甲(Hellknight Plate)」（7 次）；現行「地獄騎士全身甲」只出現在馬鎧樣式說明（5 次）；另有一頁標題寫「地獄騎士戰甲」
+B	pf1.armors-and-shields.json	Hide Shirt	生皮外衣	equipment	果園用例			蜥皮衫	改	皮革襯衫	現行 0／用語集 0／改為 5	zh4e7133139d.htm：…：所有列于第10至11页的装备（除了皮革衬衫［Hide Shirt］与瓦瑞西亚塑像［Varisian I…	CHM 唯一有英文對照的是 PFS 清單「皮革襯衫［Hide Shirt］」；用語集與現行寫法 CHM 都查無
+B	pf1.armors-and-shields.json	Leaf Armor	葉織甲	equipment	果園用例			葉甲	套		現行 3／用語集 2	page_216.html：…美的精灵文字描绘于其上，它被视为+1叶织甲ISWG（+1 leaf armor）。那些离开雨林外出冒险…	CHM 寫「+1葉織甲（+1 leaf armor）」2 次；現行「葉甲」的 3 次其實都是「羽葉甲」的一部分，不算
+B	pf1.armors-and-shields.json	Rosewood Armor	玫瑰藤甲	equipment	果園用例			玫瑰木甲	不套		現行 0／用語集 0	查無	兩邊 CHM 都查無，沒有可驗證的譯名，維持現狀
+B	pf1.armors-and-shields.json	Silken Ceremonial	綢禮裝	equipment	果園用例			絲綢禮甲	不套		現行 6／用語集 1	page_206.html：…% 30尺 20尺 15磅 APG 丝绸礼甲（Silken ceremonial armor） 30 g…	CHM 護甲表與條目寫「絲綢禮甲」（6 次），用語集「綢禮裝」只在一段內文出現 1 次
+B	pf1.armors-and-shields.json	Tatami-Do	畳具足	equipment	果園用例			疊具足	不套		現行 6／用語集 0	page_206.html：…% 20尺 15尺 45磅 CRB 叠具足（Tatami-do）（※2） 1,000 gp +7 +3…	CHM 護甲表寫「疊具足（Tatami-do）」；用語集「畳」是日文字形，CHM 查無
+B	pf1.items.json	Alchemist's Lab	鍊金師工作台	equipment	果園用例			鍊金師工作臺	不套		現行 7／用語集 7	page_647.html：…战场上被合成出来，尤其是制作者在使用炼金师工作台（alchemist’s lab；UE 76）的情况下。 优…	兩者只差「台／臺」，CHM 簡體同為「工作台」；本專案轉換慣例寫「臺」，不用改
+B	pf1.items.json	Basket	籃筐	equipment	果園用例			籃子	不套		現行 15／用語集 1	page_210.html：…netting 20 金币 5 磅 篮子 Basket 4 银币 1 磅 蜡烛 Candle 1 铜…	CHM 冒險裝備表「籃子 Basket 4 銀幣」；用語集「籃筐」只出現在投石車說明
+B	pf1.items.json	Bedroll	睡袋	equipment	果園用例			鋪蓋卷	不套		現行 46／用語集 9	page_210.html：…蜡烛 Candle 1 铜币 — 铺盖卷 Bedroll 1 银币 5 磅1 烛灯 Candle lamp 5 金币…	CHM 冒險裝備表「鋪蓋卷 Bedroll 1 銀幣」（46 次）；「睡袋」是鋪蓋卷說明裡的描述
+B	pf1.items.json	Bit And Bridle	嚼子和韁繩	equipment	果園用例			嚼子和韁繩（Bit and Bridle）	不套		現行 7／用語集 7	page_210.html：…（Riding） 10gp 25磅 嚼子和缰绳（Bit and bridle） 2gp 1磅 异种鞍座（S…	中文已相同，差異只在英文大小寫（Bit and Bridle），不用改
+B	pf1.items.json	Board Game	棋盤遊戲	equipment	果園用例			棋盤遊戲（Board game）	不套		現行 7／用語集 7	page_211.html：…粉、15个木球和三角形的木质球架。 棋盘游戏（Board game） 价格：1sp - 10gp；重量：…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Book Of Puzzles	謎語書	equipment	果園用例			謎語書（Book of Puzzles）	不套		現行 4／用語集 4	page_210.html：…度5，生命值10点）来松脱法术书。 谜语书（Book of Puzzles） 价格：50gp；重量：1…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Book Of War Prayers	戰前禱詞集	equipment	果園用例			戰前禱詞集（Book of War Prayers）	不套		現行 2／用語集 2	page_210.html：…你还能够购买其他内容不同的谜语书。 战前祷词集（Book of War Prayers） 价格：50gp；…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Caltrops	治療鐵蒺藜	equipment	果園用例			鐵蒺藜	不套		現行 59／用語集 3	page_210.html：…ed vest 10 金币 4 磅 铁蒺藜 Caltrops 1 金币 2 磅 木桶 Barrel 2 金币 30 磅…	用語集譯名黏了「治療」（出自法術名「治療鐵蒺藜、荊棘叢生……造成之傷害」），CHM 物品表寫「鐵蒺藜 Caltrops」
+B	pf1.items.json	Chalk	騾子	equipment	果園用例			粉筆	不套		現行 47／用語集 16	page_729.html：…腰包（belt pouch）、10根粉笔（chalk）、1份燧石和铁片（flint and stee…	用語集「騾子」完全對錯詞；CHM 冒險裝備表「粉筆 Chalk 1 銅幣」
+B	pf1.items.json	Cot	骰子簡易窄床	equipment	果園用例			便攜式床	不套		現行 3／用語集 1	page_210.html：…f a key 1 金币 1— F 便携式床 Cot 1 金币 30 磅1 伪迹鞋 Fake footp…	用語集譯名黏了「骰子」（出自隨機表上一格）；CHM 冒險裝備表「便攜式床 Cot 1 金幣」
+B	pf1.items.json	Decorative Trim	服裝配飾	equipment	果園用例			服裝配飾（Decorative trim）	不套		現行 5／用語集 5	page_211.html：…你看起来仅仅是个不入流的平民罢了。 服装配饰（Decorative trim） 价格：1sp - 50g…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Diving Suit	潛水服	equipment	果園用例			潛水服（Diving suit）	不套		現行 3／用語集 3	page_211.html：…雇来使唤的下人和护卫弄得精神一些。 潜水服（Diving suit） 价格：10gp；重量：2磅 这件…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Flint And Steel	份燧石和鐵片	equipment	果園用例			燧石和鐵片	不套		現行 42／用語集 14	page_210.html：…个腰包（belt pouch）、1份燧石和铁片（flint and steel）、1瓶墨水（ink）、1根…	用語集譯名黏了量詞「份」；CHM 物品表「燧石和鐵片 Flint and steel」
+B	pf1.items.json	Footprint book	足跡鑄模	equipment	果園用例			足跡圖譜（Footprint Book）	不套		現行 2／用語集 3	page_210.html：…值。一套化装工具包可以使用10次。 足迹图谱 Footprint Book 价格：50GP；重量3磅 这本50页的图册画满了各种常见的动物，…	本條價格 50 gp，CHM 對應條目是「足跡圖譜 Footprint Book 價格：50GP」；用語集「足跡鑄模」是另一件 2 gp 的物品
+B	pf1.items.json	Formula Book	公式本	equipment	果園用例			公式薄	改	公式簿	現行 13／用語集 13／改為 95	page_597.html：…本法术书 (spellbook) 或公式簿 (formula book) 都反映着使用者独特的个性以及能力。在这些书籍之中包含的不仅…	現行「公式薄」是「簿」的錯字（CHM 物品表照錯，13 次），CHM 其他地方寫「公式簿」95 次；用語集「公式本」13 次
+B	pf1.items.json	Fuse grenade	引信手榴彈	equipment	果園用例			引信手榴彈（Fuse Grenade）	不套		現行 12／用語集 12	page_212.html：…— 10尺 — 闪光 范围,见详述 引信手榴弹(Fuse grenade) 100 gp 2d6/1d6…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Hammer	擅長使用錘子	equipment	果園用例			錘子	不套		現行 66／用語集 1	page_210.html：…hing net 4 金币 5 磅 锤子 Hammer 5 银币 2 磅 扁瓶 Flask 3 铜币 1-1/2…	用語集譯名黏了「擅長使用」（出自專長先決條件）；CHM 寫「錘子」
+B	pf1.items.json	Harrow deck	哈羅牌組	equipment	果園用例			哈羅牌	不套		現行 165／用語集 6	page_1589.html：…Hammock） 1 sp 3磅1 哈罗牌（Harrow deck） 100 gp — 头盔蜡烛（Helmet candle） 2 gp…	CHM 冒險裝備表「哈羅牌（Harrow deck）100 gp」；「哈羅牌組」只在預言學派器材說明（6 次）
+B	pf1.items.json	Holy Text	聖典	equipment	果園用例			教典	不套		現行 21／用語集 97	page_210.html：…tattoo 100 金币 — L 教典 Holy text 1–100 金币 1–20 磅 梯子 Ladder 2 银…	CHM 冒險裝備表「教典 Holy text」；「聖典」多半是騎士團名「聖典騎士團」
+B	pf1.items.json	Holy water	聖水	equipment	果園用例			聖水（Holy Water）	不套		現行 219／用語集 219	Spell CRB.html：…1品脱) 的水充满正能量，将其转化为圣水 (holy water)。 祝福武器 (Bless Wea…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Ink	瓶墨水	equipment	果園用例			墨水	不套		現行 221／用語集 4	page_210.html：…lint and steel）、1瓶墨水（ink）、1根墨水笔（inkpen）、1个铁壶（iron…	用語集譯名黏了量詞「瓶」；CHM 寫「墨水」
+B	pf1.items.json	Inkpen	根墨水筆	equipment	果園用例			墨水筆	不套		現行 15／用語集 5	page_210.html：…teel）、1瓶墨水（ink）、1根墨水笔（inkpen）、1个铁壶（iron pot）、1套餐具（m…	用語集譯名黏了量詞「根」；CHM 物品表「墨水筆 Inkpen」
+B	pf1.items.json	Light Detector	光線探測板	equipment	果園用例			感光板	不套		現行 6／用語集 0	page_212.html：…某个特定人的血液（揭露DC35）。 感光板 Light Detector 价格：1GP 重量：- 这块巴掌大小的小铁片涂有一层光敏性的特殊…	CHM 條目標題「感光板 Light Detector 價格：1GP」；用語集寫法 CHM 查無
+B	pf1.items.json	Mirror	面鏡子	equipment	果園用例			鏡子	不套		現行 228／用語集 37	page_210.html：…、1套餐具（mess kit）、1面镜子（mirror）、1根麻绳（rope）、1块肥皂（soap）…	用語集譯名黏了量詞「面」；CHM 寫「鏡子」
+B	pf1.items.json	Piton	應該是岩釘	equipment	果園用例			巖釘	不套		現行 30／用語集 0	page_210.html：…Marbles 1 银币 2 磅 岩钉 Piton 1 银币 1/2 磅 餐具 Mess kit…	用語集譯名黏了「應該是」；現行「巖釘」就是 CHM「岩釘 Piton」的本專案轉換寫法
+B	pf1.items.json	Portable ram	攜帶式攻城錘	equipment	果園用例			便攜式攻城錘	不套		現行 4／用語集 0	page_210.html：…/tankard 2 铜币 1 磅 便携式攻城锤 Portable ram 10 金币 20 磅 R 铁壶…	CHM 冒險裝備表「便攜式攻城錘 Portable ram」；用語集寫法 CHM 查無
+B	pf1.items.json	Soap	塊肥皂	equipment	果園用例			肥皂	不套		現行 47／用語集 12	page_1589.html：…eton key） 85 gp — 肥皂（Soap） 1 cp 1/2磅 投矛器（Spear-thr…	用語集譯名黏了量詞「塊」；CHM 寫「肥皂（Soap）」
+B	pf1.items.json	Tangleburn bag	熾火絆足包	equipment	果園用例			熾火絆足包（Tangleburn Bag）	不套		現行 4／用語集 4	page_212.html：…— 10尺 100磅 火焰 范围 炽火绊足包(Tangleburn bag) 150 gp 1d6 —…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Tome Of Epics	史詩大典	equipment	果園用例			史詩大典（Tome of Epics）	不套		現行 2／用語集 2	page_210.html：…及1个水袋（waterskin）。 史诗大典（Tome of Epics） 价格：50gp；重量：3磅…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.items.json	Waterskin	個水袋	equipment	果園用例			水袋	不套		現行 64／用語集 40	page_210.html：…trail rations）以及1个水袋（waterskin）。这套工具包内并不包含法术书是因为，奥…	用語集譯名黏了量詞「個」；CHM 物品表「水袋 Waterskin」
+B	pf1.weapons-and-ammo.json	Atlatl Dart	擲鏢	equipment	果園用例			擲鏢（Atlatl dart）	不套		現行 28／用語集 28	page_207.html：…20支） 1 gp 3磅 CRB 掷镖（Atlatl dart） 1 gp 2磅 UC原始 竹矢（…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Blade Boot	刀片靴	equipment	果園用例			刀鋒靴	套		現行 0／用語集 6	zhc1c9d11ef0.htm：…以维持骑乘的骑术检定受到-1罚值。 刀片靴（Blade Boot）：刀片靴配有一把装配在弹簧上的刀片（…	CHM 條目標題「刀片靴（Blade Boot）」（6 次）；現行「刀鋒靴」CHM 查無
+B	pf1.weapons-and-ammo.json	Bo Staff	長棒	equipment	果園用例			長棒（Bo staff）	不套		現行 9／用語集 9	page_207.html：…持用重剑的情况下将其视为军用武器。 长棒（Bo staff）：这支棍棒与木棍造型类似，不过整体要更为…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Boarding Gaff	艦鬥勾	equipment	果園用例			登船叉	不套		現行 8／用語集 1	page_1006.html：…块——的攀爬检定上提供+2环境加值 登船叉 BOARDING GAFF价钱：8gp类型：异种登船叉，又称钩叉，是一根末端有着刺鱼用…	CHM 條目標題「登船叉 BOARDING GAFF」（8 次）；用語集「艦鬥勾」只在一頁出現 1 次
+B	pf1.weapons-and-ammo.json	Butchering Axe	屠斧	equipment	果園用例			屠戮斧	不套		現行 5／用語集 3	page_1006.html：…得名。此外，登船叉也可以用来捕鱼。 屠戮斧 BUTCHERING AXE价钱：65gp类型：异种屠戮斧出自贝尔克泽恩的兽人铁匠之手。…	CHM 條目標題「屠戮斧 BUTCHERING AXE」；用語集「屠斧」的 3 次都是「震骨屠斧」的一部分
+B	pf1.weapons-and-ammo.json	Butterfly Sword	蝴蝶雙刀	equipment	果園用例			蝴蝶雙刀（Butterfly sword）	不套		現行 30／用語集 30	page_207.html：…乘对像用以维持骑乘的骑术检定-1。 蝴蝶双刀（Butterfly sword）：这种成对设计的短剑可以收…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Chain Spear	鏈槍	equipment	果園用例			鏈槍（Chain spear）	不套		現行 12／用語集 12	page_207.html：…利。狩猎用的回力镖并不会飞回来。9 链枪（Chain spear）：这件凶残的武器常因其功能多样而被…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Combat Scabbard	戰鬥劍鞘	equipment	果園用例			戰鬥刀鞘	套		現行 0／用語集 23	page_1589.html：…有带软布垫的内衬和带铰链的棺材盖。 战斗剑鞘（Combat scabbard） 价格：1 GP；重量：1…	CHM 條目標題「戰鬥劍鞘（Combat scabbard）」（23 次）；現行「戰鬥刀鞘」CHM 查無
+B	pf1.weapons-and-ammo.json	Crook	彎鉤河	equipment	果園用例			牧鉤	不套		現行 5／用語集 0	zhd1b7f47fab.htm：…g gaff，PotIS/AA2） 牧钩（crook，MTT） | 斩矛（fauchard，CHR/…	用語集譯名尾巴黏了「河」；CHM 武器表寫「牧鉤」
+B	pf1.weapons-and-ammo.json	Cutlass	水兵刃	equipment	果園用例			水兵刀	不套		現行 9／用語集 0	page_1006.html：…保至少有一个锤子能牢牢地握在手中。 水兵刀 CUTLASS价钱：15gp类型：军用水手船员们很喜欢用这种有着弯弧刀身的…	CHM 條目標題「水兵刀 CUTLASS」（9 次）；用語集「水兵刃」CHM 查無
+B	pf1.weapons-and-ammo.json	Dan Bong	短棒	equipment	果園用例			短棒（Dan bong）	不套		現行 19／用語集 19	page_117.html：…, UC)、套牛绳 (bolas)、短棒 (dan bong, UC)、套索 (lasso, APG…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double Chicken Saber	雞刀鐮	equipment	CHM正文			雞刀鐮（Double chicken saber）	不套		現行 7／用語集 7	page_207.html：…器重量。屠狗刃的武器型号多为小型。 鸡刀镰（Double chicken saber）：这把先端长约3…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double Hackbut	抬槍	equipment	果園用例			雙管架槍	不套		現行 3／用語集 5	page_208.html：…1发炼金定装弹。这是一件早期火器。 双管架枪（Double Hackbut）：这种枪身有一般步枪两倍长的火绳枪，用一对耳轴装在一个双轮车架…	CHM 槍械表與條目標題寫「雙管架槍（Double Hackbut）」（3 次）；「抬槍」出現 5 次但都在 PFS 規則說明
+B	pf1.weapons-and-ammo.json	Double Walking Stick Katana	手杖刀	equipment	CHM正文			手杖刀（Double walking stick katana）	不套		現行 9／用語集 9	page_207.html：…为其装填两只弩矢。双发弩发射弩矢。 手杖刀（Double walking stick katana）：…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double-Barreled Musket	雙管滑膛槍	equipment	果園用例			雙管滑膛槍（Double-barreled musket）	不套		現行 6／用語集 6	page_208.html：…器所带来的减值。这是一件早期火器。 双管滑膛枪（Double-barreled musket）：这把滑膛枪…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double-Barreled Pistol	雙管手槍	equipment	果園用例			雙管手槍（Double-barreled pistol）	不套		現行 10／用語集 10	page_208.html：…1发炼金定装弹。这是一件早期火器。 双管手枪（Double-barreled pistol）：这把手枪有…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double-Barreled Shotgun	雙管霰彈槍	equipment	果園用例			雙管霰彈槍（Double-barreled shotgun）	不套		現行 4／用語集 4	page_208.html：…定受到-4减值。这是一件早期火器。 双管霰弹枪（Double-barreled shotgun）：这把霰弹…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Double-Chained Kama	雙鐮	equipment	果園用例			雙鐮（Double-chained kama）	不套		現行 11／用語集 11	page_207.html：…用。出鞘时，使用表格上列出的数据。 双镰（Double-chained kama）：这种武器就像一对…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Elven Curve Blade	精靈曲刃	equipment	果園用例			精靈曲劍	套		現行 5／用語集 12	page_207.html：…斧视为军用武器，甚至在单手持用时。 精灵曲刃（Elven curve blade）：本质上是加长版的弯刀，但刀身更窄的精灵曲刃相当稀罕。由于打…	CHM 武器表與條目標題寫「精靈曲刃」（12 次）；現行「精靈曲劍」5 次，多在魔法武器內文
+B	pf1.weapons-and-ammo.json	Emei Piercer	峨眉刺	equipment	果園用例			峨眉刺（Emei piercer）	不套		現行 9／用語集 9	page_207.html：…代力量修正，即便它并不是轻型武器。 峨眉刺（Emei piercer）：这也是一件用来增强徒手战斗所用…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Featherweight Dart	輕羽鏢	equipment	果園用例			羽量飛鏢	套		現行 2／用語集 11	zh06474f5b1a.htm：…- - - 20尺 1磅 穿刺 - 轻羽镖（Featherweight Dart） 价格：1 gp（1…	兩者都是 CHM 條目標題：「輕羽鏢（Featherweight Dart）」11 次、「羽量飛鏢 Featherweight Dart」2 次；依次數取用語集
+B	pf1.weapons-and-ammo.json	Fighting Fan	鐵骨扇	equipment	果園用例			鐵骨扇（Fighting fan）	不套		現行 15／用語集 15	page_207.html：…护手之间的细链用来保护手部和手指。 铁骨扇（Fighting fan）：虽然从外表上看起来与普通的绸面…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Firewyrm	火巨蟒	equipment	果園用例			炎龍炮	不套		現行 9／用語集 0	page_50.html：…蛟炮（firedrake, UC） 炎龙炮（firewyrm, UC） 廊车（gallery, UC）…	CHM 攻城器械清單寫「炎龍炮（firewyrm）」（9 次）；用語集「火巨蟒」CHM 查無
+B	pf1.weapons-and-ammo.json	Flask Thrower	道具投擲索	equipment	果園用例			擲瓶器	不套		現行 6／用語集 0	page_1006.html：…巨镰一样，其锋刃处于凹进去的一侧。 掷瓶器 FLASK THROWER价钱：25gp类型：异种这个异种武器由一根棍子和棍子末端一个…	CHM 條目標題「擲瓶器 FLASK THROWER」；用語集「道具投擲索」CHM 查無，對錯了物品
+B	pf1.weapons-and-ammo.json	Flying Blade	血滴子	equipment	果園用例			旋刃	不套		現行 8／用語集 0	page_207.html：…它的扇骨通常会修出尖头并可能喂毒。 旋刃（Flying blade）：旋刃是一件大型的圆月弯刀与10…	CHM 武器表與條目標題「旋刃（Flying blade）」；用語集「血滴子」CHM 查無
+B	pf1.weapons-and-ammo.json	Great Terbutje	石刃大劍	equipment	果園用例			石刃大劍（Great terbutje）	不套		現行 7／用語集 7	page_207.html：…手武器。侏儒能将钩锤视为军用武器。 石刃大剑（Great terbutje）：这件石器时代的武器是石刃剑…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Hand Crossbow	外加手弩	equipment	果園用例			手弩	不套		現行 65／用語集 4	page_207.html：…身人能将半身人投石杖视为军用武器。 手弩（Hand crossbow）：你能用手拉开手弩。为手弩装填…	用語集譯名黏了「外加」（出自職業擅長清單）；CHM 寫「手弩」
+B	pf1.weapons-and-ammo.json	Heavy Shield	重型盾牌	equipment	果園用例			重型盾牌（Heavy shield）	不套		現行 19／用語集 19	page_207.html：…上使用，因此常被骑兵当作廉价武器。 重型盾牌（Heavy shield）：除了防御，你还能用重型盾牌猛砸…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Hooked Lance	鉤鐮槍	equipment	果園用例			鉤鐮槍（Hooked lance）	不套		現行 5／用語集 5	page_207.html：…了防御，你还能用重型盾牌猛砸敌人。 钩镰枪（Hooked lance）：这种纤细，约有10尺长度的长枪…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Iron Brush	判官筆	equipment	果園用例			判官筆（Iron brush）	不套		現行 8／用語集 8	page_207.html：…，这件武器的实际形式更加多种多样。 判官笔（Iron brush）：这种看起来像是普通毛笔的武器笔身为…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Kyoketsu Shoge	距拔	equipment	果園用例			距拔（Kyoketsu shoge）	不套		現行 7／用語集 7	page_207.html：…依靠旋转锁链提供的离心力猛击目标。 距拔（Kyoketsu shoge）：这件武器的主体是一把长约一…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Light Shield	輕型盾牌	equipment	果園用例			輕型盾牌（Light shield）	不套		現行 22／用語集 22	page_207.html：…头部、用来穿甲的尖端和锤状的配重。 轻型盾牌（Light shield）：除了防御，你还能用轻型盾牌猛砸…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Meteor Hammer	流星錘	equipment	果園用例			流星錘（Meteor hammer）	不套		現行 22／用語集 22	page_207.html：…叉，对方能以一个标准动作解放自己。 流星锤（Meteor hammer）：这件武器由一对通过10尺长的…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Nine-Section Whip	九節鞭	equipment	果園用例			九節鞭（Nine-section whip）	不套		現行 8／用語集 8	page_207.html：…2轮折叠好捕网，不熟练者耗时加倍。 九节鞭（Nine-section whip）：这件武器的主体部分是…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Poisoned Sand Tube	毒砂管	equipment	果園用例			毒砂管（Poisoned sand tube）	不套		現行 10／用語集 10	page_207.html：…上拔出此物之前失去AC的盾牌加值。 毒砂管（Poisoned sand tube）：这支用金属或竹节制…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Repeating Hand Crossbow	連發手弩	equipment	果園用例			連發手弩（Repeating hand crossbow）	不套		現行 4／用語集 4	page_207.html：…还能用来咬住对手的剑刃并将其扭断。 连发手弩（Repeating hand crossbow）：这件武器…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Repeating Heavy Crossbow	連發重弩	equipment	果園用例			連發重弩（Repeating heavy crossbow）	不套		現行 15／用語集 15	page_207.html：…过伤害、重击和射程数据与手弩相同。 连发重弩（Repeating heavy crossbow）：这把连…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Repeating Light Crossbow	連發輕弩	equipment	果園用例			連發輕弩（Repeating light crossbow）	不套		現行 7／用語集 7	page_207.html：…器，并且必须用两只手来安装新弹匣。 连发轻弩（Repeating light crossbow）：这件武…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Rhoka Sword	雙叉劍	equipment	果園用例			雙叉劍（Rhoka sword）	不套		現行 14／用語集 14	page_1014.html：…awtooth saber）UE或者双叉剑（Rhoka sword）UE进行锋齿改造时可以不提升武器类…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Rope Dart	繩鏢	equipment	果園用例			繩鏢（Rope dart）	不套		現行 10／用語集 10	page_207.html：…寸与长剑相近，但有两片并列的剑刃。 绳镖（Rope dart）：这件不起眼的武器看起来不过是一条12…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Sai	十手	equipment	果園用例			筆架叉	不套		現行 20／用語集 9	page_207.html：…/×2 2磅 穿刺 演武 UC演武 Sai 笔架叉 1 gp 1d3 1d4 ×2 1磅 钝击 缴械，武僧 C…	CHM 武器表「Sai 筆架叉」（20 次）；「十手（Sai）」只在兩處擅長清單，CHM 其他地方「十手」另有所指
+B	pf1.weapons-and-ammo.json	Seven-Branched Sword	七支劍	equipment	果園用例			七支刀（Seven-branched sword）	不套		現行 8／用語集 0	page_207.html：…而无论目标生物是否有护甲AC加值。 七支刀（Seven-branched sword）：这支造型奇特的…	CHM 武器表與條目標題「七支刀」（8 次）；用語集「七支劍」CHM 查無
+B	pf1.weapons-and-ammo.json	Shang Gou	雙鉤	equipment	果園用例			雙鉤（Shang gou）	不套		現行 8／用語集 8	page_207.html：…号，这令巨镰也往往被用作威慑武器。 双钩（Shang gou）：这对精钢打造的长剑有一个回钩的弯头，…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Spiked Armor	甲刺	equipment	果園用例			甲刺（Spiked armor）	不套		現行 102／用語集 102	page_207.html：…范围，你会因为同一个动作结束擒抱。 甲刺（Spiked armor）：你能为你的盔甲加装尖刺，在擒抱…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Spiked Chain	刺鏈	equipment	果園用例			刺鏈w	套		現行 0／用語集 113	page_207.html：…7磅 挥砍 缴械，武僧 UC东方 Spiked chain 刺链 25 gp 1d6 2d4 ×2 10磅 穿刺 缴械，摔绊…	現行名稱多打了一個「w」（刺鏈w），用語集「刺鏈」與 CHM 武器表一致
+B	pf1.weapons-and-ammo.json	Spiked Heavy Shield	帶刺重盾	equipment	果園用例			帶刺重盾（Spiked heavy shield）	不套		現行 6／用語集 6	page_207.html：…述请查看盔甲部分。甲刺无法被缴械。 带刺重盾（Spiked heavy shield）：带刺盾牌是威慑武…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Spiked Light Shield	帶刺輕盾	equipment	果園用例			帶刺輕盾（Spiked light shield）	不套		現行 8／用語集 8	page_207.html：…重盾猛砸敌人。带刺重盾无法被缴械。 带刺轻盾（Spiked light shield）：除了防御，你还能…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Sword Cane	短劍和劍杖	equipment	果園用例			杖劍	不套		現行 21／用語集 1	page_207.html：…是说也要过反射不然插自己脑门啊！】 杖剑（Sword cane）：这把细身剑被放置在作为剑鞘和伪装的…	用語集譯名黏了「短劍和」，CHM 武器表寫「杖劍（Sword cane）」（21 次）
+B	pf1.weapons-and-ammo.json	Tekko-Kagi	手甲鉤	equipment	果園用例			手甲鉤（Tekko-kagi）	不套		現行 10／用語集 10	page_207.html：…d6，重击×2）的军用武器来使用。 手甲钩（Tekko-kagi）：这件武器通称为铁爪，5支10吋长短…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Temple Sword	儀劍	equipment	果園用例			儀劍（Temple sword）	不套		現行 13／用語集 13	9_Escape_from_Old_Korvosa.htm：…6 ×3 3磅 穿刺 单手近战武器 仪剑（Temple sword） 18 gp 1d6 1d8 1…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Thistle Arrow	毒薊箭	equipment	果園用例			薊花箭	不套		現行 2／用語集 0	page_851.html：…若不使用掷箭索，则将掷箭视为飞镖。 蓟花箭 Thistle Arrow这支由一种有毒植物的花制成的箭，…	CHM 條目標題「薊花箭 Thistle Arrow」；用語集「毒薊箭」CHM 查無
+B	pf1.weapons-and-ammo.json	Throwing Shield	快擲	equipment	果園用例			飛盾	不套		現行 17／用語集 4	page_207.html：…额外的重量和破坏力以增强打击效果。 飞盾（Throwing shield）：这面盾牌被设计用来投掷，因此其握把的设计允许你通过一个自由动…	這條是武器飛盾，CHM 武器表「飛盾（Throwing shield）」；「快擲」是盔甲改造項目的名稱，不是這件武器
+B	pf1.weapons-and-ammo.json	Tiger Fork	三股叉	equipment	果園用例			三股叉（Tiger fork）	不套		現行 11／用語集 11	page_207.html：…，在空中回旋一圈后咬进目标的身体。 三股叉（Tiger fork）：这支颀长，造型类似三叉戟的钢叉在8…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Tri-Point Double-Edged Sword	三尖兩刃刀	equipment	果園用例			三尖兩刃刀（Tri-point double-edged sword）	不套		現行 6／用語集 6	page_207.html：…三支金属尖刺。三叉戟可以用于投掷。 三尖两刃刀（Tri-point double-edged sword）…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Tube Arrow Shooter	袖箭	equipment	果園用例			袖箭（Tube arrow shooter）	不套		現行 15／用語集 15	page_207.html：…可以让它对目标造成可怕的多重伤口。 袖箭（Tube arrow shooter）：这件武器的主体部分…	中文已相同，差異只在英文大小寫，不用改
+B	pf1.weapons-and-ammo.json	Waveblade	曜銀和濤瀾刀	equipment	果園用例			濤瀾刀	不套		現行 4／用語集 1	page_1006.html：…人战盾也无法在盾刺上获得任何好处。 涛澜刀 WAVEBLADE价钱：5gp类型：异种这种武器因其尾刺般的独特形状也以“蝎尾…	用語集譯名黏了「曜銀和」（出自 PFS 清單），CHM 條目標題寫「濤瀾刀 WAVEBLADE」
+B	pf1.weapons-and-ammo.json	Wushu Dart	武師鏢	equipment	果園用例			武師鏢（Wushu dart）	不套		現行 9／用語集 9	page_207.html：…群一击、粉碎铠甲和血肉的理想武器。 武师镖（Wushu dart）：这支一端削尖的木钉可以作为近战武器…	中文已相同，差異只在英文大小寫，不用改
+C	pf1.items.json	Chain	連鎖	class-option	果園用例			鐵鏈	不套		現行 60／用語集 38	page_210.html：…lue book 5 金币 1 磅 铁链 Chain(10 ft.) 30 金币 2 磅 信件大全 Book of l…	CHM 冒險裝備表「鐵鏈 Chain(10 ft.) 30 金幣」；用語集「連鎖」是法術名「連鎖閃電」裡的詞
