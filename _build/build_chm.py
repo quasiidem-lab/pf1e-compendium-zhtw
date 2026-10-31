@@ -24,7 +24,7 @@ CHM 週五發版 → 重跑這支 → 合集包發新版。
   - 內文吃進下一條或整頁 → 停止條件 is_boundary() 不夠，CHM 換了標題樣式
   - 出處欄空白 → 頁首格式變了，看 page_meta()
 """
-import argparse, csv, glob, html, json, re, sys
+import argparse, csv, glob, html, json, os, re, sys
 from collections import Counter
 from pathlib import Path
 
@@ -36,7 +36,7 @@ TR = MOD / 'translations'
 # 上游 pf1e_compendium_chn 的簡體稿當底，CHM 有的條目換成 CHM 簡體版
 OUT_CN = MOD.parent / 'pf1e-compendium-zhcn' / 'translations'
 BASE = HERE / 'base'   # 套 CHM 之前的繁體譯文。改上游繁化或用語集補名稱時改這裡，再重跑本支
-CHM = Path(r'D:\TRPG\4_工具與筆記\CHM勘誤')
+CHM = Path(os.environ.get('PF1_CHM', r'D:\TRPG\4_工具與筆記\CHM勘誤'))
 TREES = {'zh-tw': CHM / 'chmbuild_tc', 'zh-cn': CHM / 'chmbuild'}
 UPSTREAM_CN = MOD.parent / 'pf1e_compendium_chn' / 'translations'
 
@@ -342,8 +342,8 @@ def credit(meta, aon, body=''):
     return '<p class="zhtw-credit"><em>' + '｜'.join(parts) + '</em></p>'
 
 
-IDMAP = Path(r'C:\Users\User\Tools\pf1\pf1-index\idmap.tsv')
-PF1_DATA = Path(r'C:\Users\User\Tools\pf1\pf1-data\packs')
+IDMAP = Path(os.environ.get('PF1_IDMAP', r'C:\Users\User\Tools\pf1\pf1-index\idmap.tsv'))
+PF1_DATA = Path(os.environ.get('PF1_DATA_PACKS', r'C:\Users\User\Tools\pf1\pf1-data\packs'))
 _packs = None
 
 

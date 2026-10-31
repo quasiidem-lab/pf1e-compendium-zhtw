@@ -19,7 +19,7 @@ import opencc
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(os.path.dirname(HERE), 'translations')
-DATA = r'C:\Users\User\AppData\Local\FoundryVTT\Data'
+DATA = os.environ.get('FOUNDRY_DATA', r'C:\Users\User\AppData\Local\FoundryVTT\Data')
 SRC_DIR = os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
 
 _cc = opencc.OpenCC('s2tw')

@@ -19,7 +19,7 @@ r"""拿果園用語集補名稱、比對譯名差異。
   B  果園用例、形狀乾淨、分類對得上           → 預填「套」，抽查
   C  果園用例但形狀可疑或分類對不上           → 留空，要逐條看
 """
-import csv, json, re, sys, unicodedata
+import csv, json, os, re, sys, unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -27,7 +27,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 HERE = Path(__file__).resolve().parent
 TR = HERE.parent / 'translations'
 OUT = HERE / '審核' / '名稱審核.xlsx'
-GL = Path(r'D:\TRPG\4_工具與筆記\pf1-glossary')
+GL = Path(os.environ.get('PF1_GLOSSARY', r'D:\TRPG\4_工具與筆記\pf1-glossary'))
 
 sys.path.insert(0, str(GL))
 from check_dirty import why  # noqa: E402  形狀檢查沿用用語集那支，不另寫一套
