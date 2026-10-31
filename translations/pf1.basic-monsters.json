@@ -1,0 +1,57 @@
+{
+  "label": "基礎怪物",
+  "entries": {
+    "Acolyte": {
+      "name": "侍祭（Acolyte）",
+      "tokenName": "侍祭"
+    },
+    "Battle Mage": {
+      "name": "戰鬥法師（Battle Mage）",
+      "tokenName": "戰鬥法師"
+    },
+    "Fire Beetle": {
+      "name": "火甲蟲（Fire Beetle）",
+      "tokenName": "火甲蟲"
+    },
+    "Goblin": {
+      "name": "地精（Goblin）",
+      "tokenName": "地精"
+    },
+    "Homunculus": {
+      "name": "人造人（Homunculus）",
+      "tokenName": "人造人"
+    },
+    "Human Skeleton": {
+      "name": "人類骷髏（Human Skeleton）",
+      "tokenName": "人類骷髏"
+    },
+    "Human Zombie": {
+      "name": "人類喪屍（Human Zombie）",
+      "tokenName": "人類喪屍"
+    },
+    "Orc": {
+      "name": "獸人（Orc）",
+      "tokenName": "獸人"
+    },
+    "Poacher": {
+      "name": "偷獵者（Poacher）",
+      "tokenName": "偷獵者"
+    },
+    "Stirge": {
+      "name": "蚊蝠（Stirge）",
+      "tokenName": "蚊蝠"
+    },
+    "Street Magician": {
+      "name": "街頭魔術師（Street Magician）",
+      "tokenName": "街頭魔術師"
+    },
+    "Wasp Swarm": {
+      "name": "黃蜂群（Wasp Swarm）",
+      "tokenName": "黃蜂群"
+    },
+    "Wolf": {
+      "name": "狼（Wolf）",
+      "tokenName": "狼"
+    }
+  }
+}
