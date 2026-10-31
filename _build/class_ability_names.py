@@ -25,6 +25,7 @@ r"""職業能力（pf1.class-abilities）的 Foundry 名稱 → AoN 名稱對應
 信心怎麼給（寧可少對，不要對錯）：
   高    名稱對上、AoN 只剩一條，而且所屬職業（縮寫後綴或 Foundry 的 associations）對得上
   中    名稱對上、AoN 只有一條，但 Foundry 這邊沒有職業可核（條目不在現行 pf1-data、也沒有縮寫）
+  共用  一條 Foundry 能力，AoN 在好幾頁各列一次（多職業共有、子領域、好幾個秘示域共有的天啟），全列
   多筆  對到不只一條（不同職業或不同家族的同名能力）分不出來，不挑，全列
   —     對不到。「備註」寫卡在哪
 """
@@ -69,15 +70,20 @@ UNCHAINED_BASE = {'Barbarian (Unchained)': 'Barbarian', 'Monk (Unchained)': 'Mon
 
 # ---------------------------------------------------------------- 名稱正規化
 
-TYPE_SUF = re.compile(r'\s*\((?:ex|su|sp|ex or su|su or sp|sp or su|ex, su|su, sp|ex/su|su/sp)\)\s*$', re.I)
+# 結尾的 (Ex)／(Su)／(Sp)；通靈者靈體能力還會帶階級：(Lesser, Su)、(Supreme, Su)
+TYPE_SUF = re.compile(r'\s*\((?:(?:lesser|intermediate|greater|supreme),\s*)?'
+                      r'(?:ex|su|sp|ex or su|su or sp|sp or su|ex, su|su, sp|ex/su|su/sp)\)\s*$', re.I)
 
 
 def key(s):
-    """比對用的鍵：全半形、彎撇號、大小寫、多餘空白、結尾 (Ex)/(Su)/(Sp) 與 AoN 的 * 標記都不算差別。"""
+    """比對用的鍵：全半形、彎撇號、連字號、大小寫、多餘空白、結尾 (Ex)/(Su)/(Sp) 與 AoN 的 * 標記都不算差別。
+
+    連字號當空白：Foundry `Jack of All Trades`／AoN `Jack-of-All-Trades`；撇號前的空白拿掉：AoN `Thief ’s Soul`。
+    """
     s = unicodedata.normalize('NFKC', html.unescape(str(s)))
     s = s.replace('’', "'").replace('‘', "'").replace('–', '-').replace('—', '-')
-    s = TYPE_SUF.sub('', s).replace('*', '')
-    return ' '.join(s.split()).lower().strip(' :')
+    s = TYPE_SUF.sub('', s).replace('*', '').replace('-', ' ')
+    return re.sub(r" +'", "'", ' '.join(s.split())).lower().strip(' :')
 
 
 # ---------------------------------------------------------------- AoN 端
@@ -98,6 +104,10 @@ SKIP_HEAD = {'source', 'prerequisites', 'prerequisite', 'benefit', 'benefits', '
              'base power', 'resonant power', 'implements', 'phrenic pool ability',
              'discipline powers', 'discipline spells', 'skills', 'patron spells', 'curse'}
 # 標題裡常夾 PFS 圖示 <img> 或連結 <a>，所以中間允許標籤，取出來再脫
+# 職業頁只濾表頭類的字；「Bonus Feats」「Focus Powers」「Hexes」在職業頁上是真的職業能力
+SKIP_CLASS = {'source', 'prerequisites', 'prerequisite', 'benefit', 'benefits', 'level', 'special',
+              'class skills', 'weapon and armor proficiency', 'spells per day', 'description',
+              'requirements', 'note', 'notes'}
 HEAD_RE = re.compile(r'<b>((?:(?!</?b>).){2,200}?)</b>|<i>([^<]{2,80})</i>\s*:|<h[2-4][^>]*>(.{2,300}?)</h[2-4]>',
                      re.I | re.S)
 
@@ -118,13 +128,32 @@ def heads(seg, detail=False):
     for m in HEAD_RE.finditer(seg):
         n = _strip(next(g for g in m.groups() if g)).strip(' :')
         n = re.sub(r'\s*\((?:minor|major)\)$', '', n, flags=re.I)   # 祝福的大小能力
-        if n and len(n) <= 80 and key(n) not in SKIP_HEAD and not re.search(r'\bpg\.\s*\d', n):
+        if n and len(n) <= 80 and key(n) not in (SKIP_HEAD if detail else SKIP_CLASS) \
+                and not re.search(r'\bpg\.\s*\d|Class Details', n):
             out.append(n)
     return out
 
 
 FAMILY_WORDS = {'bloodline', 'bloodrager', 'blessing', 'domain', 'subdomain', 'mystery', 'spirit',
                 'school', 'patron', 'oath', 'discipline', 'focus', 'arcane'}
+
+
+def list_page(body, v, url, add):
+    """一頁寫完整個家族的清單頁：h2 是上層（去掉家族字），其下的粗體／斜體是它的能力。"""
+    body = INNER_TABLE.sub(lambda m: '' if re.search(r'<th\b', m.group(0), re.I) else m.group(0), body)
+    parent = ''
+    for m in HEAD_RE.finditer(body):
+        n = re.sub(r'\s*\((?:minor|major)\)$', '', _strip(next(g for g in m.groups() if g)).strip(' :'), flags=re.I)
+        if m.group(3) is not None:
+            words = n.split()
+            while words and words[-1].lower() in FAMILY_WORDS | {'inquisition'}:
+                words.pop()
+            parent = ' '.join(words)
+            continue
+        if parent and n and len(n) <= 80 and key(n) not in SKIP_HEAD | {'spirit bonus', 'seance boon',
+                                                                        'favored locations', 'influence penalty',
+                                                                        'taboos', 'granted powers'}:
+            add(n, v['family'] + ' 能力', v['classes'], url, parent=parent)
 
 
 def load_aon():
@@ -166,6 +195,9 @@ def load_aon():
             classes = v.get('classes', [])
             if v.get('extra'):   # 職業選項索引沒收的上層（奧術學派），本身也算一條
                 add(v['url_name'], v['family'], classes, url)
+            if v.get('list'):
+                list_page(body, v, url, add)
+                continue
             own = key(v['url_name'])
             for n in heads(body, detail=True):
                 k = key(n)
@@ -205,28 +237,28 @@ def r_same(n):
 
 
 def r_abbr(n):
-    """去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，限忍者"""
+    """去掉結尾的職業縮寫：`Evasion (NIN)` → `Evasion`，只認忍者頁上的那條"""
     m = re.fullmatch(r'(.+?) \(([A-Za-z]{2,3})\)', n)
     if m and m.group(2).upper() in ABBR:
         yield m.group(1), ABBR[m.group(2).upper()], None, None
 
 
 def r_uc(n):
-    """去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，限掉鏈子職業"""
+    """去掉 `(UC)`（掉鏈子版）：`Ki Pool (UC)` → `Ki Pool`，只認掉鏈子職業的那條"""
     m = re.fullmatch(r'(.+?) \(UC\)(?: \((\d) pts?\))?', n)
     if m:
         yield m.group(1), ABBR['UC'], ('Evolution',) if m.group(2) else None, None
 
 
 def r_points(n):
-    """去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，限進化"""
+    """去掉幻靈進化的點數：`Bleed (1 pt)` → `Bleed`，只認進化"""
     m = re.fullmatch(r'(.+?) \((\d) pts?\)', n)
     if m:
         yield m.group(1), None, ('Evolution',), None
 
 
 def r_paren_family(n):
-    """去掉結尾括號裡的家族名：`Restriction (Stare)` → `Restriction`，限凝視"""
+    """去掉結尾括號裡的家族名：`Restriction (Stare)` → `Restriction`，只認凝視"""
     m = re.fullmatch(r'(.+?) \(([A-Za-z ]+)\)', n)
     if m and m.group(2).upper() not in ABBR and not re.fullmatch(r'\d pts?', m.group(2)):
         yield m.group(1), None, (m.group(2),), None
@@ -245,23 +277,42 @@ def r_inverted(n):
 # 名稱結尾的家族字 → AoN 家族名（`Efreeti Bloodline` 在 AoN 就叫 `Efreeti`，家族 Bloodline）
 FAMILY_SUFFIX = [
     ('Bloodrager Bloodline', ('Bloodrager Bloodline',)), ('Bloodline', ('Bloodline', 'Bloodrager Bloodline')),
-    ('Subdomain', ('Domain', 'Druid Domain')), ('Domain', ('Domain', 'Druid Domain')),
+    ('Resonant School', ('Implement School',)), ('Subdomain', ('Domain', 'Druid Domain')), ('Domain', ('Domain', 'Druid Domain')),
     ('Inquisition', ('Inquisition',)), ('Mystery', ('Mystery',)), ('Patron', ('Patron Spells', 'Unique Patron')),
     ('Spirit', ('Shaman Spirit', 'Medium Spirit')), ('Order', ('Order',)), ('Blessing', ('Blessing',)),
     ('Discipline', ('Psychic Discipline',)), ('Oath', ('Oath',)), ('Curse', ('Oracle Curse',)),
-    ('Focus', ('Emotional Focus', 'Animal Focus')), ('School', ('Implement School', 'Variant School')),
+    ('Focus', ('Emotional Focus', 'Animal Focus')),
+    ('School', ('Arcane School', 'Implement School', 'Variant School')),
     ('Element', ('Kineticist Element',)), ('Aspect', ('Shifter Aspect', 'Ward Aspect')),
-    ('Infusion', ('Wild Talent',)),   # Foundry 的注能都加了 Infusion：`Force Hook Infusion` → `Force Hook`
-    ('Subschool', ('Arcane School 能力',)),
+    ('Infusion', ('Wild Talent',)), ('Hex', ('Hex', 'Shaman Hex')),   # Foundry 的注能都加了 Infusion：`Force Hook Infusion` → `Force Hook`
 ]
 
 
 def r_family_suffix(n):
-    """去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`（血統）、`Force Hook Infusion` → `Force Hook`（念力天賦）"""
+    """去掉結尾的家族字：`Efreeti Bloodline` → `Efreeti`、`Force Hook Infusion` → `Force Hook`、`Flight Hex` → `Flight`"""
     for suf, fams in FAMILY_SUFFIX:
         if n.endswith(' ' + suf) and len(n) > len(suf) + 1:
             yield n[:-len(suf) - 1], None, fams, None
             return
+
+
+def r_bomb(n):
+    """炸彈發現：Foundry `Anarchic Bomb`，AoN `Anarchic Bombs`"""
+    if n.endswith(' Bomb'):
+        yield n + 's', None, ('Discovery',), None
+
+
+def r_subschool(n):
+    """子學派：Foundry 寫 `Foresight Subschool`，AoN 寫 `Foresight School`"""
+    if n.endswith(' Subschool'):
+        yield n[:-len('Subschool')] + 'School', None, ('Arcane School 能力',), None
+
+
+def r_paren_parent(n):
+    """結尾括號是上層名：`Elemental Movement (Earth)` → 上層 Earth 底下的 `Elemental Movement`"""
+    m = re.fullmatch(r'(.+?) \(([A-Za-z ]+)\)', n)
+    if m and m.group(2).upper() not in ABBR and not re.fullmatch(r'\d pts?', m.group(2)):
+        yield m.group(1), None, None, m.group(2)
 
 
 def r_parent_generic(n):
@@ -293,8 +344,8 @@ def r_prefix(n):
         yield m.group(2), None, fams, parent
 
 
-RULES = [r_same, r_abbr, r_uc, r_points, r_paren_family, r_inverted, r_family_suffix, r_parent_generic,
-         r_abbr_parent, r_prefix]
+RULES = [r_same, r_abbr, r_uc, r_points, r_paren_family, r_paren_parent, r_inverted, r_family_suffix,
+         r_subschool, r_bomb, r_parent_generic, r_abbr_parent, r_prefix]
 
 
 def rule_doc(f):
@@ -336,11 +387,18 @@ def _is_uc(c):
     return bool(c['classes']) and all('Unchained' in x for x in c['classes'])
 
 
+def tag_parents(tags):
+    """Foundry 標籤裡的上層名（`Battle Mystery` → battle）。"""
+    return {key(re.sub(r' (?:Mystery|Domain|Subdomain|Bloodline|Blessing|Spirit|School|Order|Inquisition|'
+                       r'Patron|Discipline)$', '', tg)) for tg in tags or ()}
+
+
 def narrow(name, cands, want, tags, notes):
     """同名不只一條時，用 Foundry 這邊看得到的線索收窄；收不窄就原樣回去（報「多筆」）。
 
     一、掉鏈子：名稱帶 (UC) 留掉鏈子版；沒帶、而且所屬職業有原版職業的，留原版
-    二、標籤：Foundry 標了「Rogue Talent」「Alchemist Discovery」的，留家族名有同一個字的
+    二、標籤寫了上層（`Battle Mystery`）的，留那個上層底下的
+    三、標籤：Foundry 標了「Rogue Talent」「Alchemist Discovery」的，留家族名有同一個字的
         （`Mutagen` 標了鍊金發現就是發現那條，不是職業頁的突變劑）；沒有標籤的留職業頁那條
     """
     uc = '(UC)' in name or (want and all('Unchained' in w for w in want))
@@ -353,6 +411,13 @@ def narrow(name, cands, want, tags, notes):
     if keep and len(keep) < len(cands):
         notes.append('AoN 另有' + ('原版' if uc else '掉鏈子版') + '同名條目，已排除')
         cands = keep
+    if len(cands) > 1 and tags:
+        # 天啟、領域能力：Foundry 標籤寫了上層（`Battle Mystery`），留上層同名的那條
+        ups = tag_parents(tags)
+        keep = [c for c in cands if c['parent'] and key(c['parent']) in ups]
+        if keep and len(keep) < len(cands):
+            notes.append('照 Foundry 標籤的上層挑（' + '、'.join(tags) + '）')
+            cands = keep
     if len(cands) > 1 and tags is not None:   # 不在現行 pf1-data 的舊鍵看不到標籤，不挑
         words = {w.lower() for tg in tags for w in re.findall(r'[A-Za-z]+', tg)} - {'of', 'the'}
         if words:
@@ -365,13 +430,17 @@ def narrow(name, cands, want, tags, notes):
     return cands
 
 
-def shared(cands, want):
+def shared(cands, want, tags=()):
     """同一個名稱掛在好幾個職業頁、每個職業 Foundry 都有列：Foundry 一條共用，AoN 各頁各一份。
-    子領域（與其能力）也算：AoN 在它所屬的兩個領域頁各列一次。"""
+    子領域（與其能力）也算：AoN 在它所屬的兩個領域頁各列一次。
+    好幾個上層共有的能力也算（`Combat Healer` 屬於 Battle、Life、Succor 三個秘示域，Foundry 標籤三個都列）。"""
     if len(cands) < 2 or len({c['key'] for c in cands}) > 1:
         return False
     if all(c['family'] == 'Domain 能力' for c in cands):
         return True   # 子領域在每個所屬領域的頁面都列一次，內文相同
+    ups = tag_parents(tags)
+    if all(c['parent'] and key(c['parent']) in ups for c in cands):
+        return True   # 好幾個秘示域共有的天啟：Foundry 標籤正好列了這幾個上層
     if not want:
         return False
     seen = set()
@@ -476,8 +545,11 @@ def _pf1():
 EXTRA_LISTS = [
     ('WizardSchools.aspx', r'SchoolDisplay\.aspx\?ItemName=', 'Arcane School', ['Wizard'], True),
     ('CavalierOrders.aspx', r'CavalierOrders\.aspx\?ItemName=', 'Order', ['Cavalier', 'Samurai'], False),
-    ('Inquisitions.aspx', r'Inquisitions\.aspx\?ItemName=', 'Inquisition', ['Inquisitor', 'Cleric'], False),
-    ('MediumSpirits.aspx', r'MediumSpirits\.aspx\?ItemName=', 'Medium Spirit', ['Medium'], False),
+]
+# 沒有個別詳情頁、整個家族寫在一頁的：能力的上層是它前面最近的 h2 標題（`Anger Inquisition`、`Archmage`）
+LIST_PAGES = [
+    ('Inquisitions.aspx', 'Inquisition', ['Inquisitor', 'Cleric']),
+    ('MediumSpirits.aspx', 'Medium Spirit', ['Medium']),
 ]
 
 
@@ -525,6 +597,13 @@ def fetch():
             if not p.exists():
                 p.write_text(pf1.fetch(AON + url)[0], encoding='utf-8')
                 print('詳情頁', url, flush=True)
+    for lst, fam, cls in LIST_PAGES:
+        fn = '_list__' + lst.replace('.aspx', '.html')
+        idx[lst] = dict(family=fam, url_name='', classes=cls, file=fn, list=True)
+        p = DETAIL_DIR / fn
+        if not p.exists():
+            p.write_text(pf1.fetch(AON + lst)[0], encoding='utf-8')
+            print('清單頁', lst, flush=True)
     (DETAIL_DIR / '_index.json').write_text(json.dumps(idx, ensure_ascii=False, indent=1), encoding='utf-8')
 
 
@@ -545,7 +624,7 @@ def baseline(recs_opt, fv_names):
     return got
 
 
-COLS = ['Foundry 名', '轉換後名', 'AoN 頁', 'AoN 家族', '規則', '信心', 'idmap 原本',
+COLS = ['Foundry 名', '轉換後名', 'AoN 頁', 'AoN 家族', '規則', '信心', '現行規則',
         'CHM', 'CHM 頁', 'CHM 夾註（參考，未接）', '現有名稱', '備註']
 
 
@@ -568,13 +647,13 @@ def main():
         cur = ent[name].get('name', '')
         row['現有名稱'] = cur if cjk.search(cur) else ''
         if base is not None:
-            row['idmap 原本'] = '對得到' if ' '.join(name.replace('’', "'").split()).lower() in base else '對不到'
+            row['現行規則'] = '對得到' if ' '.join(name.replace('’', "'").split()).lower() in base else '對不到'
         if not cands:
             row['信心'] = '—'
-            row['備註'] = '；'.join(notes) or why_not(name, fv)
+            row['備註'] = '；'.join(notes + [why_not(name, fv, by_key)])
         else:
             c0 = cands[0]
-            row['轉換後名'] = '｜'.join(dict.fromkeys(TYPE_SUF.sub('', c['name']) for c in cands))
+            row['轉換後名'] = '｜'.join(dict.fromkeys(TYPE_SUF.sub('', c['name']).rstrip('*') for c in cands))
             row['AoN 頁'] = '｜'.join(dict.fromkeys(c['url'] for c in cands))
             row['AoN 家族'] = '｜'.join(dict.fromkeys(
                 c['family'] + (f"（{c['parent']}）" if c['parent'] else '') for c in cands))
@@ -585,7 +664,7 @@ def main():
                     notes.append('AoN 只在原版職業頁找到（Foundry 標的是掉鏈子版），要人看')
                 row['信心'] = '高' if direct else '中'
             else:
-                row['信心'] = '共用' if shared(cands, has_cls) else '多筆'
+                row['信心'] = '共用' if shared(cands, has_cls, fv.get(name, {}).get('tags')) else '多筆'
             if len(cands) == 1:
                 st, pg, zh = chm_status(c0['name'], c0['classes'], chm)
                 row['CHM'], row['CHM 頁'], row['CHM 夾註（參考，未接）'] = st, pg, zh
@@ -602,15 +681,20 @@ def main():
     print(OUT)
 
 
-def why_not(name, fv):
-    if name not in fv:
-        return '現行 pf1-data 沒有這個名稱，AoN 也找不到同名'
-    return 'AoN 名冊裡找不到'
+def why_not(name, fv, by_key):
+    """對不到的原因，附 AoN 最像的名稱給人看（只當線索，不自動採用：拼字差一兩個字母也可能是兩條不同能力）。"""
+    import difflib
+    msg = 'AoN 名冊裡找不到' if name in fv else '現行 pf1-data 沒有這個名稱，AoN 也找不到'
+    base = re.sub(r'(?: \([^)]*\))+$', '', name)
+    near = difflib.get_close_matches(key(base), list(by_key), n=1, cutoff=0.85)
+    if near:
+        msg += f'；最像的 AoN 名稱：{TYPE_SUF.sub("", by_key[near[0]][0]["name"])}'
+    return msg
 
 
 def summary(rows):
     print(f'合集包職業能力 {len(rows)} 條')
-    for scope, rs in (('全部', rows), ('idmap 原本對不到', [r for r in rows if r['idmap 原本'] == '對不到'])):
+    for scope, rs in (('全部', rows), ('現行規則對不到', [r for r in rows if r['現行規則'] == '對不到'])):
         c = Counter(r['信心'] for r in rs)
         print(f'  {scope} {len(rs)}：' + '、'.join(f'{k} {c[k]}' for k in ('高', '中', '共用', '多筆', '—')))
         rc = Counter(r['規則'] for r in rs if r['信心'] in ('高', '中'))
