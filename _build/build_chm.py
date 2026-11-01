@@ -274,6 +274,7 @@ LOOKS_LIKE_HEADING = re.compile(r'^[^。：:，,；;\d]{1,30}?\s*[（(]?\s*[A-Z]
 
 # 一行短短的中文、沒有句讀（「巨人粉碎」「章魚專注（戰鬥）」「故事專長」）＝下一條或下一節的標題
 SHORT_TITLE = r'[㐀-鿿·]{1,12}(?:[（(][^）)]{0,8}[)）]?)?(?:\s*PFS\s*(?:不?可用?|X)?)?'
+RENAMED_LOG = []   # 最後一輪（CHM 改名）收進來的條目：(類別, 語言, 英文, 報表舊名, 標題新名)，main() 寫進 _build/審核/
 OTHER_ZH = {}   # 報表裡各條的中文名 → 英文名（main() 逐語言填）：結尾一行剛好是別條的中文名＝下一條的標題
 
 
@@ -383,7 +384,21 @@ def extract(tree, links, names):
         x = _extract(tree, links, names, loose)
         if x:
             return x
-    return None
+    # 最後一輪（2026-11-01）：CHM 改了譯名、錨點報表還是舊名（v3.0.4 照 10/20 裁定改 Minor＝次級、Law＝守序、Style＝流）。
+    # 英文名完全相符、只差中文名時收，名稱改用 CHM 標題上的新名（meta['renamed']，main() 換掉）。放最後，前兩輪挑得到的不受影響
+    return _extract(tree, links, names, False, renamed=True)
+
+
+RENAMED = re.compile(r'^\s*([㐀-鿿][㐀-鿿·・]{0,15})\s*[（(]?\s*%s\s*[)）]?%s\s*$')
+
+
+def heading_renamed(head, en):
+    """標題是「別的中文名 (本條英文名)」時回那個中文名，否則 None。"""
+    t = text(head).replace('　', ' ').strip()
+    if re.search(r'神話|神话|mythic', t, re.I) and not re.search(r'mythic', en, re.I):
+        return None
+    m = re.match(RENAMED.pattern % (re.escape(en), TAGS), t, re.I)
+    return m.group(1) if m else None
 
 
 FLAVOR = re.compile(r'^[㐀-鿿][^：:；;，,]*?[。！!]?$|^[㐀-鿿][^：:；;]*[。！!]$')
@@ -411,7 +426,7 @@ def split_flavor(x, en, zh):
     return None
 
 
-def _extract(tree, links, names, loose):
+def _extract(tree, links, names, loose, renamed=False):
     en, zh = names
     cands = []
     # 報表用空格分隔多個連結，但法術頁檔名本身有空格（Spell CRB.html），照「…html#錨點」的形狀切
@@ -419,7 +434,10 @@ def _extract(tree, links, names, loose):
         x = extract_one(tree, link, loose)
         if loose and x and x[1] and not heading_is(x[0], en, zh, True):
             x = split_flavor(x, en, zh) or x
-        if x and x[1] and heading_is(x[0], en, zh, loose):
+        new = renamed and x and x[1] and heading_renamed(x[0], en)
+        if new:
+            x[2]['renamed'] = new
+        if x and x[1] and (new or (not renamed and heading_is(x[0], en, zh, loose))):
             raw = trim_next_entry(x[1])
             # 排序看切尾巴之前的內文：drop_tail_heading() 只修內容，不該改變挑哪一頁
             body = drop_tail_heading(raw, en, zh) if CFG.get('tidy_tail') else raw
@@ -678,6 +696,10 @@ def main():
                     stats[f'{kind} {lang} 沒有可用的定義處'] += 1
                     continue
                 head, body, meta = x
+                if meta.get('renamed'):
+                    stats[f'{kind} {lang} CHM 改名（報表舊名→標題新名）'] += 1
+                    RENAMED_LOG.append((kind, lang, en, zh, meta['renamed']))
+                    zh = meta['renamed']
                 body = cut_from(en, body)
                 if '／' in zh:   # 報表的中文名有時是幾個候選串起來的，取標題裡實際出現的那個
                     ht = text(head)
@@ -745,6 +767,12 @@ def main():
         (HERE / 'chm_entries.json').write_text(
             json.dumps(record, ensure_ascii=False, indent=1, sort_keys=True) + '\n', encoding='utf-8')
         print('來源紀錄 →', HERE / 'chm_entries.json')
+        if RENAMED_LOG:   # 改名收進來的要人看過：英文同名、中文不同的也可能是地區書改寫版
+            p = HERE / '審核' / 'CHM改名收錄.tsv'
+            p.parent.mkdir(exist_ok=True)
+            p.write_text('類別\t語言\t英文\t報表舊名\tCHM 標題新名\n'
+                         + ''.join('\t'.join(r) + '\n' for r in RENAMED_LOG), encoding='utf-8')
+            print('CHM 改名收錄 →', p)
 
 
 if __name__ == '__main__':
