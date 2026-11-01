@@ -1,0 +1,172 @@
+{
+  "label": "模板能力",
+  "folders": {
+    "Animal Lord": "獸王",
+    "Celestial": "天界生物",
+    "Entropic": "熵化生物模板",
+    "Fey Creature": "精類生物",
+    "Fiendish": "魔族生物模板",
+    "Foo Creature": "福獸",
+    "Ghost": "幽魂",
+    "Graveknight": "死墓騎士",
+    "Jiang-Shi": "殭屍",
+    "Lich": "巫妖",
+    "Ravener": "掠劫亡龍",
+    "Resolute": "絕對生物模板",
+    "Vampire": "吸血鬼",
+    "Worm that Walks": "蠕蟲行者",
+    "Zombie": "喪屍"
+  },
+  "entries": {
+    "07oHIjzqmAhroY6y": {
+      "name": "復生（Rejuvenation）"
+    },
+    "7OTFbD9OXXSdFd3Y": {
+      "name": "傷害減免（Damage Reduction）"
+    },
+    "Blood Drain": {
+      "name": "吸血（Blood Drain）"
+    },
+    "Blood Drain (Penanggalen)": {
+      "name": "吸血（Blood Drain (Penanggalen)）"
+    },
+    "Breath Weapon (Ravener)": {
+      "name": "噴吐武器（Breath Weapon (Ravener)）"
+    },
+    "Camouflage": {
+      "name": "偽裝（Camouflage）"
+    },
+    "Children of the Night": {
+      "name": "夜之子（Children of the Night）"
+    },
+    "Corrupting Gaze": {
+      "name": "腐化凝視（Corrupting Gaze）"
+    },
+    "Corrupting Touch": {
+      "name": "腐化之觸（Corrupting Touch）"
+    },
+    "Discorporate": {
+      "name": "解體（Discorporate）"
+    },
+    "Disease": {
+      "name": "疾病（Disease）"
+    },
+    "Dominate": {
+      "name": "支配（Dominate）"
+    },
+    "Dominion": {
+      "name": "領地之力（Dominion）"
+    },
+    "Draining Touch": {
+      "name": "耗盡之觸（Draining Touch）"
+    },
+    "Energy Drain": {
+      "name": "能量吸取（Energy Drain）"
+    },
+    "Energy Resistance": {
+      "name": "能量抵抗（Energy Resistance）"
+    },
+    "Evasion": {
+      "name": "反射閃避（Evasion）"
+    },
+    "FX7luSAlUPL0zDHs": {
+      "name": "改變形態（Change Shape）"
+    },
+    "Fast Healing": {
+      "name": "快速治療（Fast Healing）"
+    },
+    "Fear Aura": {
+      "name": "恐懼靈氳（Fear Aura）"
+    },
+    "Freeze": {
+      "name": "靜止（Freeze）"
+    },
+    "G4kaLOlyrNrKK0AS": {
+      "name": "復生（Rejuvenation）"
+    },
+    "Gaseous Form": {
+      "name": "氣化形體（Gaseous Form）"
+    },
+    "Hearty": {
+      "name": "強體（Hearty）"
+    },
+    "Immunities": {
+      "name": "免疫（Immunities）"
+    },
+    "Immunity": {
+      "name": "免疫（Immunity）"
+    },
+    "Malevolence": {
+      "name": "附身（Malevolence）"
+    },
+    "Prayer Scroll": {
+      "name": "護屍符（Prayer Scroll）"
+    },
+    "Rk7DNDyGZLvBvEUe": {
+      "name": "創造衍體（Create Spawn）"
+    },
+    "Sacrilegious Aura": {
+      "name": "褻瀆靈氳（Sacrilegious Aura）"
+    },
+    "Shadowless": {
+      "name": "無影（Shadowless）"
+    },
+    "Smite Chaos": {
+      "name": "制裁混亂（Smite Chaos）"
+    },
+    "Smite Evil": {
+      "name": "制裁邪惡（Smite Evil）"
+    },
+    "Smite Good": {
+      "name": "制裁善良（Smite Good）"
+    },
+    "Smite Law": {
+      "name": "制裁秩序（Smite Law）"
+    },
+    "Spell Resistance": {
+      "name": "法術抗力（Spell Resistance）"
+    },
+    "Staggered": {
+      "name": "恍惚（Staggered）"
+    },
+    "Telekinesis": {
+      "name": "心靈遙控（Telekinesis）"
+    },
+    "Thick Skin": {
+      "name": "厚皮（Thick Skin）"
+    },
+    "Touch Attack (Lich)": {
+      "name": "接觸攻擊（Touch Attack (Lich)）"
+    },
+    "Trackless Step": {
+      "name": "無蹤步（Trackless Step）"
+    },
+    "Undead Mastery": {
+      "name": "控制不死生物（Undead Mastery）"
+    },
+    "Vanish": {
+      "name": "漸隱術（Vanish）"
+    },
+    "Wither": {
+      "name": "枯萎（Wither）"
+    },
+    "Woodland Stride": {
+      "name": "穿林步（Woodland Stride）"
+    },
+    "Xh0VWNsmO5Gm7U5E": {
+      "name": "傷害減免（Damage Reduction）"
+    },
+    "YBursVLw25ljmNkQ": {
+      "name": "復生（Rejuvenation）"
+    },
+    "pVrzlP0nPShbuPmR": {
+      "name": "改變形態（Change Shape）"
+    },
+    "qSN6gwPwk1bzZ5kU": {
+      "name": "創造衍體（Create Spawn）"
+    },
+    "tF4zvrr6K89kUR5A": {
+      "name": "改變形態（Change Shape）"
+    }
+  }
+}

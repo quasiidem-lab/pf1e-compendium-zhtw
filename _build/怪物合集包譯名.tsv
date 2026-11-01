@@ -1,0 +1,336 @@
+﻿合集包	英文	鍵	譯名	來源	說明	上游寫法	CHM寫法	既有對照檔寫法	代號
+怪物模板	Advanced (Quick)	Advanced (Quick)	進化生物模板	上游	CHM 有「進化生物」10 處	進化生物模板			monster-templates
+怪物模板	Advanced (Rebuild)	Advanced (Rebuild)	進化生物模板	上游	CHM 有「進化生物」10 處	進化生物模板			monster-templates
+怪物模板	Aerial	Aerial	氣流生物	CHM	與CHM、上游一致	氣流生物	氣流生物		monster-templates
+怪物模板	Alebrije	Alebrije			只有上游有譯名，CHM 找不到這個詞	阿萊布里赫			monster-templates
+怪物模板	Alter Ego	Alter Ego			只有上游有譯名，CHM 找不到這個詞	另我化身			monster-templates
+怪物模板	Animal Lord	Animal Lord	獸王	上游	CHM 有這個詞（34 處）	獸王			monster-templates
+怪物模板	Animus Shade	Animus Shade			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	復仇之影			monster-templates
+怪物模板	Aqueous	Aqueous	水流生物	CHM	與CHM、上游一致	水流生物	水流生物		monster-templates
+怪物模板	Barbarian (Quick)	Barbarian (Quick)	野蠻人模板	上游	職業名與 CHM 一致	野蠻人模板	野蠻人	野蠻人	monster-templates
+怪物模板	Barbarian (Rebuild)	Barbarian (Rebuild)	野蠻人模板	上游	職業名與 CHM 一致	野蠻人模板	野蠻人	野蠻人	monster-templates
+怪物模板	Bard (Quick)	Bard (Quick)	吟遊詩人模板	上游	職業名與 CHM 一致	吟遊詩人模板	吟遊詩人	吟遊詩人	monster-templates
+怪物模板	Bard (Rebuild)	Bard (Rebuild)	吟遊詩人模板	上游	職業名與 CHM 一致	吟遊詩人模板	吟遊詩人	吟遊詩人	monster-templates
+怪物模板	Black-Blooded (3.5)	Black-Blooded (3.5)			只有上游有譯名，CHM 找不到這個詞	黑血生物			monster-templates
+怪物模板	Blighted Fey	Blighted Fey			只有上游有譯名，CHM 找不到這個詞	荒疫化精類			monster-templates
+怪物模板	Boreal	Boreal			CHM 的「極寒血統（Boreal）」是術士血統，不是這個模板；上游「極寒生物」CHM 沒出現	極寒生物	極寒血統		monster-templates
+怪物模板	Broken Soul	Broken Soul			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	破碎之魂			monster-templates
+怪物模板	Calcified	Calcified			只有上游有譯名，CHM 找不到這個詞	鈣化生物			monster-templates
+怪物模板	Celestial	Celestial	天界生物	上游	CHM「天界生物」45 處、「天界模板」35 處	天界生物			monster-templates
+怪物模板	Child of Yog-Sothoth	Child of Yog-Sothoth			只有上游有譯名，CHM 找不到這個詞	猶格·索托斯之子			monster-templates
+怪物模板	Chthonic	Chthonic	地層生物	CHM	與CHM、上游一致	地層生物	地層生物		monster-templates
+怪物模板	Cleric (Quick)	Cleric (Quick)	牧師模板	上游	職業名與 CHM 一致	牧師模板	牧師	牧師	monster-templates
+怪物模板	Cleric (Rebuild)	Cleric (Rebuild)	牧師模板	上游	職業名與 CHM 一致	牧師模板	牧師	牧師	monster-templates
+怪物模板	Colour-Blighted	Colour-Blighted			只有上游有譯名，CHM 找不到這個詞	輻光生物			monster-templates
+怪物模板	Commando Construct	Commando Construct	先鋒構裝	上游	CHM 有這個詞（39 處）	先鋒構裝			monster-templates
+怪物模板	Counterpoised	Counterpoised	均衡生物	上游	CHM 有這個詞（5 處）	均衡生物			monster-templates
+怪物模板	Cytillesh Zombie	Cytillesh Zombie			只有上游有譯名，CHM 找不到這個詞	碧幻菌喪屍			monster-templates
+怪物模板	Dark Ice (3.5)	Dark Ice (3.5)			只有上游有譯名，CHM 找不到這個詞	黑冰生物			monster-templates
+怪物模板	Dark	Dark	黑暗生物	CHM	與CHM、上游一致	黑暗生物	黑暗生物		monster-templates
+怪物模板	Deep Creature (Quick)	Deep Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	深潛者化生物			monster-templates
+怪物模板	Deep Creature (Rebuild)	Deep Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	深潛者化生物			monster-templates
+怪物模板	Degenerate (Quick)	Degenerate (Quick)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	退化生物			monster-templates
+怪物模板	Degenerate (Rebuild)	Degenerate (Rebuild)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	退化生物			monster-templates
+怪物模板	Demonic Vermin	Demonic Vermin			只有上游有譯名，CHM 找不到這個詞	惡魔化蟲類			monster-templates
+怪物模板	Devilbound (Accuser)	Devilbound (Accuser)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Barbed, Bearded, Host)	Devilbound (Barbed, Bearded, Host)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Belier, Contract, Handmaiden)	Devilbound (Belier, Contract, Handmaiden)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Bone, Ice)	Devilbound (Bone, Ice)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Drowning, Horned)	Devilbound (Drowning, Horned)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Erinyes)	Devilbound (Erinyes)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Immolation)	Devilbound (Immolation)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Imp)	Devilbound (Imp)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Devilbound (Nemesis, Pit Fiend)	Devilbound (Nemesis, Pit Fiend)			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	魔契生物			monster-templates
+怪物模板	Divine Guardian	Divine Guardian			CHM「神能守衛」「神衛」各 1 處，上游「神聖守護者」，三種寫法	神聖守護者	衛		monster-templates
+怪物模板	Dread Lord	Dread Lord	恐懼領主	上游	CHM 有這個詞（38 處）	恐懼領主			monster-templates
+怪物模板	Dream Eater	Dream Eater			只有上游有譯名，CHM 找不到這個詞	食夢者			monster-templates
+怪物模板	Dreamspawn	Dreamspawn			只有上游有譯名，CHM 找不到這個詞	夢裔生物			monster-templates
+怪物模板	Druid (Quick)	Druid (Quick)	德魯伊模板	上游	職業名與 CHM 一致	德魯伊模板	德魯伊	德魯伊	monster-templates
+怪物模板	Druid (Rebuild)	Druid (Rebuild)	德魯伊模板	上游	職業名與 CHM 一致	德魯伊模板	德魯伊	德魯伊	monster-templates
+怪物模板	Echohusk	Echohusk			只有上游有譯名，CHM 找不到這個詞	迴響空殼			monster-templates
+怪物模板	Ectoplasmic	Ectoplasmic	靈質態	CHM	與CHM、上游一致	靈質態	靈質態		monster-templates
+怪物模板	Elemental-Infused Creature	Elemental-Infused Creature			只有上游有譯名，CHM 找不到這個詞	元素灌注生物			monster-templates
+怪物模板	Energized (Air, Fire)	Energized (Air, Fire)	注能魔像	上游	CHM 有這個詞（24 處）	注能魔像			monster-templates
+怪物模板	Energized (Earth, Water)	Energized (Earth, Water)	注能魔像	上游	CHM 有這個詞（24 處）	注能魔像			monster-templates
+怪物模板	Enlightened Construct	Enlightened Construct	啟迪構裝	上游	CHM 有這個詞（37 處）	啟迪構裝			monster-templates
+怪物模板	Entothrope	Entothrope			只有上游有譯名，CHM 找不到這個詞	蟲化人緒論			monster-templates
+怪物模板	Entropic	Entropic	熵化生物模板	上游	CHM「熵化生物」8 處	熵化生物模板			monster-templates
+怪物模板	Eruphyte	Eruphyte			只有上游有譯名，CHM 找不到這個詞	思湧植物			monster-templates
+怪物模板	Exoskeleton	Exoskeleton			CHM 有「外骨骼（Exoskeleton）」1 處但不確定是不是這個模板；上游「蟲骸」CHM 沒出現	蟲骸	外骨骼		monster-templates
+怪物模板	Failed Prophet	Failed Prophet			只有上游有譯名，CHM 找不到這個詞	失敗先知			monster-templates
+怪物模板	Fey Animal	Fey Animal			只有上游有譯名，CHM 找不到這個詞	精化動物			monster-templates
+怪物模板	Fey Creature	Fey Creature	精類生物	CHM	CHM「精類生物模板（Fey Creature template）」；上游寫「精化生物」	精化生物	並附加精類生物模板		monster-templates
+怪物模板	Fey-Touched Creature	Fey-Touched Creature	精類印記生物	CHM	與CHM、上游一致	精類印記生物	精類印記生物		monster-templates
+怪物模板	Fiend-Infused	Fiend-Infused			只有上游有譯名，CHM 找不到這個詞	煉獄灌注魔像			monster-templates
+怪物模板	Fiendish	Fiendish	魔族生物模板	上游	⚠ CHM 兩種寫法：「煉獄模板（Fiendish）」54 處、「魔族生物」39 處；用上游決勝	魔族生物模板	煉獄模板		monster-templates
+怪物模板	Fiery	Fiery	烈火生物	CHM	與CHM、上游一致	烈火生物	烈火生物		monster-templates
+怪物模板	Fighter (Quick)	Fighter (Quick)	戰士模板	上游	職業名與 CHM 一致	戰士模板	戰士	戰士	monster-templates
+怪物模板	Fighter (Rebuild)	Fighter (Rebuild)	戰士模板	上游	職業名與 CHM 一致	戰士模板	戰士	戰士	monster-templates
+怪物模板	Fleshwarped Creature (Quick)	Fleshwarped Creature (Quick)			只有上游有譯名；CHM 有這個詞（2 處）但看不出是指同一個東西	塑肉生物			monster-templates
+怪物模板	Fleshwarped Creature (Rebuild)	Fleshwarped Creature (Rebuild)			只有上游有譯名；CHM 有這個詞（2 處）但看不出是指同一個東西	塑肉生物			monster-templates
+怪物模板	Floodslain	Floodslain			只有上游有譯名，CHM 找不到這個詞	洪災亡者			monster-templates
+怪物模板	Foo Creature	Foo Creature	福獸	CHM	CHM「福獸，福獅（Foo Creature）」，取第一個，與上游同	福獸	福獅		monster-templates
+怪物模板	Fungoid Creature	Fungoid Creature			只有上游有譯名，CHM 找不到這個詞	類真菌生物			monster-templates
+怪物模板	Ghost	Ghost	幽魂	CHM	與CHM、上游一致	幽魂	幽魂		monster-templates
+怪物模板	Ghoulish Creature (Quick)	Ghoulish Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	食屍鬼化生物			monster-templates
+怪物模板	Ghoulish Creature (Rebuild)	Ghoulish Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	食屍鬼化生物			monster-templates
+怪物模板	Giant (Quick)	Giant (Quick)	巨化生物	CHM	CHM「巨化生物 (Giant Creature, CR+1)」，與上游同	巨化生物	巨人語		monster-templates
+怪物模板	Giant (Rebuild)	Giant (Rebuild)	巨化生物	CHM	CHM「巨化生物 (Giant Creature, CR+1)」，與上游同	巨化生物	巨人語		monster-templates
+怪物模板	Giantkin Ogre	Giantkin Ogre	半巨人食人魔	上游	CHM 有這個詞（3 處）	半巨人食人魔			monster-templates
+怪物模板	Gnarled Creature (Quick)	Gnarled Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	扭曲生物			monster-templates
+怪物模板	Gnarled Creature (Rebuild)	Gnarled Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	扭曲生物			monster-templates
+怪物模板	Granule Construct Host	Granule Construct Host			只有上游有譯名，CHM 找不到這個詞	顆粒構裝體宿主			monster-templates
+怪物模板	Graveknight	Graveknight	死墓騎士	上游	CHM 有這個詞（2 處）	死墓騎士			monster-templates
+怪物模板	Guardian Spirit	Guardian Spirit			CHM「守護精魂」1 處，上游「守護靈」，對不上	守護靈	守護精魂		monster-templates
+怪物模板	Half-Celestial	Half-Celestial	半天界生物	上游	CHM 有這個詞（2 處）	半天界生物			monster-templates
+怪物模板	Half-Dragon	Half-Dragon	半龍生物	上游	CHM 有這個詞（1 處）	半龍生物			monster-templates
+怪物模板	Half-Fiend	Half-Fiend	半魔族生物	CHM	與CHM、上游一致	半魔族生物	半魔族生物		monster-templates
+怪物模板	Half-Janni	Half-Janni			只有上游有譯名，CHM 找不到這個詞	半小巨靈生物			monster-templates
+怪物模板	Haunted Construct	Haunted Construct			只有上游有譯名，CHM 找不到這個詞	鬼擾構裝體			monster-templates
+怪物模板	Haunted One	Haunted One			只有上游有譯名，CHM 找不到這個詞	鬼擾者			monster-templates
+怪物模板	Hell Engine	Hell Engine			只有上游有譯名，CHM 找不到這個詞	地獄引擎			monster-templates
+怪物模板	Hellbound Creature (Quick)	Hellbound Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	獄契生物			monster-templates
+怪物模板	Hellbound Creature (Rebuild)	Hellbound Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	獄契生物			monster-templates
+怪物模板	Hive Creature (Quick)	Hive Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	蜂巢生物			monster-templates
+怪物模板	Hive Creature (Rebuild)	Hive Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	蜂巢生物			monster-templates
+怪物模板	Hivemind Swarm	Hivemind Swarm			只有上游有譯名，CHM 找不到這個詞	巢智集群			monster-templates
+怪物模板	Id Mutant	Id Mutant			只有上游有譯名，CHM 找不到這個詞	本我突變體			monster-templates
+怪物模板	Implacable Stalker	Implacable Stalker	無情追獵者	上游	CHM 有這個詞（31 處）	無情追獵者			monster-templates
+怪物模板	Jiang-Shi	Jiang-Shi	殭屍	CHM	與CHM、上游一致	殭屍	殭屍		monster-templates
+怪物模板	Juju Zombie	Juju Zombie	巫毒殭屍	CHM	與CHM、上游一致	巫毒殭屍	巫毒殭屍		monster-templates
+怪物模板	Kanabo	Kanabo			只有上游有譯名，CHM 找不到這個詞	金棒			monster-templates
+怪物模板	Lich Creature (Quick)	Lich Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	巫妖生物			monster-templates
+怪物模板	Lich Creature (Rebuild)	Lich Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	巫妖生物			monster-templates
+怪物模板	Lich	Lich	巫妖	上游	CHM 有這個詞（100 處）	巫妖			monster-templates
+怪物模板	Lycanthrope	Lycanthrope	獸化人	CHM	與CHM、上游一致	獸化人	獸化人		monster-templates
+怪物模板	Lycanthropic Creature (Quick)	Lycanthropic Creature (Quick)			只有上游有譯名，CHM 找不到這個詞	獸化生物			monster-templates
+怪物模板	Lycanthropic Creature (Rebuild)	Lycanthropic Creature (Rebuild)			只有上游有譯名，CHM 找不到這個詞	獸化生物			monster-templates
+怪物模板	Man-Eating Animal	Man-Eating Animal			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	食人動物			monster-templates
+怪物模板	Mana Wastes Mutant	Mana Wastes Mutant			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	法力廢土變種人			monster-templates
+怪物模板	Middle Age (Age Category)	Middle Age (Age Category)	中年	CHM	與CHM、上游一致	中年	中年		monster-templates
+怪物模板	Mongrel Giant (Ash, Frost, River, Taiga)	Mongrel Giant (Ash, Frost, River, Taiga)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Mongrel Giant (Cave, Fire, Marsh, Mountain, Ocean, Slag, Storm)	Mongrel Giant (Cave, Fire, Marsh, Mountain, Ocean, Slag, Storm)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Mongrel Giant (Cliff, Cloud, Eclipse, Moon, Plague, Shadow, Sun, Tomb)	Mongrel Giant (Cliff, Cloud, Eclipse, Moon, Plague, Shadow, Sun, Tomb)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Mongrel Giant (Desert, Jungle, Wood)	Mongrel Giant (Desert, Jungle, Wood)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Mongrel Giant (Rune)	Mongrel Giant (Rune)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Mongrel Giant (Stone)	Mongrel Giant (Stone)			只有上游有譯名，CHM 找不到這個詞	混血巨人			monster-templates
+怪物模板	Monk (Quick)	Monk (Quick)	武僧模板	上游	職業名與 CHM 一致	武僧模板	武僧	武僧	monster-templates
+怪物模板	Monk (Rebuild)	Monk (Rebuild)	武僧模板	上游	職業名與 CHM 一致	武僧模板	武僧	武僧	monster-templates
+怪物模板	Mummified Animal	Mummified Animal			只有上游有譯名，CHM 找不到這個詞	木乃伊化動物			monster-templates
+怪物模板	Mummified Creature	Mummified Creature			只有上游有譯名，CHM 找不到這個詞	木乃伊化生物			monster-templates
+怪物模板	Mummy Lord	Mummy Lord			只有上游有譯名，CHM 找不到這個詞	木乃伊領主			monster-templates
+怪物模板	Mutant Goblin	Mutant Goblin			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	變異地精			monster-templates
+怪物模板	Mutant	Mutant	變種人	上游	CHM 有這個詞（13 處）	變種人			monster-templates
+怪物模板	Nightmare Creature	Nightmare Creature			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	夢魘生物			monster-templates
+怪物模板	Nosferatu	Nosferatu	諾斯費拉圖	CHM	CHM 9 處；上游多加「血族」	諾斯費拉圖血族	諾斯費拉圖		monster-templates
+怪物模板	Old (Age Category)	Old (Age Category)	老年	CHM	與CHM、上游一致	老年	老年		monster-templates
+怪物模板	Osirion Mummy	Osirion Mummy			只有上游有譯名，CHM 找不到這個詞	奧西里昂木乃伊			monster-templates
+怪物模板	Paladin (Quick)	Paladin (Quick)	聖武士模板	上游	職業名與 CHM 一致	聖武士模板	聖武士	聖騎士	monster-templates
+怪物模板	Paladin (Rebuild)	Paladin (Rebuild)	聖武士模板	上游	職業名與 CHM 一致	聖武士模板	聖武士	聖騎士	monster-templates
+怪物模板	Pallid Vector	Pallid Vector			只有上游有譯名，CHM 找不到這個詞	蒼白病媒			monster-templates
+怪物模板	Penanggalen	Penanggalen			只有上游有譯名，CHM 找不到這個詞	飛顱鬼			monster-templates
+怪物模板	Petitioner	Petitioner	祈並者	上游	CHM「祈並者」64 處	祈並者	作為祈並者		monster-templates
+怪物模板	Pickin Ogre	Pickin Ogre			只有上游有譯名，CHM 找不到這個詞	皮包骨食人魔			monster-templates
+怪物模板	Plagued Beast	Plagued Beast			只有上游有譯名，CHM 找不到這個詞	疫苦馬			monster-templates
+怪物模板	Pod-Spawned	Pod-Spawned			只有上游有譯名，CHM 找不到這個詞	莢生衍體			monster-templates
+怪物模板	Possessed Creature	Possessed Creature			只有上游有譯名；CHM 有這個詞（2 處）但看不出是指同一個東西	被附身生物			monster-templates
+怪物模板	Prana Ghost	Prana Ghost			只有上游有譯名，CHM 找不到這個詞	元氣幽魂			monster-templates
+怪物模板	Primordial	Primordial	原初生物	CHM	與CHM、上游一致	原初生物	原初生物		monster-templates
+怪物模板	Promethean Creature	Promethean Creature			只有上游有譯名，CHM 找不到這個詞	改造人生物			monster-templates
+怪物模板	Prophecy-Addled Creature	Prophecy-Addled Creature			只有上游有譯名，CHM 找不到這個詞	預言錯亂生物			monster-templates
+怪物模板	Psychic Lich	Psychic Lich			只有上游有譯名，CHM 找不到這個詞	異能巫妖			monster-templates
+怪物模板	Psychic Vampire	Psychic Vampire			只有上游有譯名，CHM 找不到這個詞	異能吸血鬼			monster-templates
+怪物模板	Psychoplasmic	Psychoplasmic			只有上游有譯名，CHM 找不到這個詞	異能質生物			monster-templates
+怪物模板	Rampant	Rampant			只有上游有譯名，CHM 找不到這個詞	瘋長生物			monster-templates
+怪物模板	Ranger (DEX)	Ranger (DEX)	遊俠模板	上游	職業名與 CHM 一致	遊俠模板	遊俠	遊俠	monster-templates
+怪物模板	Ranger (STR)	Ranger (STR)	遊俠模板	上游	職業名與 CHM 一致	遊俠模板	遊俠	遊俠	monster-templates
+怪物模板	Ravener	Ravener	掠劫亡龍	上游	CHM 有這個詞（3 處）	掠劫亡龍			monster-templates
+怪物模板	Recycled Construct	Recycled Construct	回收構裝體	上游	CHM 有這個詞（9 處）	回收構裝體			monster-templates
+怪物模板	Resolute	Resolute	絕對生物模板	上游	CHM「絕對生物」14 處	絕對生物模板		堅定決心	monster-templates
+怪物模板	Rogue	Rogue	盜賊模板	上游	職業名與 CHM 一致	盜賊模板	盜賊	遊蕩者	monster-templates
+怪物模板	Runeplated Construct	Runeplated Construct			只有上游有譯名，CHM 找不到這個詞	符文覆甲構裝體			monster-templates
+怪物模板	Runeslave	Runeslave			只有上游有譯名，CHM 找不到這個詞	符文奴隸			monster-templates
+怪物模板	Runewarped Creature	Runewarped Creature			只有上游有譯名，CHM 找不到這個詞	符文扭曲生物			monster-templates
+怪物模板	Sea-Sworn (3.5)	Sea-Sworn (3.5)			只有上游有譯名，CHM 找不到這個詞	海誓者			monster-templates
+怪物模板	Seeded	Seeded			只有上游有譯名，CHM 找不到這個詞	播種生物			monster-templates
+怪物模板	Shadow Animal	Shadow Animal			只有上游有譯名，CHM 找不到這個詞	陰影動物			monster-templates
+怪物模板	Shadow Creature	Shadow Creature	影化生物	上游	CHM 有這個詞（4 處）	影化生物			monster-templates
+怪物模板	Shadowbound Creature	Shadowbound Creature			只有上游有譯名，CHM 找不到這個詞	影契生物			monster-templates
+怪物模板	Shadowfire Creature	Shadowfire Creature			只有上游有譯名，CHM 找不到這個詞	陰影火焰生物			monster-templates
+怪物模板	Shaggra Ogre	Shaggra Ogre	長毛種食人魔	上游	CHM 有這個詞（2 處）	長毛種食人魔			monster-templates
+怪物模板	Siabrae	Siabrae			只有上游有譯名，CHM 找不到這個詞	穢岩惡鬼			monster-templates
+怪物模板	Silverblood Lycanthrope	Silverblood Lycanthrope			只有上游有譯名，CHM 找不到這個詞	銀血獸化人			monster-templates
+怪物模板	Skeletal Champion	Skeletal Champion	骷髏勇士	CHM	與CHM、上游一致	骷髏勇士	骷髏勇士		monster-templates
+怪物模板	Skeleton	Skeleton	骷髏	上游	CHM 有這個詞（211 處）	骷髏			monster-templates
+怪物模板	Sorcerer	Sorcerer	術士模板	上游	職業名與 CHM 一致	術士模板	術士	術士	monster-templates
+怪物模板	Soulbound Construct	Soulbound Construct			只有上游有譯名，CHM 找不到這個詞	縛魂構裝			monster-templates
+怪物模板	Spore Zombie	Spore Zombie			只有上游有譯名，CHM 找不到這個詞	孢子殭屍			monster-templates
+怪物模板	Steam-Powered Construct	Steam-Powered Construct			只有上游有譯名，CHM 找不到這個詞	蒸汽動力構裝			monster-templates
+怪物模板	Sunbaked Zombie	Sunbaked Zombie			只有上游有譯名，CHM 找不到這個詞	日曬喪屍			monster-templates
+怪物模板	Taxidermic Creature	Taxidermic Creature			只有上游有譯名，CHM 找不到這個詞	標本生物			monster-templates
+怪物模板	Terror Creature	Terror Creature	恐怖生物	上游	CHM 有這個詞（6 處）	恐怖生物			monster-templates
+怪物模板	Thicken Ogre	Thicken Ogre			只有上游有譯名，CHM 找不到這個詞	頭大如斗食人魔			monster-templates
+怪物模板	Trompe l'Oleil	Trompe l'Oleil			只有上游有譯名，CHM 找不到這個詞	錯視畫			monster-templates
+怪物模板	Tsukumogami	Tsukumogami			只有上游有譯名，CHM 找不到這個詞	付喪神			monster-templates
+怪物模板	Tulpa	Tulpa			只有上游有譯名，CHM 找不到這個詞	幻想人			monster-templates
+怪物模板	Unknown	Unknown			上游「未知者」，CHM 只有一般用語，找不到指這個模板的地方	未知者	不明就裡		monster-templates
+怪物模板	Vahana	Vahana			只有上游有譯名，CHM 找不到這個詞	瓦哈納			monster-templates
+怪物模板	Vampire Spawn	Vampire Spawn	吸血鬼衍體	上游	CHM 有這個詞（2 處）	吸血鬼衍體			monster-templates
+怪物模板	Vampire	Vampire	吸血鬼	CHM	與CHM、上游一致	吸血鬼	吸血鬼		monster-templates
+怪物模板	Vampiric Creature	Vampiric Creature			只有上游有譯名，CHM 找不到這個詞	吸血鬼化生物			monster-templates
+怪物模板	Venerable (Age Category)	Venerable (Age Category)	暮年	CHM	與CHM、上游一致	暮年	暮年		monster-templates
+怪物模板	Vetala	Vetala	維塔拉	CHM	CHM「維塔拉」19 處；上游「毗陀羅血族」CHM 沒出現	毗陀羅血族	維塔拉		monster-templates
+怪物模板	Waxwork	Waxwork			只有上游有譯名，CHM 找不到這個詞	蠟像生物			monster-templates
+怪物模板	Winter Fey	Winter Fey			只有上游有譯名，CHM 找不到這個詞	凜冬精類			monster-templates
+怪物模板	Winter-Touched Fey	Winter-Touched Fey			只有上游有譯名，CHM 找不到這個詞	冬觸精類			monster-templates
+怪物模板	Wizard	Wizard	法師模板	上游	職業名與 CHM 一致	法師模板	法師	法師	monster-templates
+怪物模板	Worm that Walks	Worm that Walks	蠕蟲行者	上游	CHM 有這個詞（4 處）	蠕蟲行者			monster-templates
+怪物模板	Young (Quick)	Young (Quick)	幼年生物	CHM	CHM「幼年生物 (Young Creature, CR-1)」，與上游同	幼年生物	她可以將幼年		monster-templates
+怪物模板	Young (Rebuild)	Young (Rebuild)	幼年生物	CHM	CHM「幼年生物 (Young Creature, CR-1)」，與上游同	幼年生物	她可以將幼年		monster-templates
+怪物模板	Zombie Lord	Zombie Lord			只有上游有譯名，CHM 找不到這個詞	喪屍統主			monster-templates
+怪物模板	Zombie	Zombie	喪屍	CHM	與CHM、上游一致	喪屍	喪屍		monster-templates
+模板能力	Bear Hug	Bear Hug			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	熊抱			template-abilities
+模板能力	Blood Drain (Penanggalen)	Blood Drain (Penanggalen)	吸血	上游	CHM 有這個詞（919 處）	吸血			template-abilities
+模板能力	Blood Drain	Blood Drain	吸血	CHM	與CHM、上游一致	吸血	吸血		template-abilities
+模板能力	Breath Weapon (Ravener)	Breath Weapon (Ravener)	噴吐武器	上游	CHM 有這個詞（332 處）	噴吐武器			template-abilities
+模板能力	Brutal Claws	Brutal Claws			只有上游有譯名，CHM 找不到這個詞	魃爪			template-abilities
+模板能力	Brutal Jaws	Brutal Jaws			只有上游有譯名，CHM 找不到這個詞	兇顎			template-abilities
+模板能力	Camouflage	Camouflage	偽裝	CHM	與CHM、上游一致	偽裝	偽裝		template-abilities
+模板能力	Change Shape	FX7luSAlUPL0zDHs	改變形態	既有對照檔	上游「改變外形」；CHM 兩種都有（37／29 處），照既有對照檔	改變外形		改變形態	template-abilities
+模板能力	Change Shape	pVrzlP0nPShbuPmR	改變形態	既有對照檔	上游「改變外形」；CHM 兩種都有（37／29 處），照既有對照檔	改變外形		改變形態	template-abilities
+模板能力	Change Shape	tF4zvrr6K89kUR5A	改變形態	既有對照檔	上游「改變外形」；CHM 兩種都有（37／29 處），照既有對照檔	改變外形		改變形態	template-abilities
+模板能力	Channel Destruction	Channel Destruction			只有上游有譯名，CHM 找不到這個詞	引導罹滅			template-abilities
+模板能力	Children of the Night	Children of the Night	夜之子	CHM	與CHM、上游一致	夜之子	夜之子		template-abilities
+模板能力	Corrupting Gaze	Corrupting Gaze	腐化凝視	上游	CHM 有這個詞（2 處）	腐化凝視			template-abilities
+模板能力	Corrupting Touch	Corrupting Touch	腐化之觸	CHM		腐化觸碰	腐化之觸	腐化之觸	template-abilities
+模板能力	Cowering Fear	Cowering Fear			只有上游有譯名，CHM 找不到這個詞	恐懼畏縮			template-abilities
+模板能力	Create Spawn	Rk7DNDyGZLvBvEUe	創造衍體	CHM	與CHM、上游一致	創造衍體	創造衍體		template-abilities
+模板能力	Create Spawn	qSN6gwPwk1bzZ5kU	創造衍體	CHM	與CHM、上游一致	創造衍體	創造衍體		template-abilities
+模板能力	Damage Reduction	7OTFbD9OXXSdFd3Y	傷害減免	CHM	與CHM、既有對照檔、上游一致	傷害減免	傷害減免	傷害減免	template-abilities
+模板能力	Damage Reduction	Xh0VWNsmO5Gm7U5E	傷害減免	CHM	與CHM、既有對照檔、上游一致	傷害減免	傷害減免	傷害減免	template-abilities
+模板能力	Devastating Blast	Devastating Blast			只有上游有譯名，CHM 找不到這個詞	罹滅衝擊波			template-abilities
+模板能力	Discorporate	Discorporate	解體	上游	CHM 有這個詞（5 處）	解體			template-abilities
+模板能力	Disease	Disease	疾病	CHM	與CHM、上游一致	疾病	疾病		template-abilities
+模板能力	Dominate	Dominate	支配	CHM	與CHM、上游一致	支配	支配		template-abilities
+模板能力	Dominion	Dominion	領地之力	CHM	與CHM、上游一致	領地之力	領地之力		template-abilities
+模板能力	Drain Chi	Drain Chi			只有上游有譯名，CHM 找不到這個詞	吸納陽氣			template-abilities
+模板能力	Draining Touch	Draining Touch	耗盡之觸	CHM	上游「吸取觸碰」	吸取觸碰	耗盡之觸		template-abilities
+模板能力	Energy Drain	Energy Drain	能量吸取	上游	與定案 Energy Drained＝能量吸取一致；既有對照檔的「吸能術」是法術	能量吸取		吸能術	template-abilities
+模板能力	Energy Resistance	Energy Resistance	能量抵抗	既有對照檔	CHM 也多寫「能量抵抗」；上游「抗阻」	抗阻		能量抵抗	template-abilities
+模板能力	Evasion	Evasion	反射閃避	CHM	上游「閃躲」	閃躲	反射閃避	反射閃避	template-abilities
+模板能力	Fast Healing	Fast Healing	快速治療	CHM		快速治療	快速治療	不朽肉體	template-abilities
+模板能力	Fear Aura	Fear Aura	恐懼靈氳	CHM	與CHM、上游一致	恐懼靈氳	恐懼靈氳		template-abilities
+模板能力	Freeze	Freeze	靜止	CHM	CHM「靜止 (Freeze, Ex)」	靜止			template-abilities
+模板能力	Frightful Moan	Frightful Moan			只有上游有譯名，CHM 找不到這個詞	恐怖哀嚎			template-abilities
+模板能力	Gaseous Form	Gaseous Form	氣化形體	CHM	與CHM、既有對照檔、上游一致	氣化形體	氣化形體	氣化形體	template-abilities
+模板能力	Hearty	Hearty	強體	上游	CHM 有這個詞（4 處）	強體			template-abilities
+模板能力	Immunities	Immunities	免疫	上游	CHM 有「免疫（Immunity）」	免疫			template-abilities
+模板能力	Immunity	Immunity	免疫	上游	CHM 有「免疫（Immunity）」	免疫	能量免疫		template-abilities
+模板能力	Leap	Leap			上游「騰躍」，CHM 找不到指這個能力的地方	騰躍			template-abilities
+模板能力	Long Step	Long Step			只有上游有譯名，CHM 找不到這個詞	妖步			template-abilities
+模板能力	Malevolence	Malevolence	附身	CHM	與CHM、上游一致	附身	附身		template-abilities
+模板能力	Paired Protectors	Paired Protectors			只有上游有譯名，CHM 找不到這個詞	成對守護者			template-abilities
+模板能力	Paralyzing Touch	Paralyzing Touch			只有上游有譯名；CHM 有這個詞（2 處）但看不出是指同一個東西	麻痺之觸			template-abilities
+模板能力	Phatom Mount	Phatom Mount			只有上游有譯名，CHM 找不到這個詞	幽靈坐騎			template-abilities
+模板能力	Poison Immunity	Poison Immunity			CHM「毒素免疫」「毒免疫」各 3 處，上游「抗毒」（意思不對）	抗毒	免疫		template-abilities
+模板能力	Prayer Scroll	Prayer Scroll	護屍符	上游	CHM 也寫「護屍符」	護屍符			template-abilities
+模板能力	Primeval Mind	Primeval Mind			只有上游有譯名，CHM 找不到這個詞	始心			template-abilities
+模板能力	Raptor's Dive	Raptor's Dive			只有上游有譯名，CHM 找不到這個詞	鷹攫			template-abilities
+模板能力	Rejuvenation	07oHIjzqmAhroY6y	復生	CHM	上游「重生」	重生	復生		template-abilities
+模板能力	Rejuvenation	G4kaLOlyrNrKK0AS	復生	CHM	上游「重生」	重生	復生		template-abilities
+模板能力	Rejuvenation	YBursVLw25ljmNkQ	復生	CHM	上游「重生」	重生	復生		template-abilities
+模板能力	Ruinous Revivification	Ruinous Revivification			只有上游有譯名，CHM 找不到這個詞	罹滅重生			template-abilities
+模板能力	Sacrilegious Aura	Sacrilegious Aura	褻瀆靈氳	上游	CHM 有這個詞（8 處）	褻瀆靈氳			template-abilities
+模板能力	Savage	Savage			上游「原始人」，CHM 的「原始人」是背景特性，對不上	原始人			template-abilities
+模板能力	Separate	Separate			只有上游有譯名，CHM 找不到這個詞	軀殼分離			template-abilities
+模板能力	Separated from body	Separated from body			三處都沒有譯名				template-abilities
+模板能力	Shadowless	Shadowless	無影	CHM	與CHM、上游一致	無影	無影		template-abilities
+模板能力	Smite Chaos	Smite Chaos	制裁混亂	CHM	與CHM、上游一致	制裁混亂	制裁混亂		template-abilities
+模板能力	Smite Evil	Smite Evil	制裁邪惡	CHM	與CHM、既有對照檔、上游一致	制裁邪惡	制裁邪惡	制裁邪惡	template-abilities
+模板能力	Smite Good	Smite Good	制裁善良	CHM	與CHM、既有對照檔、上游一致	制裁善良	制裁善良	制裁善良	template-abilities
+模板能力	Smite Law	Smite Law	制裁秩序	CHM	上游「制裁守序」	制裁守序	制裁秩序		template-abilities
+模板能力	Soul Consumption	Soul Consumption			只有上游有譯名，CHM 找不到這個詞	靈魂消耗			template-abilities
+模板能力	Soul Magic	Soul Magic			只有上游有譯名；CHM 有這個詞（1 處）但看不出是指同一個東西	靈魂魔法			template-abilities
+模板能力	Soul Ward	Soul Ward			只有上游有譯名；CHM 有這個詞（2 處）但看不出是指同一個東西	靈魂守護			template-abilities
+模板能力	Spell Resistance	Spell Resistance	法術抗力	CHM	與CHM、既有對照檔、上游一致	法術抗力	法術抗力	法術抗力	template-abilities
+模板能力	Spider Climb	Spider Climb			CHM 的「蛛行術」是法術名，這裡是能力；上游「蛛行」CHM 找不到	蛛行	蛛行術	蛛行術	template-abilities
+模板能力	Squirming Embrace	Squirming Embrace			只有上游有譯名，CHM 找不到這個詞	蠕行深擁			template-abilities
+模板能力	Staggered	Staggered	恍惚	CHM	與CHM、上游一致	恍惚	恍惚		template-abilities
+模板能力	Stony Defense	Stony Defense			只有上游有譯名，CHM 找不到這個詞	堅石防禦			template-abilities
+模板能力	Telekinesis	Telekinesis	心靈遙控	CHM	與CHM、既有對照檔、上游一致	心靈遙控	心靈遙控	心靈遙控	template-abilities
+模板能力	Tenacious	Tenacious			CHM「頑強」不確定是同一個能力，上游「黏著」	黏著	頑強		template-abilities
+模板能力	Thick Skin	Thick Skin	厚皮	上游	CHM 有這個詞（18 處）	厚皮			template-abilities
+模板能力	Touch Attack (Lich)	Touch Attack (Lich)	接觸攻擊	上游	CHM 有這個詞（855 處）	接觸攻擊			template-abilities
+模板能力	Trackless Step	Trackless Step	無蹤步	CHM	與CHM、既有對照檔、上游一致	無蹤步	無蹤步	無蹤步	template-abilities
+模板能力	Undead Mastery	Undead Mastery	控制不死生物	上游	CHM 有這個詞（6 處）	控制不死生物			template-abilities
+模板能力	Vanish	Vanish	漸隱術	CHM	與CHM、既有對照檔、上游一致	漸隱術	漸隱術	漸隱術	template-abilities
+模板能力	Wither	Wither	枯萎	上游	CHM 有這個詞（87 處）	枯萎			template-abilities
+模板能力	Woodland Stride	Woodland Stride	穿林步	CHM	上游「穿林」	穿林	穿林步	穿林步	template-abilities
+模板能力	Worm that Walks Traits	Worm that Walks Traits			只有上游有譯名，CHM 找不到這個詞	蠕蟲行者防禦特性			template-abilities
+模板能力（資料夾）	Animal Lord	Animal Lord	獸王	上游	CHM 有這個詞（34 處）	獸王			template-abilities
+模板能力（資料夾）	Bear Lord	Bear Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Canine Lord	Canine Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Cat Lord	Cat Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Celestial	Celestial	天界生物	上游	同怪物模板 Celestial				template-abilities
+模板能力（資料夾）	Cocrodile Lord	Cocrodile Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Dinosaur Lord	Dinosaur Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Entropic	Entropic	熵化生物模板	上游	同怪物模板 Entropic				template-abilities
+模板能力（資料夾）	Fey Creature	Fey Creature	精類生物	CHM	同怪物模板 Fey Creature	精化生物			template-abilities
+模板能力（資料夾）	Fiendish	Fiendish	魔族生物模板	上游	⚠ 同怪物模板 Fiendish		煉獄模板		template-abilities
+模板能力（資料夾）	Foo Creature	Foo Creature	福獸	CHM	同怪物模板 Foo Creature	福獸	福獅		template-abilities
+模板能力（資料夾）	Ghost	Ghost	幽魂	CHM	與CHM、上游一致	幽魂	幽魂		template-abilities
+模板能力（資料夾）	Graveknight	Graveknight	死墓騎士	上游	CHM 有這個詞（2 處）	死墓騎士			template-abilities
+模板能力（資料夾）	Jiang-Shi	Jiang-Shi	殭屍	CHM	與CHM、上游一致	殭屍	殭屍		template-abilities
+模板能力（資料夾）	Lich	Lich	巫妖	CHM	⚠ 上游「活屍化」是《恐怖冒險》的腐化（Lich corruption），不是巫妖模板	活屍化			template-abilities
+模板能力（資料夾）	Pennanggalen	Pennanggalen			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Raptor Lord	Raptor Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Rat Lord	Rat Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Ravener	Ravener	掠劫亡龍	上游	CHM 有這個詞（3 處）	掠劫亡龍			template-abilities
+模板能力（資料夾）	Resolute	Resolute	絕對生物模板	上游	同怪物模板 Resolute	絕對生物模板		堅定決心	template-abilities
+模板能力（資料夾）	Serpent Lord	Serpent Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Shark Lord	Shark Lord			三處都沒有譯名				template-abilities
+模板能力（資料夾）	Vampire	Vampire	吸血鬼	CHM	與CHM、上游一致	吸血鬼	吸血鬼		template-abilities
+模板能力（資料夾）	Worm that Walks	Worm that Walks	蠕蟲行者	上游	CHM 有這個詞（4 處）	蠕蟲行者			template-abilities
+模板能力（資料夾）	Zombie	Zombie	喪屍	CHM	與CHM、上游一致	喪屍	喪屍		template-abilities
+怪物能力	Amphibious	Amphibious	兩棲	CHM	與CHM、上游一致	兩棲	兩棲		monster-abilities
+怪物能力	Bite	Bite	嚙咬	CHM	與CHM、上游一致	嚙咬	嚙咬		monster-abilities
+怪物能力	Blindsense	Blindsense	盲感	CHM	與CHM、上游一致	盲感	盲感		monster-abilities
+怪物能力	Blindsight	Blindsight	盲視	CHM	與CHM、上游一致	盲視	盲視		monster-abilities
+怪物能力	Blood Drain	Blood Drain	吸血	CHM	與CHM、上游一致	吸血	吸血		monster-abilities
+怪物能力	Breath Weapon	Breath Weapon	噴吐武器	CHM	與CHM、既有對照檔、上游一致	噴吐武器	噴吐武器	噴吐武器	monster-abilities
+怪物能力	Channel Resistance	Channel Resistance	引導抗力	CHM	CHM 4 處（另 1 處「導能抗力」）；上游「導能抗力」	導能抗力	引導抗力		monster-abilities
+怪物能力	Claw	Claw	爪抓	CHM	與CHM、上游一致	爪抓	爪抓		monster-abilities
+怪物能力	Construct Traits	Construct Traits	構裝體特性	CHM	與CHM、上游一致	構裝體特性	構裝體特性		monster-abilities
+怪物能力	Darkvision	Darkvision	黑暗視覺	CHM	與CHM、既有對照檔、上游一致	黑暗視覺	黑暗視覺	黑暗視覺	monster-abilities
+怪物能力	Distraction	Distraction	擾亂心神	CHM		擾亂心神	擾亂心神	清心	monster-abilities
+怪物能力	Engulf	Engulf	包卷	CHM	與CHM、上游一致	包卷	包卷		monster-abilities
+怪物能力	Freeze	Freeze	靜止	CHM	CHM「靜止 (Freeze, Ex)」	靜止			monster-abilities
+怪物能力	Frightful Presence	Frightful Presence	氣勢凶猛	CHM	與CHM、上游一致	氣勢凶猛	氣勢凶猛		monster-abilities
+怪物能力	Gore	Gore	抵撞	CHM	與CHM、上游一致	抵撞	抵撞		monster-abilities
+怪物能力	Grab	Grab	攫抓	CHM	與CHM、上游一致	攫抓	攫抓		monster-abilities
+怪物能力	Hoof	Hoof	蹄擊	上游	CHM 有這個詞（23 處）	蹄擊			monster-abilities
+怪物能力	Incorporeal	Incorporeal	虛體	CHM	與CHM、上游一致	虛體	虛體		monster-abilities
+怪物能力	Lifesense	Lifesense	生命感知	CHM	與CHM、既有對照檔、上游一致	生命感知	生命感知	生命感知	monster-abilities
+怪物能力	Light Sensitivity	Light Sensitivity	強光敏感	CHM	與CHM、上游一致	強光敏感	強光敏感		monster-abilities
+怪物能力	Low-Light Vision	Low-Light Vision	昏暗視覺	CHM	與CHM、既有對照檔、上游一致	昏暗視覺	昏暗視覺	昏暗視覺	monster-abilities
+怪物能力	Mistsight	Mistsight	迷霧視域	CHM	與CHM、上游一致	迷霧視域	迷霧視域		monster-abilities
+怪物能力	Ooze Traits	Ooze Traits	泥怪特性	CHM	與CHM、上游一致	泥怪特性	泥怪特性		monster-abilities
+怪物能力	Pincer	Pincer			只有上游有譯名，CHM 找不到這個詞	鉗擊			monster-abilities
+怪物能力	Plant Traits	Plant Traits	植物特性	CHM	與CHM、上游一致	植物特性	植物特性		monster-abilities
+怪物能力	Poison	Poison	毒素	CHM	CHM「毒擊術」是法術名	毒素	毒素	毒擊術	monster-abilities
+怪物能力	Scent	Scent	靈敏嗅覺	CHM	與CHM、既有對照檔、上游一致	靈敏嗅覺	靈敏嗅覺	靈敏嗅覺	monster-abilities
+怪物能力	Slam	Slam	揮擊	CHM	上游「撞擊」	撞擊	揮擊		monster-abilities
+怪物能力	Sting	Sting			CHM「釘刺」6、「尾刺」5、「螫刺」1，上游「蜇刺」，沒有多數	蜇刺	刺		monster-abilities
+怪物能力	Swarm Attack	Swarm Attack	集群攻擊	CHM		集群攻擊	點傷害的集群攻擊		monster-abilities
+怪物能力	Swarm traits	Swarm traits	集群特性	CHM	與CHM、上游一致	集群特性	集群特性		monster-abilities
+怪物能力	Tail Slap	Tail Slap	尾掃	CHM	上游「尾拍」	尾拍	尾掃		monster-abilities
+怪物能力	Talon	Talon			上游「利爪」，CHM 找不到指這個天生攻擊的地方（「利爪」是一般用語）	利爪			monster-abilities
+怪物能力	Tentacle	Tentacle	觸手	CHM	與CHM、既有對照檔、上游一致	觸手	觸手	觸手	monster-abilities
+怪物能力	Trip	Trip	摔絆	CHM	與CHM、上游一致	摔絆	摔絆		monster-abilities
+怪物能力	Unarmed Strike	Unarmed Strike	徒手打擊	CHM	與CHM、既有對照檔、上游一致	徒手打擊	徒手打擊	徒手打擊	monster-abilities
+怪物能力	Undead Traits	Undead Traits	不死特性	CHM	與CHM、上游一致	不死特性	不死特性		monster-abilities
+怪物能力	Wing	Wing			只有上游有譯名，CHM 找不到這個詞	翼拍			monster-abilities
+怪物能力（資料夾）	Creature Subtypes	Creature Subtypes			三處都沒有譯名				monster-abilities
+怪物能力（資料夾）	Creature Traits	Creature Traits			三處都沒有譯名				monster-abilities
+怪物能力（資料夾）	Natural Attacks	Natural Attacks	天生攻擊	CHM	與CHM、上游一致	天生攻擊	天生攻擊		monster-abilities
+怪物能力（資料夾）	Universal Monster Rules	Universal Monster Rules	通用怪物規則	CHM	與CHM、上游一致	通用怪物規則	通用怪物規則		monster-abilities

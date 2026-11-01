@@ -35,6 +35,10 @@ CHM 線每多做一類錨點，在 `build_chm.py` 的 `KINDS` 加一列就多吃
 每條內文結尾附出處行（譯者、書目、CHM 果園原帖、AoN），是公開發布的條件，不要拿掉。
 
 **要改底稿（上游繁化、用語集補名稱 `glossary_names.py`）就改 `base/`，再重跑 `build_chm.py`。**
+
+**怪物相關的四個對照檔不走 `base/`**，各有自己的產生程式，譯名寫在程式或表格裡，改完重跑那支：
+`basic_monsters.py`（基礎怪物）、`monster_packs.py`（怪物模板、模板能力、怪物能力；譯名表 `怪物合集包譯名.tsv`）。
+簡體版寫到 `_build/審核/zhcn/`，要手動複製到 pf1e-compendium-zhcn。
 直接改 `translations/` 的東西下次建置會被蓋掉。
 
 以下是底稿層的舊管線：從上游的簡體對照表重新產生底稿。
@@ -101,7 +105,7 @@ D:\TRPG\4_工具與筆記\pf1-zhtw\_build\build_zhtw.py
 
 `verify_compendium.py` 檢查七項，任一不過回傳非零：
 
-1. 檔案集合一致（30 檔）
+1. 檔案集合一致（跟上游比；刻意刪掉的 `pf1-bestiary.*` 八檔與四個舊合集包名的檔（commonbuffs、mythicpaths、pf1e-rules、racialhd）、自己加的 `pf1.basic-monsters` 與三個怪物相關合集包列在 `KNOWN_REMOVED`／`KNOWN_ADDED`）
 2. `entries` 鍵集合一致（Babele 靠英文鍵比對）
 3. `mapping` 完全未變（欄位路徑被轉換 Babele 會壞）
 4. 結構一致

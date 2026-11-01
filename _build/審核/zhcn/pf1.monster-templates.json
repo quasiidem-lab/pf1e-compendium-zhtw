@@ -1,0 +1,230 @@
+{
+  "label": "怪物模板",
+  "entries": {
+    "Advanced (Quick)": {
+      "name": "进化生物模板（Advanced (Quick)）"
+    },
+    "Advanced (Rebuild)": {
+      "name": "进化生物模板（Advanced (Rebuild)）"
+    },
+    "Aerial": {
+      "name": "气流生物（Aerial）"
+    },
+    "Animal Lord": {
+      "name": "兽王（Animal Lord）"
+    },
+    "Aqueous": {
+      "name": "水流生物（Aqueous）"
+    },
+    "Barbarian (Quick)": {
+      "name": "野蛮人模板（Barbarian (Quick)）"
+    },
+    "Barbarian (Rebuild)": {
+      "name": "野蛮人模板（Barbarian (Rebuild)）"
+    },
+    "Bard (Quick)": {
+      "name": "吟游诗人模板（Bard (Quick)）"
+    },
+    "Bard (Rebuild)": {
+      "name": "吟游诗人模板（Bard (Rebuild)）"
+    },
+    "Celestial": {
+      "name": "天界生物（Celestial）"
+    },
+    "Chthonic": {
+      "name": "地层生物（Chthonic）"
+    },
+    "Cleric (Quick)": {
+      "name": "牧师模板（Cleric (Quick)）"
+    },
+    "Cleric (Rebuild)": {
+      "name": "牧师模板（Cleric (Rebuild)）"
+    },
+    "Commando Construct": {
+      "name": "先锋构装（Commando Construct）"
+    },
+    "Counterpoised": {
+      "name": "均衡生物（Counterpoised）"
+    },
+    "Dark": {
+      "name": "黑暗生物（Dark）"
+    },
+    "Dread Lord": {
+      "name": "恐惧领主（Dread Lord）"
+    },
+    "Druid (Quick)": {
+      "name": "德鲁伊模板（Druid (Quick)）"
+    },
+    "Druid (Rebuild)": {
+      "name": "德鲁伊模板（Druid (Rebuild)）"
+    },
+    "Ectoplasmic": {
+      "name": "灵质态（Ectoplasmic）"
+    },
+    "Energized (Air, Fire)": {
+      "name": "注能魔像（Energized (Air, Fire)）"
+    },
+    "Energized (Earth, Water)": {
+      "name": "注能魔像（Energized (Earth, Water)）"
+    },
+    "Enlightened Construct": {
+      "name": "启迪构装（Enlightened Construct）"
+    },
+    "Entropic": {
+      "name": "熵化生物模板（Entropic）"
+    },
+    "Fey Creature": {
+      "name": "精类生物（Fey Creature）"
+    },
+    "Fey-Touched Creature": {
+      "name": "精类印记生物（Fey-Touched Creature）"
+    },
+    "Fiendish": {
+      "name": "魔族生物模板（Fiendish）"
+    },
+    "Fiery": {
+      "name": "烈火生物（Fiery）"
+    },
+    "Fighter (Quick)": {
+      "name": "战士模板（Fighter (Quick)）"
+    },
+    "Fighter (Rebuild)": {
+      "name": "战士模板（Fighter (Rebuild)）"
+    },
+    "Foo Creature": {
+      "name": "福兽（Foo Creature）"
+    },
+    "Ghost": {
+      "name": "幽魂（Ghost）"
+    },
+    "Giant (Quick)": {
+      "name": "巨化生物（Giant (Quick)）"
+    },
+    "Giant (Rebuild)": {
+      "name": "巨化生物（Giant (Rebuild)）"
+    },
+    "Giantkin Ogre": {
+      "name": "半巨人食人魔（Giantkin Ogre）"
+    },
+    "Graveknight": {
+      "name": "死墓骑士（Graveknight）"
+    },
+    "Half-Celestial": {
+      "name": "半天界生物（Half-Celestial）"
+    },
+    "Half-Dragon": {
+      "name": "半龙生物（Half-Dragon）"
+    },
+    "Half-Fiend": {
+      "name": "半魔族生物（Half-Fiend）"
+    },
+    "Implacable Stalker": {
+      "name": "无情追猎者（Implacable Stalker）"
+    },
+    "Jiang-Shi": {
+      "name": "僵尸（Jiang-Shi）"
+    },
+    "Juju Zombie": {
+      "name": "巫毒僵尸（Juju Zombie）"
+    },
+    "Lich": {
+      "name": "巫妖（Lich）"
+    },
+    "Lycanthrope": {
+      "name": "兽化人（Lycanthrope）"
+    },
+    "Middle Age (Age Category)": {
+      "name": "中年（Middle Age (Age Category)）"
+    },
+    "Monk (Quick)": {
+      "name": "武僧模板（Monk (Quick)）"
+    },
+    "Monk (Rebuild)": {
+      "name": "武僧模板（Monk (Rebuild)）"
+    },
+    "Mutant": {
+      "name": "变种人（Mutant）"
+    },
+    "Nosferatu": {
+      "name": "诺斯费拉图（Nosferatu）"
+    },
+    "Old (Age Category)": {
+      "name": "老年（Old (Age Category)）"
+    },
+    "Paladin (Quick)": {
+      "name": "圣武士模板（Paladin (Quick)）"
+    },
+    "Paladin (Rebuild)": {
+      "name": "圣武士模板（Paladin (Rebuild)）"
+    },
+    "Petitioner": {
+      "name": "祈并者（Petitioner）"
+    },
+    "Primordial": {
+      "name": "原初生物（Primordial）"
+    },
+    "Ranger (DEX)": {
+      "name": "游侠模板（Ranger (DEX)）"
+    },
+    "Ranger (STR)": {
+      "name": "游侠模板（Ranger (STR)）"
+    },
+    "Ravener": {
+      "name": "掠劫亡龙（Ravener）"
+    },
+    "Recycled Construct": {
+      "name": "回收构装体（Recycled Construct）"
+    },
+    "Resolute": {
+      "name": "绝对生物模板（Resolute）"
+    },
+    "Rogue": {
+      "name": "盗贼模板（Rogue）"
+    },
+    "Shadow Creature": {
+      "name": "影化生物（Shadow Creature）"
+    },
+    "Shaggra Ogre": {
+      "name": "长毛种食人魔（Shaggra Ogre）"
+    },
+    "Skeletal Champion": {
+      "name": "骷髅勇士（Skeletal Champion）"
+    },
+    "Skeleton": {
+      "name": "骷髅（Skeleton）"
+    },
+    "Sorcerer": {
+      "name": "术士模板（Sorcerer）"
+    },
+    "Terror Creature": {
+      "name": "恐怖生物（Terror Creature）"
+    },
+    "Vampire": {
+      "name": "吸血鬼（Vampire）"
+    },
+    "Vampire Spawn": {
+      "name": "吸血鬼衍体（Vampire Spawn）"
+    },
+    "Venerable (Age Category)": {
+      "name": "暮年（Venerable (Age Category)）"
+    },
+    "Vetala": {
+      "name": "维塔拉（Vetala）"
+    },
+    "Wizard": {
+      "name": "法师模板（Wizard）"
+    },
+    "Worm that Walks": {
+      "name": "蠕虫行者（Worm that Walks）"
+    },
+    "Young (Quick)": {
+      "name": "幼年生物（Young (Quick)）"
+    },
+    "Young (Rebuild)": {
+      "name": "幼年生物（Young (Rebuild)）"
+    },
+    "Zombie": {
+      "name": "丧尸（Zombie）"
+    }
+  }
+}

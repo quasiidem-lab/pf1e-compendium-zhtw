@@ -1,0 +1,111 @@
+{
+  "label": "怪物能力",
+  "folders": {
+    "Natural Attacks": "天生攻擊",
+    "Universal Monster Rules": "通用怪物規則"
+  },
+  "entries": {
+    "Amphibious": {
+      "name": "兩棲（Amphibious）"
+    },
+    "Bite": {
+      "name": "嚙咬（Bite）"
+    },
+    "Blindsense": {
+      "name": "盲感（Blindsense）"
+    },
+    "Blindsight": {
+      "name": "盲視（Blindsight）"
+    },
+    "Blood Drain": {
+      "name": "吸血（Blood Drain）"
+    },
+    "Breath Weapon": {
+      "name": "噴吐武器（Breath Weapon）"
+    },
+    "Channel Resistance": {
+      "name": "引導抗力（Channel Resistance）"
+    },
+    "Claw": {
+      "name": "爪抓（Claw）"
+    },
+    "Construct Traits": {
+      "name": "構裝體特性（Construct Traits）"
+    },
+    "Darkvision": {
+      "name": "黑暗視覺（Darkvision）"
+    },
+    "Distraction": {
+      "name": "擾亂心神（Distraction）"
+    },
+    "Engulf": {
+      "name": "包卷（Engulf）"
+    },
+    "Freeze": {
+      "name": "靜止（Freeze）"
+    },
+    "Frightful Presence": {
+      "name": "氣勢凶猛（Frightful Presence）"
+    },
+    "Gore": {
+      "name": "抵撞（Gore）"
+    },
+    "Grab": {
+      "name": "攫抓（Grab）"
+    },
+    "Hoof": {
+      "name": "蹄擊（Hoof）"
+    },
+    "Incorporeal": {
+      "name": "虛體（Incorporeal）"
+    },
+    "Lifesense": {
+      "name": "生命感知（Lifesense）"
+    },
+    "Light Sensitivity": {
+      "name": "強光敏感（Light Sensitivity）"
+    },
+    "Low-Light Vision": {
+      "name": "昏暗視覺（Low-Light Vision）"
+    },
+    "Mistsight": {
+      "name": "迷霧視域（Mistsight）"
+    },
+    "Ooze Traits": {
+      "name": "泥怪特性（Ooze Traits）"
+    },
+    "Plant Traits": {
+      "name": "植物特性（Plant Traits）"
+    },
+    "Poison": {
+      "name": "毒素（Poison）"
+    },
+    "Scent": {
+      "name": "靈敏嗅覺（Scent）"
+    },
+    "Slam": {
+      "name": "揮擊（Slam）"
+    },
+    "Swarm Attack": {
+      "name": "集群攻擊（Swarm Attack）"
+    },
+    "Swarm traits": {
+      "name": "集群特性（Swarm traits）"
+    },
+    "Tail Slap": {
+      "name": "尾掃（Tail Slap）"
+    },
+    "Tentacle": {
+      "name": "觸手（Tentacle）"
+    },
+    "Trip": {
+      "name": "摔絆（Trip）"
+    },
+    "Unarmed Strike": {
+      "name": "徒手打擊（Unarmed Strike）"
+    },
+    "Undead Traits": {
+      "name": "不死特性（Undead Traits）"
+    }
+  }
+}

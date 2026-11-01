@@ -26,8 +26,9 @@ HERE = Path(__file__).resolve().parent
 TR = HERE.parent / 'translations'
 TR_CN = HERE.parent.parent / 'pf1e-compendium-zhcn' / 'translations'
 
-# 內容完全相同的成對檔：改一份就要改兩份
-TWINS = {'pf1.pf1e-rules.json': 'pf1.rules.json', 'pf1.racial-hd.json': 'pf1.racialhd.json'}
+# 內容完全相同的成對檔：改一份就要改兩份。
+# 原本有 pf1e-rules／rules、racial-hd／racialhd 兩對，舊名那份對的合集包在 PF1 11 已不存在，2026-10-31 刪檔，這裡跟著清空
+TWINS = {}
 
 # ---------------------------------------------------------------
 # NAME：檔案 → {條目鍵: 定案譯名}；規則頁（pages）的鍵寫成「條目/頁」
@@ -38,7 +39,7 @@ NAME = {
         'Improved Armor Focus': '精通護甲專攻',
         'Martial Focus': '武術專精',
     },
-    'pf1.pf1e-rules.json': {
+    'pf1.rules.json': {
         'Conditions/Prone': '俯臥',
         'Conditions/Energy Drained': '能量吸取',   # 2026-10-20 維護者改定（跟 CHM、怪物能力 Energy Drain 同詞）
     },
