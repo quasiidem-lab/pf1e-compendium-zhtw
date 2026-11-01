@@ -27,10 +27,11 @@ _cc = opencc.OpenCC('s2tw')
 # 跟上游刻意不同的檔案集合（2026-10-31）：
 #   刪掉：pf1-bestiary.* 八檔對的合集包在 PF1 11 已不存在，Foundry 裡的怪物在 pf1.basic-monsters 與 statblock-library；
 #         commonbuffs、mythicpaths、pf1e-rules、racialhd 是舊合集包名，PF1 11 的 buffs、mythic-paths、rules、racial-hd 本模組另有
-#   新增：pf1.basic-monsters 是本模組自己做的（_build/basic_monsters.py），上游這一版沒有
+#   新增：pf1.basic-monsters（_build/basic_monsters.py）與三個怪物相關合集包（_build/monster_packs.py）是本模組自己做的，上游這一版沒有
 KNOWN_REMOVED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '06', '08', '11', '15', '20')} | {
     'pf1.commonbuffs.json', 'pf1.mythicpaths.json', 'pf1.pf1e-rules.json', 'pf1.racialhd.json'}
-KNOWN_ADDED = {'pf1.basic-monsters.json'}
+KNOWN_ADDED = {'pf1.basic-monsters.json', 'pf1.monster-templates.json', 'pf1.template-abilities.json',
+               'pf1.monster-abilities.json'}
 
 # 與 build_compendium.py 的 PLACEHOLDER 同義：只認真正的 HTML 標籤。
 # 若這裡用寬鬆的 `<[^>]+>`，<水晶球 (crystal ball)> 這種偽標籤在轉換前後

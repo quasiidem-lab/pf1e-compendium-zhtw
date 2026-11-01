@@ -41,10 +41,10 @@ TREES = {'zh-tw': CHM / 'chmbuild_tc', 'zh-cn': CHM / 'chmbuild'}
 UPSTREAM_CN = MOD.parent / 'pf1e_compendium_chn' / 'translations'
 # 繁中版刪掉的對照檔（對的合集包在 PF1 11 已不存在，2026-10-31）：簡體版照抄上游時跳過，免得又被寫回去。
 # 簡體模組裡已經有的要手動刪一次，這支不刪檔。
-# pf1.basic-monsters 的簡體版是 basic_monsters.py 自己產的（上游那份的物品譯名有錯），也不照抄上游
+# 怪物相關四檔的簡體版是 basic_monsters.py／monster_packs.py 自己產的（上游那份有錯譯，也用了本模組沒有的 tags 轉換器），也不照抄上游
 DROPPED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '06', '08', '11', '15', '20')} | {
     'pf1.commonbuffs.json', 'pf1.mythicpaths.json', 'pf1.pf1e-rules.json', 'pf1.racialhd.json',
-    'pf1.basic-monsters.json'}
+    'pf1.basic-monsters.json', 'pf1.monster-templates.json', 'pf1.template-abilities.json', 'pf1.monster-abilities.json'}
 
 # 名稱的簡轉繁跟 CHM 繁體版同一套（s2tw＋CHM 線的例外表），不另寫
 sys.path.insert(0, str(CHM))
