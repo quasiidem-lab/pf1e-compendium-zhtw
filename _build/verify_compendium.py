@@ -20,7 +20,8 @@ import opencc
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(os.path.dirname(HERE), 'translations')
 DATA = r'C:\Users\User\AppData\Local\FoundryVTT\Data'
-SRC_DIR = os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
+# 上游簡體稿：環境變數 PF1_UPSTREAM_CN 優先（雲端或別台機器用），沒設就讀本機 Foundry 裝的那份
+SRC_DIR = os.environ.get('PF1_UPSTREAM_CN') or os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
 
 _cc = opencc.OpenCC('s2tw')
 

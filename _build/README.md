@@ -12,6 +12,16 @@ python _build/make_zhcn.py          # 繁中版 scripts/、styles/ → 簡體模
 python _build/verify_compendium.py  # 驗證
 ```
 
+`build_chm.py` 與 `verify_compendium.py` 讀的外部資料夾預設是本機路徑（`D:\TRPG\...`、`C:\Users\User\...`）。
+在別台機器跑時用環境變數指過去，沒設就照舊：
+
+| 環境變數 | 指向 |
+|---|---|
+| `PF1_CHM_DIR` | CHM勘誤（pf1-chm-src），要有 `chm.py`、`chmbuild\`、`chmbuild_tc\`、`_資料\` |
+| `PF1_IDMAP` | `Tools\pf1\pf1-index\idmap.tsv`（找不到就改直接讀 `PF1_DATA_PACKS`） |
+| `PF1_DATA_PACKS` | `Tools\pf1\pf1-data\packs` |
+| `PF1_UPSTREAM_CN` | 上游 `pf1e_compendium_chn` 的 `translations\`（驗證用） |
+
 **apply_terms.py 為什麼要在 build_chm.py 之後跑：** CHM 層會把名稱與內文整條換成 CHM 的寫法，
 但有些譯名是維護者另外裁定、跟 CHM 不同的（例：Terrifying Howl「驚駭狂嚎」，CHM 寫「怖懼狂嚎」；
 Dazing Touch 統一為「暈眩之觸」）。定案表寫在 `apply_terms.py` 開頭，來源是 pf1-zhtw 的
