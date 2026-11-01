@@ -99,6 +99,9 @@ BOUNDARY = {
     'witchfire': ('巫火', 'CHM「摧毀巫火（witchfire）」；上游寫「巫焰」'),
 }
 
+# 繁體用字定案：CHM 繁體版跟本模組舊譯文寫法不同時，跟舊譯文（2026-11-01 定：凶暴 → 兇暴）
+TW_FIX = {'凶暴': '兇暴'}
+
 TABLE_COLS = ['英文', '譯名', '來源', '說明', 'CHM寫法', '上游寫法', '用語集', '既有對照檔', '同名其他條目', '條數', '合集包']
 
 
@@ -339,7 +342,11 @@ def scan():
     sys.path.insert(0, str(CHM))
     import chm, opencc
     s2tw, tw2s, fix = opencc.OpenCC('s2tw').convert, opencc.OpenCC('tw2s').convert, chm.TcFixer()
-    to_tw = lambda s: fix(s2tw(s))   # 跟 CHM 繁體版同一套（s2tw＋CHM 線的例外表）
+    def to_tw(s):   # 跟 CHM 繁體版同一套（s2tw＋CHM 線的例外表），再套本模組的用字定案
+        s = fix(s2tw(s))
+        for a, b in TW_FIX.items():
+            s = s.replace(a, b)
+        return s
 
     sbl = read_sbl()
     with open(ENTRIES, 'w', encoding='utf-8', newline='\n') as f:
