@@ -33,6 +33,9 @@ KNOWN_REMOVED = {f'pf1-bestiary.bestiary-{n}.json' for n in ('00', '02', '04', '
     'pf1.commonbuffs.json', 'pf1.mythicpaths.json', 'pf1.pf1e-rules.json', 'pf1.racialhd.json'}
 KNOWN_ADDED = {'pf1.basic-monsters.json', 'pf1.monster-templates.json', 'pf1.template-abilities.json',
                'pf1.monster-abilities.json'}
+# Statblock Library（SBL）模組的名稱對照（_build/statblock_library.py）：一個合集包一檔，有譯名的才產檔，
+# 數量會隨譯名表變，所以用檔名開頭登記（2026-11-01）
+KNOWN_ADDED_PREFIX = ('statblock-library.',)
 
 # 與 build_compendium.py 的 PLACEHOLDER 同義：只認真正的 HTML 標籤。
 # 若這裡用寬鬆的 `<[^>]+>`，<水晶球 (crystal ball)> 這種偽標籤在轉換前後
@@ -128,7 +131,8 @@ out_files = sorted(f for f in os.listdir(OUT_DIR) if f.lower().endswith('.json')
     if os.path.isdir(OUT_DIR) else []
 
 missing_files = [f for f in src_files if f not in out_files and f not in KNOWN_REMOVED]
-extra_files = [f for f in out_files if f not in src_files and f not in KNOWN_ADDED]
+extra_files = [f for f in out_files if f not in src_files and f not in KNOWN_ADDED
+               and not f.startswith(KNOWN_ADDED_PREFIX)]
 
 n_entries = n_strings = 0
 

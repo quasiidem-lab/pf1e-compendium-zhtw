@@ -38,6 +38,10 @@ CHM 線每多做一類錨點，在 `build_chm.py` 的 `KINDS` 加一列就多吃
 
 **怪物相關的四個對照檔不走 `base/`**，各有自己的產生程式，譯名寫在程式或表格裡，改完重跑那支：
 `basic_monsters.py`（基礎怪物）、`monster_packs.py`（怪物模板、模板能力、怪物能力；譯名表 `怪物合集包譯名.tsv`）。
+另外 `statblock_library.py` 產 Statblock Library 模組（`statblock-library`，PF1 社群另發的模組，不是系統內建）的怪物名稱：
+譯名表 `statblock-library譯名.tsv`，一個合集包一檔 `translations/statblock-library.<合集包>.json`。
+平常改譯名表的「譯名」欄再跑 `python _build/statblock_library.py`；`--scan` 會重新比對 CHM 並重寫譯名表（要 PyYAML，
+外加環境變數 `PF1_SBL_SRC` 指到 SBL 原始碼的 `src\`）。
 簡體版寫到 `_build/審核/zhcn/`，要手動複製到 pf1e-compendium-zhcn。
 直接改 `translations/` 的東西下次建置會被蓋掉。
 
