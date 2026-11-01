@@ -1,0 +1,102 @@
+級	檔案	英文	用語集譯名	用語集分類	來源	形狀疑點	其他譯名	現在中文	裁定	改為
+A	pf1.items.json	Acid	酸蝕	equipment	慣用譯名			強酸		
+A	pf1.items.json	Meat	肉	equipment	定案			肉類		
+A	pf1.items.json	Sack	麻袋	equipment	使用者裁定			袋		
+A	pf1.weapons-and-ammo.json	Punching Dagger	拳匕	equipment	使用者裁定			拳刃		
+B	pf1.armors-and-shields.json	Armored Kilt	內襯裙甲	equipment	果園用例			裝甲裙		
+B	pf1.armors-and-shields.json	Field Plate	野戰甲	equipment	果園用例			實戰板甲		
+B	pf1.armors-and-shields.json	Gray Maiden Plate	灰少女鎧甲	equipment	果園用例			灰少女板甲		
+B	pf1.armors-and-shields.json	Hellknight Plate	地獄騎士板甲	equipment	果園用例			地獄騎士全身甲		
+B	pf1.armors-and-shields.json	Hide Shirt	生皮外衣	equipment	果園用例			蜥皮衫		
+B	pf1.armors-and-shields.json	Leaf Armor	葉織甲	equipment	果園用例			葉甲		
+B	pf1.armors-and-shields.json	Rosewood Armor	玫瑰藤甲	equipment	果園用例			玫瑰木甲		
+B	pf1.armors-and-shields.json	Silken Ceremonial	綢禮裝	equipment	果園用例			絲綢禮甲		
+B	pf1.armors-and-shields.json	Tatami-Do	畳具足	equipment	果園用例			疊具足		
+B	pf1.items.json	Alchemist's Lab	鍊金師工作台	equipment	果園用例			鍊金師工作臺		
+B	pf1.items.json	Basket	籃筐	equipment	果園用例			籃子		
+B	pf1.items.json	Bedroll	睡袋	equipment	果園用例			鋪蓋卷		
+B	pf1.items.json	Bit And Bridle	嚼子和韁繩	equipment	果園用例			嚼子和韁繩（Bit and Bridle）		
+B	pf1.items.json	Board Game	棋盤遊戲	equipment	果園用例			棋盤遊戲（Board game）		
+B	pf1.items.json	Book Of Puzzles	謎語書	equipment	果園用例			謎語書（Book of Puzzles）		
+B	pf1.items.json	Book Of War Prayers	戰前禱詞集	equipment	果園用例			戰前禱詞集（Book of War Prayers）		
+B	pf1.items.json	Caltrops	治療鐵蒺藜	equipment	果園用例			鐵蒺藜		
+B	pf1.items.json	Chalk	騾子	equipment	果園用例			粉筆		
+B	pf1.items.json	Cot	骰子簡易窄床	equipment	果園用例			便攜式床		
+B	pf1.items.json	Decorative Trim	服裝配飾	equipment	果園用例			服裝配飾（Decorative trim）		
+B	pf1.items.json	Diving Suit	潛水服	equipment	果園用例			潛水服（Diving suit）		
+B	pf1.items.json	Flint And Steel	份燧石和鐵片	equipment	果園用例			燧石和鐵片		
+B	pf1.items.json	Footprint book	足跡鑄模	equipment	果園用例			足跡圖譜（Footprint Book）		
+B	pf1.items.json	Formula Book	公式本	equipment	果園用例			公式薄		
+B	pf1.items.json	Fuse grenade	引信手榴彈	equipment	果園用例			引信手榴彈（Fuse Grenade）		
+B	pf1.items.json	Hammer	擅長使用錘子	equipment	果園用例			錘子		
+B	pf1.items.json	Harrow deck	哈羅牌組	equipment	果園用例			哈羅牌		
+B	pf1.items.json	Holy Text	聖典	equipment	果園用例			教典		
+B	pf1.items.json	Holy water	聖水	equipment	果園用例			聖水（Holy Water）		
+B	pf1.items.json	Ink	瓶墨水	equipment	果園用例			墨水		
+B	pf1.items.json	Inkpen	根墨水筆	equipment	果園用例			墨水筆		
+B	pf1.items.json	Light Detector	光線探測板	equipment	果園用例			感光板		
+B	pf1.items.json	Mirror	面鏡子	equipment	果園用例			鏡子		
+B	pf1.items.json	Piton	應該是岩釘	equipment	果園用例			巖釘		
+B	pf1.items.json	Portable ram	攜帶式攻城錘	equipment	果園用例			便攜式攻城錘		
+B	pf1.items.json	Soap	塊肥皂	equipment	果園用例			肥皂		
+B	pf1.items.json	Tangleburn bag	熾火絆足包	equipment	果園用例			熾火絆足包（Tangleburn Bag）		
+B	pf1.items.json	Tome Of Epics	史詩大典	equipment	果園用例			史詩大典（Tome of Epics）		
+B	pf1.items.json	Waterskin	個水袋	equipment	果園用例			水袋		
+B	pf1.weapons-and-ammo.json	Atlatl Dart	擲鏢	equipment	果園用例			擲鏢（Atlatl dart）		
+B	pf1.weapons-and-ammo.json	Blade Boot	刀片靴	equipment	果園用例			刀鋒靴		
+B	pf1.weapons-and-ammo.json	Bo Staff	長棒	equipment	果園用例			長棒（Bo staff）		
+B	pf1.weapons-and-ammo.json	Boarding Gaff	艦鬥勾	equipment	果園用例			登船叉		
+B	pf1.weapons-and-ammo.json	Butchering Axe	屠斧	equipment	果園用例			屠戮斧		
+B	pf1.weapons-and-ammo.json	Butterfly Sword	蝴蝶雙刀	equipment	果園用例			蝴蝶雙刀（Butterfly sword）		
+B	pf1.weapons-and-ammo.json	Chain Spear	鏈槍	equipment	果園用例			鏈槍（Chain spear）		
+B	pf1.weapons-and-ammo.json	Combat Scabbard	戰鬥劍鞘	equipment	果園用例			戰鬥刀鞘		
+B	pf1.weapons-and-ammo.json	Crook	彎鉤河	equipment	果園用例			牧鉤		
+B	pf1.weapons-and-ammo.json	Cutlass	水兵刃	equipment	果園用例			水兵刀		
+B	pf1.weapons-and-ammo.json	Dan Bong	短棒	equipment	果園用例			短棒（Dan bong）		
+B	pf1.weapons-and-ammo.json	Double Chicken Saber	雞刀鐮	equipment	CHM正文			雞刀鐮（Double chicken saber）		
+B	pf1.weapons-and-ammo.json	Double Hackbut	抬槍	equipment	果園用例			雙管架槍		
+B	pf1.weapons-and-ammo.json	Double Walking Stick Katana	手杖刀	equipment	CHM正文			手杖刀（Double walking stick katana）		
+B	pf1.weapons-and-ammo.json	Double-Barreled Musket	雙管滑膛槍	equipment	果園用例			雙管滑膛槍（Double-barreled musket）		
+B	pf1.weapons-and-ammo.json	Double-Barreled Pistol	雙管手槍	equipment	果園用例			雙管手槍（Double-barreled pistol）		
+B	pf1.weapons-and-ammo.json	Double-Barreled Shotgun	雙管霰彈槍	equipment	果園用例			雙管霰彈槍（Double-barreled shotgun）		
+B	pf1.weapons-and-ammo.json	Double-Chained Kama	雙鐮	equipment	果園用例			雙鐮（Double-chained kama）		
+B	pf1.weapons-and-ammo.json	Elven Curve Blade	精靈曲刃	equipment	果園用例			精靈曲劍		
+B	pf1.weapons-and-ammo.json	Emei Piercer	峨眉刺	equipment	果園用例			峨眉刺（Emei piercer）		
+B	pf1.weapons-and-ammo.json	Featherweight Dart	輕羽鏢	equipment	果園用例			羽量飛鏢		
+B	pf1.weapons-and-ammo.json	Fighting Fan	鐵骨扇	equipment	果園用例			鐵骨扇（Fighting fan）		
+B	pf1.weapons-and-ammo.json	Firewyrm	火巨蟒	equipment	果園用例			炎龍炮		
+B	pf1.weapons-and-ammo.json	Flask Thrower	道具投擲索	equipment	果園用例			擲瓶器		
+B	pf1.weapons-and-ammo.json	Flying Blade	血滴子	equipment	果園用例			旋刃		
+B	pf1.weapons-and-ammo.json	Great Terbutje	石刃大劍	equipment	果園用例			石刃大劍（Great terbutje）		
+B	pf1.weapons-and-ammo.json	Hand Crossbow	外加手弩	equipment	果園用例			手弩		
+B	pf1.weapons-and-ammo.json	Heavy Shield	重型盾牌	equipment	果園用例			重型盾牌（Heavy shield）		
+B	pf1.weapons-and-ammo.json	Hooked Lance	鉤鐮槍	equipment	果園用例			鉤鐮槍（Hooked lance）		
+B	pf1.weapons-and-ammo.json	Iron Brush	判官筆	equipment	果園用例			判官筆（Iron brush）		
+B	pf1.weapons-and-ammo.json	Kyoketsu Shoge	距拔	equipment	果園用例			距拔（Kyoketsu shoge）		
+B	pf1.weapons-and-ammo.json	Light Shield	輕型盾牌	equipment	果園用例			輕型盾牌（Light shield）		
+B	pf1.weapons-and-ammo.json	Meteor Hammer	流星錘	equipment	果園用例			流星錘（Meteor hammer）		
+B	pf1.weapons-and-ammo.json	Nine-Section Whip	九節鞭	equipment	果園用例			九節鞭（Nine-section whip）		
+B	pf1.weapons-and-ammo.json	Poisoned Sand Tube	毒砂管	equipment	果園用例			毒砂管（Poisoned sand tube）		
+B	pf1.weapons-and-ammo.json	Repeating Hand Crossbow	連發手弩	equipment	果園用例			連發手弩（Repeating hand crossbow）		
+B	pf1.weapons-and-ammo.json	Repeating Heavy Crossbow	連發重弩	equipment	果園用例			連發重弩（Repeating heavy crossbow）		
+B	pf1.weapons-and-ammo.json	Repeating Light Crossbow	連發輕弩	equipment	果園用例			連發輕弩（Repeating light crossbow）		
+B	pf1.weapons-and-ammo.json	Rhoka Sword	雙叉劍	equipment	果園用例			雙叉劍（Rhoka sword）		
+B	pf1.weapons-and-ammo.json	Rope Dart	繩鏢	equipment	果園用例			繩鏢（Rope dart）		
+B	pf1.weapons-and-ammo.json	Sai	十手	equipment	果園用例			筆架叉		
+B	pf1.weapons-and-ammo.json	Seven-Branched Sword	七支劍	equipment	果園用例			七支刀（Seven-branched sword）		
+B	pf1.weapons-and-ammo.json	Shang Gou	雙鉤	equipment	果園用例			雙鉤（Shang gou）		
+B	pf1.weapons-and-ammo.json	Spiked Armor	甲刺	equipment	果園用例			甲刺（Spiked armor）		
+B	pf1.weapons-and-ammo.json	Spiked Chain	刺鏈	equipment	果園用例			刺鏈w		
+B	pf1.weapons-and-ammo.json	Spiked Heavy Shield	帶刺重盾	equipment	果園用例			帶刺重盾（Spiked heavy shield）		
+B	pf1.weapons-and-ammo.json	Spiked Light Shield	帶刺輕盾	equipment	果園用例			帶刺輕盾（Spiked light shield）		
+B	pf1.weapons-and-ammo.json	Sword Cane	短劍和劍杖	equipment	果園用例			杖劍		
+B	pf1.weapons-and-ammo.json	Tekko-Kagi	手甲鉤	equipment	果園用例			手甲鉤（Tekko-kagi）		
+B	pf1.weapons-and-ammo.json	Temple Sword	儀劍	equipment	果園用例			儀劍（Temple sword）		
+B	pf1.weapons-and-ammo.json	Thistle Arrow	毒薊箭	equipment	果園用例			薊花箭		
+B	pf1.weapons-and-ammo.json	Throwing Shield	快擲	equipment	果園用例			飛盾		
+B	pf1.weapons-and-ammo.json	Tiger Fork	三股叉	equipment	果園用例			三股叉（Tiger fork）		
+B	pf1.weapons-and-ammo.json	Tri-Point Double-Edged Sword	三尖兩刃刀	equipment	果園用例			三尖兩刃刀（Tri-point double-edged sword）		
+B	pf1.weapons-and-ammo.json	Tube Arrow Shooter	袖箭	equipment	果園用例			袖箭（Tube arrow shooter）		
+B	pf1.weapons-and-ammo.json	Waveblade	曜銀和濤瀾刀	equipment	果園用例			濤瀾刀		
+B	pf1.weapons-and-ammo.json	Wushu Dart	武師鏢	equipment	果園用例			武師鏢（Wushu dart）		
+C	pf1.items.json	Chain	連鎖	class-option	果園用例			鐵鏈		
