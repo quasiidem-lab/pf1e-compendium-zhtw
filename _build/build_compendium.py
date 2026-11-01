@@ -27,13 +27,13 @@ import opencc
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(os.path.dirname(HERE), 'translations')
-DATA = r'C:\Users\User\AppData\Local\FoundryVTT\Data'
+DATA = os.environ.get('FOUNDRY_DATA', r'C:\Users\User\AppData\Local\FoundryVTT\Data')
 SRC_DIR = os.path.join(DATA, 'modules', 'pf1e_compendium_chn', 'translations')
 
 # 介面層的術語表就是正本，從那邊 import，不複製一份。
 # 正本在 D 槽的工作資料夾，不是 Foundry 的 modules 底下——
 # modules/pf1-zhtw 只有建置產物（lang/zh-tw.json），沒有 _build/。
-IFACE_BUILD = r'D:\TRPG\4_工具與筆記\pf1-zhtw\_build'
+IFACE_BUILD = os.environ.get('PF1_ZHTW_BUILD', r'D:\TRPG\4_工具與筆記\pf1-zhtw\_build')
 sys.path.insert(0, IFACE_BUILD)
 try:
     from build_zhtw import TERM_MAP, PROTECTED
